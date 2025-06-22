@@ -54,5 +54,5 @@ $$
 \frac{P(x)}{Q(x)} = \frac{A_0x + A_1}{F_1(x)} +\frac{A_2}{F_2(x)} + ... + \frac{A_n}{F_n(x)} 
 $$
 ### Down
-- [Explicación del método con ejemplos y ejercicios de práctica con soluciones, se entiende guay]([[calc_]])
+- [[calc_resource_partialFractions.pdf|Explicación del método con ejemplos y ejercicios de práctica con soluciones, se entiende guay]]
 ### Up

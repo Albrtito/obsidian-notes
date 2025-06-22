@@ -5,11 +5,6 @@ aliases:
 tags:
   - CalcI
   - DiffCalc
-"References:": 
-cssclasses: 
-sr-due: 2024-10-08
-sr-interval: 4
-sr-ease: 190
 ---
 # Partial fractions:
 The partial fraction method is used to **decompose**fractions into **sums of simpler** rational functions. The objective is to rewrite expressions such as: 
@@ -58,3 +53,6 @@ This example is for a degree 2: For greater degrees just follow the pattern.
 $$
 \frac{P(x)}{Q(x)} = \frac{A_0x + A_1}{F_1(x)} +\frac{A_2}{F_2(x)} + ... + \frac{A_n}{F_n(x)} 
 $$
+### Down
+- [Explicación del método con ejemplos y ejercicios de práctica con soluciones, se entiende guay]([[calc_]])
+### Up

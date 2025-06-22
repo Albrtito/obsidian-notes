@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-Atomic/20240307 - 000000 - ODEs.md",
+                "file": "02-Atomic/20240528 - 110528 - Separable ODEs.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "20240307 - 000000 - ODEs"
+              "title": "20240528 - 110528 - Separable ODEs"
             }
           },
           {
@@ -91,8 +91,7 @@
               "title": "DiffCalc_Exercises_S1"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "f19fd4a1aae4c633",
@@ -345,10 +344,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "02-Atomic/20240603 - 174745 - Definition - Natural Logarithm.md"
+                "file": "02-Atomic/20240528 - 110528 - Separable ODEs.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for 20240603 - 174745 - Definition - Natural Logarithm"
+              "title": "File properties for 20240528 - 110528 - Separable ODEs"
             }
           }
         ]
@@ -403,17 +402,17 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "9b36c26fb3f74935",
+  "active": "ee14dde932e80208",
   "lastOpenFiles": [
-    "02-Atomic/20240603 - 180502 - Definition - Exponential function.md",
-    "02-Atomic/20240603 - 174745 - Definition - Natural Logarithm.md",
-    "02-Atomic/20240418 - 193416 - Partial Differential Equations (PDEs).md",
-    "00-References/References_Derivatives&Integrals.pdf",
     "02-Atomic/20240307 - 000000 - ODEs.md",
     "00-References/DiffCalc_Exercises_S1.pdf",
+    "00-References/calc_resource_partialFractions.pdf",
+    "02-Atomic/20240603 - 174745 - Definition - Natural Logarithm.md",
+    "02-Atomic/20240603 - 180502 - Definition - Exponential function.md",
+    "02-Atomic/20240418 - 193416 - Partial Differential Equations (PDEs).md",
+    "00-References/References_Derivatives&Integrals.pdf",
     "02-Atomic/20240528 - 121302 - First order linear  ODE.md",
     "02-Atomic/Order 2 linear ODE's.md",
-    "00-References/calc_resource_partialFractions.pdf",
     "02-Atomic/20240620 - 170611 - Method - Partial Fractions.md",
     "02-Atomic/[[calc_resource_partialFractions.pdf]].md",
     "00-References/20240307 - 000000 - ODEsj.",
@@ -434,7 +433,6 @@
     "02-Atomic/Convolution product.md",
     "02-Atomic/Theorem 3  Monotonicity + Boundedness = Convergence?.md",
     "02-Atomic/1746469377-picos-escultas--clan-2025.md",
-    "02-Atomic/1746467437-rutas-picos-puentenansa-2025.md",
     "99-Meta/1. Templates",
     "99-Meta/0. Attachments/Truth table of the negation connective.png",
     "99-Meta/0. Attachments/Screenshot 2024-11-03 at 5.40.15 PM.png",

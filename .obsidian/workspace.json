@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-Atomic/20240620 - 170611 - Method - Partial Fractions.md",
+                "file": "02-Atomic/20240603 - 174745 - Definition - Natural Logarithm.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -64,7 +64,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "20240620 - 170611 - Method - Partial Fractions"
+              "title": "20240603 - 174745 - Definition - Natural Logarithm"
             }
           }
         ],
@@ -297,10 +297,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "02-Atomic/20240620 - 170611 - Method - Partial Fractions.md"
+                "file": "02-Atomic/20240603 - 174745 - Definition - Natural Logarithm.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for 20240620 - 170611 - Method - Partial Fractions"
+              "title": "File properties for 20240603 - 174745 - Definition - Natural Logarithm"
             }
           }
         ]
@@ -357,8 +357,8 @@
   },
   "active": "9b36c26fb3f74935",
   "lastOpenFiles": [
-    "02-Atomic/[[calc_resource_partialFractions.pdf]].md",
     "02-Atomic/20240620 - 170611 - Method - Partial Fractions.md",
+    "02-Atomic/[[calc_resource_partialFractions.pdf]].md",
     "00-References/References_Derivatives&Integrals.pdf",
     "00-References/calc_resource_partialFractions.pdf",
     "02-Atomic/20240307 - 000000 - ODEs.md",

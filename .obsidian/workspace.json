@@ -347,12 +347,22 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "199556e2f03a7a25",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
               "icon": "SpacedRepIcon",
               "title": "Notes Review Queue"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       },
       {
         "id": "e30f205784508226",
@@ -405,7 +415,7 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "5b4469e98c4738dc",
+  "active": "199556e2f03a7a25",
   "lastOpenFiles": [
     "02-Atomic/20240307 - 000000 - ODEs.md",
     "00-References/20240307 - 000000 - ODEsj.",

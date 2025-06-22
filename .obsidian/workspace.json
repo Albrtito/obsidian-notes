@@ -30,8 +30,19 @@
               "icon": "lucide-file",
               "title": "20240307 - 000000 - ODEs"
             }
+          },
+          {
+            "id": "5b4469e98c4738dc",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "f19fd4a1aae4c633",
@@ -80,7 +91,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02-Atomic/20240418 - 193416 - Partial Differential Equations (PDEs).md",
+                "file": "02-Atomic/20240307 - 000000 - ODEs.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -165,7 +176,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 20240418 - 193416 - Partial Differential Equations (PDEs)"
+              "title": "Graph of 20240307 - 000000 - ODEs"
             }
           },
           {
@@ -176,6 +187,33 @@
               "state": {},
               "icon": "lucide-git-fork",
               "title": "Graph view"
+            }
+          },
+          {
+            "id": "c4204eb5497f1f04",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "cc30393ef0607ead",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ],
@@ -225,7 +263,7 @@
       {
         "id": "a5368633d00105be",
         "type": "tabs",
-        "dimension": 18.705035971223023,
+        "dimension": 18.70503597122302,
         "children": [
           {
             "id": "c9a43d4f4b574c8f",
@@ -233,18 +271,89 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "02-Atomic/20240418 - 193416 - Partial Differential Equations (PDEs).md"
+                "file": "02-Atomic/20240307 - 000000 - ODEs.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for 20240418 - 193416 - Partial Differential Equations (PDEs)"
+              "title": "File properties for 20240307 - 000000 - ODEs"
+            }
+          },
+          {
+            "id": "c86481c2de208179",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "8565dd8923c5eb26",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "967b57ffd34293d1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "95f2d6e9839cb7f5",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "ca864e38eba9bc14",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "SpacedRepIcon",
+              "title": "Notes Review Queue"
             }
           }
-        ]
+        ],
+        "currentTab": 5
       },
       {
         "id": "e30f205784508226",
         "type": "tabs",
-        "dimension": 81.29496402877699,
+        "dimension": 81.29496402877697,
         "children": [
           {
             "id": "2dca472e18c0e06a",
@@ -292,9 +401,11 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "cf8f33fd3264ac8c",
+  "active": "5b4469e98c4738dc",
   "lastOpenFiles": [
     "02-Atomic/20240307 - 000000 - ODEs.md",
+    "00-References/20240307 - 000000 - ODEsj.",
+    "02-Atomic/20240418 - 193416 - Partial Differential Equations (PDEs).md",
     "README.md",
     "02-Atomic/Untitled.md",
     "01-Areas/1.UC3M/DiffCalc.md",
@@ -330,8 +441,6 @@
     "99-Meta/0. Attachments/Screenshot 2024-10-04 at 1.30.32 PM.png",
     "99-Meta/0. Attachments/Screenshot 2024-09-24 at 1.38.16 PM.png",
     "99-Meta/0. Attachments",
-    "99-Meta/1-Templates/NoteTemplate.md",
-    "99-Meta/1-Templates/NoteFolderTemplate.md",
     "99-Meta/1-Templates",
     "99-Meta/0.Attachments",
     "00-References/DiffCalc_Exercises_All_ExamExercises.pdf",
@@ -339,7 +448,6 @@
     "00-References/References_Derivatives&Integrals.pdf",
     "01-Areas/3.Scout",
     "00-References/Filo_Biblio_APlatoReader.pdf",
-    "02-Atomic/nvim",
     "01-Areas/2. HTB/HTB_Linux Fundamentals.canvas",
     "01 - Areas/2. HTB/HTB_Linux Fundamentals.canvas",
     "01.Areas/1.UC3M/Movilidad.canvas",

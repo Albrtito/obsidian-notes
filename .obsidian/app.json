@@ -14,7 +14,7 @@
   "vimMode": true,
   "showLineNumber": true,
   "readableLineLength": true,
-  "propertiesInDocument": "visible",
+  "propertiesInDocument": "hidden",
   "spellcheck": false,
   "newLinkFormat": "shortest",
   "livePreview": true,

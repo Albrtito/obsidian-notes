@@ -25,6 +25,7 @@ y_1(t) & y_2(t) \\
 y_1'(t) & y_2'(t)   
 \end{bmatrix} = y_1(t)y'_2(t) - y_2(t)y'_1(t) \not = 0
 $$
+
 Then there's a general solution for the ODE of the form: 
 $$
 y(t) = c_1y_1(t)+ c_2y_2(t)

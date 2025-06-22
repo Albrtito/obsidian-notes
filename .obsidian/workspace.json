@@ -350,81 +350,8 @@
               "icon": "lucide-info",
               "title": "File properties for 20240529 - 162512 - First order exact ODE"
             }
-          },
-          {
-            "id": "77b6acc152cc5b2f",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "02-Atomic/20240529 - 162512 - First order exact ODE.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "Backlinks for 20240529 - 162512 - First order exact ODE"
-            }
-          },
-          {
-            "id": "efd4c9b5ac73767b",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "02-Atomic/20240529 - 162512 - First order exact ODE.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "Outgoing links from 20240529 - 162512 - First order exact ODE"
-            }
-          },
-          {
-            "id": "326f497cfe670836",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-tags",
-              "title": "Tags"
-            }
-          },
-          {
-            "id": "8586f0a995161869",
-            "type": "leaf",
-            "state": {
-              "type": "all-properties",
-              "state": {
-                "sortOrder": "frequency",
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-archive",
-              "title": "All properties"
-            }
-          },
-          {
-            "id": "543b4fd25422d04a",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "SpacedRepIcon",
-              "title": "Notes Review Queue"
-            }
           }
-        ],
-        "currentTab": 5
+        ]
       },
       {
         "id": "e30f205784508226",
@@ -476,7 +403,7 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "8eea1c30a7692b94",
+  "active": "c9a43d4f4b574c8f",
   "lastOpenFiles": [
     "01-Areas/1.UC3M/DiffCalc.md",
     "02-Atomic/20240529 - 162512 - First order exact ODE.md",

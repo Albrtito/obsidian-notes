@@ -90,8 +90,33 @@
               "icon": "lucide-file-text",
               "title": "DiffCalc_Exercises_S1"
             }
+          },
+          {
+            "id": "8eea1c30a7692b94",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02-Atomic/20240527 - 205720 -  Initial Value Problem.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "20240527 - 205720 -  Initial Value Problem"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       },
       {
         "id": "f19fd4a1aae4c633",
@@ -344,10 +369,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "02-Atomic/20240528 - 110528 - Separable ODEs.md"
+                "file": "02-Atomic/20240527 - 205720 -  Initial Value Problem.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for 20240528 - 110528 - Separable ODEs"
+              "title": "File properties for 20240527 - 205720 -  Initial Value Problem"
             }
           }
         ]
@@ -402,8 +427,9 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "ee14dde932e80208",
+  "active": "8eea1c30a7692b94",
   "lastOpenFiles": [
+    "02-Atomic/20240528 - 110528 - Separable ODEs.md",
     "02-Atomic/20240307 - 000000 - ODEs.md",
     "00-References/DiffCalc_Exercises_S1.pdf",
     "00-References/calc_resource_partialFractions.pdf",

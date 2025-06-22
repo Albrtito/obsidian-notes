@@ -1,6 +1,6 @@
 {
   "newFileLocation": "folder",
-  "newFileFolderPath": "02- Atomic",
+  "newFileFolderPath": "02-Atomic",
   "attachmentFolderPath": "99-Meta/0. Attachments",
   "promptDelete": false,
   "alwaysUpdateLinks": true,
@@ -26,5 +26,6 @@
   "strictLineBreaks": false,
   "foldHeading": true,
   "foldIndent": true,
-  "tabSize": 4
+  "tabSize": 4,
+  "showIndentGuide": false
 }

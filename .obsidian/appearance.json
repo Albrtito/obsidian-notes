@@ -3,7 +3,7 @@
   "cssTheme": "Nightfox",
   "translucency": false,
   "theme": "system",
-  "baseFontSize": 21,
+  "baseFontSize": 20,
   "interfaceFontFamily": "Inter,Monaspace Argon,FiraCode Nerd Font,JetBrainsMono Nerd Font",
   "textFontFamily": "Monaspace Argon,Inter,Iosevka Nerd Font,FiraCode Nerd Font",
   "monospaceFontFamily": "Iosevka Nerd Font,JetBrainsMono Nerd Font",

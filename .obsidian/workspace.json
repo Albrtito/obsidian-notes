@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "373e5a52fd843a08",
+        "id": "a5866c36eb7045d0",
         "type": "tabs",
         "children": [
           {
-            "id": "7726b0cfc5bd651a",
+            "id": "a75bdbf4a6661bdb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01-Areas/3.Scout/GS Matterhorn.md",
+                "file": "01-Areas/1.UC3M/DiffCalc.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,131 +28,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "GS Matterhorn"
+              "title": "DiffCalc"
             }
           },
           {
-            "id": "ec737c6237cd6ef5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01-Areas/1.UC3M/Comp. Dig..md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Comp. Dig."
-            }
-          },
-          {
-            "id": "7737b96d3105ba95",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02-Atomic/1745246274 - Uso de la biblioteca UC3M.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "1745246274 - Uso de la biblioteca UC3M"
-            }
-          },
-          {
-            "id": "eb06606226adc170",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02-Atomic/1745247124 - Citas y Referencias.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "1745247124 - Citas y Referencias"
-            }
-          },
-          {
-            "id": "1033a7ddbc7e9ff2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02-Atomic/1745247542 - RefWorks.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "1745247542 - RefWorks"
-            }
-          },
-          {
-            "id": "814a0f7097bdba7a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02-Atomic/1745248684 - Propiedad intelectual.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "1745248684 - Propiedad intelectual"
-            }
-          },
-          {
-            "id": "391d2847ed8a3de9",
+            "id": "1f7f5ee50cc5c269",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -160,33 +40,10 @@
               "icon": "lucide-file",
               "title": "New tab"
             }
-          },
-          {
-            "id": "6db61ecc1d40f7bd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02-Atomic/1745248836 - Licencia Creative Commons.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "1745248836 - Licencia Creative Commons"
-            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 1,
+        "stacked": true
       }
     ],
     "direction": "vertical"
@@ -272,13 +129,6 @@
                         "a": 1,
                         "rgb": 14048348
                       }
-                    },
-                    {
-                      "query": "tag:#Distri  ",
-                      "color": {
-                        "a": 1,
-                        "rgb": 6149724
-                      }
                     }
                   ],
                   "collapse-display": true,
@@ -297,33 +147,6 @@
               },
               "icon": "lucide-git-fork",
               "title": "Graph view"
-            }
-          },
-          {
-            "id": "29e3a00ba6e74a87",
-            "type": "leaf",
-            "state": {
-              "type": "search",
-              "state": {
-                "query": "",
-                "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical"
-              },
-              "icon": "lucide-search",
-              "title": "Search"
-            }
-          },
-          {
-            "id": "03da6c1b94246574",
-            "type": "leaf",
-            "state": {
-              "type": "bookmarks",
-              "state": {},
-              "icon": "lucide-bookmark",
-              "title": "Bookmarks"
             }
           }
         ]
@@ -362,7 +185,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 246
+    "width": 510.5,
+    "collapsed": true
   },
   "right": {
     "id": "8881aa8c79e29157",
@@ -379,7 +203,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-Atomic/Distribuidos.md",
+                "file": "01-Areas/1.UC3M/DiffCalc.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -394,89 +218,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Distribuidos"
-            }
-          },
-          {
-            "id": "bc3593f893b0d72e",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "02-Atomic/Distribuidos.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "Backlinks for Distribuidos"
-            }
-          },
-          {
-            "id": "117b257b966cd7fb",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "02-Atomic/Distribuidos.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "Outgoing links from Distribuidos"
-            }
-          },
-          {
-            "id": "2b296c73cecbee5e",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-tags",
-              "title": "Tags"
-            }
-          },
-          {
-            "id": "25da21c2fca3e858",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "4ff2e8db65f199bb",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "faf766c9c395fccf",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "SpacedRepIcon",
-              "title": "Notes Review Queue"
+              "title": "DiffCalc"
             }
           }
-        ],
-        "currentTab": 6
+        ]
       },
       {
         "id": "d8523f2fbc4e9acf",
@@ -497,8 +242,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 259,
-    "collapsed": true
+    "width": 560.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -515,14 +259,17 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "faf766c9c395fccf",
+  "active": "1f7f5ee50cc5c269",
   "lastOpenFiles": [
+    "01-Areas/1.UC3M/DiffCalc.md",
+    "02-Atomic/1750587796 - - Untitled Suffix.md",
+    "01-Areas/1.UC3M/Networks.md",
+    "02-Atomic/1745248836 - Licencia Creative Commons.md",
     "02-Atomic/1726825216 - Programación Dinámica.md",
     "01-Areas/1.UC3M/Heuristica y Opti.md",
     "02-Atomic/1726763938 - Exercises - Programación Lineal.md",
     "02-Atomic/1729169017 - Exercises - Resolucion gráfica y modelado de programacion lineal.md",
     "02-Atomic/1743085545 - Reu con TAI para Islandia.md",
-    "01-Areas/1.UC3M/DiffCalc.md",
     "02-Atomic/20240529 - 132751 - Method -Integration by parts.md",
     "02-Atomic/The Laplace transform.md",
     "02-Atomic/Convolution product.md",
@@ -554,9 +301,6 @@
     "02-Atomic/1745871806-somenewnote.md",
     "02-Atomic/1745869235-testnote.md",
     "02-Atomic/1745869220-testnote.md",
-    "01-Areas/1.UC3M/1745868194-tetsnotes.md",
-    "02-Atomic/1745868159-testnotes.md",
-    "01-Areas/1.UC3M/1745865808-definition-la-empresa.md",
     "00-References/DiffCalc_Exercises_All_ExamExercises.pdf",
     "00-References/DiffCalc_Exercises_S1.pdf",
     "00-References/References_Derivatives&Integrals.pdf",

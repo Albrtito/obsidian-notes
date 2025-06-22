@@ -17,18 +17,14 @@ tags: []
 ## Criterios de evaluación: 
 + **Continua:** 40% Calendario de continua
 [aquí](https://aulaglobal.uc4m.es/pluginfile.php/7435714/mod_resource/content/1/weekly_planning_2024-2025.pdf)
-    + 10% → First partial
-    + 30% → Second partial
+	- 10% → First partial
+	- 30% → Second partial
 + **Final:** 60%
 
 ## Biblio:
 - **Reference book for the course:**  Boyce, William E.. Elementary differential equations and boundary value problems . John Wiley & Sons,.
 - Simmons, George Finlay. Differential equations with applications and historical notes. McGraw-Hill.
 - Zill, Dennis G.. Ecuaciones diferenciales con aplicaciones de modelado . International Thomson.
-
-![Recursos electrónicos](https://aplicaciones.uc3m.es/cpa/web/imagenes/ARROBA.gif)Electronic
-Resources *
-
 - Manuel Carretero, Luis L. Bonilla, Filippo Terragni, Segei Iakunin, Rocío Vega · Curse OCW-UC3M
 Applied Differential Calculus
 : [http://ocw.uc3m.es/matematicas/applied-differential-calculus](http://ocw.uc3m.es/matematicas/applied-differential-calculus)

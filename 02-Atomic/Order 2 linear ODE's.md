@@ -4,7 +4,7 @@ aliases: []
 tags:
   - DiffCalc
 ---
-hen solving order two linear ODE's there'll be different cases based on how the coefficients of the equation are. There can be constant coefficients (easy ones, we like those) and function coefficients (harder ones we don't like cause they change)
+When solving order two linear ODE's there'll be different cases based on how the coefficients of the equation are. There can be constant coefficients (easy ones, we like those) and function coefficients (harder ones we don't like cause they change)
 The constant coefficients are a variation of the general case but I'll treat them as a separate case. Anyway the main form of this ODE's is: 
 $$
 P(t)y''+ Q(t)y'+R(t)y = G(t)

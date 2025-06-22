@@ -35,10 +35,12 @@
             "id": "5b4469e98c4738dc",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "pdf",
+              "state": {
+                "file": "00-References/References_Derivatives&Integrals.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "References_Derivatives&Integrals"
             }
           }
         ],
@@ -283,6 +285,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "00-References/References_Derivatives&Integrals.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -292,7 +295,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for References_Derivatives&Integrals"
             }
           },
           {
@@ -301,11 +304,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "00-References/References_Derivatives&Integrals.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from References_Derivatives&Integrals"
             }
           },
           {

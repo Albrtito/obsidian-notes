@@ -32,3 +32,10 @@ $$
 $$
 e^{\ln x}=x
 $$
+3. Sum and substraction turn into multiplication and division
+$$
+ \ln {a} - \ln {b} = \ln{a/b}
+$$
+$$
+ \ln {a} + \ln {b} = \ln{a\times b}
+$$

@@ -66,9 +66,21 @@
               "icon": "lucide-file",
               "title": "20240603 - 174745 - Definition - Natural Logarithm"
             }
+          },
+          {
+            "id": "ee5a0a042a46b510",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "00-References/calc_resource_partialFractions.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "calc_resource_partialFractions"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       },
       {
         "id": "f19fd4a1aae4c633",
@@ -297,10 +309,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "02-Atomic/20240603 - 174745 - Definition - Natural Logarithm.md"
+                "file": "00-References/calc_resource_partialFractions.pdf"
               },
               "icon": "lucide-info",
-              "title": "File properties for 20240603 - 174745 - Definition - Natural Logarithm"
+              "title": "File properties for calc_resource_partialFractions"
             }
           }
         ]
@@ -355,13 +367,14 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "9b36c26fb3f74935",
+  "active": "ee5a0a042a46b510",
   "lastOpenFiles": [
+    "02-Atomic/20240603 - 174745 - Definition - Natural Logarithm.md",
+    "00-References/References_Derivatives&Integrals.pdf",
+    "02-Atomic/20240307 - 000000 - ODEs.md",
     "02-Atomic/20240620 - 170611 - Method - Partial Fractions.md",
     "02-Atomic/[[calc_resource_partialFractions.pdf]].md",
-    "00-References/References_Derivatives&Integrals.pdf",
     "00-References/calc_resource_partialFractions.pdf",
-    "02-Atomic/20240307 - 000000 - ODEs.md",
     "00-References/20240307 - 000000 - ODEsj.",
     "02-Atomic/20240418 - 193416 - Partial Differential Equations (PDEs).md",
     "README.md",
@@ -384,8 +397,6 @@
     "02-Atomic/1746467437-rutas-picos-puentenansa-2025.md",
     "02-Atomic/1746013846-gastos-abril.md",
     "02-Atomic/1745873449 - Sometitle.md",
-    "99-Meta/1. Templates/NoteFolderTemplate.md",
-    "99-Meta/1. Templates/NoteTemplate.md",
     "99-Meta/1. Templates",
     "99-Meta/0. Attachments/Truth table of the negation connective.png",
     "99-Meta/0. Attachments/Screenshot 2024-11-03 at 5.40.15 PM.png",

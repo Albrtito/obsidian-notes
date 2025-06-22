@@ -57,7 +57,7 @@ Where g(x) is the **integration constant**
 
 2. From this last step we’ll obtain some expression from f(x,u), this expression can be now derived by the other variable (the one not chosen in the first step)
 
-Both options in order based on the las step:
+Both options in order based on the last step:
 
 1. Now derive partially over u. Knowing that it has to be equal to N
 $$

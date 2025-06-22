@@ -23,7 +23,9 @@ sr-interval: 43
 + **Costes variables:** Altos 
 + ==**Planificación:** Dificil, cambia continuamente==
 
-> **V**olvió **V**icky **C**on **M**uchas **C**ualidades **P**oderosas
+>Estrategia nemotécnica:
+>**V**olvió **V**icky **C**on **M**uchas **C**ualidades **P**oderosas
+
 ## Distribución en planta: Posición fija:
 La distribución en planta será **DE POSICIÓN FIJA**, el bien permanece parado, los inputs se desplazan hasta el.
 ***

@@ -24,10 +24,12 @@ tags:
 
 ## Biblio: 
 +  Cuervo García, A. (2008). Introducción a la Administración de Empresas. Civitas.
+
 ### Complementaria: 
 - Fernández, E.. Estrategia de innovación. Thompson. 2005
 - Rodríguez Márquez, A., Nieto, María Jesús, Fernández, Z. y Revilla Castejón, A.. Manual de creación de empresas. De la oportunidad a la puesta en marcha. Thompson Reuters. 2014
 - Sánchez Gómez, R. y González Benito, J.. Administración de Empresas: objetivos y decisiones. McGraw Hill. 2012
+
 ## Notas: 
 1.  [[1725895664 - Naturaleza y de la empresa|Naturaleza de la empresa]] y [[1726067427 - Tipos de empresas|Tipos de empresas]] 
 2. [[1726499016 - Definir objetivos en la empresa|Creación de valor y objetivos de la empresa]]
@@ -38,6 +40,7 @@ tags:
 3. [[1727105893 - La función financiera de la empresa|La función financiera de la empresa]]
 4. [[1728921778 - La funcion de produccion de la empresa|La funcion de produccion de la empresa]]
 5. [[1731435991 - Gestion comercial y marketing en la empresa|Gestión comercial y marketing]]
+
 ## Prácticas:
 1. [[1726071498 - Práctica - Elevator pitch|Práctica - Elevator pitch]]
 2. [[1727112501 - Practica - Análisis MAPFRE|Practica - Análisis MAPFRE]]

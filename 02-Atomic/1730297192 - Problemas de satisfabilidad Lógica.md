@@ -1,19 +1,18 @@
 ---
+id: 1730297192 - Problemas de satisfabilidad Lógica
 aliases:
   - Problemas de satisfabilidad logica
   - Problemas SAT
   - SAT
 tags:
   - Heuri
-sr-due: 2024-12-14
-sr-interval: 3
-sr-ease: 250
 ---
 # Problemas de satisfabilidad Lógica
 
 > [!NOTE] Intro: 
 > Existe una gran cantidad de problemas que podemos modelar directamente como problemas de [[20240523 - 122919 - Propositional logic|Propositional logic]], este tipo de problemas son aquellos con **condiciones lógicas** → “Si pasa x entonces y | Si pasa x también pasa y”
 > En esta nota tocaremos la creación de las fórmulas y obtención de modelos para este tipo de problemas. 
+
 
 > [!example] Nomenglaturas: 
 > - **Expresiones atómicas:** Variables binarias que toman valores 1/0. Las llamaremos también variables
@@ -29,6 +28,7 @@ sr-ease: 250
 >    > por ejemplo:  $F = x_1 \lor \overline{x_1}$
 >    - **Contradicción**: algo que no puede ser cierto lógicamente (1 y 0) 
 >    > por ejemplo:  $F = x_1 \land \overline{x_1}$.  
+
 ##  Fórmula:
 Un problema de satisfabilidad se define por una **fórmula lógica proposicional**: 
 $$

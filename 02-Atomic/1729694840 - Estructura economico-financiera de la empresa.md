@@ -13,7 +13,8 @@ Definimos dos conceptos importantísimos en el ámbito de la contabilidad:
 
 > [!NOTE] Estructura económica:
 > Como las **inversiones que realiza la empresa**. Representa el **empleo de recursos,bienes y derechos**. 
-+ Se materializa en el **[[1729681337 - El Activo de una empresa|ACTIVO]]** (Lo que tiene)
+
++ Se materializa en el **[[1729681337 - El Activo de una empresa|ACTIVO]]**
 
 
 > [!NOTE] Esctrutura financiera 

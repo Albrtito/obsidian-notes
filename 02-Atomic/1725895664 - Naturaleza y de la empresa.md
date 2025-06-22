@@ -16,8 +16,9 @@ Para empezar, debemos definir qué es una [[1725910842 - Definition - Empresa|em
 ## [[1725910842 - Definition - Empresa#Análisis de la empresa en diferentes ámbitos|Análisis de la empresa en diferentes ámbitos]]
 Ahora, podemos analizar las empresas desde diferentes ángulos. Por ejemplo, desde un punto de vista técnico, podemos ver cómo la empresa consume recursos y los convierte en productos o servicios. Desde el punto de vista económico, podemos enfocarnos en cómo la empresa busca ganar beneficios o lucro. Y también podemos considerar la perspectiva socio-política, examinando quiénes son las personas involucradas y qué tipo de trabajo se hace dentro de la empresa.
 
+**ámbito de decisión**
 
-Analizando desde un ángulo económico podemos destacar la diferencia entre empresas con ánimo de lucro y organizaciones sin ánimo de lucro. Las primeras buscan ganar beneficios, mientras que las segundas pueden tener objetivos más amplios, como promover un bien común o ayudar a una comunidad.
+  Analizando desde un ángulo económico podemos destacar la diferencia entre empresas con ánimo de lucro y organizaciones sin ánimo de lucro. Las primeras buscan ganar beneficios, mientras que las segundas pueden tener objetivos más amplios, como promover un bien común o ayudar a una comunidad.
 
 ## [[1725918135 - Teoría económica de la empresa|Teoría económica de la empresa]]
 ### Ciclo consumidor-empresa

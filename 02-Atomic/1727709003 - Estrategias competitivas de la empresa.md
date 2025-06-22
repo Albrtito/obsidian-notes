@@ -1,14 +1,11 @@
 ---
+id: 1727709003 - Estrategias competitivas de la empresa
 aliases:
   - Estrategias competitivas de la empresa
   - Estrategias competitivas
 tags:
   - Empresa
-References: 
-cssclasses: 
-sr-due: 2025-01-23
-sr-interval: 44
-sr-ease: 210
+sr-due: "2025-01-23"
 ---
 # Estrategias competitivas de la empresa
 
@@ -29,6 +26,7 @@ Existen **dos tipos de estrategias competitivas:**
 + Estandarización de los diseños
 + ==Tiempo de aprendizaje== 
 + Economías de escala
+
 ## Estrategias de liderazgo en diferenciación:
 
 > [!NOTE] Definition. 

@@ -1,13 +1,9 @@
 ---
+id: 1727886467 - Estrategia de globalización
 aliases:
   - Estrategia de globalización
 tags:
   - Empresa
-References: 
-cssclasses: 
-sr-due: 2024-12-14
-sr-interval: 22
-sr-ease: 250
 ---
 # Estrategia de globalización
 
@@ -17,4 +13,8 @@ sr-ease: 250
 + Se incrementan los intercambios comerciales
 + Aumento de los movimientos y circulación de capitales,personal e ideas
 
+### Up
+
+- [[1727709332 - Estrategias corporativas de la empresa|Estrategias corporativas]]
 ***
+

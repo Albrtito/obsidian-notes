@@ -5,9 +5,6 @@ aliases:
   - Tipos de sistemas productivos
 tags:
   - Empresa
-sr-due: "2025-01-05"
-sr-ease: 243
-sr-interval: 57
 ---
 # Tipos de sistemas productivos de la empresa
 

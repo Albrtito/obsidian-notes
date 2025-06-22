@@ -4,7 +4,7 @@ aliases: []
 tags:
   - DiffCalc
 ---
-When solving order two linear ODE's there'll be different cases based on how the coefficients of the equation are. There can be constant coefficients (easy ones, we like those) and function coefficients (harder ones we don't like cause they change)
+hen solving order two linear ODE's there'll be different cases based on how the coefficients of the equation are. There can be constant coefficients (easy ones, we like those) and function coefficients (harder ones we don't like cause they change)
 The constant coefficients are a variation of the general case but I'll treat them as a separate case. Anyway the main form of this ODE's is: 
 $$
 P(t)y''+ Q(t)y'+R(t)y = G(t)
@@ -18,6 +18,7 @@ $$
 
 > [!NOTE] General solution 
 > If two solutions are found for the ODE such as they are linearly independent or the determinant of the matrix W is different from 0. 
+
 $$
 W (y_1,y_2)(t) = det \begin{bmatrix}  
 y_1(t) & y_2(t) \\  
@@ -43,6 +44,8 @@ $$
 The objective is to find two solutions to the equations as the general solution will be the sum of those. 
 The easy thing about constant coefficients is the solution is to **just compute the solutions of the following second degree equation:** 
 For an ODE: $ay'' + by' + cy = 0 : a,b,c \in \R$ 
+
+
 
 Obtain solutions for r.
 $$

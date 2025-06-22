@@ -3,9 +3,7 @@ id: DiffCalc
 aliases: []
 tags: []
 ---
-
---- id: DiffCalc aliases: [] tags:
-- DiffCalc --- # DiffCalc Course: 
+# DiffCalc
 
 > [!NOTE] Objetivo:
 >  

@@ -1,10 +1,9 @@
 ---
+id: 1731438416 - Marketing estratégico
 aliases:
   - Marketing estratégico
 tags:
   - Empresa
-References: 
-cssclasses:
 ---
 # Marketing estratégico
 
@@ -23,8 +22,8 @@ El marketing estratégico se compone de dos etapas: **Análisis y creación de o
 
 ### 1. Análisis de situación: (Donde estamos?)
 
-> [!NOTE] Def: 
-> Obtener un análisis del mercado para diseñar una estrategia que pueda aprovechar las oportunidades. 
+> [!note] def: 
+> obtener un análisis del mercado para diseñar una estrategia que pueda aprovechar las oportunidades. 
 > 
 
 + Este análisis ha de crear un sistema de información de Marketing.

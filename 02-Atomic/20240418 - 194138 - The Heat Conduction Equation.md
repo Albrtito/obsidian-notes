@@ -1,13 +1,7 @@
 ---
-aliases:
-  - The Heat Conduction Eq.
-tags:
-  - DiffCalc
-"References:": 
-cssclasses: 
-sr-due: 2024-06-25
-sr-interval: 1
-sr-ease: 130
+id: 20240418 - 194138 - The Heat Conduction Equation
+aliases: []
+tags: []
 ---
 # The heat conduction equation
 ## Description of the model used in DiffCalc UC3M course:
@@ -21,6 +15,7 @@ Let’s first make some **assumptions** to simplify the problem:
 + **We’ll study the behaviour of the bar temperature, u(x,t) in space x and time t.**
 
 ### First model: 
+
 $$
 \begin{cases} 
 {\partial u\over \partial t} = \alpha^2 {\partial^2 u\over \partial x^2}, &\text{For: } 0<x<L& t>0 &\rightarrow PDE \\\\
@@ -29,9 +24,8 @@ u(0,t) = 0; u(L,t) = 0,& \text{For: }t >0 & \rightarrow \text{Boundary Condition
 
 u(x,0) = f(x), & \text{For: } 0\leq x \leq L & \rightarrow \text{Initial Condition}
 \end{cases}
-    
-
 $$
+
 + Given data: L, $\alpha$ 
 + Boundary conditions ensure that at the end and at the beginning of the tube the temperature is always 0
 + Initial conditions ensure that at time equals 0, the temperature equals to the function f(x) that determines the initial temperature in the bar.

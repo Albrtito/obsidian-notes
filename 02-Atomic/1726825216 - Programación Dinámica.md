@@ -10,7 +10,8 @@ sr-interval: 49
 sr-ease: 290
 ---
 # Programación Dinámica
-## Biblio: 
+## Biblio:
+
 > Steven S.Skiena: **The algorithm Design Manual**. Ch:8 
 > Dejan Zivkovic: **Foundations of Algorithm analisis and Design**. Ch: 7
 

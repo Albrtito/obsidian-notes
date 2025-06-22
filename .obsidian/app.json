@@ -22,5 +22,9 @@
   "showUnsupportedFiles": true,
   "userIgnoreFilters": [
     "99-Meta/"
-  ]
+  ],
+  "strictLineBreaks": false,
+  "foldHeading": true,
+  "foldIndent": true,
+  "tabSize": 4
 }

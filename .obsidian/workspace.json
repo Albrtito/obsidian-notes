@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "840e4dc1543cfd82",
+        "id": "373e5a52fd843a08",
         "type": "tabs",
         "children": [
           {
-            "id": "1fb8f621d6c2b820",
+            "id": "7726b0cfc5bd651a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-Atomic/1726825216 - Programación Dinámica.md",
+                "file": "01-Areas/3.Scout/GS Matterhorn.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,11 +28,165 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "1726825216 - Programación Dinámica"
+              "title": "GS Matterhorn"
+            }
+          },
+          {
+            "id": "ec737c6237cd6ef5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01-Areas/1.UC3M/Comp. Dig..md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Comp. Dig."
+            }
+          },
+          {
+            "id": "7737b96d3105ba95",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02-Atomic/1745246274 - Uso de la biblioteca UC3M.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "1745246274 - Uso de la biblioteca UC3M"
+            }
+          },
+          {
+            "id": "eb06606226adc170",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02-Atomic/1745247124 - Citas y Referencias.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "1745247124 - Citas y Referencias"
+            }
+          },
+          {
+            "id": "1033a7ddbc7e9ff2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02-Atomic/1745247542 - RefWorks.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "1745247542 - RefWorks"
+            }
+          },
+          {
+            "id": "814a0f7097bdba7a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02-Atomic/1745248684 - Propiedad intelectual.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "1745248684 - Propiedad intelectual"
+            }
+          },
+          {
+            "id": "391d2847ed8a3de9",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "6db61ecc1d40f7bd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02-Atomic/1745248836 - Licencia Creative Commons.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "1745248836 - Licencia Creative Commons"
             }
           }
         ],
-        "stacked": true
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -51,7 +205,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02-Atomic/1726825216 - Programación Dinámica.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -119,6 +272,13 @@
                         "a": 1,
                         "rgb": 14048348
                       }
+                    },
+                    {
+                      "query": "tag:#Distri  ",
+                      "color": {
+                        "a": 1,
+                        "rgb": 6149724
+                      }
                     }
                   ],
                   "collapse-display": true,
@@ -136,11 +296,11 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 1726825216 - Programación Dinámica"
+              "title": "Graph view"
             }
           },
           {
-            "id": "e2a4200af1f9312f",
+            "id": "29e3a00ba6e74a87",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -157,7 +317,7 @@
             }
           },
           {
-            "id": "7176d29cb01c7183",
+            "id": "03da6c1b94246574",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -209,16 +369,17 @@
     "type": "split",
     "children": [
       {
-        "id": "6aafbc4db9406f11",
+        "id": "5997a5c0c99a8696",
         "type": "tabs",
+        "dimension": 63.45609065155807,
         "children": [
           {
-            "id": "7fc23b5bc0cd71b0",
+            "id": "2dca472e18c0e06a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01-Areas/1.UC3M/DiffCalc.md",
+                "file": "02-Atomic/Distribuidos.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -233,16 +394,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "DiffCalc"
+              "title": "Distribuidos"
             }
           },
           {
-            "id": "aa9849d5c9cbce0b",
+            "id": "bc3593f893b0d72e",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02-Atomic/20240529 - 132751 - Method -Integration by parts.md",
+                "file": "02-Atomic/Distribuidos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -252,25 +413,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 20240529 - 132751 - Method -Integration by parts"
+              "title": "Backlinks for Distribuidos"
             }
           },
           {
-            "id": "a57f4000352df827",
+            "id": "117b257b966cd7fb",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02-Atomic/20240529 - 132751 - Method -Integration by parts.md",
+                "file": "02-Atomic/Distribuidos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 20240529 - 132751 - Method -Integration by parts"
+              "title": "Outgoing links from Distribuidos"
             }
           },
           {
-            "id": "358998a51cf3c8ec",
+            "id": "2b296c73cecbee5e",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -285,7 +446,7 @@
             }
           },
           {
-            "id": "a4e9c0436d719890",
+            "id": "25da21c2fca3e858",
             "type": "leaf",
             "state": {
               "type": "review-queue-list-view",
@@ -295,7 +456,7 @@
             }
           },
           {
-            "id": "fe5c1d4ddb327f25",
+            "id": "4ff2e8db65f199bb",
             "type": "leaf",
             "state": {
               "type": "review-queue-list-view",
@@ -305,37 +466,7 @@
             }
           },
           {
-            "id": "f3067cd3173d0228",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "ca33246054361f46",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "f463fee3d1a5645f",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "SpacedRepIcon",
-              "title": "Notes Review Queue"
-            }
-          },
-          {
-            "id": "d7886c5f317f52ae",
+            "id": "faf766c9c395fccf",
             "type": "leaf",
             "state": {
               "type": "review-queue-list-view",
@@ -345,11 +476,29 @@
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 6
+      },
+      {
+        "id": "d8523f2fbc4e9acf",
+        "type": "tabs",
+        "dimension": 36.54390934844192,
+        "children": [
+          {
+            "id": "1087055cabadd75b",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 395
+    "width": 259,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -366,8 +515,9 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "1fb8f621d6c2b820",
+  "active": "faf766c9c395fccf",
   "lastOpenFiles": [
+    "02-Atomic/1726825216 - Programación Dinámica.md",
     "01-Areas/1.UC3M/Heuristica y Opti.md",
     "02-Atomic/1726763938 - Exercises - Programación Lineal.md",
     "02-Atomic/1729169017 - Exercises - Resolucion gráfica y modelado de programacion lineal.md",
@@ -407,7 +557,6 @@
     "01-Areas/1.UC3M/1745868194-tetsnotes.md",
     "02-Atomic/1745868159-testnotes.md",
     "01-Areas/1.UC3M/1745865808-definition-la-empresa.md",
-    "01-Areas/1.UC3M/1745865785-definition-la-empresa.md",
     "00-References/DiffCalc_Exercises_All_ExamExercises.pdf",
     "00-References/DiffCalc_Exercises_S1.pdf",
     "00-References/References_Derivatives&Integrals.pdf",

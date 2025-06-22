@@ -185,5 +185,13 @@
       ],
       "key": "S"
     }
+  ],
+  "command-palette:open": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "P"
+    }
   ]
 }

@@ -243,7 +243,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -442,10 +442,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "02-Atomic/The Laplace transform.md"
+                "file": "02-Atomic/Using the Laplace transform to solve IVP.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for The Laplace transform"
+              "title": "File properties for Using the Laplace transform to solve IVP"
             }
           }
         ]
@@ -500,12 +500,12 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "cdfa574e6bfadb98",
+  "active": "c9667db45ff3f2bf",
   "lastOpenFiles": [
+    "02-Atomic/The Laplace transform.md",
     "02-Atomic/1750692203 - method-of-undetermined-coefficients.md",
     "02-Atomic/20250623 - 000000 - Second order, linear ODEs.md",
     "02-Atomic/Using the Laplace transform to solve IVP.md",
-    "02-Atomic/The Laplace transform.md",
     "02-Atomic/Systems of First-Order ODEs.md",
     "02-Atomic/20240307 - 000000 - ODEs.md",
     "01-Areas/1.UC3M/DiffCalc.md",

@@ -33,6 +33,7 @@ $$
 y(t) = c_1y_1(t)+ c_2y_2(t)
 $$
 Finally, the [Initial value problem](Initial%20value%20problem) can be used to obtain the values of C1 and C2 given some values of y and it's derivative
+
 **REMARK:** This determinant is called the WRONKSKIAN of those solutions based on who invented it. 
 
 
@@ -55,20 +56,27 @@ $$
 ar^2 + br + C = 0 
 $$
 This has a reasoning behind but it is not important or will be asked.
+The basic form of each solution will be: 
+$$
+y_i = e^{xr_i}
+$$
+
 From this equation there are 4 possible solutions. 
-1. Both solutions are real and different
-	The general solution is the same as the theorem
+1. Both solutions are real and different. Then the general solution is given by: 
+$$
+y(t) )= y_1 + y_2 + C =
+$$
 2. Solutions are real and the same
 	Multiply by t one of the solutions in the general form
 3. Solutions are both complex
 4. One solution is  complex the other one is real
 For any of this cases, once obtained the solutions it is necessary to check that they create a matrix with a determinant different from 0. (general solution theorem)
 Once this is checked, give it the form of the general solution and you're finished.  The solution will be of the form: 
-1. Both real solutions and different
+5. Both real solutions and different
 $$
 y(t) = c_1y_1(t)+ c_2y_2(t)
 $$
-2. Both real and same: 
+6. Both real and same: 
 $$
 y(t) = c_1y(t)+ c_2ty(t)
 $$

@@ -6,9 +6,13 @@ tags:
 ---
 # GS Matterhorn
 
-## Gestionhttps://forms.gle/wCB3keWzYjbtVWHb8
+## Gestion
 
 - [Formulario de facturas a tesorería](https://forms.gle/wCB3keWzYjbtVWHb8) 
+
+### Verano: 
+
+- [[1750719125-tramite-de-permisos-para-campamentos|Tramite de permisos para campamentos]]
 
 ## Reflexiones: 
 

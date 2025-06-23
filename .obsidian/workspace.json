@@ -193,9 +193,33 @@
               "icon": "lucide-file",
               "title": "20250623 - 000000 - Second order, linear ODEs"
             }
+          },
+          {
+            "id": "cdfa574e6bfadb98",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02-Atomic/1750692203 - method-of-undetermined-coefficients.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "1750692203 - method-of-undetermined-coefficients"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -394,10 +418,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "02-Atomic/20250623 - 000000 - Second order, linear ODEs.md"
+                "file": "02-Atomic/1750692203 - method-of-undetermined-coefficients.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for 20250623 - 000000 - Second order, linear ODEs"
+              "title": "File properties for 1750692203 - method-of-undetermined-coefficients"
             }
           }
         ]
@@ -452,10 +476,11 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "8b5da4537fda2742",
+  "active": "cdfa574e6bfadb98",
   "lastOpenFiles": [
-    "02-Atomic/20240307 - 000000 - ODEs.md",
+    "02-Atomic/1750692203 - method-of-undetermined-coefficients.md",
     "02-Atomic/20250623 - 000000 - Second order, linear ODEs.md",
+    "02-Atomic/20240307 - 000000 - ODEs.md",
     "02-Atomic/Systems of First-Order ODEs.md",
     "01-Areas/1.UC3M/DiffCalc.md",
     "02-Atomic/20240418 - 193416 - Partial Differential Equations (PDEs).md",
@@ -483,7 +508,6 @@
     "02-Atomic/1726763938 - Exercises - Programación Lineal.md",
     "02-Atomic/1729169017 - Exercises - Resolucion gráfica y modelado de programacion lineal.md",
     "02-Atomic/1743085545 - Reu con TAI para Islandia.md",
-    "02-Atomic/20240529 - 132751 - Method -Integration by parts.md",
     "99-Meta/1. Templates",
     "99-Meta/0. Attachments/Truth table of the negation connective.png",
     "99-Meta/0. Attachments/Screenshot 2024-11-03 at 5.40.15 PM.png",

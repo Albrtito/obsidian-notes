@@ -128,7 +128,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-Atomic/20240418 - 193416 - Partial Differential Equations (PDEs).md",
+                "file": "02-Atomic/20240307 - 000000 - ODEs.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -143,10 +143,59 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "20240418 - 193416 - Partial Differential Equations (PDEs)"
+              "title": "20240307 - 000000 - ODEs"
+            }
+          },
+          {
+            "id": "d3e5d5bad1ee8e7b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02-Atomic/Systems of First-Order ODEs.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Systems of First-Order ODEs"
+            }
+          },
+          {
+            "id": "8b5da4537fda2742",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02-Atomic/20250623 - 000000 - Second order, linear ODEs.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "20250623 - 000000 - Second order, linear ODEs"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -345,10 +394,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "02-Atomic/20240529 - 162512 - First order exact ODE.md"
+                "file": "02-Atomic/20250623 - 000000 - Second order, linear ODEs.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for 20240529 - 162512 - First order exact ODE"
+              "title": "File properties for 20250623 - 000000 - Second order, linear ODEs"
             }
           }
         ]
@@ -403,22 +452,23 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "c9a43d4f4b574c8f",
+  "active": "8b5da4537fda2742",
   "lastOpenFiles": [
+    "02-Atomic/20240307 - 000000 - ODEs.md",
+    "02-Atomic/20250623 - 000000 - Second order, linear ODEs.md",
+    "02-Atomic/Systems of First-Order ODEs.md",
     "01-Areas/1.UC3M/DiffCalc.md",
+    "02-Atomic/20240418 - 193416 - Partial Differential Equations (PDEs).md",
     "02-Atomic/20240529 - 162512 - First order exact ODE.md",
     "02-Atomic/20240528 - 121302 - First order linear  ODE.md",
     "02-Atomic/1750617647 - - Untitled Suffix.md",
     "02-Atomic/20240527 - 205720 -  Initial Value Problem.md",
     "02-Atomic/20240528 - 110528 - Separable ODEs.md",
-    "02-Atomic/20240307 - 000000 - ODEs.md",
     "00-References/DiffCalc_Exercises_S1.pdf",
     "00-References/calc_resource_partialFractions.pdf",
     "02-Atomic/20240603 - 174745 - Definition - Natural Logarithm.md",
     "02-Atomic/20240603 - 180502 - Definition - Exponential function.md",
-    "02-Atomic/20240418 - 193416 - Partial Differential Equations (PDEs).md",
     "00-References/References_Derivatives&Integrals.pdf",
-    "02-Atomic/Order 2 linear ODE's.md",
     "02-Atomic/20240620 - 170611 - Method - Partial Fractions.md",
     "02-Atomic/[[calc_resource_partialFractions.pdf]].md",
     "00-References/20240307 - 000000 - ODEsj.",
@@ -434,7 +484,6 @@
     "02-Atomic/1729169017 - Exercises - Resolucion gráfica y modelado de programacion lineal.md",
     "02-Atomic/1743085545 - Reu con TAI para Islandia.md",
     "02-Atomic/20240529 - 132751 - Method -Integration by parts.md",
-    "02-Atomic/The Laplace transform.md",
     "99-Meta/1. Templates",
     "99-Meta/0. Attachments/Truth table of the negation connective.png",
     "99-Meta/0. Attachments/Screenshot 2024-11-03 at 5.40.15 PM.png",

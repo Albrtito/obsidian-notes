@@ -1,9 +1,11 @@
 ---
-id: Order 2 linear ODE's
-aliases: []
+id: Second order, linear ODEs
+aliases:
+  - Second order, linear ODEs
 tags:
   - DiffCalc
 ---
+# Second order ,linear ODEs
 When solving order two linear ODE's there'll be different cases based on how the coefficients of the equation are. There can be constant coefficients (easy ones, we like those) and function coefficients (harder ones we don't like cause they change)
 The constant coefficients are a variation of the general case but I'll treat them as a separate case. Anyway the main form of this ODE's is: 
 $$
@@ -44,7 +46,7 @@ $$
 #### Solving: 
 The objective is to find two solutions to the equations as the general solution will be the sum of those. 
 The easy thing about constant coefficients is the solution is to **just compute the solutions of the following second degree equation:** 
-For an ODE: $ay'' + by' + cy = 0 : a,b,c \in \R$ 
+For an ODE: $ay'' + by' + cy = 0 : a,b,c \in \mathbb{R}$ 
 
 
 

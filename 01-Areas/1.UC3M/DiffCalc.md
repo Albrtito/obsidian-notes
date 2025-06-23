@@ -22,7 +22,7 @@ tags: []
 + **Final:** 60%
 
 ## Biblio:
-- **Reference book for the course:**  Boyce, William E.. Elementary differential equations and boundary value problems . John Wiley & Sons,.
+- **Reference book for the course:**  Boyce, William E.. Elementary differential equations and boundary value problems . John Wiley & Sons.
 - Simmons, George Finlay. Differential equations with applications and historical notes. McGraw-Hill.
 - Zill, Dennis G.. Ecuaciones diferenciales con aplicaciones de modelado . International Thomson.
 - Manuel Carretero, Luis L. Bonilla, Filippo Terragni, Segei Iakunin, Rocío Vega · Curse OCW-UC3M

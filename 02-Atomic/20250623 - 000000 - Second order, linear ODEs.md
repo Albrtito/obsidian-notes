@@ -64,22 +64,20 @@ $$
 From this equation there are 4 possible solutions. 
 1. Both solutions are real and different. Then the general solution is given by: 
 $$
-y(t) )= y_1 + y_2 + C =
+y(t) )= c_1y_1 + c_2y_2  = c_1e^{xr_1} + c_2e^{xr_2}
 $$
-2. Solutions are real and the same
-	Multiply by t one of the solutions in the general form
-3. Solutions are both complex
-4. One solution is  complex the other one is real
-For any of this cases, once obtained the solutions it is necessary to check that they create a matrix with a determinant different from 0. (general solution theorem)
-Once this is checked, give it the form of the general solution and you're finished.  The solution will be of the form: 
-5. Both real solutions and different
+2. Solutions are real and the same. Then one of the solutions is multiplied by t to obtain linearity. 
 $$
-y(t) = c_1y_1(t)+ c_2y_2(t)
+y(t)= y_1 + y_2t + C = c_1e^{xr_1} + c_2te^{xr_1}
 $$
-6. Both real and same: 
+3. Solutions are complex: For a complex solution we transform the solution $e^{xr_i}$ using eulers formula. And we get, for the solution $r = \alpha \pm i\beta$
 $$
-y(t) = c_1y(t)+ c_2ty(t)
+y_i = c_1 e^{x\alpha} cos(\beta x) + c_2 e^{x\alpha}sin(\beta x)
 $$
+
+
+For any of this cases, once obtained the solutions it is necessary to check that they create a matrix with a determinant different from 0. (general solution theorem). This matrix, as said before, is the wronskian. 
+
 ## Non-Homogeneous, constant coefficients. 
 This equations are of the form: 
 $$

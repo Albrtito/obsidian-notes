@@ -101,7 +101,7 @@ $$
 
 **Then the important question is: How do I obtain h(x)?** 
 There are two methods: 
-##### Method 1: 
+##### Method 1: Undetermined coefficients
 **Conditions:** 
 + Constant coefficients
 + g(t) has to be one of the following types: $e^{\alpha t}, P(t) \text{ polynomial }, sin(t), cos(t)$

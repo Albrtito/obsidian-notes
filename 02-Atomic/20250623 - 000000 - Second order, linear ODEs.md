@@ -100,7 +100,11 @@ $$
 3. Add h(t) to the homogeneous solution and equal it to g(t)
 
 **Then the important question is: How do I obtain h(x)?** 
+
 There are two methods: 
+
+- [[1750692203 - method-of-undetermined-coefficients|method-of-undetermined-coefficients]]
+- [[]]
 ##### Method 2: 
 **Conditions:** 
 + It works for any coefficients

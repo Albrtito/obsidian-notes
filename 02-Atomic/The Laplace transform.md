@@ -18,7 +18,7 @@ $$
 $$
 
 **Remarks:**
-========+ f is the function to be transformed (input)
++ f is the function to be transformed (input)
 + F(s) is the output of the transformation. What is called Laplace transform
 + s is the variable on which the new function depends on. (Parameter of the transform)
 + $e^{-st}$ is called **kernel**
@@ -82,6 +82,7 @@ $$
 ## Remarks:
 + During exams some Laplace transforms will be provided (in the classroom blackboard). Not all of them must be used, students must choose which ones to use for the required exercises.
 + All useful Laplace transforms for the #DiffCalc  course are provided in the following [link in aula global](https://aulaglobal.uc3m.es/pluginfile.php/6903203/mod_resource/content/1/Laplace_Transforms.pdf)
+
 ## Example 1:
 **Initial conditions:**
 $f(t) = 1, t>= o$
@@ -111,8 +112,11 @@ $$
 $$
 ## Example 3:
 **Initial conditions:**
-$f(t) = sin(at), t>= 0 (a\in R, a\not = o)$
+
+$$f(t) = sin(at), t>= 0 (a\in R, a\not = o)$$
+
 **Formal definition and solution of the transformation:**
+
 $$
 \zeta\{sin(at)\} = {a\over s^2+a^2}, s>0
 $$

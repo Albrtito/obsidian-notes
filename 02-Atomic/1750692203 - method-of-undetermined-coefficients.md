@@ -6,6 +6,7 @@ References:
 cssclasses:
 ---
 # Method of undetermined coefficients
+
 > [!NOTE] Intro: 
 > This method is used to obtain the particular part of the solution to a non-homogeneous second order, linear ODE. 
 
@@ -14,7 +15,7 @@ cssclasses:
 + Constant coefficients
 + g(t) has to be one of the following types: $e^{\alpha t}, P(t) \text{ polynomial }, sin(t), cos(t)$
 
-## Metho
+## Method:
 A general form will be created for h(x) then the unknowns A and B will be specified for the general form. Based on the type of function that g(x) can be the general forms are the following: 
 
 + $g(t) = e^{\alpha t} \Rightarrow h(x) = Ae^{\alpha t}$ 
@@ -33,3 +34,7 @@ There are some special cases for which when trying to compute the values for A a
 + **SOLUTION:** Multiply by t all terms of the initial guess until the A and B are not canceled. ( so the first time is by one t, next time t squared, and so on)
 
 ***
+### Down
+
+### Up
+- [[20250623 - 000000 - Second order, linear ODEs|Second order, linear ODEs]]

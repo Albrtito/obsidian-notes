@@ -217,9 +217,33 @@
               "icon": "lucide-file",
               "title": "1750692203 - method-of-undetermined-coefficients"
             }
+          },
+          {
+            "id": "c9667db45ff3f2bf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02-Atomic/Using the Laplace transform to solve IVP.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Using the Laplace transform to solve IVP"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -418,10 +442,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "02-Atomic/1750692203 - method-of-undetermined-coefficients.md"
+                "file": "02-Atomic/Using the Laplace transform to solve IVP.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for 1750692203 - method-of-undetermined-coefficients"
+              "title": "File properties for Using the Laplace transform to solve IVP"
             }
           }
         ]
@@ -476,12 +500,13 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "cdfa574e6bfadb98",
+  "active": "c9667db45ff3f2bf",
   "lastOpenFiles": [
-    "02-Atomic/1750692203 - method-of-undetermined-coefficients.md",
+    "02-Atomic/The Laplace transform.md",
     "02-Atomic/20250623 - 000000 - Second order, linear ODEs.md",
-    "02-Atomic/20240307 - 000000 - ODEs.md",
     "02-Atomic/Systems of First-Order ODEs.md",
+    "02-Atomic/20240307 - 000000 - ODEs.md",
+    "02-Atomic/1750692203 - method-of-undetermined-coefficients.md",
     "01-Areas/1.UC3M/DiffCalc.md",
     "02-Atomic/20240418 - 193416 - Partial Differential Equations (PDEs).md",
     "02-Atomic/20240529 - 162512 - First order exact ODE.md",
@@ -507,7 +532,6 @@
     "01-Areas/1.UC3M/Heuristica y Opti.md",
     "02-Atomic/1726763938 - Exercises - Programación Lineal.md",
     "02-Atomic/1729169017 - Exercises - Resolucion gráfica y modelado de programacion lineal.md",
-    "02-Atomic/1743085545 - Reu con TAI para Islandia.md",
     "99-Meta/1. Templates",
     "99-Meta/0. Attachments/Truth table of the negation connective.png",
     "99-Meta/0. Attachments/Screenshot 2024-11-03 at 5.40.15 PM.png",

@@ -200,7 +200,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-Atomic/1750692203 - method-of-undetermined-coefficients.md",
+                "file": "02-Atomic/The Laplace transform.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -215,7 +215,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "1750692203 - method-of-undetermined-coefficients"
+              "title": "The Laplace transform"
             }
           },
           {
@@ -243,7 +243,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -442,10 +442,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "02-Atomic/Using the Laplace transform to solve IVP.md"
+                "file": "02-Atomic/The Laplace transform.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Using the Laplace transform to solve IVP"
+              "title": "File properties for The Laplace transform"
             }
           }
         ]
@@ -500,13 +500,14 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "c9667db45ff3f2bf",
+  "active": "cdfa574e6bfadb98",
   "lastOpenFiles": [
-    "02-Atomic/The Laplace transform.md",
+    "02-Atomic/1750692203 - method-of-undetermined-coefficients.md",
     "02-Atomic/20250623 - 000000 - Second order, linear ODEs.md",
+    "02-Atomic/Using the Laplace transform to solve IVP.md",
+    "02-Atomic/The Laplace transform.md",
     "02-Atomic/Systems of First-Order ODEs.md",
     "02-Atomic/20240307 - 000000 - ODEs.md",
-    "02-Atomic/1750692203 - method-of-undetermined-coefficients.md",
     "01-Areas/1.UC3M/DiffCalc.md",
     "02-Atomic/20240418 - 193416 - Partial Differential Equations (PDEs).md",
     "02-Atomic/20240529 - 162512 - First order exact ODE.md",
@@ -531,7 +532,6 @@
     "02-Atomic/1726825216 - Programación Dinámica.md",
     "01-Areas/1.UC3M/Heuristica y Opti.md",
     "02-Atomic/1726763938 - Exercises - Programación Lineal.md",
-    "02-Atomic/1729169017 - Exercises - Resolucion gráfica y modelado de programacion lineal.md",
     "99-Meta/1. Templates",
     "99-Meta/0. Attachments/Truth table of the negation connective.png",
     "99-Meta/0. Attachments/Screenshot 2024-11-03 at 5.40.15 PM.png",

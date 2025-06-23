@@ -104,15 +104,12 @@ $$
 There are two methods: 
 
 - [[1750692203 - method-of-undetermined-coefficients|method-of-undetermined-coefficients]]
-- [[]]
-##### Method 2: 
-**Conditions:** 
-+ It works for any coefficients
-+ It works for any g(t) 
+
+## Final remarks:
+Besides these methods there are other ways of solving without computing the homogeneous then the particular part, the main one uses the laplace transform: 
+
+- [[Using the Laplace transform to solve IVP]]
 
 
 
-## Non-Constant coefficients: #Duda 
-> [!NOTE] Theorem: Existence and uniqueness
-> There's always a solution for non-constant coefficient with some initial conditions
 

@@ -11,6 +11,7 @@ sr-ease: 148
  + This technique can be also applied for non-homog. terms with discontinuities(g(t))
 + Useful for ODEs of order higher than 2
 + Transform an initial value problem ode to an algebraic equation 
+
 > [!NOTE] Theorem
 > Let f be a function satisfyin some conditions (later), given for t >= 0. The laplace transform of f is: 
 $$

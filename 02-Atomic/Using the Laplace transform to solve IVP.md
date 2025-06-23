@@ -9,7 +9,7 @@ sr-due: 2024-08-19
 sr-interval: 99
 sr-ease: 258
 ---
-# Intro
+# Solving ODEs with the laplace transform 
  + This technique can be also applied for non-homog. terms with discontinuities(g(t))
 + Useful for ODEs of order higher than 2
 + Transform an initial value problem ode to an algebraic equation 
@@ -17,8 +17,8 @@ sr-ease: 258
 We'll use ODEs that are **linear, with constant coefficients**, for different g(t) and different order(n = 2 or higher).
 + Using the Laplace transform is really useful for solving **initial value problems**
 
-# Practice cases:
-## Example 1:
+## Practice cases:
+### Example 1:
 **Initial ODE:**
 + **HOMOGENEOUS**
 $y'' -y' -2y = 0, y(0) = 1, y'(0) = 0$
@@ -63,7 +63,7 @@ $$
 Y(s) = {1\over 3}e^{2t} + {2 \over 3}e^{-t}
 $$
 
-## Example 11:
+### Example 2:
 **Initial ODE**: Initial value problem
 + **NON- HOMOGENEOUS**
 $$
@@ -105,9 +105,9 @@ $$
 $$
 y(t) = \zeta^-\{Y(s)\} = \frac{2}{25} *1 + \frac{1}{5}t + \frac{23}{25}e^t cos(2t) + \frac{1}{25} e^t sin(2t)
 $$
-# How to use it: 
+## How to use it: 
 After these two examples we can say the following steps are used to compute IVP with the Laplace transform: 
-1. Transform the ODE such as $Y(s) = $\zeta\{y(t)\}$
+1. Transform the ODE such as $Y(s) = \zeta\{y(t)\}$
 2. Use linearity property of Laplace transform to separe all transformations
 3. Use derivative property of Laplace transform to get all wrt y and y'. 
 4. Apply the initial conditions 
@@ -116,7 +116,7 @@ After these two examples we can say the following steps are used to compute IVP 
 	1. For this step use [[20240620 - 170611 - Method - Partial Fractions|Partial Fractions]] and the [DiffCalc_Resources_Laplace_Transforms](../00.References/DiffCalc_Resources_Laplace_Transforms.pdf) . We could also use the [Convolution product](Convolution%20product.md) of the function if we knew had the initial conditions in order to apply the convolution on Y(t)
 	3. This table contains most of the inverse transformations we'll use. However some tricks could be needed in order to obtain expressions that can be used with the table. 
 
-## Remarks: What if we don't know the values at 0 but at another point $t0$ ?
+### Remarks: What if we don't know the values at 0 but at another point $t0$ ?
 The use of the Laplace transform requires to know the value of the sol y and its derivative at t= 0. What if we don't have those?
 For this cases we should apply **change of variable** in the following way: 
 $$

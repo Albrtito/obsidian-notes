@@ -77,7 +77,7 @@ $$
 
 
 **Remarks:**
-+ For #DiffCalc course see the [PDF in aula global](https://aulaglobal.uc3m.es/pluginfile.php/6903203/mod_resource/content/1/Laplace_Transforms.pdf) stating the generalised formula for derivatives of order n: $f^{(n)}(t)$
++ For #DiffCalc course see the [PDF n aula global](https://aulaglobal.uc3m.es/pluginfile.php/6903203/mod_resource/content/1/Laplace_Transforms.pdf) stating the generalised formula for derivatives of order n: $f^{(n)}(t)$
 
 # Practical examples: 
 ## Remarks:

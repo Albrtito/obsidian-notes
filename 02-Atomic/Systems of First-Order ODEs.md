@@ -188,15 +188,7 @@ $$
 where: 
 + $c_j \in \mathbb{R}$ : are arbitrary constants defined by the **initial conditions**. Shoutout to the initial value problem (I.V.P)
 
-
-
-
-
-
-
 + we'll use the **principle of superposition.** As we have already done during the course. A linear combination of the solutions obtained is also a solution for the ODE.
-
-![Theorem syst,first order, linear ODE](Theorem%20syst,first%20order,%20linear%20ODE.md)
 
 ## Cases: 
 ### Case with constant coefficients. 
@@ -336,39 +328,6 @@ $$
 X(t) = C_1\binom{1}{\sqrt{2}}e^{-t}+ c_2\binom{-\sqrt{2}}{1}e^{-4t}: (c_1, c_2 \in \mathbb{R})
 $$
 
-#### Phase portrait of a system: 
-
-With 2 x 2 systems we can visualise the system in the plane. 
-$$
-X^1(t) = (x_1,x_2) = (e^{-t}, \sqrt{2}e^-t) \rightarrow x_2 = \sqrt{2}x_1
-$$
-
-If we plot this graph we can see that it is a line through the origin with slope equal to square root of two: 
-
-```desmos-graph
-x_1 = \sqrt{2}x_2
-
-```
-
-If we plot $X^2(t)$ we'll get: 
-$$
-x_2 = \frac{-1}{\sqrt{2}}x_1
-$$
-Plotting: 
-
-```desmos-graph
-x_2 = \frac{-1}{\sqrt{2}}x_1
-
-```
-
-**Both together:**
-
-```desmos-graph
-x_2 = \frac{-1}{\sqrt{2}}x_1
-x_3 = \sqrt{2}x_4
-```
-
-x 
 
 ---
 

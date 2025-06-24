@@ -224,7 +224,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-Atomic/Using the Laplace transform to solve IVP.md",
+                "file": "02-Atomic/Systems of First-Order ODEs.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -239,7 +239,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Using the Laplace transform to solve IVP"
+              "title": "Systems of First-Order ODEs"
             }
           }
         ],
@@ -442,10 +442,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "02-Atomic/Distribuidos.md"
+                "file": "02-Atomic/Systems of First-Order ODEs.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Distribuidos"
+              "title": "File properties for Systems of First-Order ODEs"
             }
           }
         ]
@@ -500,11 +500,12 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "2dca472e18c0e06a",
+  "active": "c9667db45ff3f2bf",
   "lastOpenFiles": [
+    "02-Atomic/Using the Laplace transform to solve IVP.md",
+    "02-Atomic/Distribuidos.md",
     "02-Atomic/1750719125-tramite-de-permisos-para-campamentos.md",
     "01-Areas/1.UC3M/DiffCalc.md",
-    "02-Atomic/Using the Laplace transform to solve IVP.md",
     "02-Atomic/The Laplace transform.md",
     "02-Atomic/1750692203 - method-of-undetermined-coefficients.md",
     "02-Atomic/20250623 - 000000 - Second order, linear ODEs.md",
@@ -531,7 +532,6 @@
     "01-Areas/1.UC3M/Networks.md",
     "02-Atomic/1745248836 - Licencia Creative Commons.md",
     "02-Atomic/1726825216 - Programación Dinámica.md",
-    "01-Areas/1.UC3M/Heuristica y Opti.md",
     "99-Meta/1. Templates",
     "99-Meta/0. Attachments/Truth table of the negation connective.png",
     "99-Meta/0. Attachments/Screenshot 2024-11-03 at 5.40.15 PM.png",

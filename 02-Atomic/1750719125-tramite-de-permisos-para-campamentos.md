@@ -9,6 +9,7 @@ tags: []
 De cara a tramitar permisos para los campamentos son utiles los siguientes recursos:
 
 - [Búsqueda de trámites](https://sede.administracion.gob.es/pagSedeFront/servicios/consultaCSV.htm) 
+- [Confederación hidrográfica del cantábrico](https://www.chcantabrico.es/) 
 
 ***
 ### Up

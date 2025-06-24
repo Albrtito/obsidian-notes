@@ -329,6 +329,33 @@ X(t) = C_1\binom{1}{\sqrt{2}}e^{-t}+ c_2\binom{-\sqrt{2}}{1}e^{-4t}: (c_1, c_2 \
 $$
 
 
+#### Phase portrait of a system: 
+
+With 2 x 2 systems we can visualise the system in the plane. 
+$$
+X^1(t) = (x_1,x_2) = (e^{-t}, \sqrt{2}e^-t) \rightarrow x_2 = \sqrt{2}x_1
+$$
+
+
+If we plot $X^2(t)$ we'll get: 
+$$
+x_2 = \frac{-1}{\sqrt{2}}x_1
+$$
+Plotting: 
+
+```desmos-graph
+x_2 = \frac{-1}{\sqrt{2}}x_1
+
+```
+
+**Both together:**
+
+```desmos-graph
+x_2 = \frac{-1}{\sqrt{2}}x_1
+x_3 = \sqrt{2}x_4
+```
+
+x 
 ---
 
 #### Case 2: 

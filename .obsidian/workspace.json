@@ -217,33 +217,9 @@
               "icon": "lucide-file",
               "title": "The Laplace transform"
             }
-          },
-          {
-            "id": "378a5cfa720ef257",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01-Areas/1.UC3M/Heuristica y Opti.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Heuristica y Opti"
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -442,10 +418,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "01-Areas/1.UC3M/Heuristica y Opti.md"
+                "file": "02-Atomic/The Laplace transform.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Heuristica y Opti"
+              "title": "File properties for The Laplace transform"
             }
           },
           {
@@ -454,7 +430,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01-Areas/1.UC3M/Heuristica y Opti.md",
+                "file": "02-Atomic/The Laplace transform.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -464,7 +440,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Heuristica y Opti"
+              "title": "Backlinks for The Laplace transform"
             }
           },
           {
@@ -473,12 +449,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01-Areas/1.UC3M/Heuristica y Opti.md",
+                "file": "02-Atomic/The Laplace transform.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Heuristica y Opti"
+              "title": "Outgoing links from The Laplace transform"
             }
           },
           {
@@ -573,8 +549,9 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "378a5cfa720ef257",
+  "active": "cdfa574e6bfadb98",
   "lastOpenFiles": [
+    "01-Areas/1.UC3M/Heuristica y Opti.md",
     "02-Atomic/The Laplace transform.md",
     "02-Atomic/Systems of First-Order ODEs.md",
     "02-Atomic/20240515 - 035256 - Euler's formula.md",
@@ -607,7 +584,6 @@
     "02-Atomic/Untitled.md",
     "02-Atomic/1750588364 - - Untitled Suffix.md",
     "02-Atomic/1750587796 - - Untitled Suffix.md",
-    "01-Areas/1.UC3M/Networks.md",
     "99-Meta/1. Templates",
     "99-Meta/0. Attachments/Truth table of the negation connective.png",
     "99-Meta/0. Attachments/Screenshot 2024-11-03 at 5.40.15 PM.png",

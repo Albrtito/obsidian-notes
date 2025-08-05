@@ -24,7 +24,7 @@ Este primer documento describe el modelo de progresión propuesto por ASDE en su
 3. **Participación en el proyecto de la sección**: Pedagogía del proyecto: dique, cacería, aventura, proyectos
 4. **Vida en la naturaleza**: 
 5. **objetivos personales**: colas, rastros, diana, estrellas, timón, gremios. Según como se han usado este año
-6. **Compromisos educativos**:Las ideas más tradicionales de las tres etapas de progresión: integración, participación, animación, adaptadas a cada una de las secciones
+6. **Compromisos educativos**:Las ideas más tradicionales de las tres etapas de progresión: integración, participación, animación, adaptadas a cada una de las seccionesk
 7. **Elementos específicos de la sección**: compartir, autonomía personal, vida en la patrulla, unidad y servicio
 8. **Conocimiento y vivencia de los valores del escultismo** consejos de malak, máximas de baloo y ley scout
 

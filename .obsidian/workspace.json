@@ -4,222 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "88278a222c83d2e6",
+        "id": "bc5d5ec3a8713666",
         "type": "tabs",
         "children": [
           {
-            "id": "ee14dde932e80208",
+            "id": "21e5a388454b8c4d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02-Atomic/20240528 - 110528 - Separable ODEs.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "20240528 - 110528 - Separable ODEs"
-            }
-          },
-          {
-            "id": "5b4469e98c4738dc",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "00-References/References_Derivatives&Integrals.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "References_Derivatives&Integrals"
-            }
-          },
-          {
-            "id": "9b36c26fb3f74935",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02-Atomic/20240603 - 174745 - Definition - Natural Logarithm.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "20240603 - 174745 - Definition - Natural Logarithm"
-            }
-          },
-          {
-            "id": "ee5a0a042a46b510",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "00-References/calc_resource_partialFractions.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "calc_resource_partialFractions"
-            }
-          },
-          {
-            "id": "6666267941d5c0eb",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "00-References/DiffCalc_Exercises_S1.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "DiffCalc_Exercises_S1"
-            }
-          },
-          {
-            "id": "8eea1c30a7692b94",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02-Atomic/20240529 - 162512 - First order exact ODE.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "20240529 - 162512 - First order exact ODE"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 5
-      },
-      {
-        "id": "f19fd4a1aae4c633",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "cf8f33fd3264ac8c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02-Atomic/20240307 - 000000 - ODEs.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "20240307 - 000000 - ODEs"
-            }
-          },
-          {
-            "id": "d3e5d5bad1ee8e7b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02-Atomic/Systems of First-Order ODEs.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Systems of First-Order ODEs"
-            }
-          },
-          {
-            "id": "8b5da4537fda2742",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02-Atomic/20250623 - 000000 - Second order, linear ODEs.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "20250623 - 000000 - Second order, linear ODEs"
-            }
-          },
-          {
-            "id": "cdfa574e6bfadb98",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02-Atomic/The Laplace transform.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "The Laplace transform"
-            }
-          }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -232,100 +30,6 @@
         "id": "662098e0d908b3e6",
         "type": "tabs",
         "children": [
-          {
-            "id": "36d1a43796975b90",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "02-Atomic/20240307 - 000000 - ODEs.md",
-                "options": {
-                  "collapse-filter": true,
-                  "search": "",
-                  "localJumps": 2,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": false,
-                  "colorGroups": [
-                    {
-                      "query": "tag:#incomplete  ",
-                      "color": {
-                        "a": 1,
-                        "rgb": 16711680
-                      }
-                    },
-                    {
-                      "query": "tag:#DiffCalc  ",
-                      "color": {
-                        "a": 1,
-                        "rgb": 8537055
-                      }
-                    },
-                    {
-                      "query": "tag:#Networks",
-                      "color": {
-                        "a": 1,
-                        "rgb": 11392604
-                      }
-                    },
-                    {
-                      "query": "tag:#Discrete  ",
-                      "color": {
-                        "a": 1,
-                        "rgb": 6084188
-                      }
-                    },
-                    {
-                      "query": "tag:#Cripto",
-                      "color": {
-                        "a": 1,
-                        "rgb": 6084269
-                      }
-                    },
-                    {
-                      "query": "tag:#Heuri  ",
-                      "color": {
-                        "a": 1,
-                        "rgb": 6073814
-                      }
-                    },
-                    {
-                      "query": "tag:#Empresa  ",
-                      "color": {
-                        "a": 1,
-                        "rgb": 16775199
-                      }
-                    },
-                    {
-                      "query": "tag:#CalcI  ",
-                      "color": {
-                        "a": 1,
-                        "rgb": 14048348
-                      }
-                    }
-                  ],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 2.79537653688525,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": false,
-                  "centerStrength": 0.0242737249838606,
-                  "repelStrength": 15.3311814073596,
-                  "linkStrength": 0.47411233053583,
-                  "linkDistance": 52,
-                  "scale": 0.09229580869883151,
-                  "close": true
-                }
-              },
-              "icon": "lucide-git-fork",
-              "title": "Graph of 20240307 - 000000 - ODEs"
-            }
-          },
           {
             "id": "1087055cabadd75b",
             "type": "leaf",
@@ -363,8 +67,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "f340046a713a91df",
@@ -400,152 +103,24 @@
       }
     ],
     "direction": "horizontal",
-    "width": 510.5,
-    "collapsed": true
+    "width": 510.5
   },
   "right": {
     "id": "8881aa8c79e29157",
     "type": "split",
     "children": [
       {
-        "id": "a5368633d00105be",
+        "id": "c006b0939f58a360",
         "type": "tabs",
-        "dimension": 18.70503597122302,
         "children": [
           {
-            "id": "c9a43d4f4b574c8f",
+            "id": "6063ac09e22ba87c",
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "02-Atomic/The Laplace transform.md"
-              },
+              "state": {},
               "icon": "lucide-info",
-              "title": "File properties for The Laplace transform"
-            }
-          },
-          {
-            "id": "7a6efa5eea079f4a",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "02-Atomic/The Laplace transform.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "Backlinks for The Laplace transform"
-            }
-          },
-          {
-            "id": "6b5c967b284c1dce",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "02-Atomic/The Laplace transform.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "Outgoing links from The Laplace transform"
-            }
-          },
-          {
-            "id": "dfc52383ad530420",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-tags",
-              "title": "Tags"
-            }
-          },
-          {
-            "id": "1cf548728d438880",
-            "type": "leaf",
-            "state": {
-              "type": "all-properties",
-              "state": {
-                "sortOrder": "frequency",
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-archive",
-              "title": "All properties"
-            }
-          },
-          {
-            "id": "a2a5985e814cb2b2",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "0930df600d77306d",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "SpacedRepIcon",
-              "title": "Notes Review Queue"
-            }
-          },
-          {
-            "id": "3b838c72a3f56931",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "SpacedRepIcon",
-              "title": "Notes Review Queue"
-            }
-          }
-        ],
-        "currentTab": 7
-      },
-      {
-        "id": "e30f205784508226",
-        "type": "tabs",
-        "dimension": 81.29496402877697,
-        "children": [
-          {
-            "id": "2dca472e18c0e06a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02-Atomic/Distribuidos.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Distribuidos"
+              "title": "File properties"
             }
           }
         ]
@@ -569,39 +144,39 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "3b838c72a3f56931",
+  "active": "21e5a388454b8c4d",
   "lastOpenFiles": [
+    "README.md",
+    "02-Atomic/Distribuidos.md",
+    "02-Atomic/20240528 - 110528 - Separable ODEs.md",
+    "02-Atomic/20240307 - 000000 - ODEs.md",
+    "02-Atomic/Systems of First-Order ODEs.md",
+    "02-Atomic/20250623 - 000000 - Second order, linear ODEs.md",
     "02-Atomic/The Laplace transform.md",
+    "02-Atomic/20240603 - 174745 - Definition - Natural Logarithm.md",
+    "02-Atomic/20240529 - 162512 - First order exact ODE.md",
     "02-Atomic/1750774321-notes-on-diffy-qs-de-for-engineers-at-osu.md",
     "01-Areas/1.UC3M/Heuristica y Opti.md",
-    "02-Atomic/Systems of First-Order ODEs.md",
     "02-Atomic/20240515 - 035256 - Euler's formula.md",
     "02-Atomic/1750763597-wumbo-a-math-reference-site.md",
     "https:/wumbo.net/glossary",
     "https:/wumbo.net",
     "https:",
     "02-Atomic/Using the Laplace transform to solve IVP.md",
-    "02-Atomic/Distribuidos.md",
     "02-Atomic/1750719125-tramite-de-permisos-para-campamentos.md",
     "01-Areas/1.UC3M/DiffCalc.md",
     "02-Atomic/1750692203 - method-of-undetermined-coefficients.md",
-    "02-Atomic/20250623 - 000000 - Second order, linear ODEs.md",
-    "02-Atomic/20240307 - 000000 - ODEs.md",
     "02-Atomic/20240418 - 193416 - Partial Differential Equations (PDEs).md",
-    "02-Atomic/20240529 - 162512 - First order exact ODE.md",
     "02-Atomic/20240528 - 121302 - First order linear  ODE.md",
     "02-Atomic/1750617647 - - Untitled Suffix.md",
     "02-Atomic/20240527 - 205720 -  Initial Value Problem.md",
-    "02-Atomic/20240528 - 110528 - Separable ODEs.md",
     "00-References/DiffCalc_Exercises_S1.pdf",
     "00-References/calc_resource_partialFractions.pdf",
-    "02-Atomic/20240603 - 174745 - Definition - Natural Logarithm.md",
     "02-Atomic/20240603 - 180502 - Definition - Exponential function.md",
     "00-References/References_Derivatives&Integrals.pdf",
     "02-Atomic/20240620 - 170611 - Method - Partial Fractions.md",
     "02-Atomic/[[calc_resource_partialFractions.pdf]].md",
     "00-References/20240307 - 000000 - ODEsj.",
-    "README.md",
     "02-Atomic/Untitled.md",
     "02-Atomic/1750588364 - - Untitled Suffix.md",
     "99-Meta/1. Templates",

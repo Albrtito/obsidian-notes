@@ -1,4 +1,4 @@
- # README
+# README
 Personal collection of notes in an obsidian-like structure, currently using them within the obsidia [nvim plugin](https://github.com/epwalsh/obsidian.nvim) 
 
 

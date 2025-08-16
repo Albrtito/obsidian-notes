@@ -1,151 +1,22 @@
 {
   "workspaces": {
-    "Main": {
+    "main": {
       "main": {
         "id": "17d7a5216cd24ae3",
         "type": "split",
         "children": [
           {
-            "id": "88278a222c83d2e6",
+            "id": "628a77c52dffdd89",
             "type": "tabs",
             "children": [
               {
-                "id": "ee14dde932e80208",
+                "id": "de9e9b83ac0197c0",
                 "type": "leaf",
                 "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "02-Atomic/20240528 - 110528 - Separable ODEs.md",
-                    "mode": "source",
-                    "source": false,
-                    "backlinks": true,
-                    "backlinkOpts": {
-                      "collapseAll": false,
-                      "extraContext": false,
-                      "sortOrder": "alphabetical",
-                      "showSearch": false,
-                      "searchQuery": "",
-                      "backlinkCollapsed": false,
-                      "unlinkedCollapsed": true
-                    }
-                  },
+                  "type": "empty",
+                  "state": {},
                   "icon": "lucide-file",
-                  "title": "20240528 - 110528 - Separable ODEs"
-                }
-              },
-              {
-                "id": "5b4469e98c4738dc",
-                "type": "leaf",
-                "state": {
-                  "type": "pdf",
-                  "state": {
-                    "file": "00-References/References_Derivatives&Integrals.pdf"
-                  },
-                  "icon": "lucide-file-text",
-                  "title": "References_Derivatives&Integrals"
-                }
-              },
-              {
-                "id": "9b36c26fb3f74935",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "02-Atomic/20240603 - 174745 - Definition - Natural Logarithm.md",
-                    "mode": "source",
-                    "source": false,
-                    "backlinks": true,
-                    "backlinkOpts": {
-                      "collapseAll": false,
-                      "extraContext": false,
-                      "sortOrder": "alphabetical",
-                      "showSearch": false,
-                      "searchQuery": "",
-                      "backlinkCollapsed": false,
-                      "unlinkedCollapsed": true
-                    }
-                  },
-                  "icon": "lucide-file",
-                  "title": "20240603 - 174745 - Definition - Natural Logarithm"
-                }
-              },
-              {
-                "id": "ee5a0a042a46b510",
-                "type": "leaf",
-                "state": {
-                  "type": "pdf",
-                  "state": {
-                    "file": "00-References/calc_resource_partialFractions.pdf"
-                  },
-                  "icon": "lucide-file-text",
-                  "title": "calc_resource_partialFractions"
-                }
-              },
-              {
-                "id": "6666267941d5c0eb",
-                "type": "leaf",
-                "state": {
-                  "type": "pdf",
-                  "state": {
-                    "file": "00-References/DiffCalc_Exercises_S1.pdf"
-                  },
-                  "icon": "lucide-file-text",
-                  "title": "DiffCalc_Exercises_S1"
-                }
-              },
-              {
-                "id": "8eea1c30a7692b94",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "02-Atomic/20240529 - 162512 - First order exact ODE.md",
-                    "mode": "source",
-                    "source": false,
-                    "backlinks": true,
-                    "backlinkOpts": {
-                      "collapseAll": false,
-                      "extraContext": false,
-                      "sortOrder": "alphabetical",
-                      "showSearch": false,
-                      "searchQuery": "",
-                      "backlinkCollapsed": false,
-                      "unlinkedCollapsed": true
-                    }
-                  },
-                  "icon": "lucide-file",
-                  "title": "20240529 - 162512 - First order exact ODE"
-                }
-              }
-            ],
-            "currentTab": 5
-          },
-          {
-            "id": "f19fd4a1aae4c633",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "cf8f33fd3264ac8c",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "02-Atomic/20240418 - 193416 - Partial Differential Equations (PDEs).md",
-                    "mode": "source",
-                    "source": false,
-                    "backlinks": true,
-                    "backlinkOpts": {
-                      "collapseAll": false,
-                      "extraContext": false,
-                      "sortOrder": "alphabetical",
-                      "showSearch": false,
-                      "searchQuery": "",
-                      "backlinkCollapsed": false,
-                      "unlinkedCollapsed": true
-                    }
-                  },
-                  "icon": "lucide-file",
-                  "title": "20240418 - 193416 - Partial Differential Equations (PDEs)"
+                  "title": "New tab"
                 }
               }
             ]
@@ -329,59 +200,24 @@
           }
         ],
         "direction": "horizontal",
-        "width": 510.5,
-        "collapsed": true
+        "width": 510.5
       },
       "right": {
         "id": "8881aa8c79e29157",
         "type": "split",
         "children": [
           {
-            "id": "a5368633d00105be",
+            "id": "c006b0939f58a360",
             "type": "tabs",
-            "dimension": 18.70503597122302,
             "children": [
               {
-                "id": "c9a43d4f4b574c8f",
+                "id": "6063ac09e22ba87c",
                 "type": "leaf",
                 "state": {
                   "type": "file-properties",
-                  "state": {
-                    "file": "02-Atomic/20240529 - 162512 - First order exact ODE.md"
-                  },
+                  "state": {},
                   "icon": "lucide-info",
-                  "title": "File properties for 20240529 - 162512 - First order exact ODE"
-                }
-              }
-            ]
-          },
-          {
-            "id": "e30f205784508226",
-            "type": "tabs",
-            "dimension": 81.29496402877697,
-            "children": [
-              {
-                "id": "2dca472e18c0e06a",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "01-Areas/1.UC3M/DiffCalc.md",
-                    "mode": "source",
-                    "source": false,
-                    "backlinks": true,
-                    "backlinkOpts": {
-                      "collapseAll": false,
-                      "extraContext": false,
-                      "sortOrder": "alphabetical",
-                      "showSearch": false,
-                      "searchQuery": "",
-                      "backlinkCollapsed": false,
-                      "unlinkedCollapsed": true
-                    }
-                  },
-                  "icon": "lucide-file",
-                  "title": "DiffCalc"
+                  "title": "File properties"
                 }
               }
             ]
@@ -405,9 +241,9 @@
           "workspaces:Manage workspace layouts": false
         }
       },
-      "active": "c9a43d4f4b574c8f",
-      "mtime": "2025-06-22T20:42:22+02:00"
+      "active": "6063ac09e22ba87c",
+      "mtime": "2025-08-16T14:10:44+00:00"
     }
   },
-  "active": "Main"
+  "active": "main"
 }

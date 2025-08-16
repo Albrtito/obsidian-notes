@@ -16,7 +16,7 @@ tags:
 + **Grupo:** (MAG) 84,85
 	+ Reducido: 86
 + **Coordinadora:** Felix, García Carballeira
-+ **Profesores y contactos**:
++ **Prfesores y contactos**:
 	+ **Magistrales:** Carlos Gomez: rgcarras@inf.uc3m.es
 	+ **Reducido**: Javier Prieto
 		+ Tutorías: Martes depués de las clases (7pm) y Jueves a partir de las 5

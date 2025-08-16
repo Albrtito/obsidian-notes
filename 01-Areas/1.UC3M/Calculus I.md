@@ -1,15 +1,7 @@
 ---
-aliases:
-  - One variable Calculus
-Date: 2024-03-12
-tags:
-  - CalcI
-"References:":
-  - https://ocw.uc3m.es/mod/page/view.php?id=5298
-  - "[Calc_Theory_All](../../00.References/Calc_Theory_All.pdf)"
-sr-due: 2024-06-03
-sr-interval: 62
-sr-ease: 267
+id: Calculus I
+aliases: []
+tags: []
 ---
 # One-var Calculus: 
 Based on the [courseware course](https://ocw.uc3m.es/mod/page/view.php?id=5299) and the UC3M course, the **following chapters are proposed:**

@@ -11,13 +11,52 @@
             "id": "21e5a388454b8c4d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "99-Meta/01-Templates/NoteTemplate.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "NoteTemplate"
+            }
+          },
+          {
+            "id": "4fdb5178330e12aa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "99-Meta/01-Templates/NoteTemplate.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "NoteTemplate"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -118,9 +157,11 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {},
+              "state": {
+                "file": "99-Meta/01-Templates/NoteTemplate.md"
+              },
               "icon": "lucide-info",
-              "title": "File properties"
+              "title": "File properties for NoteTemplate"
             }
           }
         ]
@@ -144,8 +185,11 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "21e5a388454b8c4d",
+  "active": "4fdb5178330e12aa",
   "lastOpenFiles": [
+    "99-Meta/01-Templates/NoteTemplate.md",
+    "99-Meta/01-Templates/NoteFolderTemplate.md",
+    "02-Atomic/1755353757 - Engineering resources.md",
     "README.md",
     "02-Atomic/Distribuidos.md",
     "02-Atomic/20240528 - 110528 - Separable ODEs.md",
@@ -175,11 +219,8 @@
     "02-Atomic/20240603 - 180502 - Definition - Exponential function.md",
     "00-References/References_Derivatives&Integrals.pdf",
     "02-Atomic/20240620 - 170611 - Method - Partial Fractions.md",
-    "02-Atomic/[[calc_resource_partialFractions.pdf]].md",
     "00-References/20240307 - 000000 - ODEsj.",
-    "02-Atomic/Untitled.md",
-    "02-Atomic/1750588364 - - Untitled Suffix.md",
-    "99-Meta/1. Templates",
+    "99-Meta/01-Templates",
     "99-Meta/0. Attachments/Truth table of the negation connective.png",
     "99-Meta/0. Attachments/Screenshot 2024-11-03 at 5.40.15 PM.png",
     "99-Meta/0. Attachments/Screenshot 2024-11-03 at 5.17.05 PM.png",

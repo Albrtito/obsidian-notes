@@ -2,8 +2,8 @@
 // Prompt the user for a title
 let userTitle = await tp.system.prompt("Enter title");
 
-// Define your prefix here
-let prefix = "prefix"; // Change this to whatever prefix you want
+// Get the current file title to use as prefix
+let currentTitle = tp.file.title;
 
 // Function to format the title like Obsidian plugin for nvim
 function formatTitle(title) {
@@ -17,8 +17,8 @@ function formatTitle(title) {
 // Format the user's input
 let formattedTitle = userTitle ? formatTitle(userTitle) : "untitledsuffix";
 
-// Create the new title with prefix
-let newTitle = `${prefix}-${formattedTitle}`;
+// Create the new title with current title as prefix
+let newTitle = `${currentTitle}-${formattedTitle}`;
 
 // Rename the file
 await tp.file.rename(newTitle);

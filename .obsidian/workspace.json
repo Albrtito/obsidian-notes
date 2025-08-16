@@ -492,8 +492,8 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
-              "icon": "SpacedRepIcon",
-              "title": "Notes Review Queue"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
@@ -505,9 +505,19 @@
               "icon": "SpacedRepIcon",
               "title": "Notes Review Queue"
             }
+          },
+          {
+            "id": "3b838c72a3f56931",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "SpacedRepIcon",
+              "title": "Notes Review Queue"
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       },
       {
         "id": "e30f205784508226",
@@ -559,7 +569,7 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "8eea1c30a7692b94",
+  "active": "3b838c72a3f56931",
   "lastOpenFiles": [
     "02-Atomic/The Laplace transform.md",
     "02-Atomic/1750774321-notes-on-diffy-qs-de-for-engineers-at-osu.md",

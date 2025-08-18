@@ -16,8 +16,19 @@
               "icon": "lucide-file",
               "title": "New tab"
             }
+          },
+          {
+            "id": "f815fa4daa45b19c",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -144,7 +155,7 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "0080bb6ea2eec649",
+  "active": "f815fa4daa45b19c",
   "lastOpenFiles": [
     "99-Meta/01-Templates/NoteTemplate.md",
     "02-Atomic/prefix-myinteresingtitle.md",

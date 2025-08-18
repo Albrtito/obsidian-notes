@@ -7,6 +7,9 @@ References:
 cssclasses:
 ---
 # Software project management
+
+> “Project management is organized common sense”
+
 > [!NOTE] Intro: 
 > To manage would be to **planning, organizing and directing the completion of a proyect**. 
 > There are three constraints seen everywhere on project management; budget, timing and restrictions. 
@@ -23,5 +26,5 @@ In order to perform this activities the pm has to ask many questions (look at th
 ### Up
 
 ### Down
-- [[1755515684-softwareproject|project]]
+- [[1755515684-softwareproject|software project]]
 ***

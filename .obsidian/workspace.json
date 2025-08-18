@@ -69,40 +69,40 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1087055cabadd75b",
+            "id": "c9b8c954f3301011",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
-            "id": "c4204eb5497f1f04",
-            "type": "leaf",
-            "state": {
-              "type": "search",
+              "type": "localgraph",
               "state": {
-                "query": "tag:#CalcI",
-                "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical"
+                "file": "02-Atomic/1755513982-softwareprojectmanagement.md",
+                "options": {
+                  "collapse-filter": false,
+                  "search": "",
+                  "localJumps": 3,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.5653515224827164,
+                  "close": true
+                }
               },
-              "icon": "lucide-search",
-              "title": "Search"
-            }
-          },
-          {
-            "id": "cc30393ef0607ead",
-            "type": "leaf",
-            "state": {
-              "type": "bookmarks",
-              "state": {},
-              "icon": "lucide-bookmark",
-              "title": "Bookmarks"
+              "icon": "lucide-git-fork",
+              "title": "Graph of 1755513982-softwareprojectmanagement"
             }
           }
         ]
@@ -141,7 +141,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 510.5
+    "width": 251.5
   },
   "right": {
     "id": "8881aa8c79e29157",
@@ -167,7 +167,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 560.5
+    "width": 371.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -184,7 +184,7 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "f815fa4daa45b19c",
+  "active": "c9b8c954f3301011",
   "lastOpenFiles": [
     "02-Atomic/1755515684-softwareproject.md",
     "02-Atomic/1755513982-softwareprojectmanagement.md",

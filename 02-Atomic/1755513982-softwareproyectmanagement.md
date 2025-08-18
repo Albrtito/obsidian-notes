@@ -2,7 +2,8 @@
 aliases:
   - Software proyect management
 tags:
-References:
+  - spm
+References: 
 cssclasses:
 ---
 # Software proyect management

@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f815fa4daa45b19c",
+            "id": "b361cc516bf821b4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-Atomic/1755513982-softwareprojectmanagement.md",
+                "file": "02-Atomic/1755520312-compiler.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,31 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "1755513982-softwareprojectmanagement"
-            }
-          },
-          {
-            "id": "613d004acd212c14",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02-Atomic/1755515684-softwareproject.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "1755515684-softwareproject"
+              "title": "1755520312-compiler"
             }
           }
         ]
@@ -74,7 +50,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02-Atomic/1755513982-softwareprojectmanagement.md",
+                "file": "02-Atomic/1755520312-compiler.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -102,7 +78,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 1755513982-softwareprojectmanagement"
+              "title": "Graph of 1755520312-compiler"
             }
           }
         ]
@@ -157,10 +133,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "02-Atomic/1755513982-softwareprojectmanagement.md"
+                "file": "02-Atomic/1755520312-compiler.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for 1755513982-softwareprojectmanagement"
+              "title": "File properties for 1755520312-compiler"
             }
           }
         ]
@@ -184,8 +160,9 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "c9b8c954f3301011",
+  "active": "b361cc516bf821b4",
   "lastOpenFiles": [
+    "02-Atomic/1755520312-compiler.md",
     "02-Atomic/1755515684-softwareproject.md",
     "02-Atomic/1755513982-softwareprojectmanagement.md",
     "02-Atomic/1755515654-untitledsuffix.md",
@@ -214,7 +191,6 @@
     "02-Atomic/Using the Laplace transform to solve IVP.md",
     "02-Atomic/1750719125-tramite-de-permisos-para-campamentos.md",
     "01-Areas/1.UC3M/DiffCalc.md",
-    "02-Atomic/1750692203 - method-of-undetermined-coefficients.md",
     "00-References/DiffCalc_Exercises_S1.pdf",
     "00-References/calc_resource_partialFractions.pdf",
     "00-References/References_Derivatives&Integrals.pdf",

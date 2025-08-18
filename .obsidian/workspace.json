@@ -8,22 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0080bb6ea2eec649",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
             "id": "f815fa4daa45b19c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-Atomic/1755513982-softwareproyectmanagement.md",
+                "file": "02-Atomic/1755513982-softwareprojectmanagement.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -38,17 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "1755513982-softwareproyectmanagement"
-            }
-          },
-          {
-            "id": "a58036e5852052f3",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "title": "1755513982-softwareprojectmanagement"
             }
           },
           {
@@ -75,8 +55,7 @@
               "title": "1755515684-softwareproject"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -178,10 +157,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "02-Atomic/1755515684-softwareproject.md"
+                "file": "02-Atomic/1755513982-softwareprojectmanagement.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for 1755515684-softwareproject"
+              "title": "File properties for 1755513982-softwareprojectmanagement"
             }
           }
         ]
@@ -205,11 +184,11 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "613d004acd212c14",
+  "active": "6063ac09e22ba87c",
   "lastOpenFiles": [
     "02-Atomic/1755515684-softwareproject.md",
+    "02-Atomic/1755513982-softwareprojectmanagement.md",
     "02-Atomic/1755515654-untitledsuffix.md",
-    "02-Atomic/1755513982-softwareproyectmanagement.md",
     "99-Meta/01-Templates/NoteTemplate.md",
     "02-Atomic/prefix-myinteresingtitle.md",
     "02-Atomic/1755354348 --sometitlemytitlesometitle.md",

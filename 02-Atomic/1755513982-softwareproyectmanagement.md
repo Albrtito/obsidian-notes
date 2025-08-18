@@ -14,4 +14,7 @@ cssclasses:
 - Final project: 30% (presentations on week 11, hand in in week 12)
 - Oral exam: 20%
 - **Attendance is mandatory**: 80% to pass the course
+
+## Use of AI: 
+- Permitted for consulting
 ***

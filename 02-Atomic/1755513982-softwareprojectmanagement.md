@@ -8,7 +8,7 @@ cssclasses:
 ---
 # Software project management
 
-> “Project management is organized common sense”
+> Project management is just organized common sense
 
 > [!NOTE] Intro: 
 > To manage would be to **planning, organizing and directing the completion of a proyect**. 

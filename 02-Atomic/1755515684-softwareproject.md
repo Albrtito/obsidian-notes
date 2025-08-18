@@ -1,6 +1,6 @@
 ---
 aliases:
-  - project
+  - software project
 tags:
   - spm
 References: 

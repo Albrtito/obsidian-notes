@@ -21,10 +21,24 @@
             "id": "f815fa4daa45b19c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "02-Atomic/1755513982-softwareproyectmanagement.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "1755513982-softwareproyectmanagement"
             }
           }
         ],
@@ -129,9 +143,11 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {},
+              "state": {
+                "file": "02-Atomic/1755513982-softwareproyectmanagement.md"
+              },
               "icon": "lucide-info",
-              "title": "File properties"
+              "title": "File properties for 1755513982-softwareproyectmanagement"
             }
           }
         ]
@@ -157,6 +173,7 @@
   },
   "active": "f815fa4daa45b19c",
   "lastOpenFiles": [
+    "02-Atomic/1755513982-softwareproyectmanagement.md",
     "99-Meta/01-Templates/NoteTemplate.md",
     "02-Atomic/prefix-myinteresingtitle.md",
     "02-Atomic/1755354348 --sometitlemytitlesometitle.md",
@@ -185,7 +202,6 @@
     "02-Atomic/1750692203 - method-of-undetermined-coefficients.md",
     "02-Atomic/20240418 - 193416 - Partial Differential Equations (PDEs).md",
     "02-Atomic/20240528 - 121302 - First order linear  ODE.md",
-    "02-Atomic/1750617647 - - Untitled Suffix.md",
     "00-References/DiffCalc_Exercises_S1.pdf",
     "00-References/calc_resource_partialFractions.pdf",
     "00-References/References_Derivatives&Integrals.pdf",

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-Atomic/1755520514-phasesofacompilation.md",
+                "file": "02-Atomic/1742475772 - Movilidad Islandia.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "1755520514-phasesofacompilation"
+              "title": "1742475772 - Movilidad Islandia"
             }
           },
           {
@@ -78,9 +78,33 @@
               "icon": "lucide-file",
               "title": "1755605942-ishousingaid"
             }
+          },
+          {
+            "id": "85f80362e64d69a2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02-Atomic/1755609065-iscontacts.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "1755609065-iscontacts"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -99,7 +123,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02-Atomic/1755605942-ishousingaid.md",
+                "file": "02-Atomic/1755609065-iscontacts.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -127,7 +151,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 1755605942-ishousingaid"
+              "title": "Graph of 1755609065-iscontacts"
             }
           }
         ]
@@ -182,10 +206,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "02-Atomic/1755605942-ishousingaid.md"
+                "file": "02-Atomic/1755609065-iscontacts.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for 1755605942-ishousingaid"
+              "title": "File properties for 1755609065-iscontacts"
             }
           },
           {
@@ -224,12 +248,15 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "c42af93a0b14f18b",
+  "active": "85f80362e64d69a2",
   "lastOpenFiles": [
-    "02-Atomic/1755605942-ishousingaid.md",
-    "02-Atomic/1746718627-is-housing.md",
+    "02-Atomic/1755609065-iscontacts.md",
     "02-Atomic/1742475772 - Movilidad Islandia.md",
+    "02-Atomic/is contacts.md",
+    "01-Areas/1.UC3M/Movilidad.md",
     "02-Atomic/1755520514-phasesofacompilation.md",
+    "02-Atomic/1746718627-is-housing.md",
+    "02-Atomic/1755605942-ishousingaid.md",
     "02-Atomic/1755520312-compiler.md",
     "02-Atomic/1755599732-machinelearning.md",
     "03-ext/Atomic/Metodologías de Estudio.md",
@@ -249,9 +276,6 @@
     "03-ext/Atomic/1746862410 - Main - Sistemas Interactivos y Ubicuos.md",
     "03-ext/Atomic/1741426003 - Entrevista Técnica - Machine Learning Prácticas.md",
     "02-Atomic/1755515684-softwareproject.md",
-    "02-Atomic/1755513982-softwareprojectmanagement.md",
-    "02-Atomic/1755515654-untitledsuffix.md",
-    "99-Meta/01-Templates/NoteTemplate.md",
     "https:/wumbo.net/glossary",
     "https:/wumbo.net",
     "https:",

@@ -11,10 +11,12 @@
             "id": "d891e4ccb84132b6",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.10"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.9.10"
             }
           }
         ]
@@ -64,6 +66,33 @@
               },
               "icon": "lucide-git-fork",
               "title": "Graph view"
+            }
+          },
+          {
+            "id": "7c6f31ab21b6ede9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "f0564a580d69002f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -136,6 +165,51 @@
               "icon": "lucide-tags",
               "title": "Tags"
             }
+          },
+          {
+            "id": "64155a922f195885",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "d2bf6de329056221",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "562226ab6b3fe415",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
           }
         ]
       }
@@ -146,6 +220,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "janitor:Janitor: scan vault": false,
       "zk-prefixer:Create new unique note": true,
       "switcher:Open quick switcher": true,
@@ -161,6 +236,9 @@
   },
   "active": "d891e4ccb84132b6",
   "lastOpenFiles": [
+    "02-Atomic/Uni.base",
+    "02-Atomic/Untitled 2.md",
+    "02-Atomic/Untitled 1.md",
     "02-Atomic/1746722386-is-how-not-to-die.md",
     "02-Atomic/1742475772 - Movilidad Islandia.md",
     "02-Atomic/1746718627-is-housing.md",
@@ -184,9 +262,6 @@
     "03-ext/Atomic/1740988541 - Main - Aprendizaje Automático.md",
     "03-ext/Atomic/1746940618 - Examen ML - Mayo 2024.md",
     "03-ext/Atomic/1740988970 - Tareas, modelos, algoritmos.md",
-    "03-ext/Atomic/1746866837 - Aprendizaje profundo.md",
-    "03-ext/Atomic/1746862410 - Main - Sistemas Interactivos y Ubicuos.md",
-    "03-ext/Atomic/1741426003 - Entrevista Técnica - Machine Learning Prácticas.md",
     "https:/wumbo.net/glossary",
     "https:/wumbo.net",
     "https:",
@@ -206,7 +281,6 @@
     "99-Meta/0. Attachments/Screenshot 2024-10-04 at 1.30.32 PM.png",
     "99-Meta/0. Attachments/Screenshot 2024-09-24 at 1.38.16 PM.png",
     "99-Meta/0. Attachments",
-    "99-Meta/1-Templates",
     "01-Areas/2. HTB/HTB_Linux Fundamentals.canvas",
     "01 - Areas/2. HTB/HTB_Linux Fundamentals.canvas",
     "01.Areas/1.UC3M/Movilidad.canvas",

@@ -25,8 +25,9 @@ await tp.file.rename(newTitle);
 -%>
 ---
 aliases:
-  - <% userTitle %>
+- <% userTitle %>
 tags:
+- review
 References:
 cssclasses:
 ---

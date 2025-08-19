@@ -2,8 +2,12 @@
 aliases:
   - machine learning
 tags:
-References:
+  - review
+References: 
 cssclasses:
+sr-due: 2025-08-22
+sr-interval: 3
+sr-ease: 250
 ---
 # machine learning
 > [!NOTE] Intro: 

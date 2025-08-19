@@ -23,18 +23,17 @@
     "editLaterTag": "#edit-later",
     "enableNoteReviewPaneOnStartup": true,
     "tagsToReview": [
-      "#review",
-      "#incomplete",
-      ""
+      "#review"
     ],
     "noteFoldersToIgnore": [
       "99-Meta",
-      "01-Areas"
+      "01-Areas",
+      "03-ext"
     ],
     "openRandomNote": true,
     "autoNextNote": true,
     "disableFileMenuReviewOptions": false,
-    "maxNDaysNotesReviewQueue": 122,
+    "maxNDaysNotesReviewQueue": 30,
     "initiallyExpandAllSubdecksInTree": false,
     "baseEase": 250,
     "lapsesIntervalChange": 0.5,
@@ -43,7 +42,7 @@
     "maxLinkFactor": 1,
     "showDebugMessages": false
   },
-  "buryDate": "2025-08-16",
+  "buryDate": "2025-08-19",
   "buryList": [],
   "historyDeck": null
 }

@@ -13,30 +13,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-Atomic/1755520312-compiler.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "1755520312-compiler"
-            }
-          },
-          {
-            "id": "398d9573eaa0dc1a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "02-Atomic/1755599732-machinelearning.md",
                 "mode": "source",
                 "source": false,
@@ -55,8 +31,7 @@
               "title": "1755599732-machinelearning"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -105,8 +80,26 @@
               "icon": "lucide-git-fork",
               "title": "Graph of 1755599732-machinelearning"
             }
+          },
+          {
+            "id": "0b118bfe8ac54af4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#metodoCornell",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "f340046a713a91df",
@@ -163,6 +156,21 @@
               "icon": "lucide-info",
               "title": "File properties for 1755599732-machinelearning"
             }
+          },
+          {
+            "id": "6faa1b920b566528",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": true,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
           }
         ]
       }
@@ -185,14 +193,27 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "398d9573eaa0dc1a",
+  "active": "b361cc516bf821b4",
   "lastOpenFiles": [
-    "03-ext/Atomic/1746862410 - Main - Sistemas Interactivos y Ubicuos.md",
+    "02-Atomic/1755520312-compiler.md",
+    "03-ext/Atomic/Metodologías de Estudio.md",
     "02-Atomic/1755599732-machinelearning.md",
+    "03-ext/Atomic/1728306915 - Integridad y autenticación con criptografía simétrica.md",
+    "03-ext/Atomic/1730133097 - - Untitled Suffix.md",
+    "03-ext/Atomic/1732036403 - Acceso Aleatorio.md",
+    "03-ext/Atomic/1733914437 - Exam - HyO - Test 2.md",
+    "03-ext/Atomic/1740989793 - Aprendizaje no supervisado.md",
+    "03-ext/Atomic/1741427700 - Error Residual.md",
+    "03-ext/Atomic/Interacción Persona-Ordenador.md",
+    "03-ext/Atomic/Programación Lineal.md",
+    "03-ext/Atomic/1727968348 - Sobre condiciones binarias en programación lineal.md",
     "03-ext/Atomic/1740988541 - Main - Aprendizaje Automático.md",
+    "03-ext/Atomic/1746940618 - Examen ML - Mayo 2024.md",
+    "03-ext/Atomic/1740988970 - Tareas, modelos, algoritmos.md",
+    "03-ext/Atomic/1746866837 - Aprendizaje profundo.md",
+    "03-ext/Atomic/1746862410 - Main - Sistemas Interactivos y Ubicuos.md",
     "03-ext/Atomic/1741426003 - Entrevista Técnica - Machine Learning Prácticas.md",
     "02-Atomic/1755520514-phasesofacompilation.md",
-    "02-Atomic/1755520312-compiler.md",
     "02-Atomic/1755515684-softwareproject.md",
     "02-Atomic/1755513982-softwareprojectmanagement.md",
     "02-Atomic/1755515654-untitledsuffix.md",
@@ -200,19 +221,6 @@
     "02-Atomic/prefix-myinteresingtitle.md",
     "02-Atomic/1755354348 --sometitlemytitlesometitle.md",
     "02-Atomic/1755354397-testingtestingtesting.md",
-    "99-Meta/01-Templates/NoteFolderTemplate.md",
-    "02-Atomic/1755353757 - Engineering resources.md",
-    "README.md",
-    "02-Atomic/Distribuidos.md",
-    "02-Atomic/20240528 - 110528 - Separable ODEs.md",
-    "02-Atomic/20240307 - 000000 - ODEs.md",
-    "02-Atomic/Systems of First-Order ODEs.md",
-    "02-Atomic/20250623 - 000000 - Second order, linear ODEs.md",
-    "02-Atomic/The Laplace transform.md",
-    "02-Atomic/20240603 - 174745 - Definition - Natural Logarithm.md",
-    "02-Atomic/20240529 - 162512 - First order exact ODE.md",
-    "02-Atomic/1750774321-notes-on-diffy-qs-de-for-engineers-at-osu.md",
-    "01-Areas/1.UC3M/Heuristica y Opti.md",
     "https:/wumbo.net/glossary",
     "https:/wumbo.net",
     "https:",

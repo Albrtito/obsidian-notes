@@ -21,7 +21,7 @@
     "multilineCardSeparator": "?",
     "multilineReversedCardSeparator": "??",
     "editLaterTag": "#edit-later",
-    "enableNoteReviewPaneOnStartup": true,
+    "enableNoteReviewPaneOnStartup": false,
     "tagsToReview": [
       "#review"
     ],
@@ -32,7 +32,7 @@
     ],
     "openRandomNote": true,
     "autoNextNote": true,
-    "disableFileMenuReviewOptions": false,
+    "disableFileMenuReviewOptions": true,
     "maxNDaysNotesReviewQueue": 30,
     "initiallyExpandAllSubdecksInTree": false,
     "baseEase": 250,

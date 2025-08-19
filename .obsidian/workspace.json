@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-Atomic/1755599732-machinelearning.md",
+                "file": "02-Atomic/1755520514-phasesofacompilation.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "1755599732-machinelearning"
+              "title": "1755520514-phasesofacompilation"
             }
           }
         ]
@@ -50,7 +50,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02-Atomic/1755599732-machinelearning.md",
+                "file": "02-Atomic/1755520514-phasesofacompilation.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -78,28 +78,10 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 1755599732-machinelearning"
-            }
-          },
-          {
-            "id": "0b118bfe8ac54af4",
-            "type": "leaf",
-            "state": {
-              "type": "search",
-              "state": {
-                "query": "tag:#metodoCornell",
-                "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical"
-              },
-              "icon": "lucide-search",
-              "title": "Search"
+              "title": "Graph of 1755520514-phasesofacompilation"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "f340046a713a91df",
@@ -151,10 +133,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "02-Atomic/1755599732-machinelearning.md"
+                "file": "02-Atomic/1755520514-phasesofacompilation.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for 1755599732-machinelearning"
+              "title": "File properties for 1755520514-phasesofacompilation"
             }
           },
           {
@@ -196,8 +178,9 @@
   "active": "b361cc516bf821b4",
   "lastOpenFiles": [
     "02-Atomic/1755520312-compiler.md",
-    "03-ext/Atomic/Metodologías de Estudio.md",
+    "02-Atomic/1755520514-phasesofacompilation.md",
     "02-Atomic/1755599732-machinelearning.md",
+    "03-ext/Atomic/Metodologías de Estudio.md",
     "03-ext/Atomic/1728306915 - Integridad y autenticación con criptografía simétrica.md",
     "03-ext/Atomic/1730133097 - - Untitled Suffix.md",
     "03-ext/Atomic/1732036403 - Acceso Aleatorio.md",
@@ -213,7 +196,6 @@
     "03-ext/Atomic/1746866837 - Aprendizaje profundo.md",
     "03-ext/Atomic/1746862410 - Main - Sistemas Interactivos y Ubicuos.md",
     "03-ext/Atomic/1741426003 - Entrevista Técnica - Machine Learning Prácticas.md",
-    "02-Atomic/1755520514-phasesofacompilation.md",
     "02-Atomic/1755515684-softwareproject.md",
     "02-Atomic/1755513982-softwareprojectmanagement.md",
     "02-Atomic/1755515654-untitledsuffix.md",

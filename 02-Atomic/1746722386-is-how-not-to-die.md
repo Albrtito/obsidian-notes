@@ -4,7 +4,6 @@ aliases:
   - IS-how not to die
 tags: []
 ---
-
 # IS-how not to die
 > [!NOTE]
 > Some things so that I don't die the first days, where to eat, where to go for help, transport, that kind of thing. 

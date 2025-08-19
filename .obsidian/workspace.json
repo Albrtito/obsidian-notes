@@ -4,107 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "f31abad5791172dd",
+        "id": "3183543eca5b021d",
         "type": "tabs",
         "children": [
           {
-            "id": "b361cc516bf821b4",
+            "id": "d891e4ccb84132b6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02-Atomic/1742475772 - Movilidad Islandia.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "1742475772 - Movilidad Islandia"
-            }
-          },
-          {
-            "id": "ed0c83c465eae4b9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02-Atomic/1746718627-is-housing.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "1746718627-is-housing"
-            }
-          },
-          {
-            "id": "c42af93a0b14f18b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02-Atomic/1755605942-ishousingaid.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "1755605942-ishousingaid"
-            }
-          },
-          {
-            "id": "85f80362e64d69a2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02-Atomic/1755609065-iscontacts.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "1755609065-iscontacts"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -123,7 +36,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02-Atomic/1755609065-iscontacts.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -151,7 +63,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 1755609065-iscontacts"
+              "title": "Graph view"
             }
           }
         ]
@@ -205,11 +117,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "02-Atomic/1755609065-iscontacts.md"
-              },
+              "state": {},
               "icon": "lucide-info",
-              "title": "File properties for 1755609065-iscontacts"
+              "title": "File properties"
             }
           },
           {
@@ -248,15 +158,16 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "85f80362e64d69a2",
+  "active": "d891e4ccb84132b6",
   "lastOpenFiles": [
-    "02-Atomic/1755609065-iscontacts.md",
+    "02-Atomic/1746722386-is-how-not-to-die.md",
     "02-Atomic/1742475772 - Movilidad Islandia.md",
+    "02-Atomic/1746718627-is-housing.md",
+    "02-Atomic/1755605942-ishousingaid.md",
+    "02-Atomic/1755609065-iscontacts.md",
     "02-Atomic/is contacts.md",
     "01-Areas/1.UC3M/Movilidad.md",
     "02-Atomic/1755520514-phasesofacompilation.md",
-    "02-Atomic/1746718627-is-housing.md",
-    "02-Atomic/1755605942-ishousingaid.md",
     "02-Atomic/1755520312-compiler.md",
     "02-Atomic/1755599732-machinelearning.md",
     "03-ext/Atomic/Metodologías de Estudio.md",
@@ -275,7 +186,6 @@
     "03-ext/Atomic/1746866837 - Aprendizaje profundo.md",
     "03-ext/Atomic/1746862410 - Main - Sistemas Interactivos y Ubicuos.md",
     "03-ext/Atomic/1741426003 - Entrevista Técnica - Machine Learning Prácticas.md",
-    "02-Atomic/1755515684-softwareproject.md",
     "https:/wumbo.net/glossary",
     "https:/wumbo.net",
     "https:",

@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-Atomic/1755520514-phasesofacompilation.md",
+                "file": "02-Atomic/1755599732-machinelearning.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "1755520514-phasesofacompilation"
+              "title": "1755599732-machinelearning"
             }
           }
         ],
@@ -75,7 +75,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02-Atomic/1755520514-phasesofacompilation.md",
+                "file": "02-Atomic/1755599732-machinelearning.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -98,12 +98,12 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.5653515224827164,
+                  "scale": 0.2723916180144684,
                   "close": true
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 1755520514-phasesofacompilation"
+              "title": "Graph of 1755599732-machinelearning"
             }
           }
         ]
@@ -158,10 +158,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "02-Atomic/1755520514-phasesofacompilation.md"
+                "file": "02-Atomic/1755599732-machinelearning.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for 1755520514-phasesofacompilation"
+              "title": "File properties for 1755599732-machinelearning"
             }
           }
         ]
@@ -187,6 +187,10 @@
   },
   "active": "398d9573eaa0dc1a",
   "lastOpenFiles": [
+    "03-ext/Atomic/1746862410 - Main - Sistemas Interactivos y Ubicuos.md",
+    "02-Atomic/1755599732-machinelearning.md",
+    "03-ext/Atomic/1740988541 - Main - Aprendizaje Automático.md",
+    "03-ext/Atomic/1741426003 - Entrevista Técnica - Machine Learning Prácticas.md",
     "02-Atomic/1755520514-phasesofacompilation.md",
     "02-Atomic/1755520312-compiler.md",
     "02-Atomic/1755515684-softwareproject.md",
@@ -209,13 +213,9 @@
     "02-Atomic/20240529 - 162512 - First order exact ODE.md",
     "02-Atomic/1750774321-notes-on-diffy-qs-de-for-engineers-at-osu.md",
     "01-Areas/1.UC3M/Heuristica y Opti.md",
-    "02-Atomic/20240515 - 035256 - Euler's formula.md",
-    "02-Atomic/1750763597-wumbo-a-math-reference-site.md",
     "https:/wumbo.net/glossary",
     "https:/wumbo.net",
     "https:",
-    "02-Atomic/Using the Laplace transform to solve IVP.md",
-    "02-Atomic/1750719125-tramite-de-permisos-para-campamentos.md",
     "00-References/DiffCalc_Exercises_S1.pdf",
     "00-References/calc_resource_partialFractions.pdf",
     "00-References/References_Derivatives&Integrals.pdf",

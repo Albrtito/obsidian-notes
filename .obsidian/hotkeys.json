@@ -17,15 +17,6 @@
       "key": ","
     }
   ],
-  "editor:insert-tag": [
-    {
-      "modifiers": [
-        "Mod",
-        "Shift"
-      ],
-      "key": "T"
-    }
-  ],
   "workspace:undo-close-pane": [],
   "editing-toolbar:fullscreen-focus": [
     {

@@ -4,19 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "3183543eca5b021d",
+        "id": "f31abad5791172dd",
         "type": "tabs",
         "children": [
           {
-            "id": "d891e4ccb84132b6",
+            "id": "f815fa4daa45b19c",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.9.10"
+                "file": "02-Atomic/1755612382-attacksurface.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.9.10"
+              "icon": "lucide-file",
+              "title": "1755612382-attacksurface"
             }
           }
         ]
@@ -38,6 +50,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "02-Atomic/1755612382-attacksurface.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -60,39 +73,12 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.2723916180144684,
+                  "scale": 0.5653515224827164,
                   "close": true
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
-            "id": "7c6f31ab21b6ede9",
-            "type": "leaf",
-            "state": {
-              "type": "search",
-              "state": {
-                "query": "",
-                "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical"
-              },
-              "icon": "lucide-search",
-              "title": "Search"
-            }
-          },
-          {
-            "id": "f0564a580d69002f",
-            "type": "leaf",
-            "state": {
-              "type": "bookmarks",
-              "state": {},
-              "icon": "lucide-bookmark",
-              "title": "Bookmarks"
+              "title": "Graph of 1755612382-attacksurface"
             }
           }
         ]
@@ -146,77 +132,18 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {},
+              "state": {
+                "file": "02-Atomic/1755612382-attacksurface.md"
+              },
               "icon": "lucide-info",
-              "title": "File properties"
-            }
-          },
-          {
-            "id": "6faa1b920b566528",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true,
-                "showSearch": true,
-                "searchQuery": ""
-              },
-              "icon": "lucide-tags",
-              "title": "Tags"
-            }
-          },
-          {
-            "id": "64155a922f195885",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "Backlinks"
-            }
-          },
-          {
-            "id": "d2bf6de329056221",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "Outgoing links"
-            }
-          },
-          {
-            "id": "562226ab6b3fe415",
-            "type": "leaf",
-            "state": {
-              "type": "all-properties",
-              "state": {
-                "sortOrder": "frequency",
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-archive",
-              "title": "All properties"
+              "title": "File properties for 1755612382-attacksurface"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 371.5,
-    "collapsed": true
+    "width": 371.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -234,12 +161,16 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "d891e4ccb84132b6",
+  "active": "f815fa4daa45b19c",
   "lastOpenFiles": [
+    "02-Atomic/1755513982-softwareprojectmanagement.md",
+    "02-Atomic/1755612382-attacksurface.md",
+    "99-Meta/01-Templates/NoteTemplate.md",
+    "02-Atomic/1755515684-softwareproject.md",
+    "02-Atomic/1746722386-is-how-not-to-die.md",
     "02-Atomic/Uni.base",
     "02-Atomic/Untitled 2.md",
     "02-Atomic/Untitled 1.md",
-    "02-Atomic/1746722386-is-how-not-to-die.md",
     "02-Atomic/1742475772 - Movilidad Islandia.md",
     "02-Atomic/1746718627-is-housing.md",
     "02-Atomic/1755605942-ishousingaid.md",
@@ -259,9 +190,6 @@
     "03-ext/Atomic/Interacción Persona-Ordenador.md",
     "03-ext/Atomic/Programación Lineal.md",
     "03-ext/Atomic/1727968348 - Sobre condiciones binarias en programación lineal.md",
-    "03-ext/Atomic/1740988541 - Main - Aprendizaje Automático.md",
-    "03-ext/Atomic/1746940618 - Examen ML - Mayo 2024.md",
-    "03-ext/Atomic/1740988970 - Tareas, modelos, algoritmos.md",
     "https:/wumbo.net/glossary",
     "https:/wumbo.net",
     "https:",

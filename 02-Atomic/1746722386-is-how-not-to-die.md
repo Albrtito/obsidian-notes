@@ -2,9 +2,10 @@
 id: 1746722386-is-how-not-to-die
 aliases:
   - IS-how not to die
-tags: []
+tags:
+  - is
 ---
-# IS-how not to die
+# is how not to die
 > [!NOTE]
 > Some things so that I don't die the first days, where to eat, where to go for help, transport, that kind of thing. 
 

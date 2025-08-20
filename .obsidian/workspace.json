@@ -109,7 +109,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-Atomic/1755695045-thewaterfallmodel.md",
+                "file": "02-Atomic/1755695372-scrummodel.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -124,7 +124,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "1755695045-thewaterfallmodel"
+              "title": "1755695372-scrummodel"
             }
           }
         ],
@@ -147,7 +147,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02-Atomic/1755695045-thewaterfallmodel.md",
+                "file": "02-Atomic/1755695372-scrummodel.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -175,7 +175,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 1755695045-thewaterfallmodel"
+              "title": "Graph of 1755695372-scrummodel"
             }
           }
         ]
@@ -231,17 +231,18 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "02-Atomic/1755695045-thewaterfallmodel.md"
+                "file": "02-Atomic/1755695372-scrummodel.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for 1755695045-thewaterfallmodel"
+              "title": "File properties for 1755695372-scrummodel"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 371.5
+    "width": 371.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -262,10 +263,11 @@
   "active": "49893f80710a5b34",
   "lastOpenFiles": [
     "02-Atomic/1755695045-thewaterfallmodel.md",
+    "02-Atomic/1755695372-scrummodel.md",
+    "02-Atomic/1755694707-businessfocusedproject.md",
     "02-Atomic/1755694166-typesofprojectsbasedongoalandsolution.md",
     "02-Atomic/1755515684-softwareproject.md",
     "02-Atomic/1755513982-softwareprojectmanagement.md",
-    "02-Atomic/1755694707-businessfocusedproject.md",
     "02-Atomic/1746718627-is-housing.md",
     "02-Atomic/1755609065-iscontacts.md",
     "02-Atomic/1755615441-cyberdefense.md",
@@ -287,7 +289,6 @@
     "02-Atomic/1755599732-machinelearning.md",
     "03-ext/Atomic/Metodologías de Estudio.md",
     "03-ext/Atomic/1728306915 - Integridad y autenticación con criptografía simétrica.md",
-    "03-ext/Atomic/1730133097 - - Untitled Suffix.md",
     "https:/wumbo.net/glossary",
     "https:/wumbo.net",
     "https:",

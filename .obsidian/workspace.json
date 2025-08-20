@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-Atomic/1755694166-typesofprojects.md",
+                "file": "02-Atomic/1755694166-typesofprojectsbasedongoalandsolution.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,11 +76,59 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "1755694166-typesofprojects"
+              "title": "1755694166-typesofprojectsbasedongoalandsolution"
+            }
+          },
+          {
+            "id": "c0bce4d1695c43f3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02-Atomic/1755694707-businessfocusedproject.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "1755694707-businessfocusedproject"
+            }
+          },
+          {
+            "id": "49893f80710a5b34",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02-Atomic/1755695045-thewaterfallmodel.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "1755695045-thewaterfallmodel"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -99,7 +147,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02-Atomic/1755694166-typesofprojects.md",
+                "file": "02-Atomic/1755695045-thewaterfallmodel.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -127,7 +175,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 1755694166-typesofprojects"
+              "title": "Graph of 1755695045-thewaterfallmodel"
             }
           }
         ]
@@ -183,18 +231,17 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "02-Atomic/1755694166-typesofprojects.md"
+                "file": "02-Atomic/1755695045-thewaterfallmodel.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for 1755694166-typesofprojects"
+              "title": "File properties for 1755695045-thewaterfallmodel"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 371.5,
-    "collapsed": true
+    "width": 371.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -212,13 +259,15 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "2fb073ef78b038a5",
+  "active": "49893f80710a5b34",
   "lastOpenFiles": [
-    "02-Atomic/1755694166-typesofprojects.md",
+    "02-Atomic/1755695045-thewaterfallmodel.md",
+    "02-Atomic/1755694166-typesofprojectsbasedongoalandsolution.md",
+    "02-Atomic/1755515684-softwareproject.md",
     "02-Atomic/1755513982-softwareprojectmanagement.md",
+    "02-Atomic/1755694707-businessfocusedproject.md",
     "02-Atomic/1746718627-is-housing.md",
     "02-Atomic/1755609065-iscontacts.md",
-    "02-Atomic/1755515684-softwareproject.md",
     "02-Atomic/1755615441-cyberdefense.md",
     "02-Atomic/1755612382-attacksurface.md",
     "99-Meta/01-Templates/NoteTemplate.md",
@@ -239,8 +288,6 @@
     "03-ext/Atomic/Metodologías de Estudio.md",
     "03-ext/Atomic/1728306915 - Integridad y autenticación con criptografía simétrica.md",
     "03-ext/Atomic/1730133097 - - Untitled Suffix.md",
-    "03-ext/Atomic/1732036403 - Acceso Aleatorio.md",
-    "03-ext/Atomic/1733914437 - Exam - HyO - Test 2.md",
     "https:/wumbo.net/glossary",
     "https:/wumbo.net",
     "https:",

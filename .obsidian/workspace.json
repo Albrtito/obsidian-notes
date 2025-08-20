@@ -11,10 +11,24 @@
             "id": "6e95af60d2cea605",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "02-Atomic/1755515684-softwareproject.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "1755515684-softwareproject"
             }
           }
         ]
@@ -146,9 +160,11 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {},
+              "state": {
+                "file": "02-Atomic/1755515684-softwareproject.md"
+              },
               "icon": "lucide-info",
-              "title": "File properties"
+              "title": "File properties for 1755515684-softwareproject"
             }
           },
           {
@@ -157,6 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "02-Atomic/1755515684-softwareproject.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,7 +183,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for 1755515684-softwareproject"
             }
           },
           {
@@ -175,11 +192,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "02-Atomic/1755515684-softwareproject.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from 1755515684-softwareproject"
             }
           },
           {

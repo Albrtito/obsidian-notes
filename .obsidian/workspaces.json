@@ -204,7 +204,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "02-Atomic/1755515684-softwareproject.md",
+                    "file": "02-Atomic/1746718627-is-housing.md",
                     "mode": "source",
                     "source": false,
                     "backlinks": true,
@@ -219,7 +219,7 @@
                     }
                   },
                   "icon": "lucide-file",
-                  "title": "1755515684-softwareproject"
+                  "title": "1746718627-is-housing"
                 }
               }
             ]
@@ -352,10 +352,10 @@
                 "state": {
                   "type": "file-properties",
                   "state": {
-                    "file": "02-Atomic/1755515684-softwareproject.md"
+                    "file": "02-Atomic/1746718627-is-housing.md"
                   },
                   "icon": "lucide-info",
-                  "title": "File properties for 1755515684-softwareproject"
+                  "title": "File properties for 1746718627-is-housing"
                 }
               },
               {
@@ -443,8 +443,8 @@
         }
       },
       "active": "6e95af60d2cea605",
-      "mtime": "2025-08-20T12:45:34+00:00"
+      "mtime": "2025-08-20T12:48:56+00:00"
     }
   },
-  "active": "is"
+  "active": "main"
 }

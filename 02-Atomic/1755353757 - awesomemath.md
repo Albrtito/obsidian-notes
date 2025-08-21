@@ -1,11 +1,11 @@
 ---
 aliases:
-  - Engineering resources
+  - awesome math
 tags:
 References:
 cssclasses:
 ---
-# Engineering resources
+# awesome math
 > [!NOTE] Intro: 
 > 
 

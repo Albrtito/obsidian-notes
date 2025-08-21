@@ -174,9 +174,33 @@
               "icon": "lucide-file",
               "title": "1755806234-isweatherandforecasts"
             }
+          },
+          {
+            "id": "f65db9789ad59249",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02-Atomic/1755353757 - awesomemath.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "1755353757 - awesomemath"
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -306,10 +330,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "02-Atomic/1755806234-isweatherandforecasts.md"
+                "file": "02-Atomic/1755353757 - awesomemath.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for 1755806234-isweatherandforecasts"
+              "title": "File properties for 1755353757 - awesomemath"
             }
           },
           {
@@ -396,7 +420,7 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "6063ac09e22ba87c",
+  "active": "f65db9789ad59249",
   "lastOpenFiles": [
     "02-Atomic/1755806234-isweatherandforecasts.md",
     "02-Atomic/1755696053-kanbanmodel.md",

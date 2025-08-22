@@ -54,9 +54,33 @@
               "icon": "lucide-file",
               "title": "1755853898-formallanguage"
             }
+          },
+          {
+            "id": "9cceb870e019cbf6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02-Atomic/1755855042-grammar.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "1755855042-grammar"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -75,7 +99,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02-Atomic/1755853898-formallanguage.md",
+                "file": "02-Atomic/1755855042-grammar.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -103,7 +127,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 1755853898-formallanguage"
+              "title": "Graph of 1755855042-grammar"
             }
           },
           {
@@ -186,10 +210,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "02-Atomic/1755853898-formallanguage.md"
+                "file": "02-Atomic/1755855042-grammar.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for 1755853898-formallanguage"
+              "title": "File properties for 1755855042-grammar"
             }
           },
           {
@@ -277,9 +301,10 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "b20582b243abb5b1",
+  "active": "9cceb870e019cbf6",
   "lastOpenFiles": [
     "02-Atomic/1755853898-formallanguage.md",
+    "02-Atomic/1755855042-grammar.md",
     "02-Atomic/1755353757 - awesomemath.md",
     "02-Atomic/1755806234-isweatherandforecasts.md",
     "02-Atomic/1755696053-kanbanmodel.md",
@@ -305,7 +330,6 @@
     "02-Atomic/Untitled 1.md",
     "02-Atomic/1742475772 - Movilidad Islandia.md",
     "02-Atomic/1755605942-ishousingaid.md",
-    "02-Atomic/is contacts.md",
     "https:/wumbo.net/glossary",
     "https:/wumbo.net",
     "https:",

@@ -78,9 +78,33 @@
               "icon": "lucide-file",
               "title": "1755855042-grammar"
             }
+          },
+          {
+            "id": "7fe59c471328532b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02-Atomic/1755856119-grammarproductionrules.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "1755856119-grammarproductionrules"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -99,7 +123,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02-Atomic/1755855042-grammar.md",
+                "file": "02-Atomic/1755856119-grammarproductionrules.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -127,7 +151,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 1755855042-grammar"
+              "title": "Graph of 1755856119-grammarproductionrules"
             }
           },
           {
@@ -210,10 +234,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "02-Atomic/1755855042-grammar.md"
+                "file": "02-Atomic/1755856119-grammarproductionrules.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for 1755855042-grammar"
+              "title": "File properties for 1755856119-grammarproductionrules"
             }
           },
           {
@@ -282,8 +306,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 371.5,
-    "collapsed": true
+    "width": 371.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -301,10 +324,11 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "9cceb870e019cbf6",
+  "active": "7fe59c471328532b",
   "lastOpenFiles": [
     "02-Atomic/1755853898-formallanguage.md",
     "02-Atomic/1755855042-grammar.md",
+    "02-Atomic/1755856119-grammarproductionrules.md",
     "02-Atomic/1755353757 - awesomemath.md",
     "02-Atomic/1755806234-isweatherandforecasts.md",
     "02-Atomic/1755696053-kanbanmodel.md",
@@ -329,7 +353,6 @@
     "02-Atomic/Untitled 2.md",
     "02-Atomic/Untitled 1.md",
     "02-Atomic/1742475772 - Movilidad Islandia.md",
-    "02-Atomic/1755605942-ishousingaid.md",
     "https:/wumbo.net/glossary",
     "https:/wumbo.net",
     "https:",

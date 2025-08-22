@@ -123,7 +123,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02-Atomic/1755856119-grammarproductionrules.md",
+                "file": "02-Atomic/1755855042-grammar.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -151,7 +151,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 1755856119-grammarproductionrules"
+              "title": "Graph of 1755855042-grammar"
             }
           },
           {
@@ -234,10 +234,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "02-Atomic/1755856119-grammarproductionrules.md"
+                "file": "02-Atomic/1755855042-grammar.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for 1755856119-grammarproductionrules"
+              "title": "File properties for 1755855042-grammar"
             }
           },
           {
@@ -327,9 +327,9 @@
   "active": "7fe59c471328532b",
   "lastOpenFiles": [
     "02-Atomic/1755853898-formallanguage.md",
-    "02-Atomic/1755855042-grammar.md",
-    "02-Atomic/1755856119-grammarproductionrules.md",
     "02-Atomic/1755353757 - awesomemath.md",
+    "02-Atomic/1755856119-grammarproductionrules.md",
+    "02-Atomic/1755855042-grammar.md",
     "02-Atomic/1755806234-isweatherandforecasts.md",
     "02-Atomic/1755696053-kanbanmodel.md",
     "02-Atomic/1755695372-scrummodel.md",

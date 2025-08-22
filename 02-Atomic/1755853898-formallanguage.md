@@ -1,8 +1,9 @@
 ---
 aliases:
-- formal language
+  - formal language
 tags:
-- review
+  - review
+  - comp
 References:
 cssclasses:
 ---
@@ -14,6 +15,9 @@ cssclasses:
 - All **strings** will be made out of symbols of the alphabet. 
 	- String = word = sentence
 - A language may include the empty string as $\lambda$
+
+> [!NOTE] Title
+> Contents
 
 
 ***

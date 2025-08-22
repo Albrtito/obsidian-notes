@@ -75,7 +75,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02-Atomic/1755696053-kanbanmodel.md",
+                "file": "02-Atomic/1755853898-formallanguage.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -103,7 +103,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 1755696053-kanbanmodel"
+              "title": "Graph of 1755853898-formallanguage"
             }
           },
           {
@@ -258,7 +258,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 371.5
+    "width": 371.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {

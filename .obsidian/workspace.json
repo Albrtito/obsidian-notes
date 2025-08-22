@@ -8,174 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f815fa4daa45b19c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02-Atomic/1755513982-softwareprojectmanagement.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "1755513982-softwareprojectmanagement"
-            }
-          },
-          {
-            "id": "613d004acd212c14",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02-Atomic/1755515684-softwareproject.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "1755515684-softwareproject"
-            }
-          },
-          {
-            "id": "2fb073ef78b038a5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02-Atomic/1755694166-typesofprojectsbasedongoalandsolution.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "1755694166-typesofprojectsbasedongoalandsolution"
-            }
-          },
-          {
-            "id": "c0bce4d1695c43f3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02-Atomic/1755694707-businessfocusedproject.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "1755694707-businessfocusedproject"
-            }
-          },
-          {
-            "id": "49893f80710a5b34",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02-Atomic/1755695372-scrummodel.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "1755695372-scrummodel"
-            }
-          },
-          {
-            "id": "161ac3a93335b0f7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02-Atomic/1755696053-kanbanmodel.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "1755696053-kanbanmodel"
-            }
-          },
-          {
-            "id": "060c6395f8ec96d9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02-Atomic/1755806234-isweatherandforecasts.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "1755806234-isweatherandforecasts"
-            }
-          },
-          {
             "id": "f65db9789ad59249",
             "type": "leaf",
             "state": {
@@ -198,9 +30,33 @@
               "icon": "lucide-file",
               "title": "1755353757 - awesomemath"
             }
+          },
+          {
+            "id": "b20582b243abb5b1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02-Atomic/1755853898-formallanguage.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "1755853898-formallanguage"
+            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -330,10 +186,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "02-Atomic/1755353757 - awesomemath.md"
+                "file": "02-Atomic/1755853898-formallanguage.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for 1755353757 - awesomemath"
+              "title": "File properties for 1755853898-formallanguage"
             }
           },
           {
@@ -420,19 +276,21 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "f65db9789ad59249",
+  "active": "b20582b243abb5b1",
   "lastOpenFiles": [
+    "02-Atomic/1755853898-formallanguage.md",
+    "02-Atomic/1755353757 - awesomemath.md",
     "02-Atomic/1755806234-isweatherandforecasts.md",
     "02-Atomic/1755696053-kanbanmodel.md",
-    "02-Atomic/Untitled Kanban.md",
-    "02-Atomic/Kanban_GE2.md",
     "02-Atomic/1755695372-scrummodel.md",
-    "99-Meta/01-Templates/NoteTemplate.md",
-    "02-Atomic/1755695045-thewaterfallmodel.md",
     "02-Atomic/1755694707-businessfocusedproject.md",
     "02-Atomic/1755694166-typesofprojectsbasedongoalandsolution.md",
     "02-Atomic/1755515684-softwareproject.md",
     "02-Atomic/1755513982-softwareprojectmanagement.md",
+    "02-Atomic/Untitled Kanban.md",
+    "02-Atomic/Kanban_GE2.md",
+    "99-Meta/01-Templates/NoteTemplate.md",
+    "02-Atomic/1755695045-thewaterfallmodel.md",
     "02-Atomic/1746718627-is-housing.md",
     "02-Atomic/1755609065-iscontacts.md",
     "02-Atomic/1755615441-cyberdefense.md",
@@ -447,8 +305,6 @@
     "02-Atomic/1742475772 - Movilidad Islandia.md",
     "02-Atomic/1755605942-ishousingaid.md",
     "02-Atomic/is contacts.md",
-    "01-Areas/1.UC3M/Movilidad.md",
-    "02-Atomic/1755520514-phasesofacompilation.md",
     "https:/wumbo.net/glossary",
     "https:/wumbo.net",
     "https:",

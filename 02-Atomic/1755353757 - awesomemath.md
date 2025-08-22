@@ -2,6 +2,7 @@
 aliases:
   - awesome math
 tags:
+  - awesome
 References:
 cssclasses:
 ---

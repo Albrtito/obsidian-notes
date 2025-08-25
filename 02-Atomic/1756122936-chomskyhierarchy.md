@@ -13,7 +13,9 @@ cssclasses:
 Types contain each other and are numbered from the biggest to the smallest: 3 → 0 
 
 - Type 3: Regular grammars
+	- Left-right linear
 - Type 2: Context-free grammars
+	- No terminals on the right
 - Type 1: Case-sensitive grammars
 - Type 0: Recursively enumerable grammars
 

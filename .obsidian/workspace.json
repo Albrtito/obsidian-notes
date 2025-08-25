@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1419f1c5425c31ff",
+            "id": "6fa79b4ca72f7526",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-Atomic/1755695372-scrummodel.md",
+                "file": "02-Atomic/1756122936-chomskyhierarchy.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "1755695372-scrummodel"
+              "title": "1756122936-chomskyhierarchy"
             }
           }
         ]
@@ -50,7 +50,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02-Atomic/1755695372-scrummodel.md",
+                "file": "02-Atomic/1756122936-chomskyhierarchy.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -78,7 +78,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 1755695372-scrummodel"
+              "title": "Graph of 1756122936-chomskyhierarchy"
             }
           }
         ]
@@ -134,10 +134,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "02-Atomic/1755695372-scrummodel.md"
+                "file": "02-Atomic/1756122936-chomskyhierarchy.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for 1755695372-scrummodel"
+              "title": "File properties for 1756122936-chomskyhierarchy"
             }
           }
         ]
@@ -162,8 +162,9 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "1419f1c5425c31ff",
+  "active": "6fa79b4ca72f7526",
   "lastOpenFiles": [
+    "02-Atomic/1756122936-chomskyhierarchy.md",
     "02-Atomic/1755695372-scrummodel.md",
     "02-Atomic/1755515684-softwareproject.md",
     "02-Atomic/1755605942-ishousingaid.md",
@@ -190,7 +191,6 @@
     "02-Atomic/1746722386-is-how-not-to-die.md",
     "02-Atomic/Uni.base",
     "02-Atomic/Untitled 2.md",
-    "02-Atomic/Untitled 1.md",
     "https:/wumbo.net/glossary",
     "https:/wumbo.net",
     "https:",

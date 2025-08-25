@@ -1,8 +1,9 @@
 ---
 aliases:
-- chomsky hierarchy
+  - chomsky hierarchy
 tags:
-- review
+  - review
+  - comp
 References:
 cssclasses:
 ---
@@ -20,6 +21,8 @@ Types contain each other and are numbered from the biggest to the smallest: 3 â†
 - Type 0: Recursively enumerable grammars
 
 **Remarks:**
+
+- For programming the most relevant grammars are regular and context free (types 3 and 2)
 
 ***
 ### Up

@@ -79,8 +79,7 @@
               "title": "1756124510-writinggrammars"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -99,7 +98,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02-Atomic/1756124510-writinggrammars.md",
+                "file": "02-Atomic/1756122936-chomskyhierarchy.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -127,7 +126,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 1756124510-writinggrammars"
+              "title": "Graph of 1756122936-chomskyhierarchy"
             }
           }
         ]
@@ -183,10 +182,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "02-Atomic/1756124510-writinggrammars.md"
+                "file": "02-Atomic/1756122936-chomskyhierarchy.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for 1756124510-writinggrammars"
+              "title": "File properties for 1756122936-chomskyhierarchy"
             }
           }
         ]
@@ -211,11 +210,11 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "abf0eab742b16182",
+  "active": "6fa79b4ca72f7526",
   "lastOpenFiles": [
     "02-Atomic/1756124510-writinggrammars.md",
-    "02-Atomic/1756122936-chomskyhierarchy.md",
     "02-Atomic/1755855042-grammar.md",
+    "02-Atomic/1756122936-chomskyhierarchy.md",
     "02-Atomic/1755695372-scrummodel.md",
     "02-Atomic/1755515684-softwareproject.md",
     "02-Atomic/1755605942-ishousingaid.md",

@@ -4,31 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "a6652242b796df33",
+        "id": "d18327d13690b30d",
         "type": "tabs",
         "children": [
           {
-            "id": "6fa79b4ca72f7526",
+            "id": "4b826907d8ac2a08",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02-Atomic/1756122936-chomskyhierarchy.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "1756122936-chomskyhierarchy"
+              "title": "New tab"
             }
           }
         ]
@@ -50,7 +36,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02-Atomic/1756122936-chomskyhierarchy.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -78,7 +63,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 1756122936-chomskyhierarchy"
+              "title": "Graph view"
             }
           }
         ]
@@ -163,12 +148,12 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "6fa79b4ca72f7526",
+  "active": "4b826907d8ac2a08",
   "lastOpenFiles": [
+    "02-Atomic/1756122936-chomskyhierarchy.md",
     "02-Atomic/1755855042-grammar.md",
     "02-Atomic/1756124510-writinggrammars.md",
     "02-Atomic/1756125901-lexicalanalysis.md",
-    "02-Atomic/1756122936-chomskyhierarchy.md",
     "02-Atomic/1755695372-scrummodel.md",
     "02-Atomic/1755515684-softwareproject.md",
     "02-Atomic/1755605942-ishousingaid.md",

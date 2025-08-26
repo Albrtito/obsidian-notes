@@ -30,81 +30,8 @@
               "icon": "lucide-file",
               "title": "1756122936-chomskyhierarchy"
             }
-          },
-          {
-            "id": "b842d6182afcd930",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02-Atomic/1755855042-grammar.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "1755855042-grammar"
-            }
-          },
-          {
-            "id": "abf0eab742b16182",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02-Atomic/1756124510-writinggrammars.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "1756124510-writinggrammars"
-            }
-          },
-          {
-            "id": "6c0f5dd4c57778e8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02-Atomic/1756125901-lexicalanalysis.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "1756125901-lexicalanalysis"
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -123,7 +50,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02-Atomic/1756125901-lexicalanalysis.md",
+                "file": "02-Atomic/1756122936-chomskyhierarchy.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -151,7 +78,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 1756125901-lexicalanalysis"
+              "title": "Graph of 1756122936-chomskyhierarchy"
             }
           }
         ]
@@ -236,12 +163,12 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "6c0f5dd4c57778e8",
+  "active": "6fa79b4ca72f7526",
   "lastOpenFiles": [
+    "02-Atomic/1755855042-grammar.md",
+    "02-Atomic/1756124510-writinggrammars.md",
     "02-Atomic/1756125901-lexicalanalysis.md",
     "02-Atomic/1756122936-chomskyhierarchy.md",
-    "02-Atomic/1756124510-writinggrammars.md",
-    "02-Atomic/1755855042-grammar.md",
     "02-Atomic/1755695372-scrummodel.md",
     "02-Atomic/1755515684-softwareproject.md",
     "02-Atomic/1755605942-ishousingaid.md",

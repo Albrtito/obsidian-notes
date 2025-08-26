@@ -11,10 +11,24 @@
             "id": "4b826907d8ac2a08",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "02-Atomic/1756215731-awesomeblogs.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "1756215731-awesomeblogs"
             }
           }
         ]
@@ -150,6 +164,7 @@
   },
   "active": "4b826907d8ac2a08",
   "lastOpenFiles": [
+    "02-Atomic/1756215731-awesomeblogs.md",
     "02-Atomic/1756122936-chomskyhierarchy.md",
     "02-Atomic/1755855042-grammar.md",
     "02-Atomic/1756124510-writinggrammars.md",
@@ -175,7 +190,6 @@
     "02-Atomic/1755612382-attacksurface.md",
     "03-ext/99 - Meta/Templates/NoteTemplate.md",
     "02-Atomic/1755613158-test.md",
-    "02-Atomic/1755613134-test.md",
     "02-Atomic/Uni.base",
     "https:/wumbo.net/glossary",
     "https:/wumbo.net",

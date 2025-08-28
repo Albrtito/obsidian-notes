@@ -54,9 +54,81 @@
               "icon": "lucide-file",
               "title": "1756374226-evaluationinregression"
             }
+          },
+          {
+            "id": "acba593122f5fa69",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02-Atomic/1756374614-overfittingandunderfitting.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "1756374614-overfittingandunderfitting"
+            }
+          },
+          {
+            "id": "5123e51663307c31",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02-Atomic/1756374848-solutionsforunderfitting.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "1756374848-solutionsforunderfitting"
+            }
+          },
+          {
+            "id": "e9dd0c4defc0fd95",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02-Atomic/1756374897-solutionsforoverfitting.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "1756374897-solutionsforoverfitting"
+            }
           }
         ],
-        "currentTab": 1,
+        "currentTab": 4,
         "stacked": true
       }
     ],
@@ -76,7 +148,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02-Atomic/1756374226-evaluationinregression.md",
+                "file": "02-Atomic/1756374897-solutionsforoverfitting.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -104,7 +176,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 1756374226-evaluationinregression"
+              "title": "Graph of 1756374897-solutionsforoverfitting"
             }
           }
         ]
@@ -160,10 +232,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "02-Atomic/1756374226-evaluationinregression.md"
+                "file": "02-Atomic/1756374897-solutionsforoverfitting.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for 1756374226-evaluationinregression"
+              "title": "File properties for 1756374897-solutionsforoverfitting"
             }
           }
         ]
@@ -188,10 +260,13 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "0a3e3554d247fe24",
+  "active": "e9dd0c4defc0fd95",
   "lastOpenFiles": [
+    "02-Atomic/1756374848-solutionsforunderfitting.md",
+    "02-Atomic/1756374614-overfittingandunderfitting.md",
     "02-Atomic/1756374226-evaluationinregression.md",
     "02-Atomic/1756371053-confusionmatrix.md",
+    "02-Atomic/1756374897-solutionsforoverfitting.md",
     "02-Atomic/1756215731-awesomeblogs.md",
     "02-Atomic/1756122936-chomskyhierarchy.md",
     "02-Atomic/1755855042-grammar.md",
@@ -213,9 +288,6 @@
     "02-Atomic/Kanban_GE2.md",
     "99-Meta/01-Templates/NoteTemplate.md",
     "02-Atomic/1755695045-thewaterfallmodel.md",
-    "02-Atomic/1755609065-iscontacts.md",
-    "02-Atomic/1755615441-cyberdefense.md",
-    "02-Atomic/1755612382-attacksurface.md",
     "02-Atomic/Uni.base",
     "https:/wumbo.net/glossary",
     "https:/wumbo.net",

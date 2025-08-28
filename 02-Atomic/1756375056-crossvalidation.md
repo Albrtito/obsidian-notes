@@ -15,11 +15,12 @@ cssclasses:
 **Remarks:**
 - It is really important that the **sampling data of the different sections is REPRESENTATIVE** (it has random values). We can use two sampling techniques for this
 	- Simple random sampling → Random
-	- Stratified sampling → 
+	- Stratified sampling → Apply some criteria
 ## Validation data:
+Used to decide between different models before performing the final testing. 
 
 ## Test data:
-- This test data is **not touched or used in any ways until the final model is done**
+Test data is **not touched or used in any ways until the final model is done**
 
 Then we can look at the results for our test data compared for the results for testing data. When the results for test data start to worsen we’ll know that the model is not generalising anymore but overfitting. 
 

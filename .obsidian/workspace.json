@@ -126,9 +126,33 @@
               "icon": "lucide-file",
               "title": "1756374897-solutionsforoverfitting"
             }
+          },
+          {
+            "id": "a45023608ac0b8e1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02-Atomic/1756375056-crossvalidation.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "1756375056-crossvalidation"
+            }
           }
         ],
-        "currentTab": 4,
+        "currentTab": 5,
         "stacked": true
       }
     ],
@@ -148,7 +172,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02-Atomic/1756374897-solutionsforoverfitting.md",
+                "file": "02-Atomic/1756375056-crossvalidation.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -176,7 +200,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 1756374897-solutionsforoverfitting"
+              "title": "Graph of 1756375056-crossvalidation"
             }
           }
         ]
@@ -232,10 +256,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "02-Atomic/1756374897-solutionsforoverfitting.md"
+                "file": "02-Atomic/1756375056-crossvalidation.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for 1756374897-solutionsforoverfitting"
+              "title": "File properties for 1756375056-crossvalidation"
             }
           }
         ]
@@ -260,13 +284,14 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "e9dd0c4defc0fd95",
+  "active": "a45023608ac0b8e1",
   "lastOpenFiles": [
-    "02-Atomic/1756374848-solutionsforunderfitting.md",
-    "02-Atomic/1756374614-overfittingandunderfitting.md",
-    "02-Atomic/1756374226-evaluationinregression.md",
     "02-Atomic/1756371053-confusionmatrix.md",
+    "02-Atomic/1756374226-evaluationinregression.md",
+    "02-Atomic/1756374614-overfittingandunderfitting.md",
+    "02-Atomic/1756374848-solutionsforunderfitting.md",
     "02-Atomic/1756374897-solutionsforoverfitting.md",
+    "02-Atomic/1756375056-crossvalidation.md",
     "02-Atomic/1756215731-awesomeblogs.md",
     "02-Atomic/1756122936-chomskyhierarchy.md",
     "02-Atomic/1755855042-grammar.md",
@@ -287,7 +312,6 @@
     "02-Atomic/Untitled Kanban.md",
     "02-Atomic/Kanban_GE2.md",
     "99-Meta/01-Templates/NoteTemplate.md",
-    "02-Atomic/1755695045-thewaterfallmodel.md",
     "02-Atomic/Uni.base",
     "https:/wumbo.net/glossary",
     "https:/wumbo.net",

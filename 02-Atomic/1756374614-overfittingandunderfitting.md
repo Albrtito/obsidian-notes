@@ -1,8 +1,9 @@
 ---
 aliases:
-- overfitting and underfitting
+  - overfitting and underfitting
 tags:
-- review
+  - review
+  - ms
 References:
 cssclasses:
 ---

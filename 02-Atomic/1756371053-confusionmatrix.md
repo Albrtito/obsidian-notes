@@ -9,7 +9,14 @@ cssclasses:
 ---
 # confusion matrix
 > [!NOTE] Intro: 
-> Method for evaluation of results of a ms model. 
+> Method for evaluation of results of a ms model. It creates a matrix defined by the actual category in one axis and the predicted category on the other one. Then we obtain four (for binary) cells. 
+> 
+> 1. **True values predicted true**
+> 2. True values predicted false 
+> 3. False values predicted true
+> 4. **False values predicted false**
+>
+> *The ones in bold are the good ones
 
 ### The problem with accuracy
 Just knowing that the accuracy of a model is really high does not tell us if it’s a good model or not. This is because there may be some problems with the prediction of one of the classes, this is called **class inbalance**

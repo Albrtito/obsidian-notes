@@ -35,10 +35,24 @@
             "id": "20e6f6fc010b3c5b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "02-Atomic/1756371053-confusionmatrix.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "1756371053-confusionmatrix"
             }
           }
         ],
@@ -61,6 +75,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "02-Atomic/1756371053-confusionmatrix.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -88,7 +103,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Graph of 1756371053-confusionmatrix"
             }
           }
         ]
@@ -144,18 +159,17 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "02-Atomic/1756125901-lexicalanalysis.md"
+                "file": "02-Atomic/1756371053-confusionmatrix.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for 1756125901-lexicalanalysis"
+              "title": "File properties for 1756371053-confusionmatrix"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 371.5,
-    "collapsed": true
+    "width": 371.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -175,6 +189,7 @@
   },
   "active": "20e6f6fc010b3c5b",
   "lastOpenFiles": [
+    "02-Atomic/1756371053-confusionmatrix.md",
     "02-Atomic/1756215731-awesomeblogs.md",
     "02-Atomic/1756122936-chomskyhierarchy.md",
     "02-Atomic/1755855042-grammar.md",
@@ -200,7 +215,6 @@
     "02-Atomic/1755615441-cyberdefense.md",
     "02-Atomic/1755612382-attacksurface.md",
     "03-ext/99 - Meta/Templates/NoteTemplate.md",
-    "02-Atomic/1755613158-test.md",
     "02-Atomic/Uni.base",
     "https:/wumbo.net/glossary",
     "https:/wumbo.net",

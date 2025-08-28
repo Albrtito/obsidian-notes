@@ -30,8 +30,19 @@
               "icon": "lucide-file",
               "title": "1756215731-awesomeblogs"
             }
+          },
+          {
+            "id": "20e6f6fc010b3c5b",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -162,7 +173,7 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "4b826907d8ac2a08",
+  "active": "20e6f6fc010b3c5b",
   "lastOpenFiles": [
     "02-Atomic/1756215731-awesomeblogs.md",
     "02-Atomic/1756122936-chomskyhierarchy.md",

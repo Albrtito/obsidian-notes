@@ -17,6 +17,7 @@ cssclasses:
 4. Reduce noise in the data
 ***
 ### Up
+- [[1756374614-overfittingandunderfitting|overfitting and underfitting]]
 ### Down
 - [[1756375056-crossvalidation|cross-validation]]
 ***

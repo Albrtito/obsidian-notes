@@ -16,5 +16,6 @@ cssclasses:
 3. Reduce constraints of the model
 ***
 ### Up
+- [[1756374614-overfittingandunderfitting|overfitting and underfitting]]
 ### Down
 ***

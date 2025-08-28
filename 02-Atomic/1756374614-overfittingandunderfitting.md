@@ -15,6 +15,7 @@ cssclasses:
 
 ***
 ### Up
+- [[1756374226-evaluationinregression|evaluation in regression]]
 ### Down
 
 - [[1756374897-solutionsforoverfitting|solutions for overfitting]]

@@ -27,5 +27,6 @@ Then we can look at the results for our test data compared for the results for t
 
 ***
 ### Up
+- [[1756374897-solutionsforoverfitting|solutions for overfitting]]
 ### Down
 ***

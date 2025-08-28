@@ -9,7 +9,7 @@ cssclasses:
 ---
 # confusion matrix
 > [!NOTE] Intro: 
-> Method for evaluation of results of a ms model. It creates a matrix defined by the actual category in one axis and the predicted category on the other one. Then we obtain four (for binary) cells. 
+> Method for evaluation of results of a **discrete/clasification** ms model. It creates a matrix defined by the actual category in one axis and the predicted category on the other one. Then we obtain four (for binary) cells. 
 > 
 > 1. **True values predicted true**
 > 2. True values predicted false 

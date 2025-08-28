@@ -30,7 +30,10 @@ So it is measuring how many times **the model predicted some positive values and
 #### The tradeoff: 
 There is a tradeoff between precision and recall based on the threshold from which we detect a true value. Every prediction will have some assurance (%), if the threshold for a true value is smaller, the recall will be bigger but the precision smaller. If we turn it around same thing happens but in reverse, for a big threshold the precision gets better but the recall gets worse. 
 
-This is not 
+This is not a linear relation, although it depends on the model we can get a value near to 80% for both precision and recall. Of course we allways want to maximize both as most as possible. 
+The action of looking for this threshold is called **thresholding.** 
+
+The better model is the one that can maintain a higher precision for a longer time. The larger the area the better. 
 ***
 ### Up
 ### Down

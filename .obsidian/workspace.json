@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-Atomic/1756638658-grammarproductionrules.md",
+                "file": "02-Atomic/1756638658-productionrules.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "1756638658-grammarproductionrules"
+              "title": "1756638658-productionrules"
             }
           },
           {
@@ -109,7 +109,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-Atomic/1755855042-grammar.md",
+                "file": "02-Atomic/1756638658-productionrules.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -124,11 +124,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "1755855042-grammar"
+              "title": "1756638658-productionrules"
             }
           }
         ],
-        "currentTab": 1,
+        "currentTab": 4,
         "stacked": true
       }
     ],
@@ -148,7 +148,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02-Atomic/1756122936-chomskyhierarchy.md",
+                "file": "02-Atomic/1756638658-productionrules.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -176,10 +176,28 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 1756122936-chomskyhierarchy"
+              "title": "Graph of 1756638658-productionrules"
+            }
+          },
+          {
+            "id": "e20381e16f6b383e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#comp",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "f340046a713a91df",
@@ -191,10 +209,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02-Atomic/1730648938 - Input port processing in routers.md"
+                "file": "02-Atomic/1756638658-productionrules.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 1730827988 - Subnets"
+              "title": "Outline of 1756638658-productionrules"
             }
           },
           {
@@ -209,14 +230,28 @@
               "icon": "lucide-folder-closed",
               "title": "Files"
             }
+          },
+          {
+            "id": "06eee229e3462ab5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 251.5,
-    "collapsed": true
+    "width": 251.5
   },
   "right": {
     "id": "8881aa8c79e29157",
@@ -232,10 +267,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "02-Atomic/1756122936-chomskyhierarchy.md"
+                "file": "02-Atomic/1756638658-productionrules.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for 1756122936-chomskyhierarchy"
+              "title": "File properties for 1756638658-productionrules"
             }
           }
         ]
@@ -260,13 +295,16 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "b5ae740cf14c2fee",
+  "active": "300a47e74f97ba51",
   "lastOpenFiles": [
-    "02-Atomic/1755853898-formallanguage.md",
-    "02-Atomic/1756122936-chomskyhierarchy.md",
-    "02-Atomic/1756638658-grammarproductionrules.md",
+    "01-Areas/1.UC3M/Comp. Dig..md",
+    "02-Atomic/1745246274 - Uso de la biblioteca UC3M.md",
+    "02-Atomic/1756638658-productionrules.md",
     "02-Atomic/1756125901-lexicalanalysis.md",
+    "02-Atomic/1756124510-writinggrammars.md",
     "02-Atomic/1755855042-grammar.md",
+    "02-Atomic/1756122936-chomskyhierarchy.md",
+    "02-Atomic/1755853898-formallanguage.md",
     "99-Meta/01-Templates/NoteTemplate.md",
     "02-Atomic/1756639330-mytitle.md",
     "02-Atomic/1756639337-mytitle.md",
@@ -277,7 +315,6 @@
     "02-Atomic/1756374848-solutionsforunderfitting.md",
     "02-Atomic/1756375056-crossvalidation.md",
     "02-Atomic/1756215731-awesomeblogs.md",
-    "02-Atomic/1756124510-writinggrammars.md",
     "02-Atomic/1755695372-scrummodel.md",
     "02-Atomic/1755515684-softwareproject.md",
     "02-Atomic/1755605942-ishousingaid.md",
@@ -286,8 +323,6 @@
     "02-Atomic/1746718627-is-housing.md",
     "02-Atomic/1755806234-isweatherandforecasts.md",
     "02-Atomic/1755696053-kanbanmodel.md",
-    "02-Atomic/1755694707-businessfocusedproject.md",
-    "02-Atomic/1755694166-typesofprojectsbasedongoalandsolution.md",
     "02-Atomic/Uni.base",
     "https:/wumbo.net/glossary",
     "https:/wumbo.net",

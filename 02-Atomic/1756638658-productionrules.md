@@ -1,13 +1,13 @@
 ---
 aliases:
-  - grammar production rules
+  - production rules
 tags:
   - review
   - comp
 References:
 cssclasses:
 ---
-# grammar production rules
+# production rules
 > [!NOTE] Intro: 
 > The production rules or derivation rules of a grammar define the changes that can be applied to non-terminal symbols for some given grammar.
 

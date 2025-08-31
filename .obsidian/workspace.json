@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-Atomic/1755855042-grammar.md",
+                "file": "02-Atomic/1755853898-formallanguage.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,10 +28,83 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "1755855042-grammar"
+              "title": "1755853898-formallanguage"
+            }
+          },
+          {
+            "id": "b5ae740cf14c2fee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02-Atomic/1756122936-chomskyhierarchy.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "1756122936-chomskyhierarchy"
+            }
+          },
+          {
+            "id": "ce453548941b71c6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02-Atomic/1756638658-grammarproductionrules.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "1756638658-grammarproductionrules"
+            }
+          },
+          {
+            "id": "b229b26b92f0d9f7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02-Atomic/1756125901-lexicalanalysis.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "1756125901-lexicalanalysis"
             }
           }
         ],
+        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -51,7 +124,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02-Atomic/1755855042-grammar.md",
+                "file": "02-Atomic/1756638658-grammarproductionrules.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -79,7 +152,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 1755855042-grammar"
+              "title": "Graph of 1756638658-grammarproductionrules"
             }
           }
         ]
@@ -135,10 +208,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "02-Atomic/1755855042-grammar.md"
+                "file": "02-Atomic/1756638658-grammarproductionrules.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for 1755855042-grammar"
+              "title": "File properties for 1756638658-grammarproductionrules"
             }
           }
         ]
@@ -164,8 +237,13 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "08a2e8c9bf36cd95",
+  "active": "ce453548941b71c6",
   "lastOpenFiles": [
+    "02-Atomic/1756125901-lexicalanalysis.md",
+    "02-Atomic/1755853898-formallanguage.md",
+    "02-Atomic/1755855042-grammar.md",
+    "02-Atomic/1756638658-grammarproductionrules.md",
+    "02-Atomic/1756122936-chomskyhierarchy.md",
     "02-Atomic/1756371053-confusionmatrix.md",
     "02-Atomic/1756374226-evaluationinregression.md",
     "02-Atomic/1756374614-overfittingandunderfitting.md",
@@ -173,16 +251,12 @@
     "02-Atomic/1756374848-solutionsforunderfitting.md",
     "02-Atomic/1756375056-crossvalidation.md",
     "02-Atomic/1756215731-awesomeblogs.md",
-    "02-Atomic/1756122936-chomskyhierarchy.md",
-    "02-Atomic/1755855042-grammar.md",
     "02-Atomic/1756124510-writinggrammars.md",
-    "02-Atomic/1756125901-lexicalanalysis.md",
     "02-Atomic/1755695372-scrummodel.md",
     "02-Atomic/1755515684-softwareproject.md",
     "02-Atomic/1755605942-ishousingaid.md",
     "02-Atomic/1755856119-grammarproductionrules.md",
     "02-Atomic/1755353757 - awesomemath.md",
-    "02-Atomic/1755853898-formallanguage.md",
     "02-Atomic/1746718627-is-housing.md",
     "02-Atomic/1755806234-isweatherandforecasts.md",
     "02-Atomic/1755696053-kanbanmodel.md",
@@ -191,7 +265,6 @@
     "02-Atomic/1755513982-softwareprojectmanagement.md",
     "02-Atomic/Untitled Kanban.md",
     "02-Atomic/Kanban_GE2.md",
-    "99-Meta/01-Templates/NoteTemplate.md",
     "02-Atomic/Uni.base",
     "https:/wumbo.net/glossary",
     "https:/wumbo.net",

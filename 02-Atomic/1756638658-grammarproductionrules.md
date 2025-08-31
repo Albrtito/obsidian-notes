@@ -1,0 +1,26 @@
+---
+aliases:
+- grammar production rules
+tags:
+- review
+References:
+cssclasses:
+---
+# grammar production rules
+> [!NOTE] Intro: 
+> The production rules or derivation rules of a grammar define the changes that can be applied to non-terminal symbols for some given grammar.
+
+- A production rule has a left and a right side
+  $$ \text{left} \rightarrow \text{right}$$
+	- All but lambda can be in the left side
+- Production rules can use logical operators, the one seen the most beeing the | to secuentially define several rules. 
+  $$ u \rightarrow v$$
+  $$u \rightarrow w$$Being the same as:
+	  
+
+***
+### Up
+- [[1755855042-grammar|grammar]]
+- [[1756122936-chomskyhierarchy|chomsky hierarchy]]
+### Down
+***

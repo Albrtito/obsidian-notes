@@ -1,8 +1,9 @@
 ---
 aliases:
-- lexical analysis
+  - lexical analysis
 tags:
-- review
+  - review
+  - comp
 References:
 cssclasses:
 ---

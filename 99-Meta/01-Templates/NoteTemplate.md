@@ -1,6 +1,8 @@
 <%* 
 // Prompt the user for a title
 let userTitle = await tp.system.prompt("Enter title");
+// Prompt for tags
+let tags= await tp.system.prompt("Enter tag");
 
 // Get the current file title to use as prefix
 let currentTitle = tp.file.title;
@@ -28,6 +30,7 @@ aliases:
 - <% userTitle %>
 tags:
 - review
+- <%tags%>
 References:
 cssclasses:
 ---

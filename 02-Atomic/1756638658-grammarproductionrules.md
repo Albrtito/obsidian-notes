@@ -1,8 +1,9 @@
 ---
 aliases:
-- grammar production rules
+  - grammar production rules
 tags:
-- review
+  - review
+  - comp
 References:
 cssclasses:
 ---
@@ -13,10 +14,10 @@ cssclasses:
 - A production rule has a left and a right side
   $$ \text{left} \rightarrow \text{right}$$
 	- All but lambda can be in the left side
-- Production rules can use logical operators, the one seen the most beeing the | to secuentially define several rules. 
-  $$ u \rightarrow v$$
-  $$u \rightarrow w$$Being the same as:
-	  
+
+- Production rules can use logical operators, the one seen the most beeing the | to secuentially define several rules.
+  > The rule $u\rightarrow v | u \rightarrow w$ means the same as the two rules: $u\rightarrow v$ and $u\rightarrow w$
+  
 
 ***
 ### Up

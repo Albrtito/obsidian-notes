@@ -28,7 +28,6 @@
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -248,7 +247,7 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "f2e8a49e8d28e0b6",
+  "active": "df4f7bc84f95e1bb",
   "lastOpenFiles": [
     "02-Atomic/1756638658-productionrules.md",
     "02-Atomic/1756125901-lexicalanalysis.md",

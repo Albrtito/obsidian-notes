@@ -4,22 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "2ced6623052fd87e",
+        "id": "3a47b4859c71472b",
         "type": "tabs",
         "children": [
           {
-            "id": "300a47e74f97ba51",
+            "id": "df4f7bc84f95e1bb",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.9.12"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.9.12"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "f2e8a49e8d28e0b6",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -239,7 +248,7 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "300a47e74f97ba51",
+  "active": "f2e8a49e8d28e0b6",
   "lastOpenFiles": [
     "02-Atomic/1756638658-productionrules.md",
     "02-Atomic/1756125901-lexicalanalysis.md",

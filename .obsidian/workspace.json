@@ -54,34 +54,8 @@
               "icon": "lucide-file",
               "title": "20240529 - 180146 - First order, homogeneous, substitutions ODEs"
             }
-          },
-          {
-            "id": "3aad3aeea1b07bb2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02-Atomic/20240527 - 205720 -  Initial Value Problem.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "20240527 - 205720 -  Initial Value Problem"
-            }
           }
-        ],
-        "currentTab": 2,
-        "stacked": true
+        ]
       }
     ],
     "direction": "vertical"
@@ -300,11 +274,12 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "3aad3aeea1b07bb2",
+  "active": "df4f7bc84f95e1bb",
   "lastOpenFiles": [
-    "02-Atomic/20250623 - 000000 - Second order, linear ODEs.md",
     "02-Atomic/20240529 - 180146 - First order, homogeneous, substitutions ODEs.md",
+    "02-Atomic/20240527 - 205720 -  Initial Value Problem.md",
     "02-Atomic/20240528 - 110528 - Separable ODEs.md",
+    "02-Atomic/20250623 - 000000 - Second order, linear ODEs.md",
     "02-Atomic/Principle of Superposition.md",
     "02-Atomic/1756638658-productionrules.md",
     "02-Atomic/1756125901-lexicalanalysis.md",
@@ -327,7 +302,6 @@
     "02-Atomic/1755695372-scrummodel.md",
     "02-Atomic/1755515684-softwareproject.md",
     "02-Atomic/1755605942-ishousingaid.md",
-    "02-Atomic/1755856119-grammarproductionrules.md",
     "02-Atomic/Uni.base",
     "https:/wumbo.net/glossary",
     "https:/wumbo.net",

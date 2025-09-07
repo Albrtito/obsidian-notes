@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-Atomic/20250623 - 000000 - Second order, linear ODEs.md",
+                "file": "02-Atomic/20240527 - 205720 -  Initial Value Problem.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,11 +76,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "20250623 - 000000 - Second order, linear ODEs"
+              "title": "20240527 - 205720 -  Initial Value Problem"
             }
           }
         ],
-        "currentTab": 1,
+        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -300,11 +300,11 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "f0fd46ca63773a2d",
+  "active": "3aad3aeea1b07bb2",
   "lastOpenFiles": [
-    "02-Atomic/20240528 - 110528 - Separable ODEs.md",
     "02-Atomic/20250623 - 000000 - Second order, linear ODEs.md",
     "02-Atomic/20240529 - 180146 - First order, homogeneous, substitutions ODEs.md",
+    "02-Atomic/20240528 - 110528 - Separable ODEs.md",
     "02-Atomic/Principle of Superposition.md",
     "02-Atomic/1756638658-productionrules.md",
     "02-Atomic/1756125901-lexicalanalysis.md",

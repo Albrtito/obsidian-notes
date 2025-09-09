@@ -16,6 +16,7 @@ cssclasses:
 
  So the models could be train:
 - Using different training data
+	- [[1757410900-bagging|bagging]]
 - Using different variables 
 	 - Works good with variables with overlapping features
 - Using different classes
@@ -31,4 +32,5 @@ cssclasses:
 ### Up
 - [[1757407129-ensemblemethods|ensemble methods]]
 ### Down
+- [[1757410900-bagging|bagging]]
 ***

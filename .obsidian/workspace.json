@@ -78,9 +78,33 @@
               "icon": "lucide-file",
               "title": "1757409110-biasvsvariance"
             }
+          },
+          {
+            "id": "8af1d37e022a259e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02-Atomic/1757410900-bagging.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "1757410900-bagging"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -227,10 +251,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "02-Atomic/1757409110-biasvsvariance.md"
+                "file": "02-Atomic/1757410900-bagging.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for 1757409110-biasvsvariance"
+              "title": "File properties for 1757410900-bagging"
             }
           },
           {
@@ -301,12 +325,14 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "e0cbb128bbb4d270",
+  "active": "8af1d37e022a259e",
   "lastOpenFiles": [
-    "02-Atomic/20240602 - 172958 - Real variable functions.md",
     "02-Atomic/1757409110-biasvsvariance.md",
     "02-Atomic/1757408342-ensemblebasemodels.md",
     "02-Atomic/1757407129-ensemblemethods.md",
+    "02-Atomic/1757410900-bagging.md",
+    "99-Meta/0. Attachments/1757409110-biasvsvariancej.png",
+    "02-Atomic/20240602 - 172958 - Real variable functions.md",
     "02-Atomic/20240603 - 163014 - Definition - Function.md",
     "02-Atomic/Sets of numbers.md",
     "01-Areas/1.UC3M/Calculus I.md",
@@ -328,7 +354,6 @@
     "02-Atomic/1756639330-mytitle.md",
     "02-Atomic/1756639337-mytitle.md",
     "02-Atomic/1756371053-confusionmatrix.md",
-    "02-Atomic/1756374614-overfittingandunderfitting.md",
     "02-Atomic/Uni.base",
     "https:/wumbo.net/glossary",
     "https:/wumbo.net",
@@ -347,7 +372,6 @@
     "99-Meta/0. Attachments/Screenshot 2024-10-08 at 2.29.28 PM.png",
     "99-Meta/0. Attachments/Screenshot 2024-09-24 at 1.55.20 PM.png",
     "99-Meta/0. Attachments/Screenshot 2024-10-04 at 1.30.32 PM.png",
-    "99-Meta/0. Attachments/Screenshot 2024-09-24 at 1.38.16 PM.png",
     "99-Meta/0. Attachments",
     "01-Areas/2. HTB/HTB_Linux Fundamentals.canvas",
     "01 - Areas/2. HTB/HTB_Linux Fundamentals.canvas",

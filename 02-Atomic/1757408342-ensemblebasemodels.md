@@ -15,10 +15,14 @@ cssclasses:
 > - Have a better error than a random choice model
 
  So the models could be train:
- - Using different training data
- - Using different variables 
+- Using different training data
+- Using different variables 
 	 - Works good with variables with overlapping features
- - Using use different classes
+- Using different classes
+	 - Transform the problem into a binary classification problem with one class only per classifier. (Each agent takes one class i and basically trains to say if a value is or not from class i)
+- Creating different base models:
+	- Use different classifier methods
+	- Include some randomnes during model creation. Creating models using the same method but with some variable parameters. 
 
 
 

@@ -54,9 +54,33 @@
               "icon": "lucide-file",
               "title": "1757408342-ensemblebasemodels"
             }
+          },
+          {
+            "id": "e0cbb128bbb4d270",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02-Atomic/1757409110-biasvsvariance.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "1757409110-biasvsvariance"
+            }
           }
         ],
-        "currentTab": 1,
+        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -203,9 +227,11 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {},
+              "state": {
+                "file": "02-Atomic/1757409110-biasvsvariance.md"
+              },
               "icon": "lucide-info",
-              "title": "File properties"
+              "title": "File properties for 1757409110-biasvsvariance"
             }
           },
           {
@@ -276,10 +302,11 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "2429324cfab68c76",
+  "active": "e0cbb128bbb4d270",
   "lastOpenFiles": [
-    "02-Atomic/1757407129-ensemblemethods.md",
+    "02-Atomic/1757409110-biasvsvariance.md",
     "02-Atomic/1757408342-ensemblebasemodels.md",
+    "02-Atomic/1757407129-ensemblemethods.md",
     "02-Atomic/20240529 - 180146 - First order, homogeneous, substitutions ODEs.md",
     "02-Atomic/20240528 - 110528 - Separable ODEs.md",
     "02-Atomic/20240527 - 205720 -  Initial Value Problem.md",
@@ -303,7 +330,6 @@
     "02-Atomic/1756374848-solutionsforunderfitting.md",
     "02-Atomic/1756375056-crossvalidation.md",
     "02-Atomic/1756215731-awesomeblogs.md",
-    "02-Atomic/1755695372-scrummodel.md",
     "02-Atomic/Uni.base",
     "https:/wumbo.net/glossary",
     "https:/wumbo.net",

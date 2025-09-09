@@ -13,7 +13,6 @@ cssclasses:
 > **Variance:** The variability of predictions for a point if different training data were used. (difference between data, models, error?)
 
 
-
 ***
 ### Up
 ### Down

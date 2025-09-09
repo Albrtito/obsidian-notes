@@ -78,10 +78,32 @@
               "icon": "lucide-file",
               "title": "1757409110-biasvsvariance"
             }
+          },
+          {
+            "id": "e002c9f060a9971a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02-Atomic/20240602 - 172958 - Real variable functions.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "20240602 - 172958 - Real variable functions"
+            }
           }
-        ],
-        "currentTab": 2,
-        "stacked": true
+        ]
       }
     ],
     "direction": "vertical"
@@ -228,10 +250,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "02-Atomic/1757409110-biasvsvariance.md"
+                "file": "02-Atomic/1757407129-ensemblemethods.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for 1757409110-biasvsvariance"
+              "title": "File properties for 1757407129-ensemblemethods"
             }
           },
           {
@@ -302,11 +324,15 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "e0cbb128bbb4d270",
+  "active": "6f6ccd88e62d6e6c",
   "lastOpenFiles": [
-    "02-Atomic/1757409110-biasvsvariance.md",
     "02-Atomic/1757408342-ensemblebasemodels.md",
     "02-Atomic/1757407129-ensemblemethods.md",
+    "02-Atomic/1757409110-biasvsvariance.md",
+    "02-Atomic/20240602 - 172958 - Real variable functions.md",
+    "02-Atomic/20240603 - 163014 - Definition - Function.md",
+    "02-Atomic/Sets of numbers.md",
+    "01-Areas/1.UC3M/Calculus I.md",
     "02-Atomic/20240529 - 180146 - First order, homogeneous, substitutions ODEs.md",
     "02-Atomic/20240528 - 110528 - Separable ODEs.md",
     "02-Atomic/20240527 - 205720 -  Initial Value Problem.md",
@@ -326,10 +352,6 @@
     "02-Atomic/1756639337-mytitle.md",
     "02-Atomic/1756371053-confusionmatrix.md",
     "02-Atomic/1756374614-overfittingandunderfitting.md",
-    "02-Atomic/1756374897-solutionsforoverfitting.md",
-    "02-Atomic/1756374848-solutionsforunderfitting.md",
-    "02-Atomic/1756375056-crossvalidation.md",
-    "02-Atomic/1756215731-awesomeblogs.md",
     "02-Atomic/Uni.base",
     "https:/wumbo.net/glossary",
     "https:/wumbo.net",

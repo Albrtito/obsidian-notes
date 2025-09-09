@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "3a47b4859c71472b",
+        "id": "ac1815b2fe0e34f6",
         "type": "tabs",
         "children": [
           {
-            "id": "df4f7bc84f95e1bb",
+            "id": "6f6ccd88e62d6e6c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-Atomic/20240528 - 110528 - Separable ODEs.md",
+                "file": "02-Atomic/1757407129-ensemblemethods.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,31 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "20240528 - 110528 - Separable ODEs"
-            }
-          },
-          {
-            "id": "f0fd46ca63773a2d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02-Atomic/20240529 - 180146 - First order, homogeneous, substitutions ODEs.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "20240529 - 180146 - First order, homogeneous, substitutions ODEs"
+              "title": "1757407129-ensemblemethods"
             }
           }
         ]
@@ -274,11 +250,12 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "df4f7bc84f95e1bb",
+  "active": "6f6ccd88e62d6e6c",
   "lastOpenFiles": [
+    "02-Atomic/1757407129-ensemblemethods.md",
     "02-Atomic/20240529 - 180146 - First order, homogeneous, substitutions ODEs.md",
-    "02-Atomic/20240527 - 205720 -  Initial Value Problem.md",
     "02-Atomic/20240528 - 110528 - Separable ODEs.md",
+    "02-Atomic/20240527 - 205720 -  Initial Value Problem.md",
     "02-Atomic/20250623 - 000000 - Second order, linear ODEs.md",
     "02-Atomic/Principle of Superposition.md",
     "02-Atomic/1756638658-productionrules.md",
@@ -301,7 +278,6 @@
     "02-Atomic/1756215731-awesomeblogs.md",
     "02-Atomic/1755695372-scrummodel.md",
     "02-Atomic/1755515684-softwareproject.md",
-    "02-Atomic/1755605942-ishousingaid.md",
     "02-Atomic/Uni.base",
     "https:/wumbo.net/glossary",
     "https:/wumbo.net",

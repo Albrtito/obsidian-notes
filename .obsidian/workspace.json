@@ -78,32 +78,9 @@
               "icon": "lucide-file",
               "title": "1757409110-biasvsvariance"
             }
-          },
-          {
-            "id": "e002c9f060a9971a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02-Atomic/20240602 - 172958 - Real variable functions.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "20240602 - 172958 - Real variable functions"
-            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -250,10 +227,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "02-Atomic/1757407129-ensemblemethods.md"
+                "file": "02-Atomic/1757409110-biasvsvariance.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for 1757407129-ensemblemethods"
+              "title": "File properties for 1757409110-biasvsvariance"
             }
           },
           {
@@ -324,12 +301,12 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "6f6ccd88e62d6e6c",
+  "active": "e0cbb128bbb4d270",
   "lastOpenFiles": [
+    "02-Atomic/20240602 - 172958 - Real variable functions.md",
+    "02-Atomic/1757409110-biasvsvariance.md",
     "02-Atomic/1757408342-ensemblebasemodels.md",
     "02-Atomic/1757407129-ensemblemethods.md",
-    "02-Atomic/1757409110-biasvsvariance.md",
-    "02-Atomic/20240602 - 172958 - Real variable functions.md",
     "02-Atomic/20240603 - 163014 - Definition - Function.md",
     "02-Atomic/Sets of numbers.md",
     "01-Areas/1.UC3M/Calculus I.md",

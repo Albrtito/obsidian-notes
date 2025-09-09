@@ -152,7 +152,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -299,10 +299,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "02-Atomic/1757411969-boosting.md"
+                "file": "02-Atomic/1757410900-bagging.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for 1757411969-boosting"
+              "title": "File properties for 1757410900-bagging"
             }
           },
           {
@@ -373,7 +373,7 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "60c9ca5aab67d0cd",
+  "active": "8af1d37e022a259e",
   "lastOpenFiles": [
     "02-Atomic/1757411969-boosting.md",
     "02-Atomic/1757411573-randomforest.md",

@@ -95,7 +95,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-Atomic/1756374614-overfittingandunderfitting.md",
+                "file": "02-Atomic/1757763078-knearestneighbor.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -110,7 +110,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "1756374614-overfittingandunderfitting"
+              "title": "1757763078-knearestneighbor"
             }
           }
         ],
@@ -261,10 +261,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "02-Atomic/1756374614-overfittingandunderfitting.md"
+                "file": "02-Atomic/1757763078-knearestneighbor.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for 1756374614-overfittingandunderfitting"
+              "title": "File properties for 1757763078-knearestneighbor"
             }
           },
           {
@@ -336,6 +336,10 @@
   },
   "active": "b60c8e5819360eab",
   "lastOpenFiles": [
+    "02-Atomic/1756375056-crossvalidation.md",
+    "02-Atomic/1757763078-knearestneighbor.md",
+    "02-Atomic/k-nearest neighbor.md",
+    "02-Atomic/1756374614-overfittingandunderfitting.md",
     "02-Atomic/1757762742-plotting.md",
     "02-Atomic/1745501224 - Theorem - Conditional probability.md",
     "02-Atomic/1745499861 - Probabilities.md",
@@ -359,10 +363,6 @@
     "02-Atomic/1756638658-productionrules.md",
     "02-Atomic/1756125901-lexicalanalysis.md",
     "02-Atomic/1755853898-formallanguage.md",
-    "02-Atomic/1756122936-chomskyhierarchy.md",
-    "01-Areas/1.UC3M/Comp. Dig..md",
-    "02-Atomic/1745246274 - Uso de la biblioteca UC3M.md",
-    "02-Atomic/1756124510-writinggrammars.md",
     "02-Atomic/Uni.base",
     "https:/wumbo.net/glossary",
     "https:/wumbo.net",

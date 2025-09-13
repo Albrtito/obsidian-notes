@@ -17,13 +17,13 @@ cssclasses:
 	- Simple random sampling → Random
 	- Stratified sampling → Apply some criteria
 ## Validation data:
-Used to decide between different models before performing the final testing. 
+Used to decide between different models before performing the final testing. When using the validation data we say that we are doing **model selection**
 
 ## Test data:
 Test data is **not touched or used in any ways until the final model is done**
 
 Then we can look at the results for our test data compared for the results for testing data. When the results for test data start to worsen we’ll know that the model is not generalising anymore but overfitting. 
-
+The act of using the test data to asses how good a model is i s called **model assesment**
 
 ***
 ### Up

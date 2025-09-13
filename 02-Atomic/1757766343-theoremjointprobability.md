@@ -11,8 +11,11 @@ cssclasses:
 > [!NOTE] Intro: 
 > The probability of several events happening together.
 > $$
-> \frac{}{} \text{#Cases eventes happen together}
+> \frac{\text{Cases eventss happen together}}{\text{all cases} }
 > $$
+> 
+> This can be calculated as **conditional probability x individual probability**
+>
 
 
 ***

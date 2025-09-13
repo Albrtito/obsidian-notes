@@ -6,7 +6,7 @@ tags:
 References: 
 cssclasses:
 ---
-# Theorem - Bayes rule
+# Theorem-Bayes rule
 > [!NOTE] Theorem: 
 > The Bayes rule theorem is obtained from the [[1745501224 - Theorem - Conditional probability|Conditional probability]] theorem and the [[1745503400 - Probability product rule|Probability product rule]]. Combined we obtain:
 

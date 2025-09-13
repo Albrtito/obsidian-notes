@@ -71,30 +71,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-Atomic/1757762742-plotting.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "1757762742-plotting"
-            }
-          },
-          {
-            "id": "b60c8e5819360eab",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "02-Atomic/1757763078-knearestneighbor.md",
                 "mode": "source",
                 "source": false,
@@ -112,9 +88,33 @@
               "icon": "lucide-file",
               "title": "1757763078-knearestneighbor"
             }
+          },
+          {
+            "id": "6cf3c17689654437",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02-Atomic/1745499861 - Probabilities.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "1745499861 - Probabilities"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -334,16 +334,16 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "b60c8e5819360eab",
+  "active": "d80299452fb8d9c9",
   "lastOpenFiles": [
-    "02-Atomic/1756375056-crossvalidation.md",
+    "02-Atomic/1757762742-plotting.md",
     "02-Atomic/1757763078-knearestneighbor.md",
+    "02-Atomic/1745499861 - Probabilities.md",
+    "02-Atomic/1745501224 - Theorem - Conditional probability.md",
+    "02-Atomic/1756374226-evaluationinregression.md",
+    "02-Atomic/1756375056-crossvalidation.md",
     "02-Atomic/k-nearest neighbor.md",
     "02-Atomic/1756374614-overfittingandunderfitting.md",
-    "02-Atomic/1757762742-plotting.md",
-    "02-Atomic/1745501224 - Theorem - Conditional probability.md",
-    "02-Atomic/1745499861 - Probabilities.md",
-    "02-Atomic/1756374226-evaluationinregression.md",
     "02-Atomic/1757411969-boosting.md",
     "02-Atomic/1757411573-randomforest.md",
     "02-Atomic/1757407129-ensemblemethods.md",

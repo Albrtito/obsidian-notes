@@ -11,6 +11,8 @@ cssclasses:
 > [!NOTE] Intro: 
 > Over and underfitting occours when the model created for some continuous data does not fit (under) or fits to well (over) a group of data points. 
 
+- It is easier to make a model to sofisticated that to make it more simple. (easier to overfit)
+- Better to create a simple model and see how good does that do. 
 
 
 ***

@@ -4,7 +4,8 @@ aliases:
   - Theorem - Conditional probability
 tags:
   - IA
-References: 
+  - stat
+References:
 cssclasses:
 ---
 # Theorem - Conditional probability

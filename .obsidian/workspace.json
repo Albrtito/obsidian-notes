@@ -16,8 +16,105 @@
               "icon": "lucide-file",
               "title": "New tab"
             }
+          },
+          {
+            "id": "89de38607740d0c2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02-Atomic/1756374226-evaluationinregression.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "1756374226-evaluationinregression"
+            }
+          },
+          {
+            "id": "8663687c407b36db",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02-Atomic/1745501224 - Theorem - Conditional probability.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "1745501224 - Theorem - Conditional probability"
+            }
+          },
+          {
+            "id": "d80299452fb8d9c9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02-Atomic/1757762742-plotting.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "1757762742-plotting"
+            }
+          },
+          {
+            "id": "b60c8e5819360eab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02-Atomic/1756374614-overfittingandunderfitting.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "1756374614-overfittingandunderfitting"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -72,7 +169,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#comp",
+                "query": "tag:#ms",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -163,9 +260,11 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {},
+              "state": {
+                "file": "02-Atomic/1756374614-overfittingandunderfitting.md"
+              },
               "icon": "lucide-info",
-              "title": "File properties"
+              "title": "File properties for 1756374614-overfittingandunderfitting"
             }
           },
           {
@@ -217,8 +316,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 371.5,
-    "collapsed": true
+    "width": 371.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -236,8 +334,12 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "6703b5e8391779c7",
+  "active": "b60c8e5819360eab",
   "lastOpenFiles": [
+    "02-Atomic/1757762742-plotting.md",
+    "02-Atomic/1745501224 - Theorem - Conditional probability.md",
+    "02-Atomic/1745499861 - Probabilities.md",
+    "02-Atomic/1756374226-evaluationinregression.md",
     "02-Atomic/1757411969-boosting.md",
     "02-Atomic/1757411573-randomforest.md",
     "02-Atomic/1757407129-ensemblemethods.md",
@@ -258,13 +360,9 @@
     "02-Atomic/1756125901-lexicalanalysis.md",
     "02-Atomic/1755853898-formallanguage.md",
     "02-Atomic/1756122936-chomskyhierarchy.md",
-    "02-Atomic/1756374226-evaluationinregression.md",
     "01-Areas/1.UC3M/Comp. Dig..md",
     "02-Atomic/1745246274 - Uso de la biblioteca UC3M.md",
     "02-Atomic/1756124510-writinggrammars.md",
-    "02-Atomic/1755855042-grammar.md",
-    "99-Meta/01-Templates/NoteTemplate.md",
-    "02-Atomic/1756639330-mytitle.md",
     "02-Atomic/Uni.base",
     "https:/wumbo.net/glossary",
     "https:/wumbo.net",

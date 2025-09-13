@@ -152,7 +152,7 @@
             }
           }
         ],
-        "currentTab": 2,
+        "currentTab": 5,
         "stacked": true
       }
     ],
@@ -373,7 +373,7 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "a731e5c1ca1e4efe",
+  "active": "41c7940b0e56741c",
   "lastOpenFiles": [
     "02-Atomic/1757764392-voronoidiagram.md",
     "02-Atomic/1745503587 - Theorem - Bayes rule.md",

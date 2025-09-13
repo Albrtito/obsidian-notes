@@ -150,9 +150,33 @@
               "icon": "lucide-file",
               "title": "1745503587 - Theorem - Bayes rule"
             }
+          },
+          {
+            "id": "ece4051ce4651f73",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02-Atomic/1745501401 - Theorem - Total probabilty theorem.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "1745501401 - Theorem - Total probabilty theorem"
+            }
           }
         ],
-        "currentTab": 5,
+        "currentTab": 6,
         "stacked": true
       }
     ],
@@ -300,10 +324,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "02-Atomic/1745503587 - Theorem - Bayes rule.md"
+                "file": "02-Atomic/1745501401 - Theorem - Total probabilty theorem.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for 1745503587 - Theorem - Bayes rule"
+              "title": "File properties for 1745501401 - Theorem - Total probabilty theorem"
             }
           },
           {
@@ -373,12 +397,12 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "41c7940b0e56741c",
+  "active": "ece4051ce4651f73",
   "lastOpenFiles": [
-    "02-Atomic/1757764392-voronoidiagram.md",
-    "02-Atomic/1745503587 - Theorem - Bayes rule.md",
-    "02-Atomic/1757766343-theoremjointprobability.md",
     "02-Atomic/1757766291-bayesianclassifier.md",
+    "02-Atomic/1745503587 - Theorem - Bayes rule.md",
+    "02-Atomic/1757764392-voronoidiagram.md",
+    "02-Atomic/1757766343-theoremjointprobability.md",
     "02-Atomic/1757766110-knnonregression.md",
     "02-Atomic/1745499861 - Probabilities.md",
     "02-Atomic/1757763078-knearestneighbor.md",

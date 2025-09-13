@@ -14,4 +14,5 @@ cssclasses:
 ***
 ### Up
 ### Down
+- [[1745503587 - Theorem - Bayes rule|Theorem - Bayes rule]]
 ***

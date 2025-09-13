@@ -50,11 +50,12 @@ How to handle missinog values at the training and test sets?
 
 ## Redundant or irrelevant attributes: 
 - Redundant are thos givin again the same info
-	- Need to be careful cause with redundant and distance functions such as the euclid distance we are just giving twice the importance to some features
+	- Need to be careful cause with redundant and distance functions such as the euclid distance we are just giving twice the importance to some features 
 - Irrelevant those that do not give any interestsing info
 
 ***
 ### Up
 ### Down
 - [[1757764392-voronoidiagram|voronoi diagram]]
+- [[1757766110-knnonregression|knn on regression]]
 ***

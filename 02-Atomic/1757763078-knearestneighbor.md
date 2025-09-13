@@ -40,7 +40,18 @@ In order to choose the actual value for the point we can either perform:
 - Weight according to the distance: $w = 1/d^2$
 
 # Missing values: 
-How to handle missinog values at the training and test sets?
+How to handle missinog values at the training and test sets? 
+> if we were using a coordinate data point type and one of our observations did not have the x coordinate. 
+
+- We can try and only evaluate based on one of the values
+  > only use the x value
+
+- We can use a missing value treatment and create new values. But careful cause altering the data is always dangerous. 
+
+## Redundant or irrelevant attributes: 
+- Redundant are thos givin again the same info
+	- Need to be careful cause with redundant and distance functions such as the euclid distance we are just giving twice the importance to some features
+- Irrelevant those that do not give any interestsing info
 
 ***
 ### Up

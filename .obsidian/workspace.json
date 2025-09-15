@@ -176,7 +176,7 @@
             }
           }
         ],
-        "currentTab": 6,
+        "currentTab": 3,
         "stacked": true
       }
     ],
@@ -324,10 +324,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "02-Atomic/1745501401 - Theorem - Total probabilty theorem.md"
+                "file": "02-Atomic/1757766110-knnonregression.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for 1745501401 - Theorem - Total probabilty theorem"
+              "title": "File properties for 1757766110-knnonregression"
             }
           },
           {
@@ -397,8 +397,9 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "ece4051ce4651f73",
+  "active": "60637f4163c96f3e",
   "lastOpenFiles": [
+    "02-Atomic/1745501401 - Theorem - Total probabilty theorem.md",
     "02-Atomic/1757766291-bayesianclassifier.md",
     "02-Atomic/1745503587 - Theorem - Bayes rule.md",
     "02-Atomic/1757764392-voronoidiagram.md",
@@ -406,7 +407,6 @@
     "02-Atomic/1757766110-knnonregression.md",
     "02-Atomic/1745499861 - Probabilities.md",
     "02-Atomic/1757763078-knearestneighbor.md",
-    "02-Atomic/1745501401 - Theorem - Total probabilty theorem.md",
     "02-Atomic/1757762742-plotting.md",
     "02-Atomic/1745501224 - Theorem - Conditional probability.md",
     "02-Atomic/1756374226-evaluationinregression.md",

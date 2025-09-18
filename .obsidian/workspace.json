@@ -174,9 +174,57 @@
               "icon": "lucide-file",
               "title": "1745501401 - Theorem - Total probabilty theorem"
             }
+          },
+          {
+            "id": "976c4a05e022d486",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02-Atomic/1756215731-awesomeblogs.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "1756215731-awesomeblogs"
+            }
+          },
+          {
+            "id": "7d4f938321ae9d11",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02-Atomic/1758157616-awesomedotfiles.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "1758157616-awesomedotfiles"
+            }
           }
         ],
-        "currentTab": 3,
+        "currentTab": 8,
         "stacked": true
       }
     ],
@@ -324,10 +372,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "02-Atomic/1757766110-knnonregression.md"
+                "file": "02-Atomic/1758157616-awesomedotfiles.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for 1757766110-knnonregression"
+              "title": "File properties for 1758157616-awesomedotfiles"
             }
           },
           {
@@ -398,14 +446,16 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "60637f4163c96f3e",
+  "active": "7d4f938321ae9d11",
   "lastOpenFiles": [
+    "02-Atomic/1758157616-awesomedotfiles.md",
+    "02-Atomic/1756215731-awesomeblogs.md",
+    "02-Atomic/1757766110-knnonregression.md",
     "02-Atomic/1745501401 - Theorem - Total probabilty theorem.md",
     "02-Atomic/1757766291-bayesianclassifier.md",
     "02-Atomic/1745503587 - Theorem - Bayes rule.md",
     "02-Atomic/1757764392-voronoidiagram.md",
     "02-Atomic/1757766343-theoremjointprobability.md",
-    "02-Atomic/1757766110-knnonregression.md",
     "02-Atomic/1745499861 - Probabilities.md",
     "02-Atomic/1757763078-knearestneighbor.md",
     "02-Atomic/1757762742-plotting.md",
@@ -426,8 +476,6 @@
     "02-Atomic/20240603 - 163014 - Definition - Function.md",
     "02-Atomic/Sets of numbers.md",
     "01-Areas/1.UC3M/Calculus I.md",
-    "02-Atomic/20240529 - 180146 - First order, homogeneous, substitutions ODEs.md",
-    "02-Atomic/20240528 - 110528 - Separable ODEs.md",
     "02-Atomic/Uni.base",
     "https:/wumbo.net/glossary",
     "https:/wumbo.net",

@@ -54,9 +54,33 @@
               "icon": "lucide-file",
               "title": "1758564298-dataframe"
             }
+          },
+          {
+            "id": "5d762a50c93dc3c3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02-Atomic/1758565526-dataframeselection.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "1758565526-dataframeselection"
+            }
           }
         ],
-        "currentTab": 1,
+        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -278,9 +302,10 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "f1f49c7bc5107a39",
+  "active": "5d762a50c93dc3c3",
   "lastOpenFiles": [
     "02-Atomic/1758563938-pandas.md",
+    "02-Atomic/1758565526-dataframeselection.md",
     "02-Atomic/1758564298-dataframe.md",
     "02-Atomic/1758211755-awesomethemes.md",
     "02-Atomic/1758157616-awesomedotfiles.md",
@@ -307,7 +332,6 @@
     "02-Atomic/1757409110-biasvsvariance.md",
     "02-Atomic/1757410900-bagging.md",
     "99-Meta/0. Attachments/1757409110-biasvsvariancej.png",
-    "02-Atomic/20240602 - 172958 - Real variable functions.md",
     "02-Atomic/Uni.base",
     "https:/wumbo.net/glossary",
     "https:/wumbo.net",

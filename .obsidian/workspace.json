@@ -78,9 +78,33 @@
               "icon": "lucide-file",
               "title": "1758565526-dataframeselection"
             }
+          },
+          {
+            "id": "e36ff6c78c2bdd8c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02-Atomic/1758568530-matplotlib.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "1758568530-matplotlib"
+            }
           }
         ],
-        "currentTab": 2,
+        "currentTab": 3,
         "stacked": true
       }
     ],
@@ -302,10 +326,11 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "5d762a50c93dc3c3",
+  "active": "e36ff6c78c2bdd8c",
   "lastOpenFiles": [
-    "02-Atomic/1758563938-pandas.md",
+    "02-Atomic/1758568530-matplotlib.md",
     "02-Atomic/1758565526-dataframeselection.md",
+    "02-Atomic/1758563938-pandas.md",
     "02-Atomic/1758564298-dataframe.md",
     "02-Atomic/1758211755-awesomethemes.md",
     "02-Atomic/1758157616-awesomedotfiles.md",
@@ -330,7 +355,6 @@
     "02-Atomic/1757407129-ensemblemethods.md",
     "02-Atomic/1757408342-ensemblebasemodels.md",
     "02-Atomic/1757409110-biasvsvariance.md",
-    "02-Atomic/1757410900-bagging.md",
     "99-Meta/0. Attachments/1757409110-biasvsvariancej.png",
     "02-Atomic/Uni.base",
     "https:/wumbo.net/glossary",

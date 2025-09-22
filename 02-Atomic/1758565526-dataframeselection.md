@@ -24,7 +24,8 @@ cssclasses:
 ```python
 	df.loc[<somerows>, <somecoulmns>]	
 ```
-a
+
+- **df.iloc[]**: Works similar to the loc selection but it is all done with integers to identify each property | row. 
 
 ### Up
 ### Down

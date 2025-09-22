@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "2c992a1b821345ba",
+        "id": "85f8860ee8c52cb9",
         "type": "tabs",
         "children": [
           {
-            "id": "d80299452fb8d9c9",
+            "id": "818ab6b4ff22517b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-Atomic/1757763078-knearestneighbor.md",
+                "file": "02-Atomic/1758563938-pandas.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,227 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "1757763078-knearestneighbor"
-            }
-          },
-          {
-            "id": "6cf3c17689654437",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02-Atomic/1745499861 - Probabilities.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "1745499861 - Probabilities"
-            }
-          },
-          {
-            "id": "a731e5c1ca1e4efe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02-Atomic/1745503587 - Theorem - Bayes rule.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "1745503587 - Theorem - Bayes rule"
-            }
-          },
-          {
-            "id": "60637f4163c96f3e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02-Atomic/1757766110-knnonregression.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "1757766110-knnonregression"
-            }
-          },
-          {
-            "id": "237defdd375e6478",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02-Atomic/1757766291-bayesianclassifier.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "1757766291-bayesianclassifier"
-            }
-          },
-          {
-            "id": "41c7940b0e56741c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02-Atomic/1745503587 - Theorem - Bayes rule.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "1745503587 - Theorem - Bayes rule"
-            }
-          },
-          {
-            "id": "ece4051ce4651f73",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02-Atomic/1745501401 - Theorem - Total probabilty theorem.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "1745501401 - Theorem - Total probabilty theorem"
-            }
-          },
-          {
-            "id": "976c4a05e022d486",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02-Atomic/1756215731-awesomeblogs.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "1756215731-awesomeblogs"
-            }
-          },
-          {
-            "id": "7d4f938321ae9d11",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02-Atomic/1758157616-awesomedotfiles.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "1758157616-awesomedotfiles"
-            }
-          },
-          {
-            "id": "04843360826ebe16",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02-Atomic/1758211755-awesomethemes.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "1758211755-awesomethemes"
+              "title": "1758563938-pandas"
             }
           }
         ],
-        "currentTab": 9,
         "stacked": true
       }
     ],
@@ -470,19 +253,20 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "04843360826ebe16",
+  "active": "818ab6b4ff22517b",
   "lastOpenFiles": [
+    "02-Atomic/1758563938-pandas.md",
     "02-Atomic/1758211755-awesomethemes.md",
     "02-Atomic/1758157616-awesomedotfiles.md",
     "02-Atomic/1756215731-awesomeblogs.md",
-    "02-Atomic/1757766110-knnonregression.md",
     "02-Atomic/1745501401 - Theorem - Total probabilty theorem.md",
-    "02-Atomic/1757766291-bayesianclassifier.md",
     "02-Atomic/1745503587 - Theorem - Bayes rule.md",
+    "02-Atomic/1757766291-bayesianclassifier.md",
+    "02-Atomic/1757766110-knnonregression.md",
+    "02-Atomic/1757763078-knearestneighbor.md",
+    "02-Atomic/1745499861 - Probabilities.md",
     "02-Atomic/1757764392-voronoidiagram.md",
     "02-Atomic/1757766343-theoremjointprobability.md",
-    "02-Atomic/1745499861 - Probabilities.md",
-    "02-Atomic/1757763078-knearestneighbor.md",
     "02-Atomic/1757762742-plotting.md",
     "02-Atomic/1745501224 - Theorem - Conditional probability.md",
     "02-Atomic/1756374226-evaluationinregression.md",
@@ -499,7 +283,6 @@
     "99-Meta/0. Attachments/1757409110-biasvsvariancej.png",
     "02-Atomic/20240602 - 172958 - Real variable functions.md",
     "02-Atomic/20240603 - 163014 - Definition - Function.md",
-    "02-Atomic/Sets of numbers.md",
     "02-Atomic/Uni.base",
     "https:/wumbo.net/glossary",
     "https:/wumbo.net",

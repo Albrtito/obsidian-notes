@@ -6,11 +6,11 @@
         "type": "split",
         "children": [
           {
-            "id": "d18327d13690b30d",
+            "id": "85f8860ee8c52cb9",
             "type": "tabs",
             "children": [
               {
-                "id": "4b826907d8ac2a08",
+                "id": "818ab6b4ff22517b",
                 "type": "leaf",
                 "state": {
                   "type": "empty",
@@ -19,7 +19,8 @@
                   "title": "New tab"
                 }
               }
-            ]
+            ],
+            "stacked": true
           }
         ],
         "direction": "vertical"
@@ -67,8 +68,36 @@
                   "icon": "lucide-git-fork",
                   "title": "Graph view"
                 }
+              },
+              {
+                "id": "e20381e16f6b383e",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "tag:#ms",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  },
+                  "icon": "lucide-search",
+                  "title": "Search"
+                }
+              },
+              {
+                "id": "6c93d2f05ba80b2d",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {},
+                  "icon": "lucide-bookmark",
+                  "title": "Bookmarks"
+                }
               }
-            ]
+            ],
+            "currentTab": 1
           },
           {
             "id": "f340046a713a91df",
@@ -80,10 +109,12 @@
                 "state": {
                   "type": "outline",
                   "state": {
-                    "file": "02-Atomic/1730648938 - Input port processing in routers.md"
+                    "followCursor": false,
+                    "showSearch": false,
+                    "searchQuery": ""
                   },
                   "icon": "lucide-list",
-                  "title": "Outline of 1730827988 - Subnets"
+                  "title": "Outline"
                 }
               },
               {
@@ -98,9 +129,24 @@
                   "icon": "lucide-folder-closed",
                   "title": "Files"
                 }
+              },
+              {
+                "id": "06eee229e3462ab5",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true,
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-tags",
+                  "title": "Tags"
+                }
               }
             ],
-            "currentTab": 1
+            "currentTab": 2
           }
         ],
         "direction": "horizontal",
@@ -121,10 +167,55 @@
                 "state": {
                   "type": "file-properties",
                   "state": {
-                    "file": "02-Atomic/1756125901-lexicalanalysis.md"
+                    "file": "02-Atomic/1758211755-awesomethemes.md"
                   },
                   "icon": "lucide-info",
-                  "title": "File properties for 1756125901-lexicalanalysis"
+                  "title": "File properties for 1758211755-awesomethemes"
+                }
+              },
+              {
+                "id": "7d955f589d1d8457",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  },
+                  "icon": "links-coming-in",
+                  "title": "Backlinks"
+                }
+              },
+              {
+                "id": "6fd2689f3ab1e032",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  },
+                  "icon": "links-going-out",
+                  "title": "Outgoing links"
+                }
+              },
+              {
+                "id": "4a1d2a671ade8036",
+                "type": "leaf",
+                "state": {
+                  "type": "all-properties",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-archive",
+                  "title": "All properties"
                 }
               }
             ]
@@ -150,8 +241,8 @@
           "workspaces:Manage workspace layouts": false
         }
       },
-      "active": "4b826907d8ac2a08",
-      "mtime": "2025-08-26T12:52:17+00:00"
+      "active": "818ab6b4ff22517b",
+      "mtime": "2025-09-22T17:58:39+00:00"
     },
     "is": {
       "main": {

@@ -16,7 +16,15 @@ cssclasses:
 - A slice can also be used to reference: `df[<slice>]`
   We would get an slice of the table in the rows space.
   > The slice `0:3` will output all rows from 0 to 3 and their properties (colums). 0 and 3 included 
-- Select by label
+- **df.loc[]**: This method selects based on two things: 
+	- the row / rows
+	- the columns
+	  We choose some number of rows and some number of columns and the selection is done based on that. The way we choose can be either by referencing their names or an slice, a function…
+	  If no rows or columns are selected it takes them all
+```python
+	df.loc[<somerows>, <somecoulmns>]	
+```
+a
 
 ### Up
 ### Down

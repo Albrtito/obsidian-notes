@@ -14,7 +14,7 @@ cssclasses:
 > 
 > By introducing additional layers in between we are creating **hidden steps** to the user. A **blackbox method**
 > 
-> What we do when creating a neural network is **learning the weights**
+> What we do when creating a neural network is **learning the weights** for this we’ll use some loss function.  
 
 ![[1758644145-neuralnetworksj.png|center]]
 
@@ -80,5 +80,5 @@ $$
 ### Up
 - [[1758647070-neuron|neuron]]
 ### Down
-- [[1758649000-lossfunctionsforneuralnetworks|loss functions for neural networks]]
+- [[1758649000-weightadjustmentinneuralnetworks|loss functions for neural networks]]
 ***

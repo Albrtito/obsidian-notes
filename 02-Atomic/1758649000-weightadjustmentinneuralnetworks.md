@@ -39,6 +39,23 @@ where:
 
 > [!bug] computation of partial deriv
 > The gradient uses all of this partial derivatives, but how can we actually compute those?
+> - The solution is backpropagation
+
+### backpropagation:
+In order to obtain the partial derivatives we can divide the orignal expression into three parts going back on how each weight is being used.
+
+Applying the chain rule:
+$$
+\begin{align}
+\frac{\partial J(w)}{\partial w^{(l)}} =
+\frac{\partial J(w)}{\partial a^{(l)}} * 
+\frac{\partial a^{(l)}}{\partial z^{(l)}} * 
+\frac{\partial z^{(l)}}{\partial w^{(l)}} = \\\\
+= ((a)^{(l)} - y) * \phi ' (z^{(l)}) * a^{l-1}
+\end{align}
+$$
+where: 
+- 
 
 ***
 ### Up

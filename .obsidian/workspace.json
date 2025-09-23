@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-Atomic/1758647070-neuron.md",
+                "file": "02-Atomic/1758649000-lossfunctionsforneuralnetworks.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "1758647070-neuron"
+              "title": "1758649000-lossfunctionsforneuralnetworks"
             }
           }
         ],
@@ -279,8 +279,9 @@
   },
   "active": "818ab6b4ff22517b",
   "lastOpenFiles": [
-    "02-Atomic/1758647070-neuron.md",
+    "02-Atomic/1758649000-lossfunctionsforneuralnetworks.md",
     "02-Atomic/1758644145-neuralnetworks.md",
+    "02-Atomic/1758647070-neuron.md",
     "99-Meta/0. Attachments/1758644145-neuralnetworksj.png",
     "02-Atomic/1758646854-multilayerperceptron.md",
     "02-Atomic/1758646698-perceptron.md",

@@ -37,13 +37,48 @@ Now how do we define this all mathematically, we know how to define a neuron:
 $$
 \hat y = \phi(\sum_{i=0}^m w_ix_i)
 $$
-Now the prediction is not the output but the value of some next layer node. And we are not taking the sum based on the inputs anymore but the values for the previous layers outputs.
-$$
-a^{layer}_{pos} = \phi(\sum_{i=0}^m w^{layer}_{\text{pos}, i}x_i)
+Scaling this into several neurons, creating an activation vector: 
+> Some numbers given as example. This would give the first activation vector with three neurons (three outputs **a**) and five input values with five weights each neuron.
+
+$$\left[\begin{array}{l}
+x_0 \\
+x_1 \\
+x_2 \\
+x_3 \\
+x_4
+\end{array}\right]\left[\begin{array}{l}
+a_1^{(1)} \\
+a_2^{(1)} \\
+a_3^{(1)}
+\end{array}\right]=\phi\left(\left[\begin{array}{ccc}
+w_{10}^{(1)} & \cdots & w_{14}^{(1)} \\
+\vdots & \ddots & \vdots \\
+w_{30}^{(1)} & \cdots & w_{34}^{(1)}
+\end{array}\right] *\left[\begin{array}{c}
+x_0 \\
+x_1 \\
+x_2 \\
+x_3 \\
+x_1
+\end{array}\right]\right)
 $$
 
+Now the prediction is not the output but the value of some next layer node. And we are not taking the sum based on the inputs anymore but the values for the previous layers outputs.
+Then modifying the first equation by substution of x for a we get:
+
+> Again, not genraliset but some example. This would be the value for the second activation vector if there was only one activation neuron in that vector. For more neurons there would be a second line of weights.
+$$
+\left[a_1^{(2)}\right]=\phi\left(\left[\begin{array}{lll}
+w_{11}^{(2)} & w_{12}^{(2)} & w_{13}^{(2)}
+\end{array}\right] *\left[\begin{array}{c}
+a_1^{(1)} \\
+a_2^{(1)} \\
+a_2^{(1)}
+\end{array}\right]\right)
+$$
 
 ### Up
 - [[1758647070-neuron|neuron]]
 ### Down
+- [[1758649000-lossfunctionsforneuralnetworks|loss functions for neural networks]]
 ***

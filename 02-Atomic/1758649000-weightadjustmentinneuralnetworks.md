@@ -55,7 +55,8 @@ $$
 \end{align}
 $$
 where: 
-- 
+- …
+#incomplete 
 
 ***
 ### Up

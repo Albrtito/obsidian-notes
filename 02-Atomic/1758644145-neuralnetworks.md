@@ -20,6 +20,7 @@ cssclasses:
 
 
 > [!example] Dictionary:
+> - Usually the leter **l** is used for **level**
 > - Notation for weights:
 >  $$
 > 	w^{(\#layer)}_{\text{To From}}
@@ -76,9 +77,13 @@ a_2^{(1)} \\
 a_2^{(1)}
 \end{array}\right]\right)
 $$
+## hyperparams:
+The hyperparameters of a neural network are **not the weights, as those are just parameters**. When talking about hyperparams on networks we have: 
+- Learn
 
 ### Up
 - [[1758647070-neuron|neuron]]
 ### Down
 - [[1758649000-weightadjustmentinneuralnetworks|weight adjustment in neural networks]]
+- [[1758651868-hyperparameter|hyperparameter]] 
 ***

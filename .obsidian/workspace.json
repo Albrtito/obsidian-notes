@@ -30,6 +30,54 @@
               "icon": "lucide-file",
               "title": "1758631585-webattacks"
             }
+          },
+          {
+            "id": "a462632a74f81efd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02-Atomic/1758632632-owasp.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "1758632632-owasp"
+            }
+          },
+          {
+            "id": "7a573ef70888b567",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02-Atomic/1758632757-browserarchitecture.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "1758632757-browserarchitecture"
+            }
           }
         ],
         "stacked": true
@@ -254,7 +302,11 @@
   },
   "active": "818ab6b4ff22517b",
   "lastOpenFiles": [
+    "02-Atomic/1758632757-browserarchitecture.md",
+    "99-Meta/0. Attachments/1758632757-browserarchitecturej.png",
     "02-Atomic/1758631585-webattacks.md",
+    "02-Atomic/1758632632-owasp.md",
+    "02-Atomic/1758632448-gobuster.md",
     "02-Atomic/1758568530-matplotlib.md",
     "02-Atomic/1758565526-dataframeselection.md",
     "02-Atomic/1758563938-pandas.md",
@@ -277,10 +329,6 @@
     "02-Atomic/1756375056-crossvalidation.md",
     "02-Atomic/k-nearest neighbor.md",
     "02-Atomic/1756374614-overfittingandunderfitting.md",
-    "02-Atomic/1757411969-boosting.md",
-    "02-Atomic/1757411573-randomforest.md",
-    "02-Atomic/1757407129-ensemblemethods.md",
-    "02-Atomic/1757408342-ensemblebasemodels.md",
     "99-Meta/0. Attachments/1757409110-biasvsvariancej.png",
     "02-Atomic/Uni.base",
     "https:/wumbo.net/glossary",
@@ -298,7 +346,6 @@
     "99-Meta/0. Attachments/Screenshot 2024-11-02 at 6.41.17 PM.png",
     "99-Meta/0. Attachments/Screenshot 2024-10-04 at 10.22.44 AM.png",
     "99-Meta/0. Attachments/Screenshot 2024-10-08 at 2.29.28 PM.png",
-    "99-Meta/0. Attachments/Screenshot 2024-09-24 at 1.55.20 PM.png",
     "99-Meta/0. Attachments",
     "01-Areas/2. HTB/HTB_Linux Fundamentals.canvas",
     "01 - Areas/2. HTB/HTB_Linux Fundamentals.canvas",

@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "85f8860ee8c52cb9",
+        "id": "d8ea183d75ac8eda",
         "type": "tabs",
         "children": [
           {
-            "id": "818ab6b4ff22517b",
+            "id": "be77ede7b53a5995",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-Atomic/1755599732-machinelearning.md",
+                "file": "02-Atomic/1756215731-awesomeblogs.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,119 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "1755599732-machinelearning"
-            }
-          },
-          {
-            "id": "8c02d5742ef73c53",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02-Atomic/1758649000-weightadjustmentinneuralnetworks.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "1758649000-weightadjustmentinneuralnetworks"
-            }
-          },
-          {
-            "id": "ad6fe4bb050c1c60",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02-Atomic/1758649312-sumofsquarederrorfunction.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "1758649312-sumofsquarederrorfunction"
-            }
-          },
-          {
-            "id": "89dc0a8c4baff25e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02-Atomic/1757411969-boosting.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "1757411969-boosting"
-            }
-          },
-          {
-            "id": "0fa09c2e2900f88d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02-Atomic/1758656696-gradientboosting.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "1758656696-gradientboosting"
-            }
-          },
-          {
-            "id": "2f9f643c5544785b",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "99-Meta/0. Attachments/Greek-Alphabet.png"
-              },
-              "icon": "lucide-image",
-              "title": "Greek-Alphabet"
+              "title": "1756215731-awesomeblogs"
             }
           }
         ],
-        "currentTab": 4,
         "stacked": true
       }
     ],
@@ -251,10 +142,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "02-Atomic/1758656696-gradientboosting.md"
+                "file": "02-Atomic/1756215731-awesomeblogs.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for 1758656696-gradientboosting"
+              "title": "File properties for 1756215731-awesomeblogs"
             }
           }
         ]
@@ -269,7 +160,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02-Atomic/1758656696-gradientboosting.md",
+                "file": "02-Atomic/1756215731-awesomeblogs.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -305,7 +196,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 1758656696-gradientboosting"
+              "title": "Graph of 1756215731-awesomeblogs"
             }
           }
         ]
@@ -330,16 +221,16 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "0fa09c2e2900f88d",
+  "active": "be77ede7b53a5995",
   "lastOpenFiles": [
     "99-Meta/0. Attachments/Greek-Alphabet.png",
     "02-Atomic/1758656696-gradientboosting.md",
     "02-Atomic/1757411969-boosting.md",
-    "02-Atomic/1758651868-hyperparameter.md",
-    "02-Atomic/1755599732-machinelearning.md",
     "02-Atomic/1758649312-sumofsquarederrorfunction.md",
-    "02-Atomic/1757766291-bayesianclassifier.md",
     "02-Atomic/1758649000-weightadjustmentinneuralnetworks.md",
+    "02-Atomic/1755599732-machinelearning.md",
+    "02-Atomic/1758651868-hyperparameter.md",
+    "02-Atomic/1757766291-bayesianclassifier.md",
     "02-Atomic/1757763078-knearestneighbor.md",
     "02-Atomic/1757411573-randomforest.md",
     "02-Atomic/1757407129-ensemblemethods.md",

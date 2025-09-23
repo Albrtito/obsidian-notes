@@ -10,6 +10,8 @@ cssclasses:
 # neural networks
 > [!NOTE] Intro: 
 > Neural networks are based on the way actual biological neurons work. Whenever a neuron recieves a certain signal, if that signal is bigger than some threshold then it transmits the idea to the next neuron.
+> 
+> The power of neurons comes from the [[#phi]] function. The threshold function, and the ability for it not to be linear.
 
 If we take this idea into math we could say: 
 $$
@@ -26,11 +28,20 @@ $$
  w_0 +\sum_i w_i x_i = z  
 $$
 ## phi
-Finally we represent the function to use when going from acceptance to rejection with the leter **phi**: $\phi$. Thus function will take the weights and variables as input and output the final prediction. 
+Finally we represent the function to use when going from acceptance to rejection with the leter **phi**: $\phi$. This function will take the weights and variables as input and output the final prediction. 
 $$
 \hat y = \phi(w_0 + \sum_i w_ix_i)
 $$
-And because we w
+And because we want to write it alldifferently (as a vector) we’ll make it so that $x_0$ is always 1 and then $w_0$ times it is always $w_0$. Then write: 
+
+$$
+\hat y = \phi(\sum_{i=0}^m w_ix_i)
+$$
++ Again: $x_0 = (1,1,1,…,1)$
+
+
+> [!attention] Remark:
+> The great thing about neurons is that **phi is non-linear**
 
 
 ***

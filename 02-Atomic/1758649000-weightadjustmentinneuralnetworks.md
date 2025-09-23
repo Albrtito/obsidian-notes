@@ -34,7 +34,14 @@ w^{t+1} = w^t - n * \nabla J(w^t)
 $$
 where:
 - n → Learning rate
+- t → Represents old and new weights, not layer
+
+
+> [!bug] computation of partial deriv
+> The gradient uses all of this partial derivatives, but how can we actually compute those?
+
 ***
 ### Up
+- [[1758644145-neuralnetworks|neural networks]]
 ### Down
 ***

@@ -14,7 +14,15 @@ cssclasses:
 > 
 > By introducing additional layers in between we are creating **hidden steps** to the user. A **blackbox method**
 
+![[1758644145-neuralnetworksj.png|center]]
 
+
+> [!example] Dictionary:
+> - Notation for weights:
+>  $$
+> 	w^{(\#layer)}_{\text{To From}}
+>   $$
+>> $w^{(1)}_{34}$ → A weight on layer 1 comming from input 4 and going to input 3
 
 
 

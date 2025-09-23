@@ -80,5 +80,5 @@ $$
 ### Up
 - [[1758647070-neuron|neuron]]
 ### Down
-- [[1758649000-weightadjustmentinneuralnetworks|loss functions for neural networks]]
+- [[1758649000-weightadjustmentinneuralnetworks|weight adjustment in neural networks]]
 ***

@@ -32,24 +32,12 @@
             }
           },
           {
-            "id": "a2e1100bf1370e85",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "99-Meta/0. Attachments/Greek-Alphabet.png"
-              },
-              "icon": "lucide-image",
-              "title": "Greek-Alphabet"
-            }
-          },
-          {
             "id": "8c02d5742ef73c53",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-Atomic/1758646698-perceptron.md",
+                "file": "02-Atomic/1758647070-neuron.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -64,11 +52,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "1758646698-perceptron"
+              "title": "1758647070-neuron"
             }
           }
         ],
-        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -290,10 +277,12 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "8c02d5742ef73c53",
+  "active": "818ab6b4ff22517b",
   "lastOpenFiles": [
-    "02-Atomic/1758646698-perceptron.md",
+    "02-Atomic/1758647070-neuron.md",
     "02-Atomic/1758644145-neuralnetworks.md",
+    "02-Atomic/1758646854-multilayerperceptron.md",
+    "02-Atomic/1758646698-perceptron.md",
     "99-Meta/0. Attachments/Greek-Alphabet.png",
     "02-Atomic/1758632757-browserarchitecture.md",
     "02-Atomic/1758632632-owasp.md",
@@ -319,8 +308,6 @@
     "02-Atomic/1745501224 - Theorem - Conditional probability.md",
     "02-Atomic/1756374226-evaluationinregression.md",
     "99-Meta/0. Attachments/1757764392-voronoidiagramj.png",
-    "02-Atomic/1756375056-crossvalidation.md",
-    "02-Atomic/k-nearest neighbor.md",
     "99-Meta/0. Attachments/1757409110-biasvsvariancej.png",
     "02-Atomic/Uni.base",
     "https:/wumbo.net/glossary",

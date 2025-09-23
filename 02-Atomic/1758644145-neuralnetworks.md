@@ -8,43 +8,17 @@ References:
 cssclasses:
 ---
 # neural networks
+
 > [!NOTE] Intro: 
-> Neural networks are based on the way actual biological neurons work. Whenever a neuron recieves a certain signal, if that signal is bigger than some threshold then it transmits the idea to the next neuron.
+> A neural network is a bunch of [[1758647070-neuron|neurons]] together. Of course one single neuron is already a neural network but once we add more we’ll call it a **multilayer neural network**.
 > 
-> The power of neurons comes from the [[#phi]] function. The threshold function, and the ability for it not to be linear.
-
-If we take this idea into math we could say: 
-$$
-\sum_i w_i x_i = z
-$$
-- If z ≥ T then accept
-- ElseIf z ≤ T decline
-   (this will later be defined as the “phi function” → $\phi ()$)
-
-This way we are creating this mechanism where the “neuron” decides based on some coefficients w over some decision variables x. 
-- The coefficients represent **weight of each variable** 
-- In order to normalize the threshold we’ll add a **bias ($w_0$)** that will leave the threshold function with a jump at 0 instead of some random threshold.
-$$
- w_0 +\sum_i w_i x_i = z  
-$$
-## phi
-Finally we represent the function to use when going from acceptance to rejection with the leter **phi**: $\phi$. This function will take the weights and variables as input and output the final prediction. 
-$$
-\hat y = \phi(w_0 + \sum_i w_ix_i)
-$$
-And because we want to write it alldifferently (as a vector) we’ll make it so that $x_0$ is always 1 and then $w_0$ times it is always $w_0$. Then write: 
-
-$$
-\hat y = \phi(\sum_{i=0}^m w_ix_i)
-$$
-+ Again: $x_0 = (1,1,1,…,1)$
+> By introducing additional layers in between we are creating **hidden steps** to the user. A **blackbox method**
 
 
-> [!attention] Remark:
-> The great thing about neurons is that **phi is non-linear**
 
 
-***
+
 ### Up
+- [[1758647070-neuron|neuron]]
 ### Down
 ***

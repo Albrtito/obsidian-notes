@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-Atomic/1758644145-neuralnetworks.md",
+                "file": "02-Atomic/1757411969-boosting.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "1758644145-neuralnetworks"
+              "title": "1757411969-boosting"
             }
           },
           {
@@ -251,10 +251,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "02-Atomic/1758644145-neuralnetworks.md"
+                "file": "02-Atomic/1757411969-boosting.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for 1758644145-neuralnetworks"
+              "title": "File properties for 1757411969-boosting"
             }
           },
           {
@@ -327,8 +327,8 @@
   },
   "active": "818ab6b4ff22517b",
   "lastOpenFiles": [
-    "02-Atomic/1758651868-hyperparameter.md",
     "02-Atomic/1758644145-neuralnetworks.md",
+    "02-Atomic/1758651868-hyperparameter.md",
     "02-Atomic/1758649000-weightadjustmentinneuralnetworks.md",
     "02-Atomic/1758649312-sumofsquarederrorfunction.md",
     "02-Atomic/1758647070-neuron.md",

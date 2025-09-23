@@ -26,7 +26,7 @@ cssclasses:
 ## algorithm:
 The algorithm works performing the following steps: 
 
-1. Initialize the model with a constant value for the loss function. $L(\_,\_) = cnst$
+1. Initialize the model with a constant value for the loss function. $L(\_,\beta) = cnst$
 2. For each tree (given some number m of trees)
 	1. Check how big is the error
 	2. Build another tree to fit the error

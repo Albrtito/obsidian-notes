@@ -126,6 +126,18 @@
               "icon": "lucide-file",
               "title": "1758656696-gradientboosting"
             }
+          },
+          {
+            "id": "2f9f643c5544785b",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "99-Meta/0. Attachments/Greek-Alphabet.png"
+              },
+              "icon": "lucide-image",
+              "title": "Greek-Alphabet"
+            }
           }
         ],
         "currentTab": 4,
@@ -320,8 +332,9 @@
   },
   "active": "0fa09c2e2900f88d",
   "lastOpenFiles": [
-    "02-Atomic/1757411969-boosting.md",
+    "99-Meta/0. Attachments/Greek-Alphabet.png",
     "02-Atomic/1758656696-gradientboosting.md",
+    "02-Atomic/1757411969-boosting.md",
     "02-Atomic/1758651868-hyperparameter.md",
     "02-Atomic/1755599732-machinelearning.md",
     "02-Atomic/1758649312-sumofsquarederrorfunction.md",
@@ -335,7 +348,6 @@
     "99-Meta/0. Attachments/1758644145-neuralnetworksj.png",
     "02-Atomic/1758646854-multilayerperceptron.md",
     "02-Atomic/1758646698-perceptron.md",
-    "99-Meta/0. Attachments/Greek-Alphabet.png",
     "02-Atomic/1758632757-browserarchitecture.md",
     "02-Atomic/1758632632-owasp.md",
     "02-Atomic/1758631585-webattacks.md",
@@ -348,7 +360,6 @@
     "02-Atomic/1758211755-awesomethemes.md",
     "02-Atomic/1758157616-awesomedotfiles.md",
     "02-Atomic/1756215731-awesomeblogs.md",
-    "02-Atomic/1745501401 - Theorem - Total probabilty theorem.md",
     "99-Meta/0. Attachments/1757764392-voronoidiagramj.png",
     "99-Meta/0. Attachments/1757409110-biasvsvariancej.png",
     "02-Atomic/Uni.base",

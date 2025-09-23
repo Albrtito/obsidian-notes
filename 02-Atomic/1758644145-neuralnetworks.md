@@ -79,7 +79,11 @@ a_2^{(1)}
 $$
 ## hyperparams:
 The hyperparameters of a neural network are **not the weights, as those are just parameters**. When talking about hyperparams on networks we have: 
-- Learn
+- Learning rates
+- Number of hidden layers
+- Number of neurons in each layer
+- Activation function 
+- …
 
 ### Up
 - [[1758647070-neuron|neuron]]

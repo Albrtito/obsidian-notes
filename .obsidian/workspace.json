@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-Atomic/1757763078-knearestneighbor.md",
+                "file": "02-Atomic/1755599732-machinelearning.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "1757763078-knearestneighbor"
+              "title": "1755599732-machinelearning"
             }
           },
           {
@@ -251,10 +251,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "02-Atomic/1757763078-knearestneighbor.md"
+                "file": "02-Atomic/1755599732-machinelearning.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for 1757763078-knearestneighbor"
+              "title": "File properties for 1755599732-machinelearning"
             }
           },
           {
@@ -327,12 +327,15 @@
   },
   "active": "818ab6b4ff22517b",
   "lastOpenFiles": [
+    "02-Atomic/1757766291-bayesianclassifier.md",
+    "02-Atomic/1758649000-weightadjustmentinneuralnetworks.md",
+    "02-Atomic/1755599732-machinelearning.md",
+    "02-Atomic/1757763078-knearestneighbor.md",
     "02-Atomic/1757411573-randomforest.md",
     "02-Atomic/1757407129-ensemblemethods.md",
     "02-Atomic/1757411969-boosting.md",
     "02-Atomic/1758644145-neuralnetworks.md",
     "02-Atomic/1758651868-hyperparameter.md",
-    "02-Atomic/1758649000-weightadjustmentinneuralnetworks.md",
     "02-Atomic/1758649312-sumofsquarederrorfunction.md",
     "02-Atomic/1758647070-neuron.md",
     "99-Meta/0. Attachments/1758644145-neuralnetworksj.png",
@@ -353,9 +356,6 @@
     "02-Atomic/1756215731-awesomeblogs.md",
     "02-Atomic/1745501401 - Theorem - Total probabilty theorem.md",
     "02-Atomic/1745503587 - Theorem - Bayes rule.md",
-    "02-Atomic/1757766291-bayesianclassifier.md",
-    "02-Atomic/1757766110-knnonregression.md",
-    "02-Atomic/1757763078-knearestneighbor.md",
     "99-Meta/0. Attachments/1757764392-voronoidiagramj.png",
     "99-Meta/0. Attachments/1757409110-biasvsvariancej.png",
     "02-Atomic/Uni.base",

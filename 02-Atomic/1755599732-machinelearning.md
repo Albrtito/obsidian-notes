@@ -15,4 +15,14 @@ sr-ease: 250
 > 
 > We say that a computer program learns from an experience with espect some task using a performance measure. 
 
+
 ***
+
+### Up
+### Down
+This is a #moc so the down part may be structured.
+
+- [[1757763078-knearestneighbor|knn classifier]]
+- [[1757766291-bayesianclassifier|bayesian classifier]]
+- [[decision ]]
+- [[1758644145-neuralnetworks|neural networks]]

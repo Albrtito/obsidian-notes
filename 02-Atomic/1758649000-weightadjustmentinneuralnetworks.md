@@ -42,7 +42,7 @@ where:
 > - The solution is backpropagation
 
 ### backpropagation:
-In order to obtain the partial derivatives we can divide the orignal expression into three parts going back on how each weight is being used.
+In order to obtain the partial derivatives we can divide the orignal expression into three parts for the weight on the **last level(output)** going back on how each weight is being used.
 
 Applying the chain rule:
 $$
@@ -55,9 +55,11 @@ $$
 \end{align}
 $$
 where: 
-- …
-#incomplete 
-
+- The first part is the variance based on the lattest node
+- The second part is the variance of that node based on the input to that node
+- The last one is the variance of that input based on the weight that alters it.
+However this goes into larger and larger expressions once the level goes deeper and deeper into the neural network. 
+**See the ms course sliedes or more info about backpropagation for a deeper view into this**
 ***
 ### Up
 - [[1758644145-neuralnetworks|neural networks]]

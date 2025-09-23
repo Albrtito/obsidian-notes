@@ -11,10 +11,24 @@
             "id": "818ab6b4ff22517b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "02-Atomic/1758644145-neuralnetworks.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "1758644145-neuralnetworks"
             }
           }
         ],
@@ -241,6 +255,7 @@
   },
   "active": "818ab6b4ff22517b",
   "lastOpenFiles": [
+    "02-Atomic/1758644145-neuralnetworks.md",
     "02-Atomic/1758632757-browserarchitecture.md",
     "02-Atomic/1758632632-owasp.md",
     "02-Atomic/1758631585-webattacks.md",

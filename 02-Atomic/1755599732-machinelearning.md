@@ -24,5 +24,5 @@ This is a #moc so the down part may be structured.
 
 - [[1757763078-knearestneighbor|knn classifier]]
 - [[1757766291-bayesianclassifier|bayesian classifier]]
-- [[decision ]]
 - [[1758644145-neuralnetworks|neural networks]]
+- [[1757411969-boosting|boosting]] and [[1757410900-bagging|bagging]]

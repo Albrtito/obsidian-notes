@@ -1,13 +1,13 @@
 ---
 aliases:
-- bayesian classifier
+  - bayes classifier
 tags:
-- review
-- ms
+  - review
+  - ms
 References:
 cssclasses:
 ---
-# bayesian classifier
+# bayes classifier
 > [!NOTE] Intro: 
 > 
 

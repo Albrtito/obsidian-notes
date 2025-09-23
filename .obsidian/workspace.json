@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-Atomic/1758631585-browserattacks.md",
+                "file": "02-Atomic/1758631585-webattacks.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "1758631585-browserattacks"
+              "title": "1758631585-webattacks"
             }
           }
         ],
@@ -179,10 +179,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "02-Atomic/1758631585-browserattacks.md"
+                "file": "02-Atomic/1758631585-webattacks.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for 1758631585-browserattacks"
+              "title": "File properties for 1758631585-webattacks"
             }
           },
           {
@@ -234,8 +234,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 371.5,
-    "collapsed": true
+    "width": 371.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -255,7 +254,7 @@
   },
   "active": "818ab6b4ff22517b",
   "lastOpenFiles": [
-    "02-Atomic/1758631585-browserattacks.md",
+    "02-Atomic/1758631585-webattacks.md",
     "02-Atomic/1758568530-matplotlib.md",
     "02-Atomic/1758565526-dataframeselection.md",
     "02-Atomic/1758563938-pandas.md",

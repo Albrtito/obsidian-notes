@@ -80,6 +80,7 @@
             }
           }
         ],
+        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -227,10 +228,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "02-Atomic/1758631585-webattacks.md"
+                "file": "02-Atomic/1758632757-browserarchitecture.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for 1758631585-webattacks"
+              "title": "File properties for 1758632757-browserarchitecture"
             }
           },
           {
@@ -300,12 +301,12 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "818ab6b4ff22517b",
+  "active": "7a573ef70888b567",
   "lastOpenFiles": [
+    "02-Atomic/1758632632-owasp.md",
+    "02-Atomic/1758631585-webattacks.md",
     "02-Atomic/1758632757-browserarchitecture.md",
     "99-Meta/0. Attachments/1758632757-browserarchitecturej.png",
-    "02-Atomic/1758631585-webattacks.md",
-    "02-Atomic/1758632632-owasp.md",
     "02-Atomic/1758632448-gobuster.md",
     "02-Atomic/1758568530-matplotlib.md",
     "02-Atomic/1758565526-dataframeselection.md",

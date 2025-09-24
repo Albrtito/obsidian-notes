@@ -18,6 +18,7 @@ where:
 - $\hat y$ → Expected value
 - The whole sum is mul by 1/2 for easier computations with its derivatives.
 
+
 ## prop: 
 
 - non-linear

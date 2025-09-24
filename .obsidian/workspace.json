@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-Atomic/1758649312-sumofsquarederrorfunction.md",
+                "file": "02-Atomic/1758649000-weightadjustmentinneuralnetworks.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "1758649312-sumofsquarederrorfunction"
+              "title": "1758649000-weightadjustmentinneuralnetworks"
             }
           },
           {
@@ -319,9 +319,13 @@
   },
   "active": "9270f9c739d27ffe",
   "lastOpenFiles": [
-    "02-Atomic/1758732030-regression.md",
-    "02-Atomic/1758734414-gradientdescent.md",
+    "02-Atomic/1758649000-weightadjustmentinneuralnetworks.md",
+    "02-Atomic/1758644145-neuralnetworks.md",
+    "02-Atomic/1758656696-gradientboosting.md",
     "02-Atomic/1758649312-sumofsquarederrorfunction.md",
+    "02-Atomic/1758734414-gradientdescent.md",
+    "99-Meta/0. Attachments/1758734414-gradientdescentj.png",
+    "02-Atomic/1758732030-regression.md",
     "02-Atomic/1746718627-is-housing.md",
     "02-Atomic/1758717121-functionalrequirements.md",
     "02-Atomic/1758716908-requirements.md",
@@ -330,23 +334,19 @@
     "02-Atomic/1755513982-softwareprojectmanagement.md",
     "02-Atomic/1756215731-awesomeblogs.md",
     "99-Meta/0. Attachments/Greek-Alphabet.png",
-    "02-Atomic/1758656696-gradientboosting.md",
     "02-Atomic/1757411969-boosting.md",
-    "02-Atomic/1758649000-weightadjustmentinneuralnetworks.md",
     "02-Atomic/1755599732-machinelearning.md",
     "02-Atomic/1758651868-hyperparameter.md",
     "02-Atomic/1757766291-bayesianclassifier.md",
     "02-Atomic/1757763078-knearestneighbor.md",
     "02-Atomic/1757411573-randomforest.md",
     "02-Atomic/1757407129-ensemblemethods.md",
-    "02-Atomic/1758644145-neuralnetworks.md",
     "02-Atomic/1758647070-neuron.md",
     "99-Meta/0. Attachments/1758644145-neuralnetworksj.png",
     "02-Atomic/1758646854-multilayerperceptron.md",
     "02-Atomic/1758646698-perceptron.md",
     "02-Atomic/1758632757-browserarchitecture.md",
     "02-Atomic/1758632632-owasp.md",
-    "02-Atomic/1758631585-webattacks.md",
     "99-Meta/0. Attachments/1758632757-browserarchitecturej.png",
     "99-Meta/0. Attachments/1757764392-voronoidiagramj.png",
     "99-Meta/0. Attachments/1757409110-biasvsvariancej.png",
@@ -363,7 +363,6 @@
     "99-Meta/0. Attachments/Screenshot 2024-11-03 at 5.40.15 PM.png",
     "99-Meta/0. Attachments/Screenshot 2024-11-03 at 5.17.05 PM.png",
     "99-Meta/0. Attachments/Screenshot 2024-11-03 at 10.09.35 AM.png",
-    "99-Meta/0. Attachments/Screenshot 2024-11-02 at 6.41.17 PM.png",
     "99-Meta/0. Attachments",
     "01-Areas/2. HTB/HTB_Linux Fundamentals.canvas",
     "01 - Areas/2. HTB/HTB_Linux Fundamentals.canvas",

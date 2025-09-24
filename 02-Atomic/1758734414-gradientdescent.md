@@ -17,7 +17,7 @@ cssclasses:
 + It works iteratively using an stepsize
 
 > [!attention] Remarks:
-> The stepsize will be important for 
+> The stepsize will be important for evitar going into local min and tunning the way the descend is done. 
 
 
 > [!example] Dictionary 
@@ -35,6 +35,7 @@ cssclasses:
 >\end{array}
 >\right]
 >$$
+
 
 ***
 ### Up

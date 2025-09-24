@@ -54,9 +54,33 @@
               "icon": "lucide-file",
               "title": "1758715262-stakeholders"
             }
+          },
+          {
+            "id": "c57572f2940e604e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02-Atomic/1758716157-stakeholderregistry.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "1758716157-stakeholderregistry"
+            }
           }
         ],
-        "currentTab": 1,
+        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -167,10 +191,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "02-Atomic/1758715262-stakeholders.md"
+                "file": "02-Atomic/1758716157-stakeholderregistry.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for 1758715262-stakeholders"
+              "title": "File properties for 1758716157-stakeholderregistry"
             }
           }
         ]
@@ -185,7 +209,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02-Atomic/1758715262-stakeholders.md",
+                "file": "02-Atomic/1758716157-stakeholderregistry.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -221,7 +245,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 1758715262-stakeholders"
+              "title": "Graph of 1758716157-stakeholderregistry"
             }
           }
         ]
@@ -246,10 +270,11 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "14e1dda2919f1379",
+  "active": "c57572f2940e604e",
   "lastOpenFiles": [
-    "02-Atomic/1755513982-softwareprojectmanagement.md",
+    "02-Atomic/1758716157-stakeholderregistry.md",
     "02-Atomic/1758715262-stakeholders.md",
+    "02-Atomic/1755513982-softwareprojectmanagement.md",
     "02-Atomic/1756215731-awesomeblogs.md",
     "99-Meta/0. Attachments/Greek-Alphabet.png",
     "02-Atomic/1758656696-gradientboosting.md",
@@ -276,7 +301,6 @@
     "02-Atomic/1758565526-dataframeselection.md",
     "02-Atomic/1758563938-pandas.md",
     "02-Atomic/1758564298-dataframe.md",
-    "02-Atomic/1758211755-awesomethemes.md",
     "99-Meta/0. Attachments/1757764392-voronoidiagramj.png",
     "99-Meta/0. Attachments/1757409110-biasvsvariancej.png",
     "02-Atomic/Uni.base",

@@ -4,31 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "d8ea183d75ac8eda",
+        "id": "4f7288925f7984ed",
         "type": "tabs",
         "children": [
           {
-            "id": "be77ede7b53a5995",
+            "id": "207461fcad18739d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02-Atomic/1756215731-awesomeblogs.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "1756215731-awesomeblogs"
+              "title": "New tab"
             }
           }
         ],
@@ -141,11 +127,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "02-Atomic/1756215731-awesomeblogs.md"
-              },
+              "state": {},
               "icon": "lucide-info",
-              "title": "File properties for 1756215731-awesomeblogs"
+              "title": "File properties"
             }
           }
         ]
@@ -160,7 +144,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02-Atomic/1756215731-awesomeblogs.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -196,7 +179,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 1756215731-awesomeblogs"
+              "title": "Graph view"
             }
           }
         ]
@@ -221,8 +204,9 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "be77ede7b53a5995",
+  "active": "207461fcad18739d",
   "lastOpenFiles": [
+    "02-Atomic/1756215731-awesomeblogs.md",
     "99-Meta/0. Attachments/Greek-Alphabet.png",
     "02-Atomic/1758656696-gradientboosting.md",
     "02-Atomic/1757411969-boosting.md",
@@ -250,7 +234,6 @@
     "02-Atomic/1758564298-dataframe.md",
     "02-Atomic/1758211755-awesomethemes.md",
     "02-Atomic/1758157616-awesomedotfiles.md",
-    "02-Atomic/1756215731-awesomeblogs.md",
     "99-Meta/0. Attachments/1757764392-voronoidiagramj.png",
     "99-Meta/0. Attachments/1757409110-biasvsvariancej.png",
     "02-Atomic/Uni.base",

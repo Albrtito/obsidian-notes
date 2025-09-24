@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "4f7288925f7984ed",
+        "id": "d8ea183d75ac8eda",
         "type": "tabs",
         "children": [
           {
-            "id": "207461fcad18739d",
+            "id": "be77ede7b53a5995",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-Atomic/1755513982-softwareprojectmanagement.md",
+                "file": "02-Atomic/1758649312-sumofsquarederrorfunction.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,16 +28,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "1755513982-softwareprojectmanagement"
+              "title": "1758649312-sumofsquarederrorfunction"
             }
           },
           {
-            "id": "14e1dda2919f1379",
+            "id": "c31bfd0d97d38bea",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-Atomic/1758715262-stakeholders.md",
+                "file": "02-Atomic/1758732030-regression.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,83 +52,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "1758715262-stakeholders"
-            }
-          },
-          {
-            "id": "c57572f2940e604e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02-Atomic/1758716157-stakeholderregistry.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "1758716157-stakeholderregistry"
-            }
-          },
-          {
-            "id": "71788ebe3a0e1556",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02-Atomic/1758716908-requirements.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "1758716908-requirements"
-            }
-          },
-          {
-            "id": "f69d6da7629deab6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02-Atomic/1758717121-functionalrequirements.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "1758717121-functionalrequirements"
+              "title": "1758732030-regression"
             }
           }
         ],
-        "currentTab": 4,
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -239,10 +167,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "02-Atomic/1758717121-functionalrequirements.md"
+                "file": "02-Atomic/1758732030-regression.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for 1758717121-functionalrequirements"
+              "title": "File properties for 1758732030-regression"
             }
           }
         ]
@@ -257,7 +185,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02-Atomic/1758717121-functionalrequirements.md",
+                "file": "02-Atomic/1758732030-regression.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -293,7 +221,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 1758717121-functionalrequirements"
+              "title": "Graph of 1758732030-regression"
             }
           }
         ]
@@ -318,10 +246,13 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "f69d6da7629deab6",
+  "active": "c31bfd0d97d38bea",
   "lastOpenFiles": [
-    "02-Atomic/1758716908-requirements.md",
+    "02-Atomic/1758732030-regression.md",
+    "02-Atomic/1758649312-sumofsquarederrorfunction.md",
+    "02-Atomic/1746718627-is-housing.md",
     "02-Atomic/1758717121-functionalrequirements.md",
+    "02-Atomic/1758716908-requirements.md",
     "02-Atomic/1758716157-stakeholderregistry.md",
     "02-Atomic/1758715262-stakeholders.md",
     "02-Atomic/1755513982-softwareprojectmanagement.md",
@@ -329,7 +260,6 @@
     "99-Meta/0. Attachments/Greek-Alphabet.png",
     "02-Atomic/1758656696-gradientboosting.md",
     "02-Atomic/1757411969-boosting.md",
-    "02-Atomic/1758649312-sumofsquarederrorfunction.md",
     "02-Atomic/1758649000-weightadjustmentinneuralnetworks.md",
     "02-Atomic/1755599732-machinelearning.md",
     "02-Atomic/1758651868-hyperparameter.md",
@@ -347,8 +277,6 @@
     "02-Atomic/1758631585-webattacks.md",
     "99-Meta/0. Attachments/1758632757-browserarchitecturej.png",
     "02-Atomic/1758632448-gobuster.md",
-    "02-Atomic/1758568530-matplotlib.md",
-    "02-Atomic/1758565526-dataframeselection.md",
     "99-Meta/0. Attachments/1757764392-voronoidiagramj.png",
     "99-Meta/0. Attachments/1757409110-biasvsvariancej.png",
     "02-Atomic/Uni.base",

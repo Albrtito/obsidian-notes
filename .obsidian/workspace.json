@@ -78,9 +78,57 @@
               "icon": "lucide-file",
               "title": "1758716157-stakeholderregistry"
             }
+          },
+          {
+            "id": "71788ebe3a0e1556",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02-Atomic/1758716908-requirements.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "1758716908-requirements"
+            }
+          },
+          {
+            "id": "f69d6da7629deab6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02-Atomic/1758717121-functionalrequirements.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "1758717121-functionalrequirements"
+            }
           }
         ],
-        "currentTab": 2,
+        "currentTab": 4,
         "stacked": true
       }
     ],
@@ -191,10 +239,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "02-Atomic/1758716157-stakeholderregistry.md"
+                "file": "02-Atomic/1758717121-functionalrequirements.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for 1758716157-stakeholderregistry"
+              "title": "File properties for 1758717121-functionalrequirements"
             }
           }
         ]
@@ -209,7 +257,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02-Atomic/1758716157-stakeholderregistry.md",
+                "file": "02-Atomic/1758717121-functionalrequirements.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -245,7 +293,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 1758716157-stakeholderregistry"
+              "title": "Graph of 1758717121-functionalrequirements"
             }
           }
         ]
@@ -270,8 +318,10 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "c57572f2940e604e",
+  "active": "f69d6da7629deab6",
   "lastOpenFiles": [
+    "02-Atomic/1758716908-requirements.md",
+    "02-Atomic/1758717121-functionalrequirements.md",
     "02-Atomic/1758716157-stakeholderregistry.md",
     "02-Atomic/1758715262-stakeholders.md",
     "02-Atomic/1755513982-softwareprojectmanagement.md",
@@ -299,8 +349,6 @@
     "02-Atomic/1758632448-gobuster.md",
     "02-Atomic/1758568530-matplotlib.md",
     "02-Atomic/1758565526-dataframeselection.md",
-    "02-Atomic/1758563938-pandas.md",
-    "02-Atomic/1758564298-dataframe.md",
     "99-Meta/0. Attachments/1757764392-voronoidiagramj.png",
     "99-Meta/0. Attachments/1757409110-biasvsvariancej.png",
     "02-Atomic/Uni.base",

@@ -80,6 +80,7 @@
             }
           }
         ],
+        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -190,10 +191,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "02-Atomic/1758649312-sumofsquarederrorfunction.md"
+                "file": "02-Atomic/1758734414-gradientdescent.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for 1758649312-sumofsquarederrorfunction"
+              "title": "File properties for 1758734414-gradientdescent"
             }
           },
           {
@@ -202,7 +203,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02-Atomic/1758649312-sumofsquarederrorfunction.md",
+                "file": "02-Atomic/1758734414-gradientdescent.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -212,7 +213,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 1758649312-sumofsquarederrorfunction"
+              "title": "Backlinks for 1758734414-gradientdescent"
             }
           },
           {
@@ -221,12 +222,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02-Atomic/1758649312-sumofsquarederrorfunction.md",
+                "file": "02-Atomic/1758734414-gradientdescent.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 1758649312-sumofsquarederrorfunction"
+              "title": "Outgoing links from 1758734414-gradientdescent"
             }
           },
           {
@@ -255,7 +256,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02-Atomic/1758649312-sumofsquarederrorfunction.md",
+                "file": "02-Atomic/1758734414-gradientdescent.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -291,7 +292,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 1758649312-sumofsquarederrorfunction"
+              "title": "Graph of 1758734414-gradientdescent"
             }
           }
         ]
@@ -316,11 +317,11 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "be77ede7b53a5995",
+  "active": "9270f9c739d27ffe",
   "lastOpenFiles": [
+    "02-Atomic/1758649312-sumofsquarederrorfunction.md",
     "02-Atomic/1758649000-weightadjustmentinneuralnetworks.md",
     "02-Atomic/1758734414-gradientdescent.md",
-    "02-Atomic/1758649312-sumofsquarederrorfunction.md",
     "02-Atomic/1758644145-neuralnetworks.md",
     "02-Atomic/1758656696-gradientboosting.md",
     "99-Meta/0. Attachments/1758734414-gradientdescentj.png",

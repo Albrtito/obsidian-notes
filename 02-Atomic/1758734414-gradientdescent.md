@@ -16,6 +16,10 @@ cssclasses:
 
 + It works iteratively using an stepsize
 
+> [!attention] Remarks:
+> The stepsize will be important for 
+
+
 > [!example] Dictionary 
 >+ Uses the **gradient** $\nabla E(\theta)$ where $E(\theta)$ will be the cost function. 
 >	+ **remember:** During the ms course the cost funciton will be the [[1758649312-sumofsquarederrorfunction|SSE]]

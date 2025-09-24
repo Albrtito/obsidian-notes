@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-Atomic/1758737329-meansquarederrorfunction.md",
+                "file": "02-Atomic/1758632448-gobuster.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -100,7 +100,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "1758737329-meansquarederrorfunction"
+              "title": "1758632448-gobuster"
             }
           }
         ],
@@ -215,10 +215,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "02-Atomic/1758737329-meansquarederrorfunction.md"
+                "file": "02-Atomic/1758632448-gobuster.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for 1758737329-meansquarederrorfunction"
+              "title": "File properties for 1758632448-gobuster"
             }
           },
           {
@@ -227,7 +227,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02-Atomic/1758737329-meansquarederrorfunction.md",
+                "file": "02-Atomic/1758632448-gobuster.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -237,7 +237,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 1758737329-meansquarederrorfunction"
+              "title": "Backlinks for 1758632448-gobuster"
             }
           },
           {
@@ -246,12 +246,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02-Atomic/1758737329-meansquarederrorfunction.md",
+                "file": "02-Atomic/1758632448-gobuster.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 1758737329-meansquarederrorfunction"
+              "title": "Outgoing links from 1758632448-gobuster"
             }
           },
           {
@@ -280,7 +280,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02-Atomic/1758737329-meansquarederrorfunction.md",
+                "file": "02-Atomic/1758632448-gobuster.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -316,7 +316,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 1758737329-meansquarederrorfunction"
+              "title": "Graph of 1758632448-gobuster"
             }
           }
         ]

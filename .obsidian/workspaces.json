@@ -13,13 +13,76 @@
                 "id": "be77ede7b53a5995",
                 "type": "leaf",
                 "state": {
-                  "type": "empty",
-                  "state": {},
+                  "type": "markdown",
+                  "state": {
+                    "file": "02-Atomic/1758649312-sumofsquarederrorfunction.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
+                  },
                   "icon": "lucide-file",
-                  "title": "New tab"
+                  "title": "1758649312-sumofsquarederrorfunction"
+                }
+              },
+              {
+                "id": "c31bfd0d97d38bea",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "02-Atomic/1758732030-regression.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
+                  },
+                  "icon": "lucide-file",
+                  "title": "1758732030-regression"
+                }
+              },
+              {
+                "id": "9270f9c739d27ffe",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "02-Atomic/1758734414-gradientdescent.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
+                  },
+                  "icon": "lucide-file",
+                  "title": "1758734414-gradientdescent"
                 }
               }
             ],
+            "currentTab": 2,
             "stacked": true
           }
         ],
@@ -129,9 +192,11 @@
                 "type": "leaf",
                 "state": {
                   "type": "file-properties",
-                  "state": {},
+                  "state": {
+                    "file": "02-Atomic/1758734414-gradientdescent.md"
+                  },
                   "icon": "lucide-info",
-                  "title": "File properties"
+                  "title": "File properties for 1758734414-gradientdescent"
                 }
               }
             ]
@@ -146,6 +211,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
+                    "file": "02-Atomic/1758734414-gradientdescent.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -181,7 +247,7 @@
                     }
                   },
                   "icon": "lucide-git-fork",
-                  "title": "Graph view"
+                  "title": "Graph of 1758734414-gradientdescent"
                 }
               }
             ]
@@ -206,8 +272,8 @@
           "workspaces:Manage workspace layouts": false
         }
       },
-      "active": "be77ede7b53a5995",
-      "mtime": "2025-09-23T21:27:58+00:00"
+      "active": "9270f9c739d27ffe",
+      "mtime": "2025-09-24T17:22:01+00:00"
     },
     "is": {
       "main": {

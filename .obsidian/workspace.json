@@ -54,9 +54,21 @@
               "icon": "lucide-file",
               "title": "1758821790-suportvectormachine"
             }
+          },
+          {
+            "id": "081f4757bc1b343a",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "99-Meta/0. Attachments/Greek-Alphabet.png"
+              },
+              "icon": "lucide-image",
+              "title": "Greek-Alphabet"
+            }
           }
         ],
-        "stacked": true
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -166,10 +178,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "02-Atomic/1758819746-linearseparation.md"
+                "file": "99-Meta/0. Attachments/Greek-Alphabet.png"
               },
               "icon": "lucide-info",
-              "title": "File properties for 1758819746-linearseparation"
+              "title": "File properties for Greek-Alphabet"
             }
           },
           {
@@ -178,7 +190,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02-Atomic/1758819746-linearseparation.md",
+                "file": "99-Meta/0. Attachments/Greek-Alphabet.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -188,7 +200,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 1758819746-linearseparation"
+              "title": "Backlinks for Greek-Alphabet"
             }
           },
           {
@@ -197,12 +209,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02-Atomic/1758819746-linearseparation.md",
+                "file": "99-Meta/0. Attachments/Greek-Alphabet.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 1758819746-linearseparation"
+              "title": "Outgoing links from Greek-Alphabet"
             }
           },
           {
@@ -231,7 +243,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02-Atomic/1758819746-linearseparation.md",
+                "file": "99-Meta/0. Attachments/Greek-Alphabet.png",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -267,7 +279,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 1758819746-linearseparation"
+              "title": "Graph of Greek-Alphabet"
             }
           }
         ]
@@ -293,7 +305,7 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "8863cfdb6da312cd",
+  "active": "081f4757bc1b343a",
   "lastOpenFiles": [
     "02-Atomic/1758821790-suportvectormachine.md",
     "02-Atomic/1758819746-linearseparation.md",

@@ -11,10 +11,24 @@
             "id": "8863cfdb6da312cd",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "02-Atomic/1758819746-linearseparation.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "1758819746-linearseparation"
             }
           }
         ],
@@ -127,9 +141,11 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {},
+              "state": {
+                "file": "02-Atomic/1758819746-linearseparation.md"
+              },
               "icon": "lucide-info",
-              "title": "File properties"
+              "title": "File properties for 1758819746-linearseparation"
             }
           },
           {
@@ -138,6 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "02-Atomic/1758819746-linearseparation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +164,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for 1758819746-linearseparation"
             }
           },
           {
@@ -156,11 +173,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "02-Atomic/1758819746-linearseparation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from 1758819746-linearseparation"
             }
           },
           {
@@ -189,6 +207,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "02-Atomic/1758819746-linearseparation.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -224,7 +243,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Graph of 1758819746-linearseparation"
             }
           }
         ]
@@ -252,6 +271,7 @@
   },
   "active": "8863cfdb6da312cd",
   "lastOpenFiles": [
+    "02-Atomic/1758819746-linearseparation.md",
     "02-Atomic/1758649312-sumofsquarederrorfunction.md",
     "02-Atomic/1758732030-regression.md",
     "02-Atomic/1758734414-gradientdescent.md",
@@ -280,7 +300,6 @@
     "02-Atomic/1758647070-neuron.md",
     "99-Meta/0. Attachments/1758644145-neuralnetworksj.png",
     "02-Atomic/1758646854-multilayerperceptron.md",
-    "02-Atomic/1758646698-perceptron.md",
     "99-Meta/0. Attachments/1758632757-browserarchitecturej.png",
     "99-Meta/0. Attachments/1757764392-voronoidiagramj.png",
     "99-Meta/0. Attachments/1757409110-biasvsvariancej.png",

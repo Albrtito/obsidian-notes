@@ -66,8 +66,13 @@ And then add it into the minimization with some penalty C
 $$
 \frac{1}{2}||w||^2 + C \sum_1^l \zeta_i
 $$
+## non-linear patterns
+For patterns that initially look like they cannot be saparated by one line we can try to map them into an extra dimension, makig it so that in this new dimensions we can actually use the model. 
 
+This transformation of the data is called **a kernel of the data** and we name it as $\phi(x_i), \phi(y_i)$. 
+- A type of this (looking at the class slides) would be polynomial. Just creating an new variable (to the powers of the polynomials)
 
+Kernel lets us work in this higher space **without actually working in the high space**. This is called **the kernel trick**
 ***
 ### Up
 - [[1758819746-linearseparation|linear separation]]

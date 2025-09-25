@@ -23,12 +23,15 @@ The objective in linera separation will be to obtain the **biggest margin possib
 >$$
 \begin{align}
 B1: w^Tx+ b = 0\\
-b11: w^tx+b = 1\\
-b12: w^tx+b = -1\\
+b11: w^Tx+b = 1\\
+b12: w^Tx+b = -1\\
 \end{align}
 $$
 >The decision then would be given by a function classifying into one class when something goes past either of the vectors. 
->Where the vectors are defined by a line (as seen above)
+>Where the vectors are defined by a line (as seen above). 
+
+Because of this definition of the threshold and support vectors any point that when inputted into the equation ($w^Tx+b$) gets a value between -1 and 1 is inside the support vectors. If the value is 0 then it is in the threshold. 
+The solution then for this kind of separations is the pair of values w, b. With w being a vector of coeficients and b the “ordenada en el origen”
 
 
 ***

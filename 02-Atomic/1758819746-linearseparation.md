@@ -31,10 +31,14 @@ $$
 >Where the vectors are defined by a line (as seen above). 
 
 Because of this definition of the threshold and support vectors any point that when inputted into the equation ($w^Tx+b$) gets a value between -1 and 1 is inside the support vectors. If the value is 0 then it is in the threshold. 
+
 The solution then for this kind of separations is the pair of values w, b. With w being a vector of coeficients and b the “ordenada en el origen”
+
+**But how do we find this two values?** → Using [[1758821790-suportvectormachine|suport vector machine]]
 
 
 ***
 ### Up
 ### Down
+- [[1758821790-suportvectormachine|suport vector machine]]
 ***

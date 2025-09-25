@@ -56,7 +56,17 @@ We only need this slack variables for points that are actually misclasified.
 $$
 \zeta_i = max(0,1-y_i(w^Tx_i+b))
 $$
-This way the slack variable is 0 if no slack is needed but then, if the distance to the threshold is smaller than 1 
+This way the slack variable is 0 if no slack is needed but then, if the distance to the threshold is smaller than 1 the 1-(distance) is bigger than 0 and that is taken. 
+
+Now with this definition we can inlcude the slack into the optimization problem (trying to find min(w)). To do this we can **allow some total sum of slack**. 
+$$
+\sum_1^l \zeta_i
+$$
+And then add it into the minimization with some penalty C
+$$
+\frac{1}{2}||w||^2 + C \sum_1^l \zeta_i
+$$
+
 
 ***
 ### Up

@@ -56,7 +56,6 @@
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -167,10 +166,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "02-Atomic/1758821790-suportvectormachine.md"
+                "file": "02-Atomic/1758819746-linearseparation.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for 1758821790-suportvectormachine"
+              "title": "File properties for 1758819746-linearseparation"
             }
           },
           {
@@ -179,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02-Atomic/1758821790-suportvectormachine.md",
+                "file": "02-Atomic/1758819746-linearseparation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -189,7 +188,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 1758821790-suportvectormachine"
+              "title": "Backlinks for 1758819746-linearseparation"
             }
           },
           {
@@ -198,12 +197,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02-Atomic/1758821790-suportvectormachine.md",
+                "file": "02-Atomic/1758819746-linearseparation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 1758821790-suportvectormachine"
+              "title": "Outgoing links from 1758819746-linearseparation"
             }
           },
           {
@@ -232,7 +231,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02-Atomic/1758821790-suportvectormachine.md",
+                "file": "02-Atomic/1758819746-linearseparation.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -268,7 +267,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 1758821790-suportvectormachine"
+              "title": "Graph of 1758819746-linearseparation"
             }
           }
         ]
@@ -294,10 +293,10 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "56a26a5aa2fb3cec",
+  "active": "8863cfdb6da312cd",
   "lastOpenFiles": [
-    "02-Atomic/1758819746-linearseparation.md",
     "02-Atomic/1758821790-suportvectormachine.md",
+    "02-Atomic/1758819746-linearseparation.md",
     "99-Meta/0. Attachments/1758819746-linearseparationj.png",
     "02-Atomic/1758649312-sumofsquarederrorfunction.md",
     "02-Atomic/1758732030-regression.md",

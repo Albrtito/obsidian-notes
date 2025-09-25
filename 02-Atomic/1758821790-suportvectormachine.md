@@ -47,7 +47,16 @@ $$
 $$
 
 ## allowing misclassification
-There are some non-separable patters that wont be classifiable with a hard SVM classifier. 
+There are some non-separable patters that wont be classifiable with a hard SVM classifier.
+This is done using some slack variables $\zeta_i$.
+$$
+y_i(w^Tx_i + b) \geq 1 - \zeta_i
+$$
+We only need this slack variables for points that are actually misclasified. 
+$$
+\zeta_i = max(0,1-y_i(w^Tx_i+b))
+$$
+This way the slack variable is 0 if no slack is needed but then, if the distance to the threshold is smaller than 1 
 
 ***
 ### Up

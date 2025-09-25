@@ -68,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -178,10 +178,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "99-Meta/0. Attachments/Greek-Alphabet.png"
+                "file": "02-Atomic/1758821790-suportvectormachine.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Greek-Alphabet"
+              "title": "File properties for 1758821790-suportvectormachine"
             }
           },
           {
@@ -190,7 +190,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "99-Meta/0. Attachments/Greek-Alphabet.png",
+                "file": "02-Atomic/1758821790-suportvectormachine.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -200,7 +200,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Greek-Alphabet"
+              "title": "Backlinks for 1758821790-suportvectormachine"
             }
           },
           {
@@ -209,12 +209,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "99-Meta/0. Attachments/Greek-Alphabet.png",
+                "file": "02-Atomic/1758821790-suportvectormachine.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Greek-Alphabet"
+              "title": "Outgoing links from 1758821790-suportvectormachine"
             }
           },
           {
@@ -243,7 +243,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "99-Meta/0. Attachments/Greek-Alphabet.png",
+                "file": "02-Atomic/1758821790-suportvectormachine.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -279,7 +279,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Greek-Alphabet"
+              "title": "Graph of 1758821790-suportvectormachine"
             }
           }
         ]
@@ -305,8 +305,9 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "081f4757bc1b343a",
+  "active": "56a26a5aa2fb3cec",
   "lastOpenFiles": [
+    "99-Meta/0. Attachments/Greek-Alphabet.png",
     "02-Atomic/1758821790-suportvectormachine.md",
     "02-Atomic/1758819746-linearseparation.md",
     "99-Meta/0. Attachments/1758819746-linearseparationj.png",
@@ -327,7 +328,6 @@
     "02-Atomic/1758715262-stakeholders.md",
     "02-Atomic/1755513982-softwareprojectmanagement.md",
     "02-Atomic/1756215731-awesomeblogs.md",
-    "99-Meta/0. Attachments/Greek-Alphabet.png",
     "02-Atomic/1757411969-boosting.md",
     "02-Atomic/1755599732-machinelearning.md",
     "02-Atomic/1758651868-hyperparameter.md",
@@ -335,7 +335,6 @@
     "02-Atomic/1757763078-knearestneighbor.md",
     "02-Atomic/1757411573-randomforest.md",
     "02-Atomic/1757407129-ensemblemethods.md",
-    "02-Atomic/1758647070-neuron.md",
     "99-Meta/0. Attachments/1758644145-neuralnetworksj.png",
     "99-Meta/0. Attachments/1758632757-browserarchitecturej.png",
     "99-Meta/0. Attachments/1757764392-voronoidiagramj.png",

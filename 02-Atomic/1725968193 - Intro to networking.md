@@ -2,7 +2,7 @@
 aliases:
   - Intro to networking
 tags:
-  - Networks
+  - net
 References: "[[Net_Biblio_Kurose.pdf#page=28]]"
 cssclasses: 
 sr-due: 2025-02-16

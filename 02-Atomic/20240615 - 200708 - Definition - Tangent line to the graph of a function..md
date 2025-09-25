@@ -2,7 +2,7 @@
 aliases:
   - Tangent line to the graph of a function.
 tags:
-  - CalcI
+  - calc
 "References:": 
 cssclasses: 
 sr-due: 2024-06-26

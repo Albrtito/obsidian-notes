@@ -3,7 +3,7 @@ id: Heuristica y Opti
 aliases:
   - Heuri
 tags:
-  - Heuri
+  - heuri
 ---
 # Heuristica y Opti
 

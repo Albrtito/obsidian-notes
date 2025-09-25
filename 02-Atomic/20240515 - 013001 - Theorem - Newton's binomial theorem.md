@@ -2,8 +2,8 @@
 aliases:
   - Newton's binomial theorem
 tags:
-  - Discrete
-  - CalcI
+  - discrete
+  - calc
 "References:": 
 sr-due: 2024-05-21
 sr-interval: 1

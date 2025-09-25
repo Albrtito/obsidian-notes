@@ -2,7 +2,7 @@
 aliases:
   - Definition - Average of a function
 tags:
-  - CalcI
+  - calc
 "References:": 
 cssclasses:
 ---

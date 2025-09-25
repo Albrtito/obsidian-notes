@@ -2,7 +2,7 @@
 aliases:
   - Ejemplos SIMPLEX
 tags:
-  - Heuri
+  - heuri
 References: 
 cssclasses:
 ---
@@ -137,7 +137,7 @@ $$ z = \sum_{i\in B} C_i \hat X_i + c_j \sigma $$
 + Obtenemos el valor de una variable acomodada como el siguiente:
 
 $$ \boxed{\hat x_i. = x_i - \sigma y_{ji'}}$$
-#Duda: Como se obtiene el coste reducido a través de la definición de una variable básica acomodada.
+#duda: Como se obtiene el coste reducido a través de la definición de una variable básica acomodada.
 
 **Utilizando esta nueva definición obtenemos el coste reducido de una nueva variable no básica.**
 $$z - \sigma(z_j - c_j)$$
@@ -165,7 +165,7 @@ Este problema se representa en que tenemos una base tridimensional igualada a ot
   $$a_3x_3 + a_4x_4 + a_5x_5 = a_3\hat x_3 + a_3\hat x_3 + a_3\hat x_3 + a_3\hat x_3 + a_1 \theta$$
 
 Resolvemos la equación algebráica: 
-#Duda: Cooooomo? Necesito una explicación de esto tmb
+#duda: Cooooomo? Necesito una explicación de esto tmb
 $$ B_0 y_1 = a_1$$ 
 Y obtenemos la igualdad: 
 $$ \boxed{a_1 = a_3y_{11} + a_4y_{12} + a_5y_{13} }$$

@@ -3,7 +3,7 @@ aliases:
   - Elementary functions
   - Basic functions
 tags:
-  - CalcI
+  - calc
 "References:": 
 cssclasses:
 ---

@@ -2,7 +2,7 @@
 aliases:
   - Generacion de series pseudoaleatorias
 tags:
-  - Cripto
+  - cripto
   - incomplete
 References: 
 cssclasses:

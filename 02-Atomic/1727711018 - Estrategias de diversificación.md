@@ -2,7 +2,7 @@
 aliases:
   - Estrategias de diversificación
 tags:
-  - Empresa
+  - empresa
 References: 
 cssclasses: 
 sr-due: 2024-11-23

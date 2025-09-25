@@ -2,7 +2,7 @@
 aliases:
   - Exercises - Integer arithmetic
 tags:
-  - Discrete
+  - discrete
 "References:":
   - "[[20240519 - 212331 - Integer arithmetic|Integer arithmetic]]"
   - "[[Modular arithmetic]]"

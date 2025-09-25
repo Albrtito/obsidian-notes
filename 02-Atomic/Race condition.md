@@ -1,7 +1,7 @@
 ---
 Date: 2024-03-18
 tags:
-  - OS
+  - os
 "References:": 
 sr-due: 2024-07-04
 sr-interval: 72

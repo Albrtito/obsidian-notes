@@ -2,7 +2,7 @@
 aliases:
   - Generalized forwarding
 tags:
-  - Networks
+  - net
 References: 
 cssclasses: 
 sr-due: 2025-02-03

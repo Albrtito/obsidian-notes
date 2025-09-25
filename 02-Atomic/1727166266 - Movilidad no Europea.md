@@ -2,7 +2,7 @@
 aliases:
   - Movilidad no Europea
 tags:
-  - Mov
+  - mov
 References: 
 cssclasses:
 ---

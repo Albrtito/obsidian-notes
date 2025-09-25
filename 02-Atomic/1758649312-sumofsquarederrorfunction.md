@@ -25,4 +25,5 @@ where:
 ***
 ### Up
 ### Down
+- [[1758737329-meansquarederrorfunction|mean squared error function]]
 ***

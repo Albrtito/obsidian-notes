@@ -2,7 +2,7 @@
 aliases:
   - Lost solutions in a DE
 tags:
-  - DiffCalc
+  - diffcalc
 "References:": 
 cssclasses: 
 sr-due: 2024-10-10

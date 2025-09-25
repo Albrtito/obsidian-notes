@@ -1,6 +1,6 @@
 ---
 tags:
-  - Logic
+  - logic
 ---
 It is the same to say this two things: 
 

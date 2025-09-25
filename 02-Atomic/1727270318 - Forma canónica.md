@@ -3,7 +3,7 @@ aliases:
   - Forma canónica
   - Forma simétrica
 tags:
-  - Heuri
+  - heuri
 References: 
 cssclasses: 
 sr-due: 2024-12-05

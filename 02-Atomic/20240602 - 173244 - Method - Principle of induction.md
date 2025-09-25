@@ -3,7 +3,7 @@ aliases:
   - Principle of induction
 Date: 2024-03-12
 tags:
-  - CalcI
+  - calc
 "References:": 
 sr-due: 2024-09-19
 sr-interval: 122

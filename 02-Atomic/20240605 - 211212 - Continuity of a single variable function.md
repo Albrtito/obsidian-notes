@@ -2,7 +2,7 @@
 aliases:
   - Continuity of a single variable function
 tags:
-  - CalcI
+  - calc
 "References:":
   - "[[Calc_Theory_Continuity.pdf]]"
 cssclasses: 
@@ -73,6 +73,6 @@ Given a function f, continuous or not, we can define a maximum/minimum point and
 
 
 ## Uniform continuity: 
-#Duda : No entiendo nada de esta definición 
+#duda : No entiendo nada de esta definición 
 
 ![[Screenshot 2024-06-14 at 13.32.01.png]]

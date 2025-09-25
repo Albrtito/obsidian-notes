@@ -2,7 +2,7 @@
 aliases:
   - Perfect matchings on complete graphs
 tags:
-  - Discrete
+  - discrete
 "References:": 
 cssclasses:
 ---

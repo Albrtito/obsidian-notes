@@ -2,7 +2,7 @@
 aliases:
   - Generating Function definition
 tags:
-  - Discrete
+  - discrete
 "References:":
   - "[Sequences of real numbers](Sequences%20of%20real%20numbers.md)"
 cssclasses: 

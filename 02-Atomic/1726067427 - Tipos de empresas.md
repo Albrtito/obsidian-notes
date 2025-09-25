@@ -2,7 +2,7 @@
 aliases:
   - Tipos de empresas
 tags:
-  - Empresa
+  - empresa
 References: 
 cssclasses: 
 sr-due: 2024-12-12

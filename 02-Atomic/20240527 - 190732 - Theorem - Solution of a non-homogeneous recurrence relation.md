@@ -2,7 +2,7 @@
 aliases:
   - Theorem - Solution of a non-homogeneous recurrence relation
 tags:
-  - Discrete
+  - discrete
 "References:": 
 cssclasses:
 ---

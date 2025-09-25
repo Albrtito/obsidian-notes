@@ -3,7 +3,7 @@ aliases:
   - Practica - Plan de Empresa - 5.Plan de marketing
   - 5.Plan de Marketing
 tags:
-  - Empresa
+  - empresa
 References: 
 cssclasses:
 ---

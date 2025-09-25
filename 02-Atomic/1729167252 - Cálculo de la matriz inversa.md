@@ -3,8 +3,8 @@ aliases:
   - Inverse matrix
   - Calculo de la matriz inversa
 tags:
-  - Heuri
-  - Algebra
+  - heuri
+  - algebra
 References: 
 cssclasses: 
 sr-due: 2025-01-28

@@ -1,7 +1,7 @@
 ---
 Date: 2024-03-18
 tags:
-  - Discrete
+  - discrete
 "References:":
   - "[[Discrete_Theory_All.pdf]]"
   - "[[Discreta_Exercises_All_Solved.pdf]]"

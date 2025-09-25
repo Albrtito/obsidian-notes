@@ -4,7 +4,7 @@ aliases:
   - Limits
 Date: 2024-03-19
 tags:
-  - CalcI
+  - calc
 "References:":
   - "[[Calc_Theory_Limits.pdf]]"
 sr-due: 2024-11-08

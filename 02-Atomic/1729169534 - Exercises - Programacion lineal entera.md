@@ -2,7 +2,7 @@
 aliases:
   - Exercises - Programacion lineal entera
 tags:
-  - Heuri
+  - heuri
   - incomplete
 References: 
 cssclasses:

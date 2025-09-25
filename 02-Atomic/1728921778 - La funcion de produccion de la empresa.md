@@ -3,7 +3,7 @@ id: 1728921778 - La funcion de produccion de la empresa
 aliases:
   - La funcion de produccion de la empresa
 tags:
-  - Empresa
+  - empresa
 sr-due: "2024-12-07"
 sr-ease: 224
 sr-interval: 35

@@ -2,7 +2,7 @@
 aliases:
   - Euclid's theorem in integer arithmetic
 tags:
-  - Discrete
+  - discrete
 "References:": 
 cssclasses: 
 sr-due: 2024-05-23

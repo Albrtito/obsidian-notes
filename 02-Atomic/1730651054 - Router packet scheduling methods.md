@@ -3,7 +3,7 @@ aliases:
   - Router packet scheduling methods
   - Packet scheduling
 tags:
-  - Networks
+  - net
 References: 
 cssclasses: 
 sr-due: 2024-12-01

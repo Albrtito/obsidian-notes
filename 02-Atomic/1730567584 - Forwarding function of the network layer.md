@@ -4,7 +4,7 @@ aliases:
   - Forwarding
   - switching
 tags:
-  - Networks
+  - net
 References: 
 cssclasses: 
 sr-due: 2025-01-17

@@ -3,7 +3,7 @@ aliases:
   - Protocol - CSMA
   - CSMA
 tags:
-  - Networks
+  - net
 References: 
 cssclasses: 
 sr-due: 2024-11-27

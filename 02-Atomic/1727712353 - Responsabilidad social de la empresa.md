@@ -2,7 +2,7 @@
 aliases:
   - Responsabilidad social de la empresa
 tags:
-  - Empresa
+  - empresa
 References: 
 cssclasses: 
 sr-due: 2025-02-10

@@ -3,7 +3,7 @@ id: Filo 101
 aliases:
   - Filo 101
 tags:
-  - Filo
+  - philo
 ---
 # Filo 101
 

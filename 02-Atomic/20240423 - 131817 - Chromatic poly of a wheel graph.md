@@ -2,7 +2,7 @@
 aliases:
   - Chromatic poly of a wheel graph
 tags:
-  - Discrete
+  - discrete
 "References:": 
 cssclasses: 
 sr-due: 2024-06-11

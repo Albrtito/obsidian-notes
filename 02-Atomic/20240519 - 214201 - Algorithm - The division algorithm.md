@@ -3,7 +3,7 @@ aliases:
   - Algorithm - The division algorithm
   - The division algorithm
 tags:
-  - Discrete
+  - discrete
 "References:": 
 cssclasses: 
 sr-due: 2024-05-22

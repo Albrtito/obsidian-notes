@@ -2,7 +2,7 @@
 aliases:
   - Cyclomatic complexity
 tags:
-  - SoftwareDev
+  - softwareDev
 "References:":
   - https://www.geeksforgeeks.org/cyclomatic-complexity/
 cssclasses:
@@ -18,5 +18,5 @@ $$
 + P : Number of connected components 
 
 **Remarks:** 
-+ During the #SoftwareDev second course we almost never have separately connected components, this means that the basic formula is to use: $M = E - N + 2$
++ During the #softwareDev second course we almost never have separately connected components, this means that the basic formula is to use: $M = E - N + 2$
 + 

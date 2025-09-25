@@ -1,7 +1,7 @@
 ---
 aliases: 
 tags:
-  - DiffCalc
+  - diffcalc
 "References:": 
 DateCreated: 2024-04-05
 sr-due: 2024-04-24
@@ -91,7 +91,7 @@ $$
 
 Then, linear ODEs systems can be described in terms of a linear algebra equation system. This way we’ll use a matrix A to represent the coefficients of each function for each equation (these coefficients are functions of t), the functions (u’s) will be represented as a vector. And the part there is left (the t in the functions for the general form) will be represented as a vector containing all funcitons of t. (I think I really did not explain myself in this paragraph, I will try to compensate in the following generalisation.)
 ### General form of a system of first order LINEAL ODEs
-#Duda Why are can we transform the system into this vectorial form if it’s lineal 
+#duda Why are can we transform the system into this vectorial form if it’s lineal 
 
 $$
 \frac{du}{dt} = A(t)u + F(t)

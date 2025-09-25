@@ -4,7 +4,7 @@ aliases:
   - Algorithm - DPLL
   - DPLL
 tags:
-  - Heuri
+  - heuri
 References: 
 cssclasses: 
 sr-due: 2024-12-13

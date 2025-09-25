@@ -2,7 +2,7 @@
 aliases:
   - Side limits
 tags:
-  - CalcI
+  - calc
 "References:": 
 cssclasses: 
 sr-due: 2024-08-12

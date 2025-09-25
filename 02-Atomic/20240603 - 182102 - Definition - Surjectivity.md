@@ -3,7 +3,7 @@ aliases:
   - Surjectivity
   - Definition - Surjecticity
 tags:
-  - CalcI
+  - calc
 "References:": 
 cssclasses: 
 sr-due: 2024-07-18

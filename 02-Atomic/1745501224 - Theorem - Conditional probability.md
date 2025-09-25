@@ -3,7 +3,7 @@ aliases:
   - Conditional probability
   - Theorem - Conditional probability
 tags:
-  - IA
+  - ai
   - stat
 References:
 cssclasses:

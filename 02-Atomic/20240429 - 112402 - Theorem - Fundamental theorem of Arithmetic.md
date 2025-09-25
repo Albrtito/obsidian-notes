@@ -2,7 +2,7 @@
 aliases:
   - Fundamental theorem of Arithmetic
 tags:
-  - Discrete
+  - discrete
 "References:": 
 cssclasses: 
 sr-due: 2024-06-08

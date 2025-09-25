@@ -2,7 +2,7 @@
 aliases:
   - Asientos
 tags:
-  - Empresa
+  - empresa
 References: 
 cssclasses: 
 sr-due: 2025-01-30

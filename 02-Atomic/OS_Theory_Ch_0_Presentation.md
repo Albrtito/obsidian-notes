@@ -1,5 +1,5 @@
 Date: 2024-02-04
-Class: #OS
+Class: #os
 References: [PDF_Ch_0_Presentation](https://aulaglobal.uc3m.es/pluginfile.php/6810592/mod_resource/content/1/presentationSSOO-Eng.pdf)
 
 

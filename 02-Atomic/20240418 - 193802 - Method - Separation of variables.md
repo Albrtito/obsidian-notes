@@ -3,8 +3,8 @@ aliases:
   - Method of separation of variables
   - Fourier Method
 tags:
-  - DiffCalc
-  - Duda
+  - diffcalc
+  - duda
 "References:": 
 cssclasses:
 ---

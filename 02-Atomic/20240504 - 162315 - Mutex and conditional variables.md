@@ -2,7 +2,7 @@
 aliases:
   - Mutex and conditional variables
 tags:
-  - OS
+  - os
 "References:": 
 cssclasses: 
 sr-due: 2024-05-22

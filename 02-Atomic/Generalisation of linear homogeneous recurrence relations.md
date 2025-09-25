@@ -1,7 +1,7 @@
 ---
 Date: 2024-03-18
 tags:
-  - Discrete
+  - discrete
 "References:": 
 sr-due: 2024-06-07
 sr-interval: 21
@@ -28,6 +28,6 @@ sr-ease: 205
 + There's a really important property for this relations and the non-homogeneous ones. This property is the **superposition principle**.
    
   This principle states the following: **If $a_n , b_n$ are two solutions for a linear homogeneous recurrence relation then the linear combination $\alpha a_n + \beta b_n$ is also a solution of that recursion**
-  #Duda : Does this mean that (going back to the generalisation defined a moment ago) the equation we obtain for one single root is also valid and can be even specified with some initial conditions? 
+  #duda : Does this mean that (going back to the generalisation defined a moment ago) the equation we obtain for one single root is also valid and can be even specified with some initial conditions? 
   
 + Another property of recurrence relations is that the space of solutions has a vector space structure. This means that there is infinite possible solutions before we compute the constants K.Once some initial conditions are given , one single solution remains. 

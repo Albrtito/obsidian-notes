@@ -3,7 +3,7 @@ aliases:
   - Definition - Local maximum and minimum points of a function
   - Local maximum and minimum points of a function
 tags:
-  - CalcI
+  - calc
 "References:": 
 cssclasses: 
 sr-due: 2024-06-28

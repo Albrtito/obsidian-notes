@@ -2,7 +2,7 @@
 aliases:
   - Sustitución monoalfabeto monográfica
 tags:
-  - Cripto
+  - cripto
 References: 
 cssclasses: 
 sr-due: 2024-12-13

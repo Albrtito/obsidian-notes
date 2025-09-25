@@ -5,7 +5,7 @@ aliases:
   - Problemas SAT
   - SAT
 tags:
-  - Heuri
+  - heuri
 ---
 # Problemas de satisfabilidad Lógica
 

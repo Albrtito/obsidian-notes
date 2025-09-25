@@ -3,7 +3,7 @@ aliases:
   - Defninition - Serie de Fibonacci
   - Serie de Fibonacci
 tags:
-  - Heuri
+  - heuri
 References: 
 cssclasses: 
 sr-due: 2024-12-03

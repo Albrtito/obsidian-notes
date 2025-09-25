@@ -4,7 +4,7 @@ aliases:
   - L'Hôpital-Bernoully rule
   - L'Hôpital rule
 tags:
-  - CalcI
+  - calc
 "References:": 
 cssclasses: 
 sr-due: 2024-06-23

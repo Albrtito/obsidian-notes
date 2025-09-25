@@ -2,7 +2,7 @@
 aliases:
   - Estrategias de integración
 tags:
-  - Empresa
+  - empresa
 References: 
 cssclasses: 
 sr-due: 2025-03-01

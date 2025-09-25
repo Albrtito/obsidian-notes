@@ -3,7 +3,7 @@ id: IA
 aliases:
   - IA
 tags:
-  - IA
+  - ai
 cssclasses:
   - center-images
 ---

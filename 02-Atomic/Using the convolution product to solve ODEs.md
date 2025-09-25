@@ -1,7 +1,7 @@
 ---
 Date: 2024-03-19
 tags:
-  - DiffCalc
+  - diffcalc
 "References:": 
 sr-due: 2024-12-28
 sr-interval: 207

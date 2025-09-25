@@ -5,7 +5,7 @@ sr-ease: 210
 ---
 ---
 Date: 2024-03-12
-Class: #Logic  
+Class: #logic  
 Chapter: 4 
 References: 
 

@@ -2,7 +2,7 @@
 aliases:
   - Integer arithmetic
 tags:
-  - Discrete
+  - discrete
 "References:": 
 cssclasses:
 ---

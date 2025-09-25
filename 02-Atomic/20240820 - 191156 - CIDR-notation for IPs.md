@@ -2,7 +2,7 @@
 aliases:
   - CIDR notation
 tags:
-  - Cyber
+  - cyber
 "References:": 
 cssclasses:
 ---

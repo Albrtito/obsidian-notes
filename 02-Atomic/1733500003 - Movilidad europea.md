@@ -2,7 +2,7 @@
 aliases:
   - Movilidad europea
 tags:
-  - Mov
+  - mov
 References: 
 cssclasses:
 ---
@@ -13,9 +13,9 @@ cssclasses:
 > [!attention] Cuidado con… 
 > + Fijarse en cuantos créditos requieren las universidades, por diferencia de años entre grados con europa muchas veces se entra en un primero de master, con x créditos requeridos. Si no se cumplen esos requerimientos se verá como una **renuncia no justificada** 
 
-#Duda La universidad de estocolmo esta dos veces en los listados?
-#Duda Los cinco años requeridos. Desde cuando a cuando? (Fecha de convocatoria o de aceptación)
-#Duda Los 180 créditos, que significa estar cerca? Si al finalizar este año tendré 140 estoy cerca?
+#duda La universidad de estocolmo esta dos veces en los listados?
+#duda Los cinco años requeridos. Desde cuando a cuando? (Fecha de convocatoria o de aceptación)
+#duda Los 180 créditos, que significa estar cerca? Si al finalizar este año tendré 140 estoy cerca?
 ## Idiomas:
 + Para comprobar el mapping del certiciado que se tiene al nivel que se pide se dan una serie de documentos para cada idioma con los diferentes certificados que se pueden tener. 
 + Las universidades suelen ser flexibles, no obstante se ha de mirar las observaciones de cada una de ellas. (En algunos casos hay un número de años a partir de los que el certificado no es válido)

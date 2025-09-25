@@ -2,7 +2,7 @@
 aliases:
   - Intro a la seguridad informática
 tags:
-  - Cripto
+  - cripto
 References: https://aulaglobal.uc3m.es/pluginfile.php/7291371/mod_resource/content/1/M1_Intro_Ciber_Cifrado_2425.pdf
 cssclasses: 
 sr-due: 2024-12-20

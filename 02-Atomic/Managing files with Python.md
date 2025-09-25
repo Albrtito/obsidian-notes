@@ -2,7 +2,7 @@
 aliases:
   - PythonFiles
 tags:
-  - SoftwareDev
+  - softwareDev
 "References:": 
 DateCreated: 2024-03-31
 sr-due: 2024-04-21

@@ -3,7 +3,7 @@ aliases:
   - Complementary of a binary relation
   - Complementary relation
 tags:
-  - Discrete
+  - discrete
 "References:": 
 cssclasses: 
 sr-due: 2024-08-15

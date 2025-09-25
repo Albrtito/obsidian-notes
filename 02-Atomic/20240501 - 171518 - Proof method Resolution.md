@@ -2,7 +2,7 @@
 aliases:
   - Resolution proof method
 tags:
-  - Logic
+  - logic
 "References:": 
 cssclasses: 
 sr-due: 2024-05-02

@@ -3,7 +3,7 @@ aliases:
   - RDT With errors and loss
   - Method - RDT With errors and loss
 tags:
-  - Networks
+  - net
 References: 
 cssclasses: 
 sr-due: 2024-12-15

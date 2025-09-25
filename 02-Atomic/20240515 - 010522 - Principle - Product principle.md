@@ -2,7 +2,7 @@
 aliases:
   - Product principle
 tags:
-  - Discrete
+  - discrete
 "References:": 
 cssclasses: 
 sr-due: 2024-05-21

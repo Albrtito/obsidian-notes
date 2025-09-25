@@ -2,7 +2,7 @@
 aliases:
   - Primera práctica heuristica
 tags:
-  - Heuri
+  - heuri
 References: https://github.com/jmartinpizarro/heuristics-planes.git
 cssclasses:
 ---

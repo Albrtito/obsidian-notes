@@ -1,7 +1,7 @@
 ---
 aliases: 
 tags:
-  - CalcI
+  - calc
 "References:":
   - "[Sequences and series of real numbers](Sequences%20and%20series%20of%20real%20numbers.md)"
 DateCreated: 2024-04-05

@@ -3,7 +3,7 @@ aliases:
   - Definition - Bipartite graph
   - Bipartite graph
 tags:
-  - Discrete
+  - discrete
 "References:": 
 cssclasses: 
 sr-due: 2024-05-30

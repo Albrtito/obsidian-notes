@@ -3,7 +3,7 @@ aliases:
   - Network Address Translation (NAT)
   - NAT
 tags:
-  - Networks
+  - net
 References: 
 cssclasses: 
 sr-due: 2024-12-13

@@ -2,7 +2,7 @@
 aliases:
   - Matriz adjunta
 tags:
-  - Algebra
+  - algebra
 References: 
 cssclasses:
 ---

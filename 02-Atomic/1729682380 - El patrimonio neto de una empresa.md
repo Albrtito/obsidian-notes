@@ -5,7 +5,7 @@ aliases:
   - El patrimonio neto
   - Patrimonio neto
 tags:
-  - Empresa
+  - empresa
 sr-due: "2024-12-07"
 sr-ease: 230
 sr-interval: 18

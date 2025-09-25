@@ -3,7 +3,7 @@ aliases:
   - Definition 122
   - Binary Relations Definition
 tags:
-  - Discrete
+  - discrete
 "References:": 
 cssclasses: 
 sr-due: 2024-06-12

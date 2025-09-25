@@ -1,5 +1,5 @@
 Date: 2024-02-04
-Class: #SoftwareDev
+Class: #softwareDev
 References: [WeeklyPlan](https://aulaglobal.uc3m.es/pluginfile.php/6796548/mod_resource/content/1/weekly_planning_2023-2024.pdf)  [SubjectIntro](https://aulaglobal.uc3m.es/pluginfile.php/6849102/mod_resource/content/0/DS_Presentacion_G89_2024_EN%20%281%29.pdf)
 
 ---

@@ -1,5 +1,5 @@
 Date: 2024-02-06
-Class: #SoftwareDev 
+Class: #softwareDev 
 References: [SoftwareDev_Resource_PairProgrammingGuide ](../00.References/SoftwareDev_Resource_PairProgrammingGuide%20.pdf)[StrengheningTheCaseForPairProgramming](https://doi.org/10.1109/52.854064)
 
 ---

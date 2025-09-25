@@ -3,7 +3,7 @@ aliases:
   - Method - Checksum
   - Checksum
 tags:
-  - Networks
+  - net
 References: 
 cssclasses: 
 sr-due: 2025-02-22

@@ -2,7 +2,7 @@
 aliases:
   - Odin - Fundations Course
 tags:
-  - WebDev
+  - webdev
 "References:":
   - https://www.theodinproject.com/paths/foundations/courses/foundations
 cssclasses:

@@ -3,7 +3,7 @@ aliases:
   - Fundamental theorem of calculus
   - Theorem - Fundamental theorem of calculus
 tags:
-  - CalcI
+  - calc
 "References:": 
 cssclasses:
 ---

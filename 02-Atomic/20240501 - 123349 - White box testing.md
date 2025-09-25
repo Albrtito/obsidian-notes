@@ -3,7 +3,7 @@ aliases:
   - White box testing
   - Structural testing
 tags:
-  - SoftwareDev
+  - softwareDev
 "References:": 
 cssclasses: 
 sr-due: 2024-08-08
@@ -28,7 +28,7 @@ All these techniques are **applied during unit-testing**
 + All code paths can be verified as tested or not. There is a countable number of them
 ## Disadvantages: 
 + Number of paths can be to large for testing
-+ Difficult to detect **data sensitivity errors** (p = q/r) #Duda  Why so difficult?
++ Difficult to detect **data sensitivity errors** (p = q/r) #duda  Why so difficult?
 + **Assumes control flow is correct** (the implementation (it works), now we test if it works well or not) 
 + Need of programming skills 
  

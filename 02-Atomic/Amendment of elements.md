@@ -1,6 +1,6 @@
 ---
 tags:
-  - FilesAndDB
+  - filesAndDB
 ---
 Keeping with the idea of elements in sql and generalising commands. In order to make some changes in an element we use the amendment command: 
 ```sql 

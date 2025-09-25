@@ -3,7 +3,7 @@ aliases:
   - Valor actual neto de una inversión
   - VAN
 tags:
-  - Empresa
+  - empresa
   - incomplete
 References: 
 cssclasses:

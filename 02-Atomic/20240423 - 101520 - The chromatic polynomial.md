@@ -2,7 +2,7 @@
 aliases:
   - The chromatic polynomial
 tags:
-  - Discrete
+  - discrete
 "References:": 
 cssclasses: 
 sr-due: 2024-05-25

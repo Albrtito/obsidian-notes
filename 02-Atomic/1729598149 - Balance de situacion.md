@@ -2,7 +2,7 @@
 aliases:
   - Balance de situacion
 tags:
-  - Empresa
+  - empresa
 References: 
 cssclasses: 
 sr-due: 2024-12-16

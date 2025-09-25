@@ -2,7 +2,7 @@
 aliases:
   - Propositional logic
 tags:
-  - Logic
+  - logic
 References: 
 cssclasses:
 ---

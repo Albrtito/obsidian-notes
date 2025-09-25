@@ -4,7 +4,7 @@ aliases:
   - CIDR
   - Classless Interdomain Routing
 tags:
-  - Networks
+  - net
 References: 
 cssclasses: 
 sr-due: 2025-02-01
@@ -42,5 +42,5 @@ Finally we can give a formal definition to this notatoin:
 + Usually organisations will have some base prefix and then create subnets from that.
 + Routers use this notion of prefixes to optimize routing algorithms and write in this form into the routing tables.
 
-#Duda: Según CIDR, las redes 192.168.45.3/24 y 192.168.45.0/24 son las mismas?
+#duda: Según CIDR, las redes 192.168.45.3/24 y 192.168.45.0/24 son las mismas?
 ***

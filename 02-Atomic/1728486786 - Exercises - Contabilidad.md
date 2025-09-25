@@ -2,7 +2,7 @@
 aliases:
   - Exercises - Contabilidad
 tags:
-  - Empresa
+  - empresa
   - incomplete
 References: 
 cssclasses:

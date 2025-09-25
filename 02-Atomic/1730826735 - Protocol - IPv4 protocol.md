@@ -3,7 +3,7 @@ aliases:
   - IPv4 protocol
   - IPv4
 tags:
-  - Networks
+  - net
 References: 
 cssclasses: 
 sr-due: 2024-11-28

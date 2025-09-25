@@ -2,7 +2,7 @@
 aliases:
   - Bézout's Identity
 tags:
-  - Discrete
+  - discrete
 "References:": 
 cssclasses: 
 sr-due: 2024-05-21

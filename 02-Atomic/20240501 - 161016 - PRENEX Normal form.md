@@ -3,7 +3,7 @@ aliases:
   - PRENEX Normal form
   - PNF
 tags:
-  - Logic
+  - logic
 "References:": 
 cssclasses: 
 sr-due: 2024-06-02

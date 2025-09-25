@@ -3,7 +3,7 @@ aliases:
   - Closing a TCP connection
   - Closing TCP
 tags:
-  - Networks
+  - net
 References: 
 cssclasses: 
 sr-due: 2025-01-03

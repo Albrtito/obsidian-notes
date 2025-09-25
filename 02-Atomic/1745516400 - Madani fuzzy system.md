@@ -2,7 +2,7 @@
 aliases:
   - Madani fuzzy system
 tags:
-  - IA
+  - ai
 References: 
 cssclasses:
 ---
@@ -18,7 +18,7 @@ It turns the data either into a:
 + **fuzzy set:** Data has noise, more values
 
 ## 2. Evaluation:
-1. **Match the fuzzified inputs with antecedents** #Duda Why the antecedentse? What is the antecedents?
+1. **Match the fuzzified inputs with antecedents** #duda Why the antecedentse? What is the antecedents?
 	+ This can be done by matching the disjunction(OR) of the rule antecedents of matching the conjunction (AND) of the rule antecenteds
 2. **Compute the consequent** by applying either clipping or scaling of the antecent. 
 

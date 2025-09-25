@@ -3,7 +3,7 @@ aliases:
   - Input port processing in routers
   - Input port processing
 tags:
-  - Networks
+  - net
 References: 
 cssclasses: 
 sr-due: 2024-11-30

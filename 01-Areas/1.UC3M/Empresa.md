@@ -2,7 +2,7 @@
 id: Empresa
 aliases: []
 tags:
-  - Empresa
+  - empresa
 ---
 # Empresa:
 + Grupo 84

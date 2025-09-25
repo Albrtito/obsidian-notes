@@ -2,7 +2,7 @@
 aliases:
   - Exercises - Order relations
 tags:
-  - Discrete
+  - discrete
 "References:":
   - "[[Discreta_Exercises_All_Solved.pdf]]"
   - "[[20240519 - 165004 - Order Relation|Order relations]]"

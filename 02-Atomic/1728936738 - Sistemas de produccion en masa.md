@@ -3,7 +3,7 @@ id: 1728936738 - Sistemas de produccion en masa
 aliases:
   - Sistemas de produccion en masa
 tags:
-  - Empresa
+  - empresa
 sr-due: "2024-12-18"
 sr-ease: 190
 sr-interval: 29

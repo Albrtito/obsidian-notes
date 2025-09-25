@@ -3,7 +3,7 @@ aliases:
   - The network layer data plane
   - Data plane
 tags:
-  - Networks
+  - net
 References: 
 cssclasses: 
 sr-due: 2025-07-20

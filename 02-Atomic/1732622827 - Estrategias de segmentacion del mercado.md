@@ -3,7 +3,7 @@ aliases:
   - Estrategias de segmentacion del mercado
   - Estrategia de segmentacion
 tags:
-  - Empresa
+  - empresa
 References: 
 cssclasses:
 ---

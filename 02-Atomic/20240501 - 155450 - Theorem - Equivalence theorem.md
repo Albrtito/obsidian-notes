@@ -2,7 +2,7 @@
 aliases:
   - The equivalence theorem
 tags:
-  - Logic
+  - logic
 "References:": 
 cssclasses: 
 sr-due: 2024-06-06

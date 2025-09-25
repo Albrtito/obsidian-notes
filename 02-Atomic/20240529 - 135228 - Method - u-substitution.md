@@ -3,8 +3,8 @@ aliases:
   - u-substitution
   - Method - u-substitution
 tags:
-  - DiffCalc
-  - CalcI
+  - diffcalc
+  - calc
 "References:": 
 cssclasses:
 ---

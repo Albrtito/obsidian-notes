@@ -2,7 +2,7 @@
 aliases:
   - Circuit switcing
 tags:
-  - Networks
+  - net
 References: 
 cssclasses: 
 sr-due: 2025-01-10

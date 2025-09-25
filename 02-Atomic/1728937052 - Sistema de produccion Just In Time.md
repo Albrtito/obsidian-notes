@@ -3,7 +3,7 @@ id: 1728937052 - Sistema de produccion Just In Time
 aliases:
   - Sistema de produccion Just In Time
 tags:
-  - Empresa
+  - empresa
 ---
 # Sistema de produccion Just In Time
 

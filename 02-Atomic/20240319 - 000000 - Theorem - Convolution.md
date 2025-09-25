@@ -4,7 +4,7 @@ aliases:
   - 1D convolution
 Date: 2024-03-19
 tags:
-  - DiffCalc
+  - diffcalc
 "References:": 
 sr-due: 2024-11-09
 sr-interval: 158

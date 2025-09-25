@@ -2,7 +2,7 @@
 aliases:
   - Simulation - Threads on-demand server
 tags:
-  - OS
+  - os
 "References:": 
 cssclasses:
 ---

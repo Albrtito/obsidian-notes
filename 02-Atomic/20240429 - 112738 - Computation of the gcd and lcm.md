@@ -2,7 +2,7 @@
 aliases:
   - Computation of the gcd and lcm
 tags:
-  - Discrete
+  - discrete
 "References:": 
 cssclasses: 
 sr-due: 2024-06-14

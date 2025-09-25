@@ -1,6 +1,6 @@
 ---
 tags:
-  - Mov
+  - mov
 ---
 # Movilidad UC3M: 
 Resumen de las páginas web de importancia, burocracia y cosas a tener en cuenta a la hora de realizar la movilidad europea o no europea en la UC3M. 

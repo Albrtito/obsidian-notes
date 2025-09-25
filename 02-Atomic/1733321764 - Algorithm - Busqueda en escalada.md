@@ -6,7 +6,7 @@ aliases:
   - H.S.
 tags:
   - incomplete
-  - Heuri
+  - heuri
 References: 
 cssclasses:
 ---

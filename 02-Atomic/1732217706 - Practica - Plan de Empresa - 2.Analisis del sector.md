@@ -3,7 +3,7 @@ aliases:
   - Practica - Plan de Empresa - 2.Analisis del sector
   - Analisis del sector
 tags:
-  - Empresa
+  - empresa
 References: 
 cssclasses:
 ---

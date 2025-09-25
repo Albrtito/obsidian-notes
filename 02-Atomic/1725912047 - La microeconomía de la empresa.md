@@ -3,7 +3,7 @@ id: 1725912047 - La microeconomía de la empresa
 aliases:
   - La microeconomía de la empresa
 tags:
-  - Empresa
+  - empresa
 sr-due: "2025-04-20"
 sr-ease: 290
 sr-interval: 162

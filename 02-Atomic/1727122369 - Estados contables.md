@@ -2,7 +2,7 @@
 aliases:
   - Estados contables
 tags:
-  - Empresa
+  - empresa
 References: 
 cssclasses: 
 sr-due: 2024-12-01

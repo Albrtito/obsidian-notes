@@ -2,7 +2,7 @@
 aliases:
   - Implementation-Process based server
 tags:
-  - OS
+  - os
 "References:": 
 cssclasses: 
 sr-due: 2024-06-01

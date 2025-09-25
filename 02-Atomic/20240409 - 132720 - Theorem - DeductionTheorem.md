@@ -2,7 +2,7 @@
 aliases:
   - Deduction Theorem
 tags:
-  - Logic
+  - logic
 "References:": 
 cssclasses: 
 sr-due: 2025-01-07

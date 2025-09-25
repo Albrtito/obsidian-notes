@@ -2,7 +2,7 @@
 aliases:
   - Practica - Routers - 2
 tags:
-  - Networks
+  - net
 References: 
 cssclasses:
 ---
@@ -35,7 +35,7 @@ For this practice we’ll use a **modified version** of the [[1730716899 - Pract
 + Hosts can be set up in between the router and the broadcast addresses
 + The “zero address”, broadcast and default gateway are taken into account when computing number of hosts. 
 
-#Duda: Why create an independent network for each of the server point-to-point connections. Why not create one network for all servers. 
+#duda: Why create an independent network for each of the server point-to-point connections. Why not create one network for all servers. 
 
 1. **Office 1:** (Needs 100 hosts, 127 addresses are given using a /25 mask)
 	+ Network: 10.0.75.0/25

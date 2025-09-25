@@ -1,5 +1,5 @@
 Date: 2024-02-04
-Class: #FilesAndDB
+Class: #filesAndDB
 References: [IntroToCourse](https://aulaglobal.uc3m.es/pluginfile.php/6848643/mod_resource/content/0/item%200_GII.pdf)
 
 ---

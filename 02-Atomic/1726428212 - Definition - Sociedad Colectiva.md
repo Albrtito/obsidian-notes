@@ -3,7 +3,7 @@ aliases:
   - Definition - Sociedad Colectiva
   - Sociedad Colectiva
 tags:
-  - Empresa
+  - empresa
 References: 
 cssclasses: 
 sr-due: 2025-03-17

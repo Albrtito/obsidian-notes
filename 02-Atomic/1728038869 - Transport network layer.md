@@ -3,7 +3,7 @@ aliases:
   - Transport network layer
   - Transport layer
 tags:
-  - Networks
+  - net
 References: 
 cssclasses: 
 sr-due: 2025-02-09
@@ -56,7 +56,7 @@ Another important feature in transport protocols is whether they can transmit da
 
 ### Connectionless demultiplexing:
 Used with **UDP**
-+ Referenced by only destination and source ports? #Duda: more info about this.
++ Referenced by only destination and source ports? #duda: more info about this.
 + Is this a broadcast to all ports connected to that network?
 + Then we wont need the IP
 + There is no need for a handshake between sender and reciever

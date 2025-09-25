@@ -2,7 +2,7 @@
 aliases:
   - Trigonometric power reducing formula
 tags:
-  - CalcI
+  - calc
 "References:": 
 cssclasses: 
 sr-due: 2024-06-27

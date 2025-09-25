@@ -2,7 +2,7 @@
 aliases:
   - Uncertainty
 tags:
-  - IA
+  - ai
 References: 
 cssclasses:
 ---

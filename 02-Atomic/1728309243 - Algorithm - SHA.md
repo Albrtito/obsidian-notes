@@ -3,7 +3,7 @@ aliases:
   - Algorithm - SHA
   - SHA
 tags:
-  - Cripto
+  - cripto
 References: 
 cssclasses:
 ---

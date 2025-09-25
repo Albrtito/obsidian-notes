@@ -2,7 +2,7 @@
 aliases:
   - Probabilities
 tags:
-  - IA
+  - ai
 References: 
 cssclasses:
 ---

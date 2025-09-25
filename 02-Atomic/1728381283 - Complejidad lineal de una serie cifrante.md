@@ -2,7 +2,7 @@
 aliases:
   - Complejidad lineal de una serie cifrante
 tags:
-  - Cripto
+  - cripto
 References: 
 cssclasses: 
 sr-due: 2024-12-17
@@ -15,5 +15,5 @@ sr-ease: 230
 > 
 
 + Una vez calculado L(número de celdas) se puede predecir la serie conociendo 2L celdas.
-#Duda: Queremos que esto sea alto, entonces pq el LFSR quiere que sea bajo? Lo he copiado mal?
+#duda: Queremos que esto sea alto, entonces pq el LFSR quiere que sea bajo? Lo he copiado mal?
 ***

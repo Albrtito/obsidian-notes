@@ -2,7 +2,7 @@
 aliases:
   - Criptosistemas modernos
 tags:
-  - Cripto
+  - cripto
 References: 
 cssclasses: 
 sr-due: 2025-03-15

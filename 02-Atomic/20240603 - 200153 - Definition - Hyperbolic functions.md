@@ -2,7 +2,7 @@
 aliases:
   - Hyperbolic functions
 tags:
-  - CalcI
+  - calc
 "References:": 
 cssclasses: 
 sr-due: 2024-06-28

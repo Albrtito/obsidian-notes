@@ -2,7 +2,7 @@
 aliases:
   - Forma estandar
 tags:
-  - Heuri
+  - heuri
 References: 
 cssclasses: 
 sr-due: 2025-06-11

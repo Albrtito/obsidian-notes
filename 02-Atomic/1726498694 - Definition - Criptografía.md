@@ -3,7 +3,7 @@ aliases:
   - Definition - Criptografía
   - Criptografía
 tags:
-  - Cripto
+  - cripto
 References: 
 cssclasses: 
 sr-due: 2024-12-29

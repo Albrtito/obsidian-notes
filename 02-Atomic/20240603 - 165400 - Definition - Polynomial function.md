@@ -3,7 +3,7 @@ aliases:
   - Polynomial function
   - Definition - Polynomial function
 tags:
-  - CalcI
+  - calc
 "References:": 
 cssclasses: 
 sr-due: 2024-07-07

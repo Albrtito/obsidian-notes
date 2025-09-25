@@ -3,7 +3,7 @@ aliases:
   - Problem - Problema de agente
   - Problema de agente
 tags:
-  - Empresa
+  - empresa
 References: 
 cssclasses: 
 sr-due: 2025-02-25

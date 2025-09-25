@@ -3,7 +3,7 @@ aliases:
   - Metodo de resolución SAT
   - Resolucion SAT
 tags:
-  - Heuri
+  - heuri
 References: 
 cssclasses:
 ---

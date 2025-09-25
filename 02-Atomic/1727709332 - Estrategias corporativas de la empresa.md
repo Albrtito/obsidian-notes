@@ -4,7 +4,7 @@ aliases:
   - Estrategias corporativas de la empresa
   - Estrategias corporativas
 tags:
-  - Empresa
+  - empresa
 sr-due: "2024-12-31"
 sr-ease: 210
 sr-interval: 20

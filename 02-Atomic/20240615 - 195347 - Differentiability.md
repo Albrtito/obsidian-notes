@@ -3,7 +3,7 @@ aliases:
   - Derivative
   - Differentiability of a function
 tags:
-  - CalcI
+  - calc
 "References:": 
 cssclasses: 
 sr-due: 2024-06-21

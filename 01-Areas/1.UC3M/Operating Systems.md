@@ -2,7 +2,7 @@
 aliases:
   - OS
 tags:
-  - OS
+  - os
 "References:": 
 cssclasses:
 ---

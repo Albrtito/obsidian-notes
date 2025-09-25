@@ -5,7 +5,7 @@ aliases:
   - Gestión comercial y marketing
 tags:
   - incomplete
-  - Empresa
+  - empresa
 ---
 # Gestión comercial y marketing en la empresa[^1]
 

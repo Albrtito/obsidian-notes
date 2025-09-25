@@ -3,7 +3,7 @@ id: 1726503731 - Entorno y competencia de la empresa
 aliases:
   - Entorno y competencia de la empresa
 tags:
-  - Empresa
+  - empresa
 sr-due: "2024-12-26"
 sr-ease: 190
 sr-interval: 54

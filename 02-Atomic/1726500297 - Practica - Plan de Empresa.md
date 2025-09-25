@@ -3,7 +3,7 @@ aliases:
   - Plan de Empresa
   - Practica - Plan de Empresa
 tags:
-  - Empresa
+  - empresa
 References: 
 cssclasses:
 ---
@@ -35,4 +35,4 @@ Se presenta a continuación un MOC con cada una de las partes realizadas.
 [^1]: **Apuntes:**
 + Poner como objetivo de empresa: **Maximizar el valor de la empresa**
 + Se aconseja (aunq no se requiere) que se utilice el [[1727105227 - Modelos de negocio de la empresa#Modelo canvas:|Modelo canvas]]
-[^2]: #Duda: Se busca que redactemos las características y teoría de cada parte realizada o que directamente argumentemos las decisiones asuminedo que la teoría ya es conocida? 
+[^2]: #duda: Se busca que redactemos las características y teoría de cada parte realizada o que directamente argumentemos las decisiones asuminedo que la teoría ya es conocida? 

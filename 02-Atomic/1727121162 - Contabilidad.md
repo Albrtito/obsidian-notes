@@ -3,7 +3,7 @@ id: 1727121162 - Contabilidad
 aliases:
   - Contabilidad
 tags:
-  - Empresa
+  - empresa
 sr-due: "2025-01-07"
 sr-ease: 270
 sr-interval: 49

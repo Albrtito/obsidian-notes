@@ -4,7 +4,7 @@ aliases:
   - Tipos de sistemas productivos de la empresa
   - Tipos de sistemas productivos
 tags:
-  - Empresa
+  - empresa
 ---
 # Tipos de sistemas productivos de la empresa
 

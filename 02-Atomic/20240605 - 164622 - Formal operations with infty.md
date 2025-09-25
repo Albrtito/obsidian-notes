@@ -3,7 +3,7 @@ aliases:
   - Formal operations with infty
   - Operations with infty
 tags:
-  - CalcI
+  - calc
 "References:": 
 cssclasses: 
 sr-due: 2024-06-26

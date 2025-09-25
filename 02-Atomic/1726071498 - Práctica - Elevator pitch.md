@@ -2,7 +2,7 @@
 aliases:
   - Práctica - Elevator pitch
 tags:
-  - Empresa
+  - empresa
 References: 
 cssclasses:
 ---

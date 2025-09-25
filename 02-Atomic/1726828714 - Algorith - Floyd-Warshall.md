@@ -2,7 +2,7 @@
 aliases:
   - Algorith - Floyd-Warshall
 tags:
-  - Heuri
+  - heuri
 References: 
 cssclasses:
 ---

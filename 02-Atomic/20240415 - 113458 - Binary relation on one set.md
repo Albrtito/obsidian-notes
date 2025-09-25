@@ -3,7 +3,7 @@ aliases:
   - Binary relation on one set
   - Binary relation R on V
 tags:
-  - Discrete
+  - discrete
 "References:": 
 cssclasses: 
 sr-due: 2024-05-22

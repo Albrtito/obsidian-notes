@@ -2,7 +2,7 @@
 aliases:
   - Cadena de valor
 tags:
-  - Empresa
+  - empresa
 References: 
 cssclasses: 
 sr-due: 2025-06-25

@@ -3,7 +3,7 @@ aliases:
   - Algorithm - AES
   - AES
 tags:
-  - Cripto
+  - cripto
 References: 
 cssclasses:
 ---

@@ -3,7 +3,7 @@ aliases:
   - Definition -  Circumference
   - Circumference
 tags:
-  - CalcI
+  - calc
 "References:": 
 cssclasses: 
 sr-due: 2024-07-19

@@ -3,7 +3,7 @@ aliases:
   - Definition - Cooperativa
   - Cooperativa
 tags:
-  - Empresa
+  - empresa
 References: 
 cssclasses: 
 sr-due: 2025-03-30

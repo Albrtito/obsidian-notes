@@ -2,7 +2,7 @@
 aliases:
   - Port scanning with Nmap
 tags:
-  - Cyber
+  - cyber
 "References:": 
 cssclasses:
 ---

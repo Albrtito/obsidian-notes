@@ -3,7 +3,7 @@ Natural numbers are all whole numbers without the 0. Their properties (that defi
 + Ordered set
 + Adding or multiplying two natural numbers results in another natural number. N is closed under + and . operators.
 + Division and subtraction are external operators. Number obtain may not be natural
-+ Usually used in counting or enumerating problems: See #Discrete 
++ Usually used in counting or enumerating problems: See #discrete 
 
 > [!NOTE] Definition 1: Factorial
 > Let $n \in \N \cup \{0\}$ the factorial of n is given by: 

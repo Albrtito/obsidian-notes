@@ -3,8 +3,8 @@ aliases:
   - Integration in one variable
   - Integral
 tags:
-  - CalcI
-  - DiffCalc
+  - calc
+  - diffcalc
 "References:": 
 cssclasses: 
 sr-due: 2024-06-26

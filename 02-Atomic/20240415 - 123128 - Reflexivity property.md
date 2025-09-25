@@ -3,7 +3,7 @@ aliases:
   - Reflexivity
   - Definition 128
 tags:
-  - Discrete
+  - discrete
 "References:": 
 cssclasses: 
 sr-due: 2024-06-11

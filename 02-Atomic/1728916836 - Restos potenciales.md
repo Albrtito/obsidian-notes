@@ -2,8 +2,8 @@
 aliases:
   - Restos potenciales
 tags:
-  - Discrete
-  - Cripto
+  - discrete
+  - cripto
 References: 
 cssclasses: 
 sr-due: 2024-12-19

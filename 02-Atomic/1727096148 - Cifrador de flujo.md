@@ -2,7 +2,7 @@
 aliases:
   - Cifrador de flujo
 tags:
-  - Cripto
+  - cripto
 References: 
 cssclasses: 
 sr-due: 2024-12-01
@@ -30,7 +30,7 @@ AL ser un método de criptación síncrono, los cifradores de emisor y receptor 
 
 Cuando este intercambio se realiza de forma **externa será un sistema síncrono**, mientras que si se realiza de forma **automática será un sistema autosíncrono** 
 
-+ #Duda: Diferencias en la generación de la serie cifrante para cada uno de los casos
++ #duda: Diferencias en la generación de la serie cifrante para cada uno de los casos
 
 ## Pros&Cons:
 **VENTAJAS:**

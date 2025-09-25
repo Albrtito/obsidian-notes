@@ -2,7 +2,7 @@
 aliases:
   - Network flow control
 tags:
-  - Networks
+  - net
   - incomplete
 References: 
 cssclasses:

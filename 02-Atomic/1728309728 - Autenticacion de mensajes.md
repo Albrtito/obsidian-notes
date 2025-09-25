@@ -2,7 +2,7 @@
 aliases:
   - Autenticacion de mensajes
 tags:
-  - Cripto
+  - cripto
   - incomplete
 References: 
 cssclasses:

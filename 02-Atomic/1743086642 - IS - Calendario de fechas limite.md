@@ -2,7 +2,7 @@
 aliases:
   - IS - Calendario de fechas limite
 tags:
-  - Mov
+  - mov
 References: 
 cssclasses:
 ---

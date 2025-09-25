@@ -2,7 +2,7 @@
 aliases:
   - Sustitución polialfabética periódica
 tags:
-  - Cripto
+  - cripto
 References: 
 cssclasses: 
 sr-due: 2025-02-27

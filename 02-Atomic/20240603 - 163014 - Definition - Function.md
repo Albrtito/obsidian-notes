@@ -3,7 +3,7 @@ aliases:
   - Definition - Function
   - Function
 tags:
-  - CalcI
+  - calc
 "References:": 
 cssclasses: 
 sr-due: 2024-07-14

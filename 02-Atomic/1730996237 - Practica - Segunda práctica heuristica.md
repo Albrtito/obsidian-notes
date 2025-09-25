@@ -2,7 +2,7 @@
 aliases:
   - Segunda práctica de heurística
 tags:
-  - Heuri
+  - heuri
 References: 
 cssclasses:
 ---

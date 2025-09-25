@@ -3,7 +3,7 @@ aliases:
   - Definition - Criptosistema
   - Criptosistema
 tags:
-  - Cripto
+  - cripto
 References: 
 cssclasses: 
 sr-due: 2024-12-30

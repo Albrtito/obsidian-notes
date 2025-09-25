@@ -3,7 +3,7 @@ id: 1725895664 - Naturaleza y de la empresa
 aliases:
   - Naturaleza de la empresa
 tags:
-  - Empresa
+  - empresa
 sr-due: "2024-12-14"
 sr-ease: 230
 sr-interval: 53

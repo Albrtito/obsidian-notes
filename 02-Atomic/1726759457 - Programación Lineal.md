@@ -3,7 +3,7 @@ id: 1726759457 - Programación Lineal
 aliases:
   - Programación Lineal
 tags:
-  - Heuri
+  - heuri
 sr-due: "2025-03-05"
 sr-ease: 272
 sr-interval: 109

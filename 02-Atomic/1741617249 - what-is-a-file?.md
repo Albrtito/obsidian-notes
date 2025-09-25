@@ -3,7 +3,7 @@ id: 1741617249 - File structures
 aliases:
   - What is a file?
 tags:
-  - FilesAndDB
+  - filesAndDB
 ---
 # What is a file? 
 

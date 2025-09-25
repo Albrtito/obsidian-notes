@@ -3,7 +3,7 @@ aliases:
   - Definition - Trigonometric functions
   - Trigonometric functions
 tags:
-  - CalcI
+  - calc
 "References:": 
 cssclasses: 
 sr-due: 2024-06-24

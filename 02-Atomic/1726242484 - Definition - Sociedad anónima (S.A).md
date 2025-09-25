@@ -4,7 +4,7 @@ aliases:
   - Sociedad anónima (S.A)
   - (S.A)
 tags:
-  - Empresa
+  - empresa
 References: 
 cssclasses: 
 sr-due: 2025-01-02

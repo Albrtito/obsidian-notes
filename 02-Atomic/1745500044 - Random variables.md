@@ -2,7 +2,7 @@
 aliases:
   - Random variables
 tags:
-  - IA
+  - ai
 References: 
 cssclasses:
 ---

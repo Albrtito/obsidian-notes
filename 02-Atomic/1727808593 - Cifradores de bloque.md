@@ -2,7 +2,7 @@
 aliases:
   - Cifradores de bloque
 tags:
-  - Cripto
+  - cripto
   - incomplete
 References: 
 cssclasses:

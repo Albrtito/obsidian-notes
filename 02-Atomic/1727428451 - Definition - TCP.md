@@ -3,7 +3,7 @@ aliases:
   - TCP
   - Definition - TCP
 tags:
-  - Networks
+  - net
 References: 
 cssclasses: 
 sr-due: 2024-12-02
@@ -46,7 +46,7 @@ TCP does not use this 2n sequence numbers but instead uses the **number of the f
 
 
 
-#Duda: Are we, at any point, reusing the byte numbers? If a message has to many bytes arent we just incrementing the header on and on and on? Are there any “infinite messages”?
+#duda: Are we, at any point, reusing the byte numbers? If a message has to many bytes arent we just incrementing the header on and on and on? Are there any “infinite messages”?
 
 ## Bi-Directional communication:
 Al contrario que en los protocolos básicos de comunicación reliabely, TCP admits a bi-directional communication. This means that both the sender and reciever can interchange places and become the reciever and sender. 
@@ -63,7 +63,7 @@ This feature is really nice, but we **only care** about the **piggybacking** tha
 
 ### Echoes: 
 The data being send from the reciever each time it gets a package is goint to be **the last package with the same data and the corresponding ack flag**. To assure that the data has been recieved. This is called an **echo**
-#Duda: Reexplain this
+#duda: Reexplain this
 + It can also send its own data. Only this echo will allways be done
 
 ***

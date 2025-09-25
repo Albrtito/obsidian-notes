@@ -2,7 +2,7 @@
 aliases:
   - Conditional distribution
 tags:
-  - IA
+  - ai
 References: 
 cssclasses:
 ---

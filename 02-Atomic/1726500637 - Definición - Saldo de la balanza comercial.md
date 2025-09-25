@@ -4,7 +4,7 @@ aliases:
   - Definición - Saldo de la balanza comercial
   - Saldo de la balanza comercial
 tags:
-  - Empresa
+  - empresa
 sr-due: "2024-12-15"
 sr-ease: 270
 sr-interval: 24

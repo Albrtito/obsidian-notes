@@ -1,7 +1,7 @@
 ---
 Date: 2024-03-12
 tags:
-  - Logic
+  - logic
 "References:": 
 sr-due: 2024-03-29
 sr-interval: 12

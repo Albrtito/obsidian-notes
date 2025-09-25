@@ -3,7 +3,7 @@ id: 1727886467 - Estrategia de globalización
 aliases:
   - Estrategia de globalización
 tags:
-  - Empresa
+  - empresa
 ---
 # Estrategia de globalización
 

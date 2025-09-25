@@ -4,7 +4,7 @@ aliases:
   - Variable indpenendence
   - Independent probabilistic variables
 tags:
-  - IA
+  - ai
 References: 
 cssclasses:
 ---

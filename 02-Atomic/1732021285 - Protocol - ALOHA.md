@@ -3,7 +3,7 @@ aliases:
   - Protocol - ALOHA
   - ALOHA
 tags:
-  - Networks
+  - net
 References: 
 cssclasses: 
 sr-due: 2024-12-28

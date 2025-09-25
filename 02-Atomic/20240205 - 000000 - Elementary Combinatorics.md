@@ -1,6 +1,6 @@
 ---
 tags:
-  - Discrete
+  - discrete
 DateCreated: 2024-02-05
 "References:":
   - "[[Basic Set Operations]]"

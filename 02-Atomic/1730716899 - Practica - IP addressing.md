@@ -3,7 +3,7 @@ aliases:
   - IP Address Assignment
   - Practica - IP Addressing
 tags:
-  - Networks
+  - net
 References: 
 cssclasses:
 ---

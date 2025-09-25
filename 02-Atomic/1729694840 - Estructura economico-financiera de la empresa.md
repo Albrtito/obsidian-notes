@@ -3,7 +3,7 @@ id: 1729694840 - Estructura economico-financiera de la empresa
 aliases:
   - Estructura economico-financiera de la empresa
 tags:
-  - Empresa
+  - empresa
 ---
 # Estructura economico-financiera de la empresa
 

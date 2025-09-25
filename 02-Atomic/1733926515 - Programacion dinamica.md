@@ -3,7 +3,7 @@ aliases:
   - Programacion dinamica
 tags:
   - incomplete
-  - Heuri
+  - heuri
 References: 
 cssclasses:
 ---

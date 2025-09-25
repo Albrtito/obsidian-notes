@@ -1,7 +1,7 @@
 ---
 aliases: 
 tags:
-  - SoftwareDev
+  - softwareDev
 "References:": 
 DateCreated: 2024-03-31
 ---

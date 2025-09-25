@@ -2,7 +2,7 @@
 aliases:
   - Modelos de negocio de la empresa
 tags:
-  - Empresa
+  - empresa
 References: 
 cssclasses:
 ---

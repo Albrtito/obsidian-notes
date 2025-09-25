@@ -3,7 +3,7 @@ aliases:
   - Exercises - Programación Lineal
   - Ejercicios programación lineal
 tags:
-  - Heuri
+  - heuri
 References: https://aulaglobal.uc3m.es/pluginfile.php/7298887/mod_resource/content/2/enunciados_representacion_lp.pdf
 cssclasses: 
 sr-due: 2024-10-19

@@ -2,7 +2,7 @@
 aliases:
   - AddRoundKey
 tags:
-  - Cripto
+  - cripto
   - incomplete
 References: 
 cssclasses:

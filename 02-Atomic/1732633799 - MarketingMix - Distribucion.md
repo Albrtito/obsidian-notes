@@ -4,7 +4,7 @@ aliases:
   - Distribución
 tags:
   - incomplete
-  - Empresa
+  - empresa
 References: 
 cssclasses:
 ---

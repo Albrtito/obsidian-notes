@@ -4,7 +4,7 @@ aliases:
   - Injectivity
   - One to one
 tags:
-  - CalcI
+  - calc
 "References:": 
 cssclasses: 
 sr-due: 2024-07-10

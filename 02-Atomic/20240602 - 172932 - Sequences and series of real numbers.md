@@ -1,7 +1,7 @@
 ---
 Date: 2024-03-19
 tags:
-  - CalcI
+  - calc
 "References:":
   - "[[Calc_Theory_All.pdf]]"
 sr-due: 2024-06-23

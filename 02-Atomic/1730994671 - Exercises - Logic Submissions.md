@@ -2,7 +2,7 @@
 aliases:
   - Exercises - Logic Submissions
 tags:
-  - Logic
+  - logic
 References: 
 cssclasses:
 ---

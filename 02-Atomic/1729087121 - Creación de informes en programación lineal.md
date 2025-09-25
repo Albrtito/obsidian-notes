@@ -2,7 +2,7 @@
 aliases:
   - Creación de informes en programación lineal
 tags:
-  - Heuri
+  - heuri
 References: 
 cssclasses: 
 sr-due: 2024-12-21

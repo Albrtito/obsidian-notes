@@ -3,7 +3,7 @@ aliases:
   - Algorithm - Euclid's algorithm
   - Euclid's algorithm
 tags:
-  - Discrete
+  - discrete
 "References:": 
 cssclasses: 
 sr-due: 2024-05-21

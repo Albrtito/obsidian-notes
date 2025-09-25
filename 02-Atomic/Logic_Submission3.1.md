@@ -1,5 +1,5 @@
 Date: 2024-02-19
-Class: #Logic 
+Class: #logic 
 Chapter: 
 References: 
 

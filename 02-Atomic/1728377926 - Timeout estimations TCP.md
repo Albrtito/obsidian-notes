@@ -2,7 +2,7 @@
 aliases:
   - Timeout Estimations TCP
 tags:
-  - Networks
+  - net
 References: 
 cssclasses: 
 sr-due: 2025-01-01

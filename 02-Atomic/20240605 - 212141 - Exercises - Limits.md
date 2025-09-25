@@ -2,7 +2,7 @@
 aliases:
   - Exercises - Limits
 tags:
-  - CalcI
+  - calc
 "References:":
   - "[[Calc_Exercises_LimitsContinuicity.pdf]]"
   - "[[Definition - Limits|Limit]]"

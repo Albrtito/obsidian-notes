@@ -3,8 +3,8 @@ aliases:
   - Improper Integrals
 Date: 2024-03-12
 tags:
-  - DiffCalc
-  - CalcI
+  - diffcalc
+  - calc
 "References:": 
 sr-due: 2024-10-14
 sr-interval: 34

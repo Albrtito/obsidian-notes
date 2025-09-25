@@ -3,7 +3,7 @@ aliases:
   - Algorithm - Busquedas de el mejor primero
 tags:
   - incomplete
-  - Heuri
+  - heuri
 References: 
 cssclasses:
 ---

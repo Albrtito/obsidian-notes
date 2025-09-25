@@ -4,7 +4,7 @@ aliases:
   - Ejercicios satisfabilidad
 tags:
   - incomplete
-  - Heuri
+  - heuri
 References: 
 cssclasses:
 ---

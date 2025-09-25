@@ -3,7 +3,7 @@ aliases:
   - Algorithm - Dijkstra's algorithm
   - Dijkstra's algorithm
 tags:
-  - Discrete
+  - discrete
 "References:": 
 cssclasses:
 ---

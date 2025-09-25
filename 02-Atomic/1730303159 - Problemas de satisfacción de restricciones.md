@@ -4,7 +4,7 @@ aliases:
   - CSP
   - Problemas CSP
 tags:
-  - Heuri
+  - heuri
   - incomplete
 References: 
 cssclasses:

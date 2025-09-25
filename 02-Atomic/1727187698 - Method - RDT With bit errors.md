@@ -2,7 +2,7 @@
 aliases:
   - Method - RDT With bit errors
 tags:
-  - Networks
+  - net
 References: 
 cssclasses: 
 sr-due: 2024-12-27

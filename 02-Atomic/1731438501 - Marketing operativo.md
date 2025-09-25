@@ -4,7 +4,7 @@ aliases:
   - Marketing-mix
 tags:
   - incomplete
-  - Empresa
+  - empresa
 References: 
 cssclasses:
 ---

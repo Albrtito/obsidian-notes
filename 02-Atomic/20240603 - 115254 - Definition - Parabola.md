@@ -3,7 +3,7 @@ aliases:
   - Parabola
   - Definition - Parabola
 tags:
-  - CalcI
+  - calc
 "References:": 
 cssclasses: 
 sr-due: 2024-07-01

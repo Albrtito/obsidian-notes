@@ -3,7 +3,7 @@ aliases:
   - Terminología de la contabilidad
 tags:
   - incomplete
-  - Empresa
+  - empresa
 References: 
 cssclasses:
 ---

@@ -2,7 +2,7 @@
 aliases:
   - Normal forms and resolution
 tags:
-  - Logic
+  - logic
 "References:": 
 cssclasses: 
 sr-due: 2024-08-02

@@ -4,7 +4,7 @@ aliases:
   - TDMA
   - Time Division Multiple Acces Protocol
 tags:
-  - Networks
+  - net
 References: 
 cssclasses: 
 sr-due: 2024-12-03

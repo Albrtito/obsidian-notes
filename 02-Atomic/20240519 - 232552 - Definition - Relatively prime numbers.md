@@ -4,7 +4,7 @@ aliases:
   - Relatively prime numbers
   - Pairwise relatively prime
 tags:
-  - Discrete
+  - discrete
 "References:": 
 cssclasses: 
 sr-due: 2024-05-22

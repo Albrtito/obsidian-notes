@@ -2,7 +2,7 @@
 aliases:
   - Algoritmos de busqueda por fuerza bruta
 tags:
-  - Heuri
+  - heuri
 References: 
 cssclasses: 
 sr-due: 2025-01-25

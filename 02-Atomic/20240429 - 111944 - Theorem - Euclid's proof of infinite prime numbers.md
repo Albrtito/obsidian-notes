@@ -3,7 +3,7 @@ aliases:
   - Euclid's proof of infinite prime numbers
   - Infinity of prime numbers
 tags:
-  - Discrete
+  - discrete
 "References:":
   - https://en.wikipedia.org/wiki/Euclid%27s_theorem
 cssclasses:

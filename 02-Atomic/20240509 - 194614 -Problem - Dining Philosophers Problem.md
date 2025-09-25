@@ -2,7 +2,7 @@
 aliases:
   - Problem - Dining Philosophers Problem
 tags:
-  - OS
+  - os
 "References:": 
 cssclasses:
 ---

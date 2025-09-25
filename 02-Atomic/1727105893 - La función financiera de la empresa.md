@@ -3,7 +3,7 @@ id: 1727105893 - La función financiera de la empresa
 aliases:
   - La función financiera de la empresa
 tags:
-  - Empresa
+  - empresa
 ---
 # La función financiera de la empresa
 Al introducir la empresa y su naturaleza[^1] se definían una serie de funciones que realizaba la empresa. Entre ellas se encontraba la función financiera, ocupada de **conseguir e invertir el dinero de la empresa**. A estas dos acciones las llamamos decisiones financieras.

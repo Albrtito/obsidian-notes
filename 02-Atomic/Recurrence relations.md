@@ -1,7 +1,7 @@
 ---
 Date: 2024-03-18
 tags:
-  - Discrete
+  - discrete
 "References:": 
 sr-due: 2024-06-05
 sr-interval: 43

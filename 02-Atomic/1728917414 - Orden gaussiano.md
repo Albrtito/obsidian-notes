@@ -2,7 +2,7 @@
 aliases:
   - Orden gaussiano
 tags:
-  - Cripto
+  - cripto
 References: 
 cssclasses: 
 sr-due: 2024-12-16

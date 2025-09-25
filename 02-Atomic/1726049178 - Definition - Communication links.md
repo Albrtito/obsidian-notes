@@ -3,7 +3,7 @@ aliases:
   - Definition - Communication links
   - Communication links
 tags:
-  - Networks
+  - net
 References: 
 cssclasses: 
 sr-due: 2025-07-25

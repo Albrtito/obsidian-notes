@@ -4,7 +4,7 @@ aliases:
   - Comunicación
 tags:
   - incomplete
-  - Empresa
+  - empresa
 References: 
 cssclasses:
 ---

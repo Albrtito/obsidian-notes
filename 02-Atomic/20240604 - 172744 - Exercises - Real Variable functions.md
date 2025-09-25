@@ -2,7 +2,7 @@
 aliases:
   - Exercises - Real Variable functions
 tags:
-  - CalcI
+  - calc
 "References:":
   - "[[20240602 - 172958 - Real variable functions|Real variable functions]]"
   - "[[Calc_Exercises_RealVarFuncs.pdf]]"

@@ -3,8 +3,8 @@ aliases:
   - Method - Partial Fractions
   - Partial Fractions
 tags:
-  - CalcI
-  - DiffCalc
+  - calc
+  - diffcalc
 ---
 # Partial fractions:
 The partial fraction method is used to **decompose**fractions into **sums of simpler** rational functions. The objective is to rewrite expressions such as: 

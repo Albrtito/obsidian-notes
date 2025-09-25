@@ -3,7 +3,7 @@ aliases:
   - Infty indeterminate forms
   - indeterminate forms
 tags:
-  - CalcI
+  - calc
 "References:": 
 cssclasses: 
 sr-due: 2024-07-03

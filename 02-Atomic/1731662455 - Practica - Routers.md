@@ -2,7 +2,7 @@
 aliases:
   - Practica - Routers
 tags:
-  - Networks
+  - net
 References: 
 cssclasses:
 ---
@@ -17,7 +17,7 @@ cssclasses:
 > + Aunq el código tenga comentarios no se pueden añadir si son de linea
 
 ## Dudas: 
-#Duda: La notación CIDR impone parte de la condición para que una dirección sea diferente a otra? Pq si un PC tiene la dirección X.X.X.1 en la subnet X.X.X.0/25 tengo que referenciarlo como X.X.X.1/25 en vez de X.X.X.1/32? No sería el caso de que esa dirección viene dada por los primeros 32 bits?
+#duda: La notación CIDR impone parte de la condición para que una dirección sea diferente a otra? Pq si un PC tiene la dirección X.X.X.1 en la subnet X.X.X.0/25 tengo que referenciarlo como X.X.X.1/25 en vez de X.X.X.1/32? No sería el caso de que esa dirección viene dada por los primeros 32 bits?
 
 
 ## Router configurations: 

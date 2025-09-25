@@ -3,7 +3,7 @@ aliases:
   - Double factorial
   - Alternate factorial
 tags:
-  - Discrete
+  - discrete
 "References:": 
 cssclasses:
 ---

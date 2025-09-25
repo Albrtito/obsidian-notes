@@ -2,7 +2,7 @@
 aliases:
   - Real variable functions
 tags:
-  - CalcI
+  - calc
 "References:":
   - "[[Calc_Theory_RealVarFuncs.pdf]]"
 cssclasses: 

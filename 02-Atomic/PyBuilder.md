@@ -1,7 +1,7 @@
 ---
 aliases: 
 tags:
-  - SoftwareDev
+  - softwareDev
 "References:":
   - "[SoftwareDev_Resources_GE2_Presentation_PyBuild_Unittest](../00.References/SoftwareDev_Resources_GE2_Presentation_PyBuild_Unittest.pdf)"
   - https://pybuilder.io/documentation/tutorial

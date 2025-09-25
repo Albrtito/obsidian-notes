@@ -1,7 +1,7 @@
 ---
 Date: 2024-02-22
 tags:
-  - FilesAndDB
+  - filesAndDB
 "References:":
 ---
 ### Before creating the table

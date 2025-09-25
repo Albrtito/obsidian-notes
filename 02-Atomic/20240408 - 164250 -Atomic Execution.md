@@ -2,7 +2,7 @@
 aliases:
   - atomic code snippet
 tags:
-  - OS
+  - os
 "References:": 
 cssclasses: 
 sr-due: 2024-05-31

@@ -3,7 +3,7 @@ aliases:
   - Transitivity
   - Definition 132
 tags:
-  - Discrete
+  - discrete
 "References:": 
 cssclasses: 
 sr-due: 2024-08-15

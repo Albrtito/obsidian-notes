@@ -4,7 +4,7 @@ sr-interval: 9
 sr-ease: 190
 date: 2024-02-08
 tags:
-  - DiffCalc
+  - diffcalc
 "References:":
   - https://www.youtube.com/watch?v=p_di4Zn4wz4
   - https://ocw.uc3m.es/pluginfile.php/3662/mod_page/content/20/tema-1.pdf

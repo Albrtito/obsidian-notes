@@ -2,7 +2,7 @@
 aliases:
   - Network enumeration with Nmap
 tags:
-  - Cyber
+  - cyber
 "References:": 
 cssclasses:
 ---

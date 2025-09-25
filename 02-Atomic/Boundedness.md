@@ -1,6 +1,6 @@
 ---
 tags:
-  - CalcI
+  - calc
 ---
 A set A (subset of R) is bounded if it is bounded from below and above
 It is distinguished between sets that are bounded from above and sets that are bounded from below. 

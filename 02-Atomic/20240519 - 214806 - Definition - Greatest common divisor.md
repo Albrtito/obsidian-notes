@@ -4,7 +4,7 @@ aliases:
   - Greatest common divisor
   - gdc
 tags:
-  - Discrete
+  - discrete
 "References:": 
 cssclasses: 
 sr-due: 2024-05-22

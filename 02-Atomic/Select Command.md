@@ -1,6 +1,6 @@
 ---
 tags:
-  - FilesAndDB
+  - filesAndDB
 ---
 The select command is composed of three keywords: 
 **SELECT: 

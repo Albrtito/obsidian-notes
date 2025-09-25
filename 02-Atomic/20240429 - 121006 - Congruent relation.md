@@ -2,7 +2,7 @@
 aliases:
   - Congruent relation
 tags:
-  - Discrete
+  - discrete
 "References:": 
 cssclasses: 
 sr-due: 2024-06-13

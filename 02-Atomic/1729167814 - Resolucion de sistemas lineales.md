@@ -2,7 +2,7 @@
 aliases:
   - Resolucion de sistemas lineales
 tags:
-  - Algebra
+  - algebra
 References: 
 cssclasses: 
 sr-due: 2024-12-18

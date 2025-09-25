@@ -2,7 +2,7 @@
 aliases:
   - E.R
 tags:
-  - Discrete
+  - discrete
 "References:":
   - "[[20240510 - 090701 - Exercises - Equivalence relations]]"
 cssclasses: 

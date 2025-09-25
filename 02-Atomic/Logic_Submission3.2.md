@@ -1,6 +1,6 @@
 ---
 tags:
-  - Logic
+  - logic
 ---
 2. **Formalize the following deduction and verify whether it's correct, using proof with assumptions (\*).** 
 	+ You must be a good programmer either to pass or work for a company. 

@@ -3,7 +3,7 @@ aliases:
   - The Internet Protocol (IP)
   - IP
 tags:
-  - Networks
+  - net
 References: 
 cssclasses: 
 sr-due: 2025-02-02

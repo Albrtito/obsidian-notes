@@ -2,7 +2,7 @@
 aliases:
   - Calculus of primitive integrals
 tags:
-  - CalcI
+  - calc
 "References:": 
 cssclasses:
 ---

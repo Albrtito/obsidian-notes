@@ -3,7 +3,7 @@ aliases:
   - Algoritmos de busqueda heuristica
 tags:
   - incomplete
-  - Heuri
+  - heuri
 References: 
 cssclasses:
 ---

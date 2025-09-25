@@ -3,7 +3,7 @@ aliases:
   - Definition - Complementary graph
   - Complementary graph
 tags:
-  - Discrete
+  - discrete
 "References:": 
 cssclasses: 
 sr-due: 2024-05-20

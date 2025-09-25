@@ -3,7 +3,7 @@ aliases:
   - MarketingMix - Producto
   - Producto
 tags:
-  - Empresa
+  - empresa
   - incomplete
 References: 
 cssclasses:
@@ -96,7 +96,7 @@ se divide en 4 fases:
    + Disminuye la competencia
    + No se realizan cambios al producto 
    + Precios Aumentan 
-     #Duda Pq aumentan los precios?
+     #duda Pq aumentan los precios?
    + Distribución selectiva 
 
 ![[1732633633 - MarketingMix - Productoj.png|center]]

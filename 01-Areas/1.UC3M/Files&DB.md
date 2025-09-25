@@ -4,7 +4,7 @@ aliases:
   - DB
   - Files&DB
 tags:
-  - FilesAndDB
+  - filesAndDB
 ---
 # Files&DB
 

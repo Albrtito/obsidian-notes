@@ -3,7 +3,7 @@ aliases:
   - Posicionamiento de un producto en marketing
   - Posicionamiento de producto
 tags:
-  - Empresa
+  - empresa
 References: 
 cssclasses:
 ---

@@ -1,7 +1,7 @@
 ---
 Date: 2024-03-18
 tags:
-  - OS
+  - os
 "References:":
   - https://en.wikipedia.org/wiki/Readers%E2%80%93writers_problem
 sr-due: 2024-06-20

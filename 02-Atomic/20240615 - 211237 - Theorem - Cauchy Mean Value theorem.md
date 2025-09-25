@@ -3,7 +3,7 @@ aliases:
   - Theorem - Cauchy Mean Value theorem
   - Mean value theorem
 tags:
-  - CalcI
+  - calc
 "References:": 
 cssclasses: 
 sr-due: 2024-06-21

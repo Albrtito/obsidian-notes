@@ -3,7 +3,7 @@ aliases:
   - Definition - small-o
   - small-o
 tags:
-  - CalcI
+  - calc
 "References:": 
 cssclasses:
 ---

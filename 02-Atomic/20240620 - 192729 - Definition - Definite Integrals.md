@@ -3,7 +3,7 @@ aliases:
   - Definition - Definite Integrals
   - Definite integrals
 tags:
-  - CalcI
+  - calc
 "References:": 
 cssclasses:
 ---

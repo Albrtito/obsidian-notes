@@ -2,7 +2,7 @@
 aliases:
   - Practica - Routers - 1
 tags:
-  - Networks
+  - net
 References: 
 cssclasses:
 ---

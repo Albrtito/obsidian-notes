@@ -3,7 +3,7 @@ aliases:
   - Intro to spreadsheets
 tags:
   - incomplete
-  - Excel
+  - excel
 References: 
 cssclasses:
 ---

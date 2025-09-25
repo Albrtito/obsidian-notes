@@ -3,7 +3,7 @@ aliases:
   - Symmetry
   - Definition 130-131
 tags:
-  - Discrete
+  - discrete
 "References:": 
 cssclasses: 
 sr-due: 2024-05-23

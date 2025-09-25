@@ -2,7 +2,7 @@
 aliases:
   - Fuzzy systems
 tags:
-  - IA
+  - ai
 References: 
 cssclasses:
 ---

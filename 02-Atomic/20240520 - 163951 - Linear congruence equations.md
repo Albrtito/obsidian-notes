@@ -2,7 +2,7 @@
 aliases:
   - Linear congruence equations
 tags:
-  - Discrete
+  - discrete
 "References:": 
 cssclasses:
 ---

@@ -2,7 +2,7 @@
 aliases:
   - Postulados de Golomb
 tags:
-  - Cripto
+  - cripto
 References: 
 cssclasses: 
 sr-due: 2024-11-30

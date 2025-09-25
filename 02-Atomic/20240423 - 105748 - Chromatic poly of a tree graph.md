@@ -2,7 +2,7 @@
 aliases:
   - Chromatic poly of a tree graph
 tags:
-  - Discrete
+  - discrete
 "References:": 
 cssclasses:
 ---

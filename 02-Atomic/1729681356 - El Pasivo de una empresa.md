@@ -3,7 +3,7 @@ aliases:
   - El Pasivo de una empresa
   - PASIVO
 tags:
-  - Empresa
+  - empresa
 References: 
 cssclasses: 
 sr-due: 2025-01-18

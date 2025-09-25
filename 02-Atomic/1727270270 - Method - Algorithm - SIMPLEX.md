@@ -5,7 +5,7 @@ aliases:
   - SIMPLEX
   - Algorithm - SIMPLEX
 tags:
-  - Heuri
+  - heuri
 sr-due: "2024-11-23"
 sr-ease: 130
 sr-interval: 1
@@ -91,7 +91,7 @@ Una vez tenemos **el problema en [[1727270366 - Forma estandar|Forma estandar]]*
 
 4. **Regla de salida:** En este paso calculamos que variable de las que están en la base tiene que salir para que la variable que encontramos en el paso 2 entre. Saldrá la variable que cumpla: 
    $$ \min\{\frac{x_{i}}{y_{ji'}}\} \forall i \in B$$
-#Duda: Pq importa el orden de las variables $x_i$ → Esto es lo que significa coger la variables i’ verdad?
+#duda: Pq importa el orden de las variables $x_i$ → Esto es lo que significa coger la variables i’ verdad?
    + Aquí $y_{ji}$ se refiere a la posición i (incrementando empezando en 1, por eso lleva la prima) del vector $y_j$ calculado en el paso 2
    + $x_i$ será el valor de la incognita para la solución factible propuesta en esta iteración.
 

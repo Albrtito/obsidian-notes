@@ -4,7 +4,7 @@ aliases:
   - Las 5 fuerzas de Porter
   - Análisis de Porter
 tags:
-  - Empresa
+  - empresa
 References: 
 cssclasses: 
 sr-due: 2024-12-23

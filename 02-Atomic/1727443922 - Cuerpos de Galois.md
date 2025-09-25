@@ -2,7 +2,7 @@
 aliases:
   - Cuerpos de Galois
 tags:
-  - Cripto
+  - cripto
   - incomplete
 References: 
 cssclasses:

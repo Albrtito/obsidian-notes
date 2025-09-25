@@ -3,7 +3,7 @@ aliases:
   - Increasing, decreasing and continuous functions
   - Definition - Increasing, decreasing and continuous functions
 tags:
-  - CalcI
+  - calc
 "References:": 
 cssclasses: 
 sr-due: 2024-06-23

@@ -3,7 +3,7 @@ id: 1729088215 - Method - Ramificación y acotación en profundidad
 aliases:
   - Method - Ramificación y acotación en profundidad
 tags:
-  - Heuri
+  - heuri
 sr-due: "2025-01-14"
 sr-ease: 232
 sr-interval: 56

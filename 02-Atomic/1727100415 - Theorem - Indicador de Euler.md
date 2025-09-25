@@ -4,8 +4,8 @@ aliases:
   - Indicador de Euler
   - Eulers totient function
 tags:
-  - Cripto
-  - Discrete
+  - cripto
+  - discrete
 References: 
 cssclasses: 
 sr-due: 2024-12-20

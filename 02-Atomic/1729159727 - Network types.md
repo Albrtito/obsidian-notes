@@ -3,7 +3,7 @@ aliases:
   - Network types
 tags:
   - incomplete
-  - Networks
+  - net
 References: 
 cssclasses:
 ---

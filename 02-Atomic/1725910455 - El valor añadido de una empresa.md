@@ -3,7 +3,7 @@ id: 1725910455 - El valor añadido de una empresa
 aliases:
   - Valor añadido de una empresa
 tags:
-  - Empresa
+  - empresa
 sr-due: "2025-01-31"
 sr-ease: 290
 sr-interval: 109

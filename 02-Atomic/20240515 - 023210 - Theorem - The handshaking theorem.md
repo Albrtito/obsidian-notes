@@ -3,7 +3,7 @@ aliases:
   - Theorem - The handshaking theorem
   - The handshaking theorem
 tags:
-  - Discrete
+  - discrete
 "References:": 
 cssclasses:
   - page-theorem

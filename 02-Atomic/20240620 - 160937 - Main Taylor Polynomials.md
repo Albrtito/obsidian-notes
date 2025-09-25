@@ -2,7 +2,7 @@
 aliases:
   - Main Taylor Polynomials
 tags:
-  - CalcI
+  - calc
 "References:": 
 cssclasses:
 ---

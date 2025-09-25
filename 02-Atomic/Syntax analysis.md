@@ -1,7 +1,7 @@
 ---
 Date: 2024-03-12
 tags:
-  - SoftwareDev
+  - softwareDev
 "References:": 
 sr-due: 2024-10-18
 sr-interval: 170
@@ -36,7 +36,7 @@ To create all **valid test** cases two steps are required:
 For **invalid inputs**: There is to many of them to find them all. A sample is considered by computing what happens if: 
 1. Non-terminal nodes are deleted or duplicated
 2. If terminal nodes are deleted or duplicated
-#Duda Estos inputs inválidos son aquellos que tienen el duplicado o el deletion? Como afecta eso a la prueba. Estamos probando que si duplicamos o quitamos nodos me da un input inválido?
+#duda Estos inputs inválidos son aquellos que tienen el duplicado o el deletion? Como afecta eso a la prueba. Estamos probando que si duplicamos o quitamos nodos me da un input inválido?
 ### **Automate** test cases
 
 

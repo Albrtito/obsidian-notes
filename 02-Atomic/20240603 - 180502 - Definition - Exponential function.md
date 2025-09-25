@@ -3,7 +3,7 @@ aliases:
   - Definition - Exponential function
   - Exponential function
 tags:
-  - CalcI
+  - calc
 "References:": 
 cssclasses: 
 sr-due: 2024-08-17

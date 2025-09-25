@@ -3,7 +3,7 @@ aliases:
   - Algorithm - RSA
 tags:
   - incomplete
-  - Cripto
+  - cripto
 References: 
 cssclasses:
 ---

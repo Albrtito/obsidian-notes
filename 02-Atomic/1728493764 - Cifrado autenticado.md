@@ -2,7 +2,7 @@
 aliases:
   - Cifrado autenticado
 tags:
-  - Cripto
+  - cripto
   - incomplete
 References: 
 cssclasses:

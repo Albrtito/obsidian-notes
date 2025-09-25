@@ -2,7 +2,7 @@
 aliases:
   - Chromatic poly of a cycle graph
 tags:
-  - Discrete
+  - discrete
 "References:": 
 cssclasses: 
 sr-due: 2024-06-10

@@ -2,7 +2,7 @@
 aliases:
   - Minimum weight spanning tree
 tags:
-  - Discrete
+  - discrete
 "References:": 
 cssclasses: 
 sr-due: 2024-05-21

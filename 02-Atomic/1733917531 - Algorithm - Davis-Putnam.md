@@ -2,7 +2,7 @@
 aliases:
   - Algorithm - Davis-Putnam
 tags:
-  - Heuri
+  - heuri
 References: 
 cssclasses:
 ---
@@ -19,7 +19,7 @@ cssclasses:
 6. Considerar las cláusulas en orden inverso para ir viendo que valor deberá de tomar cada variable.
 
 ## Eficiencia: 
-#Duda Esto esta bien?
+#duda Esto esta bien?
 **Tiempo:** Resolución entiempo cuadrático
 $$
 O(n^2)

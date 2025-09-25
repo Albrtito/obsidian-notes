@@ -3,7 +3,7 @@ aliases:
   - First order, homogeneous, substitutions ODEs
   - Homogeneous, substitutions ODEs
 tags:
-  - DiffCalc
+  - diffcalc
 "References:": 
 cssclasses: 
 sr-due: 2024-10-08

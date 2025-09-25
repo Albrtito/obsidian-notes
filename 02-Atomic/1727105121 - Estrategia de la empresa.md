@@ -2,7 +2,7 @@
 aliases:
   - Estrategia de la empresa
 tags:
-  - Empresa
+  - empresa
 References: 
 cssclasses: 
 sr-due: 2025-04-28

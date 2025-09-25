@@ -3,7 +3,7 @@ aliases:
   - The network layer
   - Network layer
 tags:
-  - Networks
+  - net
   - incomplete
 References: 
 cssclasses:

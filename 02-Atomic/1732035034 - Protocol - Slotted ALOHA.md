@@ -2,7 +2,7 @@
 aliases:
   - Protocol - Slotted ALOHA
 tags:
-  - Networks
+  - net
 References: 
 cssclasses: 
 sr-due: 2024-12-16
@@ -19,7 +19,7 @@ sr-ease: 210
 + All frames  must have the same size
 + Time is divided into slots, each slot has the lenght equal to the time required to transmit 1 frame. 
 
-  #Duda: The propagation over one link could be different than other. And what if the transmission delay of one host is different from the others?
+  #duda: The propagation over one link could be different than other. And what if the transmission delay of one host is different from the others?
 
 	+ Everyone can use the slots, however u need to transmit **at the beginning of the slot**
 
@@ -53,5 +53,5 @@ For an small (or any arbitrary) number of host, the **best value for p will be:*
  p = 1/N
  $$
  + Where N is the number of hosts in the system. 
-#Duda: How would a host know how many host are there connected to the link?
+#duda: How would a host know how many host are there connected to the link?
 ***

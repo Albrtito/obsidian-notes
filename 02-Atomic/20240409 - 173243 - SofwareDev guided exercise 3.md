@@ -2,7 +2,7 @@
 aliases:
   - GE3
 tags:
-  - SoftwareDev
+  - softwareDev
 "References:":
   - "[SoftwareDev_Resources_GE3_Statement](../00.References/SoftwareDev_Resources_GE3_Statement.pdf)"
 cssclasses:

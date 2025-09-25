@@ -2,7 +2,7 @@
 aliases:
   - Algorithm - Primero en profundidad
 tags:
-  - Heuri
+  - heuri
 References: 
 cssclasses: 
 sr-due: 2024-12-26

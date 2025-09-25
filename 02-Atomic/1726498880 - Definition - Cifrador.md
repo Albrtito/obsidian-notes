@@ -3,7 +3,7 @@ aliases:
   - Definition - Cifrador
   - Cifrador
 tags:
-  - Cripto
+  - cripto
 References: 
 cssclasses: 
 sr-due: 2025-02-26

@@ -3,7 +3,7 @@ aliases:
   - Exercises - Logic - PRENEX AND SKOLEM
   - Logic - Submission - 7.1
 tags:
-  - Logic
+  - logic
 "References:": 
 cssclasses:
 ---
@@ -67,7 +67,7 @@ Solve the negations:
 $$
 \forall x ((\lnot\forall y S(y,x) \lor  \exists yEs(y))\lor \lnot Eu(x))
 $$
-Out with the quantifiers: **Remark:** One of the two existential quantifiers must be transformed into the variable u #Duda(Where to do so)
+Out with the quantifiers: **Remark:** One of the two existential quantifiers must be transformed into the variable u #duda(Where to do so)
 $$
 \boxed{\forall x \exists y \exists u ((\lnot  S(y,x) \lor  Es(u))\lor \lnot Eu(x))}
 $$

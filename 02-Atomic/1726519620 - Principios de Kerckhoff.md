@@ -2,7 +2,7 @@
 aliases:
   - Principios de Kerckhoff
 tags:
-  - Cripto
+  - cripto
 References: 
 cssclasses: 
 sr-due: 2025-01-15

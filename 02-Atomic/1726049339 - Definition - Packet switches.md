@@ -3,7 +3,7 @@ aliases:
   - Definition - Packet switches
   - Packet switches
 tags:
-  - Networks
+  - net
 References: 
 cssclasses: 
 sr-due: 2025-01-16

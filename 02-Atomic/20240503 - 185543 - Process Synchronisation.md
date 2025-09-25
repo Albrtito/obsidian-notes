@@ -2,7 +2,7 @@
 aliases:
   - Process Synchronisation
 tags:
-  - OS
+  - os
 "References:": 
 cssclasses: 
 sr-due: 2024-09-08

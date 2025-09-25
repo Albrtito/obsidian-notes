@@ -3,7 +3,7 @@ aliases:
   - Definition - Asymptotes
   - Asymptotes
 tags:
-  - CalcI
+  - calc
 "References:": 
 cssclasses: 
 sr-due: 2024-06-25
@@ -18,7 +18,7 @@ sr-ease: 244
 > \lim_{x\rightarrow \infty / -\infty}(f(x) - g(x)) = 0
 > $$ 
 
-During the #CalcI we’ll only study asymptotes that are **straight lines**. 
+During the #calc we’ll only study asymptotes that are **straight lines**. 
 These straight lines can be in three orientations: Vertical, Horizontal or oblique. 
 
 1. **Vertical asymptotes:** Are those found when **any of the side** limits of the function at $x_0$ is infinite. 

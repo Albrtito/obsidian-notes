@@ -4,7 +4,7 @@ aliases:
   - DHCP
   - Dinamic Host Configuration Protocol
 tags:
-  - Networks
+  - net
 References: 
 cssclasses: 
 sr-due: 2025-01-11

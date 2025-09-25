@@ -2,7 +2,7 @@
 aliases:
   - Exercises - Equivalence relations
 tags:
-  - Discrete
+  - discrete
 "References:":
   - "[[Discreta_Exercises_All_Solved.pdf]]"
 cssclasses:

@@ -2,7 +2,7 @@
 aliases:
   - Teoría socio-económica de la empresa
 tags:
-  - Empresa
+  - empresa
 References: 
 cssclasses: 
 sr-due: 2024-11-28
@@ -25,7 +25,7 @@ Las funciones de la empresa es todo aquello que la empresa como ente hace. Sus a
 + Aprovisionamiento (conseguir el input)
 + Producción (Transformarlo en output)
 + Comercialización (Vender lo transformado)
-Otras: (Actividades necesarias para que todo funciones) → #Duda Necesidad o comodidad?
+Otras: (Actividades necesarias para que todo funciones) → #duda Necesidad o comodidad?
 
 
 ==**[[1727105893 - La función financiera de la empresa|Funciones financieras]]:** Como conseguir dinero==
@@ -43,4 +43,4 @@ Cuando hablamos de procesos apare el concepto de [[1725918620 - Cadena de valor|
 Podemos dividir entre:
 + **Procesos de negocio/Actividades primarias:** Aquellas que satisfacen al cliente. (Logística, operaciones, marketing, ventas)
 + **Procesos de apoyo/Actividades de soporte:** Dan servicio a los procesos de negocio/proceso de producción. (Gestión, Recursos humanos, Desarrollo).
-#Duda : Diferencia entre proceso de negocio/actividad primaria? Además de la relación que tienen en la cadena de valor.
+#duda : Diferencia entre proceso de negocio/actividad primaria? Además de la relación que tienen en la cadena de valor.

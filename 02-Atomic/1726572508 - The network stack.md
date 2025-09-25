@@ -3,7 +3,7 @@ aliases:
   - The network stack
   - Network layers
 tags:
-  - Networks
+  - net
 References: "[[Net_References_s1_2.pdf]]"
 cssclasses: 
 sr-due: 2025-02-06

@@ -2,7 +2,7 @@
 aliases:
   - Production systems
 tags:
-  - IA
+  - ai
 References: 
 cssclasses:
 ---

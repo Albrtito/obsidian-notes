@@ -3,7 +3,7 @@ aliases:
   - SKOLEM Normal form
   - SNF
 tags:
-  - Logic
+  - logic
 "References:": 
 cssclasses: 
 sr-due: 2024-06-17

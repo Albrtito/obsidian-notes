@@ -1,7 +1,7 @@
 ---
 aliases: 
 tags:
-  - Discrete
+  - discrete
 "References:": 
 cssclasses: 
 sr-due: 2024-07-25
@@ -36,5 +36,5 @@ We’ll just multiply the previously generated GF by $x^k$, such we’ll get G(x
 $$
  G(x)=x^k F(x) \text {. }
 $$
-#Duda  : Why does it work like that??
+#duda  : Why does it work like that??
 # Practical problems

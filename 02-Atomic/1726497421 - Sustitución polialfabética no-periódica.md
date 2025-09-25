@@ -3,7 +3,7 @@ aliases:
   - Sustitución polialfabética no-periódica
   - Método de Vernam
 tags:
-  - Cripto
+  - cripto
 References: 
 cssclasses: 
 sr-due: 2025-01-21

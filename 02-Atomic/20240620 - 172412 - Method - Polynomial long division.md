@@ -3,7 +3,7 @@ aliases:
   - Method - Polynomial long division
   - Polynomial long division
 tags:
-  - CalcI
+  - calc
 "References:": 
 cssclasses:
 ---

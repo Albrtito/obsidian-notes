@@ -3,7 +3,7 @@ id: Second order, linear ODEs
 aliases:
   - Second order, linear ODEs
 tags:
-  - DiffCalc
+  - diffcalc
 ---
 # Second order ,linear ODEs
 When solving order two linear ODE's there'll be different cases based on how the coefficients of the equation are. There can be constant coefficients (easy ones, we like those) and function coefficients (harder ones we don't like cause they change)
@@ -84,7 +84,7 @@ $$
 ay'' + by' + cy = g(t): a,b,c\in R
 $$
  
-In this case the coefficients are constant like in the last one but the equation does not equal 0 but a function. This solution is really similar to the #Discrete solution for non-homogeneous recursive equations.
+In this case the coefficients are constant like in the last one but the equation does not equal 0 but a function. This solution is really similar to the #discrete solution for non-homogeneous recursive equations.
 1. Obtain the homogeneous solutions assuming that g(t) = 0
 2. Obtain the specific solution that will be later added. 
 

@@ -2,7 +2,7 @@
 aliases:
   - Chromatic polynomial of a complete graph
 tags:
-  - Discrete
+  - discrete
 "References:": 
 cssclasses: 
 sr-due: 2024-05-27

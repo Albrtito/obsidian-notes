@@ -2,7 +2,7 @@
 aliases:
   - Conditional independence
 tags:
-  - IA
+  - ai
 References: 
 cssclasses:
 ---

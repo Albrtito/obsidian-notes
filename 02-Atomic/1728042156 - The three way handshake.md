@@ -2,7 +2,7 @@
 aliases:
   - The three way handshake
 tags:
-  - Networks
+  - net
 References: 
 cssclasses: 
 sr-due: 2025-01-02
@@ -11,7 +11,7 @@ sr-ease: 248
 ---
 # The three way handshake
 
-#Duda: Why won’t the two way handshake work?
+#duda: Why won’t the two way handshake work?
 
 > [!NOTE] Definition: 
 > The three way handshake is the way of stablishing communicatoin in TCP. Used to agree on the **initial sequence numbers**

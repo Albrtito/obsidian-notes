@@ -2,7 +2,7 @@
 aliases:
   - Composition of binary relations
 tags:
-  - Discrete
+  - discrete
 "References:": 
 cssclasses: 
 sr-due: 2024-08-16

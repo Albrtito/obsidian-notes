@@ -3,7 +3,7 @@ aliases:
   - Comunicación y sincronización entre procesos
 tags:
   - Distri
-  - OS
+  - os
 References: 
 cssclasses:
 ---

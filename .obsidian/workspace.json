@@ -4,131 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "d8ea183d75ac8eda",
+        "id": "c9a840361faa5ff1",
         "type": "tabs",
         "children": [
           {
-            "id": "be77ede7b53a5995",
+            "id": "8863cfdb6da312cd",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02-Atomic/1758649312-sumofsquarederrorfunction.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "1758649312-sumofsquarederrorfunction"
-            }
-          },
-          {
-            "id": "c31bfd0d97d38bea",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02-Atomic/1758732030-regression.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "1758732030-regression"
-            }
-          },
-          {
-            "id": "9270f9c739d27ffe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02-Atomic/1758734414-gradientdescent.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "1758734414-gradientdescent"
-            }
-          },
-          {
-            "id": "f40f7d8fe7788be1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02-Atomic/1758632448-gobuster.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "1758632448-gobuster"
-            }
-          },
-          {
-            "id": "7dea0980ef264b84",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02-Atomic/1758802619-omarchy.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "1758802619-omarchy"
+              "title": "New tab"
             }
           }
         ],
-        "currentTab": 4,
         "stacked": true
       }
     ],
@@ -151,7 +40,7 @@
                 "query": "tag:#ms",
                 "matchingCase": false,
                 "explainSearch": false,
-                "collapseAll": false,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               },
@@ -238,11 +127,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "02-Atomic/1758802619-omarchy.md"
-              },
+              "state": {},
               "icon": "lucide-info",
-              "title": "File properties for 1758802619-omarchy"
+              "title": "File properties"
             }
           },
           {
@@ -251,7 +138,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02-Atomic/1758802619-omarchy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -261,7 +147,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 1758802619-omarchy"
+              "title": "Backlinks"
             }
           },
           {
@@ -270,12 +156,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02-Atomic/1758802619-omarchy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 1758802619-omarchy"
+              "title": "Outgoing links"
             }
           },
           {
@@ -304,7 +189,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02-Atomic/1758802619-omarchy.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -340,14 +224,15 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 1758802619-omarchy"
+              "title": "Graph view"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 327.5
+    "width": 327.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -365,18 +250,18 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "7dea0980ef264b84",
+  "active": "8863cfdb6da312cd",
   "lastOpenFiles": [
+    "02-Atomic/1758649312-sumofsquarederrorfunction.md",
+    "02-Atomic/1758732030-regression.md",
+    "02-Atomic/1758734414-gradientdescent.md",
+    "02-Atomic/1758737329-meansquarederrorfunction.md",
     "02-Atomic/1758632448-gobuster.md",
     "02-Atomic/1758802619-omarchy.md",
-    "02-Atomic/1758737329-meansquarederrorfunction.md",
-    "02-Atomic/1758734414-gradientdescent.md",
-    "02-Atomic/1758649312-sumofsquarederrorfunction.md",
     "02-Atomic/1758649000-weightadjustmentinneuralnetworks.md",
     "02-Atomic/1758644145-neuralnetworks.md",
     "02-Atomic/1758656696-gradientboosting.md",
     "99-Meta/0. Attachments/1758734414-gradientdescentj.png",
-    "02-Atomic/1758732030-regression.md",
     "02-Atomic/1746718627-is-housing.md",
     "02-Atomic/1758717121-functionalrequirements.md",
     "02-Atomic/1758716908-requirements.md",

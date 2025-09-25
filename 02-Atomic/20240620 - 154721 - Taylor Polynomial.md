@@ -2,7 +2,7 @@
 aliases:
   - Taylor Polynomial
 tags:
-  - CalcI
+  - calc
 "References:":
   - https://www.youtube.com/watch?v=8SsC5st4LnI
   - https://www.youtube.com/watch?v=3d6DsjIBzJ4&t=1s
@@ -62,7 +62,7 @@ f.e:
 >  $$
 
 **Remarks:**
-+ This implies: $R_{n,x_0}f(x) = o((x-x_0)^n)$ #Duda : Why?
++ This implies: $R_{n,x_0}f(x) = o((x-x_0)^n)$ #duda : Why?
 
 
 > [!NOTE] Theorem: **Lagrange form of the remainder**

@@ -3,7 +3,7 @@ aliases:
   - Firma digital
 tags:
   - incomplete
-  - Cripto
+  - cripto
 References: 
 cssclasses:
 ---

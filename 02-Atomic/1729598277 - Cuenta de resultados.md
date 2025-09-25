@@ -3,7 +3,7 @@ aliases:
   - Cuenta de resultados
   - Cuenta de pérdidas y ganancias
 tags:
-  - Empresa
+  - empresa
 References: 
 cssclasses: 
 sr-due: 2024-12-19

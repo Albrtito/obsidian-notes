@@ -2,7 +2,7 @@
 aliases:
   - Spreadsheet
 tags:
-  - Excel
+  - excel
 References: 
 cssclasses:
 ---

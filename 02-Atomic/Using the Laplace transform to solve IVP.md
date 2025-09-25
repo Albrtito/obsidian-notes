@@ -1,7 +1,7 @@
 ---
 Date: 2024-03-12
 tags:
-  - DiffCalc
+  - diffcalc
 "References:":
   - "[Initial value problem](Initial%20value%20problem)"
   - "[ODEs](ODEs.md)"

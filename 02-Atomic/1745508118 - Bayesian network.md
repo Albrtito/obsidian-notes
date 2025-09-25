@@ -2,7 +2,7 @@
 aliases:
   - Bayesian network
 tags:
-  - IA
+  - ai
 References: 
 cssclasses:
 ---

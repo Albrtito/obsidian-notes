@@ -2,7 +2,7 @@
 aliases:
   - Telephone number problem
 tags:
-  - Discrete
+  - discrete
 "References:":
   - https://en.wikipedia.org/wiki/Telephone_number_(mathematics)
 cssclasses:

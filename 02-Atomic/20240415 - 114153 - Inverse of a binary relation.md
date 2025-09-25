@@ -2,7 +2,7 @@
 aliases:
   - Inverse of a binary relation
 tags:
-  - Discrete
+  - discrete
 "References:": 
 cssclasses: 
 sr-due: 2024-08-25

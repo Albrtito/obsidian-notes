@@ -3,7 +3,7 @@ aliases:
   - PDEs
   - Partial Differential Equations
 tags:
-  - DiffCalc
+  - diffcalc
 "References:": 
 cssclasses: 
 sr-due: 2024-06-08

@@ -4,7 +4,7 @@ aliases:
   - El plan de marketing
 tags:
   - incomplete
-  - Empresa
+  - empresa
 ---
 # El plan de marketing
 Para que la empresa pueda saber lo que los clientes quiere ha de analizar el mercado y el entorno en el que realiza su actividad. Para realizar este análisis se utilizan técnicas de **investigación de mercado**, que **crean un sistema de información de marketing**. 

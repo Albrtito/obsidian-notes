@@ -3,7 +3,7 @@ aliases:
   - The exponential differential equation
   - Exponential differential equation
 tags:
-  - DiffCalc
+  - diffcalc
 "References:": 
 cssclasses: 
 sr-due: 2024-10-13

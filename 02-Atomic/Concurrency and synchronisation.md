@@ -3,7 +3,7 @@ aliases:
   - Concurrency and synchronisation
   - Process Concurrency and synchronisation
 tags:
-  - OS
+  - os
 "References:":
   - "[Problem - Dining Philosophers Problem](20240509%20-%20194614%20-Problem%20-%20Dining%20Philosophers%20Problem.md)"
 cssclasses:

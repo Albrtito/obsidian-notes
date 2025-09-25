@@ -2,7 +2,7 @@
 aliases:
   - Criptosistemas clásicos
 tags:
-  - Cripto
+  - cripto
 References: 
 cssclasses: 
 sr-due: 2024-12-02

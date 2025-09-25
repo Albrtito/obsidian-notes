@@ -1,6 +1,6 @@
 ---
 tags:
-  - Networks
+  - net
 aliases: 
 "References:":
   - https://aplicaciones.uc3m.es/cpa/generaFicha?est=218&plan=489&asig=13884&idioma=1
@@ -41,7 +41,7 @@ aliases:
 + The relation between the chapters covered in class and the book chapters is [here](https://docs.google.com/spreadsheets/d/1w4c3xFZ6zc3_oHcHirE9T8Ncijwhzms-/edit?gid=1511838856#gid=1511838856)
 
 **Recurso electrónico:**
-#Duda : Como entrar a este recurso
+#duda : Como entrar a este recurso
 - Jame Kurose · Redes de Computadores (accesible desde dentro de la universidad) : [http://www.ingebook.com/ib/NPcd/IB_Escritorio_Visualizar?cod_primaria=1000193&libro=6752](http://www.ingebook.com/ib/NPcd/IB_Escritorio_Visualizar?cod_primaria=1000193&libro=6752)
 
 ### Complementaria: 

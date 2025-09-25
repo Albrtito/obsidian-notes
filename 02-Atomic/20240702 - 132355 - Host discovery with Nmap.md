@@ -2,7 +2,7 @@
 aliases:
   - Host discovery with Nmap
 tags:
-  - Cyber
+  - cyber
 "References:":
   - "[[20240701 - 181920 - Nmap|Nmap]]"
 cssclasses:

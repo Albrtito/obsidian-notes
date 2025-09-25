@@ -2,7 +2,7 @@
 aliases:
   - Proceso de segmentacion de mercados
 tags:
-  - Empresa
+  - empresa
 References: 
 cssclasses:
 ---

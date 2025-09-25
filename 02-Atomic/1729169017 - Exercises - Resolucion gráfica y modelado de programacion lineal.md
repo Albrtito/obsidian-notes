@@ -2,7 +2,7 @@
 aliases:
   - Exercises - Resolucion gráfica y modelado de programacion lineal
 tags:
-  - Heuri
+  - heuri
 References: 
 cssclasses: 
 sr-due: 2024-12-25

@@ -1,7 +1,7 @@
 ---
 Date: 2024-03-12
 tags:
-  - CalcI
+  - calc
 "References:": 
 sr-due: 2024-07-05
 sr-interval: 88

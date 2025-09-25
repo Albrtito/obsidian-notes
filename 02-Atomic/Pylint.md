@@ -1,7 +1,7 @@
 ---
 aliases: 
 tags:
-  - SoftwareDev
+  - softwareDev
 "References:":
   - https://www.pylint.org/
 DateCreated: 2024-03-29

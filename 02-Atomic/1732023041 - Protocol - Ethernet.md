@@ -3,7 +3,7 @@ aliases:
   - Protocol - Ethernet
   - Ethernet
 tags:
-  - Networks
+  - net
 References: 
 cssclasses: 
 sr-due: 2025-01-01

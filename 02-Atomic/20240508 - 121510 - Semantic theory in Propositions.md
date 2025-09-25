@@ -2,7 +2,7 @@
 aliases:
   - Semantic theory in propositions
 tags:
-  - Logic
+  - logic
 "References:": 
 cssclasses: 
 sr-due: 2024-06-19

@@ -2,7 +2,7 @@
 aliases:
   - Theorem - Total probabilty theorem
 tags:
-  - IA
+  - ai
 References: 
 cssclasses:
 ---

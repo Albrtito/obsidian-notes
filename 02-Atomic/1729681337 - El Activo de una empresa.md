@@ -3,7 +3,7 @@ aliases:
   - El Activo de una empresa
   - ACTIVO
 tags:
-  - Empresa
+  - empresa
 References: 
 cssclasses: 
 sr-due: 2025-01-09

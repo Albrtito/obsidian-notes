@@ -1,7 +1,7 @@
 ---
 aliases: 
 tags:
-  - SoftwareDev
+  - softwareDev
 "References:":
   - "[SoftwareDev_Resources_GE2_Annex](../00.References/SoftwareDev_Resources_GE2_Annex.pdf)"
 DateCreated: 2024-03-29

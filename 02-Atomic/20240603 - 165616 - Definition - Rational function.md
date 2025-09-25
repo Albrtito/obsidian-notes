@@ -3,7 +3,7 @@ aliases:
   - Definition - Rational function
   - Rational function
 tags:
-  - CalcI
+  - calc
 "References:": 
 cssclasses: 
 sr-due: 2024-08-07

@@ -3,7 +3,7 @@ aliases:
   - Definition - Empresas Individuales
   - Empresas Individuales
 tags:
-  - Empresa
+  - empresa
 References: 
 cssclasses: 
 sr-due: 2024-12-22

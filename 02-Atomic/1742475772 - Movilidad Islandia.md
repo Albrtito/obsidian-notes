@@ -3,7 +3,7 @@ id: 1742475772 - Movilidad Islandia
 aliases:
   - Movilidad Islandia
 tags:
-  - Mov
+  - mov
 References: "[[1733500003 - Movilidad europea|Movilidad europea]]"
 ---
 # Movilidad Islandia

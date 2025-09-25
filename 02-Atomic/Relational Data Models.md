@@ -1,6 +1,6 @@
 ---
 tags:
-  - FilesAndDB
+  - filesAndDB
 ---
 Based on the mathematical notion of relation: 
 A possible described relation would be:

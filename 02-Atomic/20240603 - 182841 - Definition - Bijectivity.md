@@ -3,7 +3,7 @@ aliases:
   - Definition - Bijectivity
   - Bijectivity
 tags:
-  - CalcI
+  - calc
 "References:": 
 cssclasses: 
 sr-due: 2024-07-08

@@ -60,7 +60,7 @@ Then the general solution for the homogeneous part, using the new definition of 
 $$
 \boxed{u_h = C_1e^{-g(x)}}
 $$
- 2. We can create a relation between this new solution we have found for the homogeneous and F(x) in order to find a **solution to the particular form** #Duda WHAT?
+ 2. We can create a relation between this new solution we have found for the homogeneous and F(x) in order to find a **solution to the particular form** #duda WHAT?
 $$
 \left[e^{g(x)} u\right]^{\prime}=\frac{F(x) e^{g(x)}}{a_1(x)}
 $$
@@ -88,7 +88,7 @@ $$
 **Remark:**
 + For the non-homogeneous part, the integral will need to be usually done applying [[20240529 - 132751 - Method -Integration by parts|Integration by parts]]
 + The value: $e^{g(x)}\over a_1(x)$ is called **integrating factor** because it reduces the non-homogeneous part in order to solve by direct integration.
-+ #Duda : Same as last one in this same document. 
++ #duda : Same as last one in this same document. 
 + This solution is also true for an ODE of n-th order 
 
 ## Solved examples: 

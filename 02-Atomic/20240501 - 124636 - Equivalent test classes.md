@@ -2,7 +2,7 @@
 aliases:
   - Equiv. test classes
 tags:
-  - SoftwareDev
+  - softwareDev
 "References:":
   - "[SoftwareDev_Resources_GE2_Presentation_Hands-onLab](../00.References/SoftwareDev_Resources_GE2_Presentation_Hands-onLab.pdf)"
 DateCreated: 2024-03-31

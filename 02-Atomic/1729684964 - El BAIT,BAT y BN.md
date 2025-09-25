@@ -2,7 +2,7 @@
 aliases:
   - El BAIT,BAT y BN
 tags:
-  - Empresa
+  - empresa
 References: 
 cssclasses: 
 sr-due: 2024-12-17

@@ -2,7 +2,7 @@
 aliases:
   - Methods for solving limits
 tags:
-  - CalcI
+  - calc
 "References:": 
 cssclasses: 
 sr-due: 2024-07-01

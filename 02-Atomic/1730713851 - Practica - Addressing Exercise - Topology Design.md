@@ -2,7 +2,7 @@
 aliases:
   - Practica - Addressing Exercise - Topology Design
 tags:
-  - Networks
+  - net
 References: 
 cssclasses:
 ---

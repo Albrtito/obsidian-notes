@@ -3,7 +3,7 @@ aliases:
   - Funciones hash
   - Funciones resumen
 tags:
-  - Cripto
+  - cripto
   - incomplete
 References: 
 cssclasses:

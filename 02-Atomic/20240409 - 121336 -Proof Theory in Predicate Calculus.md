@@ -1,7 +1,7 @@
 ---
 aliases: 
 tags:
-  - Logic
+  - logic
 "References:": 
 cssclasses: 
 sr-due: 2024-06-03
@@ -66,7 +66,7 @@ $$
 #### IMPORTANT CONSTRAINT: 
 <font color="#ff0000">“y” cannot be a free variable in B</font>
 **Remarks:** 
-+ A free variable is a variable with no specific value (humans → Free variable, Juan → Not free, $\forall humans$ → Not free?, $\exists humans$ → Not free? #Duda )
++ A free variable is a variable with no specific value (humans → Free variable, Juan → Not free, $\forall humans$ → Not free?, $\exists humans$ → Not free? #duda )
 + $A(y)$ : Represents a s.c.f in which “y” **is a free variable**
 	+ f.e: The following formula has y as free variable: $\forall x (P(x,y)\rightarrow \exists z Q(w,z))$ 
 
@@ -156,7 +156,7 @@ This rule is usually used by introducing assumptions (as in propositional calcul
 	+ Correct use: $\forall x (P(x) \rightarrow A)\Rightarrow P(y) \rightarrow A$ : The quantifier affects also the A.
 
 
-#Duda: I keep saying that y is a free variable inside the domain of x: Is that true?
+#duda: I keep saying that y is a free variable inside the domain of x: Is that true?
 
 ## Method to apply: 
 

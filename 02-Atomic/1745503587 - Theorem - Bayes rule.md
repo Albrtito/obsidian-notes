@@ -2,7 +2,7 @@
 aliases:
   - Theorem - Bayes rule
 tags:
-  - IA
+  - ai
 References: 
 cssclasses:
 ---

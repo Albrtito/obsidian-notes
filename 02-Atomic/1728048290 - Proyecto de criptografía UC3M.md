@@ -3,7 +3,7 @@ aliases:
   - Proyecto de criptografía UC3M
   - CriptCript
 tags:
-  - Cripto
+  - cripto
 References: 
 cssclasses:
 ---

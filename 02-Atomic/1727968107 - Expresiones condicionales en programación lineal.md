@@ -2,7 +2,7 @@
 aliases:
   - Expresiones condicionales en programación lineal
 tags:
-  - Heuri
+  - heuri
 References: 
 cssclasses: 
 sr-due: 2024-11-23

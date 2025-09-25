@@ -3,7 +3,7 @@ id: 1729084911 - Dualidad en programacion lineal
 aliases:
   - Dualidad en programacion lineal
 tags:
-  - Heuri
+  - heuri
 sr-due: "2024-12-25"
 sr-ease: 174
 sr-interval: 18

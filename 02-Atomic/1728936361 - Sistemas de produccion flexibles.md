@@ -3,7 +3,7 @@ id: 1728936361 - Sistemas de produccion flexibles
 aliases:
   - Sistemas de produccion flexibles
 tags:
-  - Empresa
+  - empresa
 sr-due: "2024-12-27"
 sr-ease: 170
 sr-interval: 20

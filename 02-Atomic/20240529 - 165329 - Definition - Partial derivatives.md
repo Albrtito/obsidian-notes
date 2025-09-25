@@ -2,7 +2,7 @@
 aliases:
   - Partial derivatives
 tags:
-  - CalcI
+  - calc
 "References:":
   - https://www.khanacademy.org/math/multivariable-calculus/multivariable-derivatives/partial-derivative-and-gradient-articles/a/introduction-to-partial-derivatives
 cssclasses: 

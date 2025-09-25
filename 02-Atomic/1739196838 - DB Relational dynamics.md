@@ -2,7 +2,7 @@
 aliases:
   - DB Relational dynamics
 tags:
-  - FilesAndDB
+  - filesAndDB
 References: 
 cssclasses:
 ---

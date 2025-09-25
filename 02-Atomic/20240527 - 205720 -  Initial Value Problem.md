@@ -3,7 +3,7 @@ aliases:
   - Initial Value Problem
   - IVP
 tags:
-  - DiffCalc
+  - diffcalc
 "References:": 
 cssclasses: 
 sr-due: 2024-10-05

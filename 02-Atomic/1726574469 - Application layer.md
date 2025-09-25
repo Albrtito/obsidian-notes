@@ -2,7 +2,7 @@
 aliases:
   - Application layer
 tags:
-  - Networks
+  - net
 References: "[[Net_References_s2_1.pdf]]"
 cssclasses: 
 sr-due: 2025-03-04

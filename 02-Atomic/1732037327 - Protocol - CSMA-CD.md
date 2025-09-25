@@ -4,7 +4,7 @@ aliases:
   - CSMA/CD Protocol
   - CSMA/CD
 tags:
-  - Networks
+  - net
 References: 
 cssclasses: 
 sr-due: 2024-11-28

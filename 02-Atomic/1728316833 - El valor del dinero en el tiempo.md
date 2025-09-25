@@ -2,7 +2,7 @@
 aliases:
   - El valor del dinero en el tiempo
 tags:
-  - Empresa
+  - empresa
   - incomplete
 References: 
 cssclasses:

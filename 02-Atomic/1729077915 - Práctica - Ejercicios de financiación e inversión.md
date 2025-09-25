@@ -2,7 +2,7 @@
 aliases:
   - Práctica - Ejercicios de financiación e inversión
 tags:
-  - Empresa
+  - empresa
 References: 
 cssclasses: 
 sr-due: 2024-12-24

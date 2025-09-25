@@ -3,7 +3,7 @@ aliases:
   - The network layer control plane
   - Control plane
 tags:
-  - Networks
+  - net
   - incomplete
 References: 
 cssclasses:

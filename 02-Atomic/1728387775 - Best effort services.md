@@ -3,7 +3,7 @@ aliases:
   - Best effort services
   - best-effort service
 tags:
-  - Networks
+  - net
 References: 
 cssclasses: 
 sr-due: 2025-01-13

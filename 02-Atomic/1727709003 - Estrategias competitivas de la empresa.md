@@ -4,7 +4,7 @@ aliases:
   - Estrategias competitivas de la empresa
   - Estrategias competitivas
 tags:
-  - Empresa
+  - empresa
 sr-due: "2025-01-23"
 ---
 # Estrategias competitivas de la empresa

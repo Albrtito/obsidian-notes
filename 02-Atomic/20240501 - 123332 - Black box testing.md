@@ -3,7 +3,7 @@ aliases:
   - Black box testing
   - Functional testing
 tags:
-  - SoftwareDev
+  - softwareDev
 "References:": 
 cssclasses: 
 sr-due: 2024-06-15

@@ -1,7 +1,7 @@
 ---
 Date: 2024-03-18
 tags:
-  - Discrete
+  - discrete
 "References:": 
 sr-due: 2024-05-29
 sr-interval: 12
@@ -22,4 +22,4 @@ sr-ease: 190
 >$$
 
 **Remark:**
-During the #Discrete  course, only **linear with constant coefficients** relations will be considered. This means that A can never be a function of anything. 
+During the #discrete  course, only **linear with constant coefficients** relations will be considered. This means that A can never be a function of anything. 

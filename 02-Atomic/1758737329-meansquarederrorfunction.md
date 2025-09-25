@@ -1,9 +1,10 @@
 ---
 aliases:
-- mean squared error function
+  - mean squared error function
+  - MSE
 tags:
-- review
-- ms
+  - review
+  - ms
 References:
 cssclasses:
 ---

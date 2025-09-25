@@ -2,7 +2,7 @@
 aliases:
   - Probability product rule
 tags:
-  - IA
+  - ai
 References: 
 cssclasses:
 ---

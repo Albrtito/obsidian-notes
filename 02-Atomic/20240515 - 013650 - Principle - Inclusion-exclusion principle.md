@@ -2,7 +2,7 @@
 aliases:
   - Inclusion-exclusion principle
 tags:
-  - Discrete
+  - discrete
 "References:": 
 cssclasses: 
 sr-due: 2024-05-28

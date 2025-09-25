@@ -3,7 +3,7 @@ aliases:
   - Definition - Root function
   - Root function
 tags:
-  - CalcI
+  - calc
 "References:": 
 cssclasses: 
 sr-due: 2024-07-04

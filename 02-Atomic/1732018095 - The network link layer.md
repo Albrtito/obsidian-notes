@@ -4,7 +4,7 @@ aliases:
   - Link Layer
   - The link layer
 tags:
-  - Networks
+  - net
 References: 
 cssclasses: 
 sr-due: 2024-12-19

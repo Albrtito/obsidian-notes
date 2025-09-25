@@ -1,7 +1,7 @@
 ---
 Date: 2024-03-12
 tags:
-  - DiffCalc
+  - diffcalc
 "References:": 
 sr-due: 2024-10-11
 sr-interval: 11
@@ -43,7 +43,7 @@ $$
 **Remarks:**
 + Condition 2 means that "f grows less than some exponential function"
 	If this is true f is said of exponential order(for large t)
-+ **For #DiffCalc we'll always work with functions that satisfy this last theorem**
++ **For #diffcalc we'll always work with functions that satisfy this last theorem**
 + We'll only be able to compute a valid $\zeta$ when $s>\alpha$. The value of $\alpha$ will depend on the practical case.
 # Properties of $\zeta$:
 ## 1. Linearity of $\zeta$
@@ -77,12 +77,12 @@ $$
 
 
 **Remarks:**
-+ For #DiffCalc course see the [PDF n aula global](https://aulaglobal.uc3m.es/pluginfile.php/6903203/mod_resource/content/1/Laplace_Transforms.pdf) stating the generalised formula for derivatives of order n: $f^{(n)}(t)$
++ For #diffcalc course see the [PDF n aula global](https://aulaglobal.uc3m.es/pluginfile.php/6903203/mod_resource/content/1/Laplace_Transforms.pdf) stating the generalised formula for derivatives of order n: $f^{(n)}(t)$
 
 # Practical examples: 
 ## Remarks:
 + During exams some Laplace transforms will be provided (in the classroom blackboard). Not all of them must be used, students must choose which ones to use for the required exercises.
-+ All useful Laplace transforms for the #DiffCalc  course are provided in the following [link in aula global](https://aulaglobal.uc3m.es/pluginfile.php/6903203/mod_resource/content/1/Laplace_Transforms.pdf)
++ All useful Laplace transforms for the #diffcalc  course are provided in the following [link in aula global](https://aulaglobal.uc3m.es/pluginfile.php/6903203/mod_resource/content/1/Laplace_Transforms.pdf)
 
 ## Example 1:
 **Initial conditions:**

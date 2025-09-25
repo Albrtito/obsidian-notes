@@ -2,7 +2,7 @@
 aliases:
   - Problem - Seven bridges of Königsberg
 tags:
-  - Discrete
+  - discrete
 "References:": 
 cssclasses:
 ---

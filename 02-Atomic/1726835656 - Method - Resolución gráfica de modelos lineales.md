@@ -2,7 +2,7 @@
 aliases:
   - Method - Resolución gráfica de modelos lineales
 tags:
-  - Heuri
+  - heuri
 References: 
 cssclasses: 
 sr-due: 2024-11-25

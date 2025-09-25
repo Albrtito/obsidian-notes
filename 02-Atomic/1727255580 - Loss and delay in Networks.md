@@ -2,7 +2,7 @@
 aliases:
   - Loss and delay in Networks
 tags:
-  - Networks
+  - net
 References: 
 cssclasses: 
 sr-due: 2024-12-19

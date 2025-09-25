@@ -4,7 +4,7 @@ aliases:
   - Neighbourhoods
 Date: 2024-03-12
 tags:
-  - CalcI
+  - calc
 "References:": 
 sr-due: 2024-11-04
 sr-interval: 154

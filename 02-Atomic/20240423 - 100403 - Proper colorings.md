@@ -2,7 +2,7 @@
 aliases:
   - Proper colorings
 tags:
-  - Discrete
+  - discrete
 "References:": 
 cssclasses: 
 sr-due: 2024-05-26

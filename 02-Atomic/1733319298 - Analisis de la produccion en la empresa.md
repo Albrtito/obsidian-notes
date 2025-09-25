@@ -5,7 +5,7 @@ aliases:
   - Punto muerto
   - Apalancamiento operativo
 tags:
-  - Empresa
+  - empresa
 References: 
 cssclasses:
 ---

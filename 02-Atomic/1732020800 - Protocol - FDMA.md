@@ -4,7 +4,7 @@ aliases:
   - Frequency division multiple Access Protocol
   - FDMA
 tags:
-  - Networks
+  - net
 References: 
 cssclasses: 
 sr-due: 2024-12-02

@@ -3,7 +3,7 @@ aliases:
   - Practica - Plan de Empresa - 3.Definir la empresa
   - Definir la empresa
 tags:
-  - Empresa
+  - empresa
 References: 
 cssclasses:
 ---
@@ -53,4 +53,4 @@ No se aplica.
 
 
 ***
-[^3]: #Duda: En una SA los socios no podrían realizar trabajo? Los socios no son los que tienen las acciones? Serían entonces los socios los organizativos y los accionistas otros diferentes?
+[^3]: #duda: En una SA los socios no podrían realizar trabajo? Los socios no son los que tienen las acciones? Serían entonces los socios los organizativos y los accionistas otros diferentes?

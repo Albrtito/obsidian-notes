@@ -2,7 +2,7 @@
 aliases:
   - Propositional logic
 tags:
-  - Logic
+  - logic
 "References:": 
 sr-due: 2024-05-31
 sr-interval: 4

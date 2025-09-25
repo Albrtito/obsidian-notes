@@ -5,7 +5,7 @@ aliases:
   - Algoritmo de búsqueda beam search
 tags:
   - incomplete
-  - Heuri
+  - heuri
 References: 
 cssclasses:
 ---

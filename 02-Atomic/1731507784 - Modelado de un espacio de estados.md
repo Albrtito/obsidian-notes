@@ -2,7 +2,7 @@
 aliases:
   - Modelado de un espacio de estados
 tags:
-  - Heuri
+  - heuri
 References: 
 cssclasses: 
 sr-due: 2024-12-29

@@ -2,7 +2,7 @@
 aliases:
   - Processes and threads
 tags:
-  - OS
+  - os
 "References:": 
 cssclasses:
 ---

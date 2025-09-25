@@ -2,7 +2,7 @@
 aliases:
   - Antisymmetry property
 tags:
-  - Discrete
+  - discrete
 "References:": 
 cssclasses: 
 sr-due: 2024-08-03

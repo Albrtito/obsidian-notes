@@ -2,7 +2,7 @@
 aliases:
   - Binary R. Adjacency matrix
 tags:
-  - Discrete
+  - discrete
 "References:": 
 cssclasses: 
 sr-due: 2024-05-24

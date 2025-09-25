@@ -3,7 +3,7 @@ aliases:
   - Definition - Natural Logarithm
   - Natural logarithm
 tags:
-  - CalcI
+  - calc
 "References:": 
 cssclasses: 
 sr-due: 2024-06-22

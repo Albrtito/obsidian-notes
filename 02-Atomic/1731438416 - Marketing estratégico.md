@@ -3,7 +3,7 @@ id: 1731438416 - Marketing estratégico
 aliases:
   - Marketing estratégico
 tags:
-  - Empresa
+  - empresa
 ---
 # Marketing estratégico
 

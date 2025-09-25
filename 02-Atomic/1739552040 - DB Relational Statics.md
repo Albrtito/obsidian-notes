@@ -2,7 +2,7 @@
 aliases:
   - DB Relational Statics
 tags:
-  - FilesAndDB
+  - filesAndDB
 References: 
 cssclasses:
 ---
@@ -60,17 +60,17 @@ These are restrictions that **come with the relational nature of this theoretica
 	* They share the same attribute number (arity)
    + Attributes are single-value and atomic
 	   + Single-value: One domain
-	   + Atomic: Non-divisible for their aim. #Duda: An example of this and why it is a defined property?
+	   + Atomic: Non-divisible for their aim. #duda: An example of this and why it is a defined property?
 #### Referential integrity:
 We can also define those **restrictions required for the integrity of the model**:
 1. **Integrity of entity:** Each row is unique
-	1. No attribute from primary key can take null value #DUda: With a primary key defined by several attributes, null means all null or just only one of them null cannot be permitted?
+	1. No attribute from primary key can take null value #duda: With a primary key defined by several attributes, null means all null or just only one of them null cannot be permitted?
 2. **Referential Integrity:** Anything referenced allways exists. So all Foreign Keys mus reference something that exists. 
 	1. If it’s null. The reference check is skipped. 
 	2. For several attributes. The check can be done in one of the following ways.
 	   + **COMPLETE:** All attributes work as one
 	   + **PARTIAL:** No check for null part
-	   + **WEAK:** If there is a null value, no check. #Duda Does this also mean that if an attribute is not there it is seen as null?
+	   + **WEAK:** If there is a null value, no check. #duda Does this also mean that if an attribute is not there it is seen as null?
 	
 
 ### Special keys:

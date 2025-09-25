@@ -3,7 +3,7 @@ aliases:
   - Algorithm - Primero en amplitud
   - Primero en amplitud
 tags:
-  - Heuri
+  - heuri
 References: 
 cssclasses: 
 sr-due: 2024-11-24

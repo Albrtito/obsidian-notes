@@ -2,7 +2,7 @@
 aliases:
   - Creación de modelos en programación lineal
 tags:
-  - Heuri
+  - heuri
 References: 
 cssclasses: 
 sr-due: 2025-03-18

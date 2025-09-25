@@ -3,7 +3,7 @@ aliases:
   - RFC1918 Network Address
   - RFC1918
 tags:
-  - Networks
+  - net
 References: 
 cssclasses:
 ---

@@ -4,7 +4,7 @@ aliases:
   - WIFI
 tags:
   - incomplete
-  - Networks
+  - net
 References: 
 cssclasses:
 ---

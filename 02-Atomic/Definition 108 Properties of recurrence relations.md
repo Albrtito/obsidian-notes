@@ -1,6 +1,6 @@
 ---
 tags:
-  - Discrete
+  - discrete
 Date: 2024-03-18
 "References:": 
 sr-due: 2024-05-21

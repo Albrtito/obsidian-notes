@@ -3,7 +3,7 @@ id: 1728935952 - Sistema de produccion por proyectos
 aliases:
   - Sistema de produccion por proyectos
 tags:
-  - Empresa
+  - empresa
 sr-due: "2025-01-04"
 sr-ease: 210
 sr-interval: 43

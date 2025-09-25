@@ -2,7 +2,7 @@
 aliases:
   - Exercises - Modular arithmetic
 tags:
-  - Discrete
+  - discrete
 "References:": 
 cssclasses:
   - page-manila

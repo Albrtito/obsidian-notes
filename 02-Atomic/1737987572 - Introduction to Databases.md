@@ -3,7 +3,7 @@ aliases:
   - Introduction to Databases
 tags:
   - incomplete
-  - FilesAndDB
+  - filesAndDB
 References: 
 cssclasses:
 ---

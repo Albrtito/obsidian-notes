@@ -3,7 +3,7 @@ aliases:
   - Network congestion
   - Congestion control
 tags:
-  - Networks
+  - net
   - incomplete
 References: 
 cssclasses: 

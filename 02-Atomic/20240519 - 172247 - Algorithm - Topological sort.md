@@ -3,7 +3,7 @@ aliases:
   - Algorithm - Topological sort
   - Topological sort
 tags:
-  - Discrete
+  - discrete
 "References:": 
 cssclasses: 
 sr-due: 2024-05-24

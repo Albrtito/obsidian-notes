@@ -4,8 +4,8 @@ aliases:
   - ADT
   - Data structures
 tags:
-  - EDA
-  - Heuri
+  - eda
+  - heuri
 References: 
 cssclasses:
 ---
@@ -22,7 +22,7 @@ cssclasses:
 + We can think about **vectors as linear ADTs**
 + Usually, all elements in the linear ADT are of the same type.
 
-#Duda: Pero pero pero, según la gráfica de EDA las linked list son lineales, pero esas no estan guardando todos sus elementos sequencialmente. 
+#duda: Pero pero pero, según la gráfica de EDA las linked list son lineales, pero esas no estan guardando todos sus elementos sequencialmente. 
 ## Implementations
 
 > [!attention]  Data structure: 

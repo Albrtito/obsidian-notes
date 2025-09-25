@@ -2,7 +2,7 @@
 aliases:
   - Cifrado asimetrico
 tags:
-  - Cripto
+  - cripto
   - incomplete
 References: 
 cssclasses:

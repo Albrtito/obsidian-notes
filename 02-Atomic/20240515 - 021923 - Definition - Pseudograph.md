@@ -3,7 +3,7 @@ aliases:
   - Definition - Pseudograph
   - Pseudograph
 tags:
-  - Discrete
+  - discrete
 "References:": 
 cssclasses: 
 sr-due: 2024-05-21

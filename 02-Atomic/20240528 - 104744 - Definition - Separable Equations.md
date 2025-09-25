@@ -2,7 +2,7 @@
 aliases:
   - Separable Equations
 tags:
-  - DiffCalc
+  - diffcalc
 "References:": 
 cssclasses: 
 sr-due: 2024-10-17

@@ -2,8 +2,8 @@
 aliases:
   - Modular arithmetics - Multiplicative inverse of x
 tags:
-  - Discrete
-  - Cripto
+  - discrete
+  - cripto
 "References:": 
 cssclasses:
 ---
@@ -49,7 +49,7 @@ Even if there is no multiplicative inverse in most cases, two properties hold, *
 For a congruence relation defined over the modulus of a prime number p. **THEN:** Every non-zero element of $\mathbb{Z}_p$ is invertible and the following properties follow: 
 + $\mathbb{Z}_p$ is a field like $(\mathbb{R}, + ,\cdot)$
 + **IF:** m = p $\cdot$ q (m is composite) **THEN:** There are divisors of zero in Zm and Zm is **a ring with divisors of zero** 
- #Duda : Divisors of zero and what the hell is a ring.
+ #duda : Divisors of zero and what the hell is a ring.
 
 ## Computation of the multiplicative inverse:
 Para obtener el inverso de un número a en $Z_n$ podemos utilizar dos técnicas:

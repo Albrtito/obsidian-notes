@@ -102,9 +102,33 @@
               "icon": "lucide-file",
               "title": "1758632448-gobuster"
             }
+          },
+          {
+            "id": "7dea0980ef264b84",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02-Atomic/1758802619-omarchy.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "1758802619-omarchy"
+            }
           }
         ],
-        "currentTab": 3,
+        "currentTab": 4,
         "stacked": true
       }
     ],
@@ -215,10 +239,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "02-Atomic/1758632448-gobuster.md"
+                "file": "02-Atomic/1758802619-omarchy.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for 1758632448-gobuster"
+              "title": "File properties for 1758802619-omarchy"
             }
           },
           {
@@ -227,7 +251,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02-Atomic/1758632448-gobuster.md",
+                "file": "02-Atomic/1758802619-omarchy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -237,7 +261,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 1758632448-gobuster"
+              "title": "Backlinks for 1758802619-omarchy"
             }
           },
           {
@@ -246,12 +270,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02-Atomic/1758632448-gobuster.md",
+                "file": "02-Atomic/1758802619-omarchy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 1758632448-gobuster"
+              "title": "Outgoing links from 1758802619-omarchy"
             }
           },
           {
@@ -280,7 +304,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02-Atomic/1758632448-gobuster.md",
+                "file": "02-Atomic/1758802619-omarchy.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -316,15 +340,14 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 1758632448-gobuster"
+              "title": "Graph of 1758802619-omarchy"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 327.5,
-    "collapsed": true
+    "width": 327.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -342,8 +365,10 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "f40f7d8fe7788be1",
+  "active": "7dea0980ef264b84",
   "lastOpenFiles": [
+    "02-Atomic/1758632448-gobuster.md",
+    "02-Atomic/1758802619-omarchy.md",
     "02-Atomic/1758737329-meansquarederrorfunction.md",
     "02-Atomic/1758734414-gradientdescent.md",
     "02-Atomic/1758649312-sumofsquarederrorfunction.md",
@@ -371,8 +396,6 @@
     "99-Meta/0. Attachments/1758644145-neuralnetworksj.png",
     "02-Atomic/1758646854-multilayerperceptron.md",
     "02-Atomic/1758646698-perceptron.md",
-    "02-Atomic/1758632757-browserarchitecture.md",
-    "02-Atomic/1758632632-owasp.md",
     "99-Meta/0. Attachments/1758632757-browserarchitecturej.png",
     "99-Meta/0. Attachments/1757764392-voronoidiagramj.png",
     "99-Meta/0. Attachments/1757409110-biasvsvariancej.png",

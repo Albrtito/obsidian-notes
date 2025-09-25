@@ -15,7 +15,22 @@ cssclasses:
 > [!example] Dictionary:
 > **margin →** the creates a margin, the space from the threshold to nearest object of a class. 
 
-+ The objective in linera separation will be to obtain the **biggest margin possible**
+The objective in linera separation will be to obtain the **biggest margin possible (IT IS ALL ABOUT THE MARGIN)**. This margins can be represented as support vectors and are given by the threshold definition. 
+
+> looking at the following example
+>![[1758819746-linearseparationj.png|center|700]]
+>
+>$$
+\begin{align}
+B1: w^Tx+ b = 0\\
+b11: w^tx+b = 1\\
+b12: w^tx+b = -1\\
+\end{align}
+$$
+>The decision then would be given by a function classifying into one class when something goes past either of the vectors. 
+>Where the vectors are defined by a line (as seen above)
+
+
 ***
 ### Up
 ### Down

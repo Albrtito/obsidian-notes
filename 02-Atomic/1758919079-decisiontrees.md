@@ -11,7 +11,7 @@ cssclasses:
 # decision trees
 > [!NOTE] Intro: 
 > One of the most widely used techniques for classification, very efficient while still being a simple concept. Can be used both for classification and regression 
-> Super nice 
+> Super nice cause it is basically a white box model
 
 
 > [!example] Dictionary:

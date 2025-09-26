@@ -126,9 +126,33 @@
               "icon": "lucide-file",
               "title": "1755599732-machinelearning"
             }
+          },
+          {
+            "id": "89f0c43d0c274686",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02-Atomic/1758916457-lineequation.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "1758916457-lineequation"
+            }
           }
         ],
-        "currentTab": 4,
+        "currentTab": 5,
         "stacked": true
       }
     ],
@@ -239,10 +263,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "02-Atomic/1755599732-machinelearning.md"
+                "file": "02-Atomic/1758916457-lineequation.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for 1755599732-machinelearning"
+              "title": "File properties for 1758916457-lineequation"
             }
           },
           {
@@ -302,7 +326,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02-Atomic/1755599732-machinelearning.md",
+                "file": "02-Atomic/1758916457-lineequation.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -338,7 +362,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 1755599732-machinelearning"
+              "title": "Graph of 1758916457-lineequation"
             }
           }
         ]
@@ -363,8 +387,11 @@
       "janitor:Janitor: scan vault": false
     }
   },
-  "active": "03ed476050e958ca",
+  "active": "89f0c43d0c274686",
   "lastOpenFiles": [
+    "02-Atomic/20240603 - 115628 - Definition -  Circumference.md",
+    "02-Atomic/1758916457-lineequation.md",
+    "02-Atomic/1755599732-machinelearning.md",
     "02-Atomic/1758732030-regression.md",
     "02-Atomic/1758644145-neuralnetworks.md",
     "02-Atomic/1758902314-pvalue.md",
@@ -393,9 +420,6 @@
     "02-Atomic/1758716908-requirements.md",
     "02-Atomic/1758716157-stakeholderregistry.md",
     "02-Atomic/1758715262-stakeholders.md",
-    "02-Atomic/1755513982-softwareprojectmanagement.md",
-    "02-Atomic/1756215731-awesomeblogs.md",
-    "02-Atomic/1757411969-boosting.md",
     "99-Meta/0. Attachments/1758644145-neuralnetworksj.png",
     "99-Meta/0. Attachments/1758632757-browserarchitecturej.png",
     "99-Meta/0. Attachments/1757764392-voronoidiagramj.png",

@@ -56,7 +56,7 @@ We’ll stop to perform gradient descend when whe have **convergence**, this mea
 Basically until the coefficients or the gradient just does not change anymore. 
 
 ## adjusting hyper-parameters: 
-The initial value for thetas as well as the learning rate can make the model go into a local mimimum or not: 
+The initial value for thetas as well as the learning rate and the number of iterations can make the model behave in different ways. These are the hyperparamets
 
 The learning rate must be tunned (is a hyperparameter).
 - if **really small** → May find a local minimun instead of a minimum 
@@ -67,6 +67,7 @@ A good solution would be to decrease the stepsize over size, once we get closer 
 
 Even with an ok learning rate we may go into a local minimum, to try not to do so we can start the algorithm with different values for theta and then compare the final points we have reached.
 
+There is also another hyperparameter based on what is introduced in the next section. The batch size for mini-batched approach. 
 ## batch vs stochastic
 while batch gradient descend uses all observations and sums them the stochastic gradient descend uses one random observation. See that when using one random observation we can drop the sum and the division by m as m is 1. 
 

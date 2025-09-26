@@ -55,10 +55,17 @@ We’ll stop to perform gradient descend when whe have **convergence**, this mea
 
 Basically until the coefficients or the gradient just does not change anymore. 
 
-## adjusting learning rate: 
+## adjusting hyper-parameters: 
+The initial value for thetas as well as the learning rate can make the model go into a local mimimum or not: 
+
 The learning rate must be tunned (is a hyperparameter).
 - if **really small** → May find a local minimun instead of a minimum 
-- if **small** → 
+- if **small** → It may take a lot to get convergence
+- **if to large** → Possible divergence
+
+A good solution would be to decrease the stepsize over size, once we get closer we can fine tune. 
+
+Even with an ok learning rate we may go into a local minimum, to try not to do so we can start the algorithm with different values for te
 ***
 ### Up
 - [[1758732030-regression|regression]]

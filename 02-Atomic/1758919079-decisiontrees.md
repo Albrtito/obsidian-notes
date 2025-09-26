@@ -46,7 +46,9 @@ Given a tree each node will not only contain the rules but also some other inter
 ![[1758919079-decisiontreesj.png|center]]
 
 - The **gini and value** properties tell us about the purity of the split and number of instances there is at the node from each class. 
-- The **** property gives us the value for the class that that node represents. 
+- The **** property gives us the value for the class that that node represents.
+
+- We can get some class probabilities based on the number of observations from each class at each leaf. So if we have 20 observations and at a leaf we have one observation of one type. Is a class probability of 1/20. This can be calculated based on the value vector shown. 
 
 ## how do we generalize this?
 
@@ -55,6 +57,13 @@ The solution is **recursive partitioning**.
 
 One value is chosen at random and several values are chosen for it. Then measure how pure the resulting portions are (measure the gini). After getting the purest split the algorithm goes for the next split. 
 
+Ok but doing this is irreal if we want to perform all the actual splits that exists in the tree. 
+With n binary attributes we have $2^{2^n}$ truth tables. 
+> 6 attributes → $10^{20}$ different trees
+
+## hyperparameters:
+
+- **minimum leave size | minimum samples split** → Minimum number of observations that need to be in each leaf after a split. So this regulates if we can split a leave 
 ***
 ### Up
 ### Down

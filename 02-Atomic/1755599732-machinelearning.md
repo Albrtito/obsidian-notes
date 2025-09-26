@@ -25,6 +25,7 @@ This is a #moc so the down part may be structured.
 
 - [[1757763078-knearestneighbor|knn classifier]]
 - [[1757766291-bayesianclassifier|bayesian classifier]]
+- [[1758919079-decisiontrees|decision trees]]
 - [[1757407129-ensemblemethods|ensemble methods]]
 - [[1758732030-regression|regression]]
 - [[1758644145-neuralnetworks|neural networks]]

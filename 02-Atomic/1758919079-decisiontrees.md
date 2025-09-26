@@ -68,12 +68,37 @@ With n binary attributes we have $2^{2^n}$ truth tables.
 - **maximum leaf nodes** → Max number of terminal nodes there can be
 - **purity function** → Function that is used to determine the purity of a split. An example is the **gini**
 
+## making splits: 
+Splits depend on the attribute type, usually for binary values we’ll do a two way split, however a **multi-way split** can also be done for variables with more than one value.
+
+
+> [!attention] Remark:
+> Never do splits on ID. DONT USE ID. 
+
+**multi-attribute variables**
+But this is not the only solution as we can also put more than one value for the variable at each of the splits. 
+However **binary splits must preserve the order of the values**
+
+> So for a variable x = {1,2,3,4} a split: 
+> - S1 → {1,2}
+> - S2 → {3,4}
+> Is possible, however the split:
+> - S1 → {1,4}
+> - S2 → {3,2}
+> Is not preserving the order and therefore is not a binary split 
 
  
+**continuous variables**
+Usually either set them into different classes or set a rule (inequality) to make it into a binary split. 
 
- 
+### impurity measurements:
+To determine the best split we must use some measurement to compare things with, we could use: 
+- [[1758924692-giniindex|gini index]]
+- entropy
+- simple missclassification error: How many  points are not classified in their class
 
 ***
 ### Up
 ### Down
+- [[1758924692-giniindex|gini index]]
 ***

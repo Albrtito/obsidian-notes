@@ -97,6 +97,11 @@ To determine the best split we must use some measurement to compare things with,
 - entropy
 - simple missclassification error: How many  points are not classified in their class
 
+This can also be done applying weights to each class, solving he problems that appear when some classes are greater than others. 
+
+We can use the missclassification as a weight. #duda → Not really getting this
+
+
 ***
 ### Up
 ### Down

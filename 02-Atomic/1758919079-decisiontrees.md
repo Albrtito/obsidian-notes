@@ -63,10 +63,18 @@ With n binary attributes we have $2^{2^n}$ truth tables.
 
 ## hyperparameters:
 - **minimum leave size | samples per split** → Minimum number of observations that need to be in each leaf after a split. So this regulates if we can split a leave or not based on the number of observations that will end up in each of the leaves.
-  - Really small leaf size can easily **overfit** to noise. So it looses generalisation.
 - **maximum depth** → How many splits can we make downwards. 
 - **maximum leaf nodes** → Max number of terminal nodes there can be
 - **purity function** → Function that is used to determine the purity of a split. An example is the **gini**
+
+### avoiding overfitting:
+
+- Ssmall leaf size can easily **overfit** to noise. So it looses generalisation.
+- Limitting the size of the tree not only with leaf size but also with the depth and number of leaf nodes 
+- reduce the number of features to choose from at each split
+- prune the tree after induction #duda → what?
+- unrelated variables lead to overfit as it is making splits that do not really make good classifications. 
+
 
 ## making splits: 
 Splits depend on the attribute type, usually for binary values we’ll do a two way split, however a **multi-way split** can also be done for variables with more than one value.

@@ -47,6 +47,18 @@ $$
 
 where:
 - $\eta$ → Applied learning rate
+
+We’ll stop to perform gradient descend when whe have **convergence**, this means one of the following comply: 
+
+- $\theta’ \simeq \theta$
+- $E(\theta’) \simeq E(\theta)$
+
+Basically until the coefficients or the gradient just does not change anymore. 
+
+## adjusting learning rate: 
+The learning rate must be tunned (is a hyperparameter).
+- if **really small** → May find a local minimun instead of a minimum 
+- if **small** → 
 ***
 ### Up
 - [[1758732030-regression|regression]]

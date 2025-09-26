@@ -78,30 +78,6 @@
               "icon": "lucide-file",
               "title": "1758734414-gradientdescent"
             }
-          },
-          {
-            "id": "99c87a1535c6434f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02-Atomic/1758896891-computingthegradientformseinregression.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "1758896891-computingthegradientformseinregression"
-            }
           }
         ],
         "currentTab": 1,
@@ -339,11 +315,12 @@
   },
   "active": "56a26a5aa2fb3cec",
   "lastOpenFiles": [
-    "99-Meta/0. Attachments/1758900858-implementingregressioninpythonwithstatsmodelsj.png",
-    "02-Atomic/1758737329-meansquarederrorfunction.md",
-    "02-Atomic/1758900858-implementingregressioninpythonwithstatsmodels.md",
     "02-Atomic/1758734414-gradientdescent.md",
     "02-Atomic/1758896891-computingthegradientformseinregression.md",
+    "02-Atomic/1758900858-implementingregressioninpythonwithstatsmodels.md",
+    "99-Meta/0. Attachments/1758900858-implementingregressioninpythonwithstatsmodelsj-1.png",
+    "99-Meta/0. Attachments/1758900858-implementingregressioninpythonwithstatsmodelsj.png",
+    "02-Atomic/1758737329-meansquarederrorfunction.md",
     "99-Meta/0. Attachments/Greek-Alphabet.png",
     "02-Atomic/1758649000-weightadjustmentinneuralnetworks.md",
     "02-Atomic/1758892749-overfittinginneuralnetworks.md",
@@ -382,8 +359,6 @@
     "00-References/20240307 - 000000 - ODEsj.",
     "99-Meta/01-Templates",
     "99-Meta/0. Attachments/Truth table of the negation connective.png",
-    "99-Meta/0. Attachments/Screenshot 2024-11-03 at 5.40.15 PM.png",
-    "99-Meta/0. Attachments/Screenshot 2024-11-03 at 5.17.05 PM.png",
     "99-Meta/0. Attachments",
     "01-Areas/2. HTB/HTB_Linux Fundamentals.canvas",
     "01 - Areas/2. HTB/HTB_Linux Fundamentals.canvas",

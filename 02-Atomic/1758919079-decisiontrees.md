@@ -11,8 +11,7 @@ cssclasses:
 # decision trees
 > [!NOTE] Intro: 
 > One of the most widely used techniques for classification, very efficient while still being a simple concept. Can be used both for classification and regression 
-> Super nice cause it is basically a white box model
-
+> Super nice cause it is a white box model
 
 
 > [!example] Dictionary:
@@ -48,6 +47,13 @@ Given a tree each node will not only contain the rules but also some other inter
 
 - The **gini and value** properties tell us about the purity of the split and number of instances there is at the node from each class. 
 - The **** property gives us the value for the class that that node represents. 
+
+## how do we generalize this?
+
+The idea is nice, buthow can we do it with a computer? Which values do we choose?
+The solution is **recursive partitioning**. 
+
+One value is chosen at random and several values are chosen for it. Then measure how pure the resulting portions are (measure the gini). After getting the purest split the algorithm goes for the next split. 
 
 ***
 ### Up

@@ -65,7 +65,17 @@ The learning rate must be tunned (is a hyperparameter).
 
 A good solution would be to decrease the stepsize over size, once we get closer we can fine tune. 
 
-Even with an ok learning rate we may go into a local minimum, to try not to do so we can start the algorithm with different values for te
+Even with an ok learning rate we may go into a local minimum, to try not to do so we can start the algorithm with different values for theta and then compare the final points we have reached.
+
+## batch vs stochastic
+while batch gradient descend uses all observations and sums them the stochastic gradient descend uses one random observation. See that when using one random observation we can drop the sum and the division by m as m is 1. 
+
+This means: 
+- Stochastic is really faster as it only uses one observation. 
+- Stochastic is also noisier. There is no averaging. 
+- Usually the stochastic is more used
+
+We can take a mix of both ideas using **mini-batch gradient descend**. Just taking some small part of the data. 
 ***
 ### Up
 - [[1758732030-regression|regression]]

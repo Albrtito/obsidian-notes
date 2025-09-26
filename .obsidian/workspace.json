@@ -35,24 +35,10 @@
             "id": "56a26a5aa2fb3cec",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02-Atomic/1758821790-suportvectormachine.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "1758821790-suportvectormachine"
+              "title": "New tab"
             }
           },
           {
@@ -177,11 +163,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "02-Atomic/1758821790-suportvectormachine.md"
-              },
+              "state": {},
               "icon": "lucide-info",
-              "title": "File properties for 1758821790-suportvectormachine"
+              "title": "File properties"
             }
           },
           {
@@ -190,7 +174,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02-Atomic/1758821790-suportvectormachine.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -200,7 +183,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 1758821790-suportvectormachine"
+              "title": "Backlinks"
             }
           },
           {
@@ -209,12 +192,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02-Atomic/1758821790-suportvectormachine.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 1758821790-suportvectormachine"
+              "title": "Outgoing links"
             }
           },
           {
@@ -243,7 +225,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02-Atomic/1758821790-suportvectormachine.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -279,7 +260,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 1758821790-suportvectormachine"
+              "title": "Graph view"
             }
           }
         ]
@@ -307,8 +288,9 @@
   },
   "active": "56a26a5aa2fb3cec",
   "lastOpenFiles": [
-    "99-Meta/0. Attachments/Greek-Alphabet.png",
+    "02-Atomic/1758644145-neuralnetworks.md",
     "02-Atomic/1758821790-suportvectormachine.md",
+    "99-Meta/0. Attachments/Greek-Alphabet.png",
     "02-Atomic/1758819746-linearseparation.md",
     "99-Meta/0. Attachments/1758819746-linearseparationj.png",
     "02-Atomic/1758649312-sumofsquarederrorfunction.md",
@@ -318,7 +300,6 @@
     "02-Atomic/1758632448-gobuster.md",
     "02-Atomic/1758802619-omarchy.md",
     "02-Atomic/1758649000-weightadjustmentinneuralnetworks.md",
-    "02-Atomic/1758644145-neuralnetworks.md",
     "02-Atomic/1758656696-gradientboosting.md",
     "99-Meta/0. Attachments/1758734414-gradientdescentj.png",
     "02-Atomic/1746718627-is-housing.md",

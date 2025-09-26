@@ -25,7 +25,8 @@ Xconst = sm-add_constant(Xnorm)
 model = sm.OLS(y,Xconst).fit()
 ```
 
-3. Getting the model info:
+
+## analysis of results
 ```python
 summary = model.summary()
 print(summary)
@@ -35,13 +36,17 @@ The structure of this summary is the following
 
 ![[1758900858-implementingregressioninpythonwithstatsmodelsj-1.png|center]]
 
+**model coefficients:**
 The model coefficients here is one of the most important part. 
 - The first column “**coef**” will giveo uot the solutions for the model, the actual thetas
 - **std err** → Estandar error of the result
 - **Last three columns** → The distribution of the errors. Probability of it being between the given percentails (two last values)
-
+- **P value** →  Is the coefficient of each value important enough? We care about this because we may get a value diff than 0 but that takes no importance really in the model, so it could be deleted. The P value is the probability of this happening. 
+  
 
 ***
 ### Up
+- [[1758732030-regression|regression]]
 ### Down
++ [[1758902314-pvalue|p value]]
 ***

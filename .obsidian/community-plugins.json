@@ -1,5 +1,4 @@
 [
-  "obsidian-spaced-repetition",
   "templater-obsidian",
   "omnisearch",
   "obsidian-smart-typography",
@@ -8,7 +7,6 @@
   "obsidian-style-settings",
   "obsidian-git",
   "no-dupe-leaves",
-  "obsidian-footnotes",
   "obsidian-paste-image-rename",
   "janitor",
   "tag-wrangler"

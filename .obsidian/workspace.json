@@ -35,26 +35,52 @@
             "id": "56a26a5aa2fb3cec",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "02-Atomic/1758646854-multilayerperceptron.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "1758646854-multilayerperceptron"
             }
           },
           {
-            "id": "081f4757bc1b343a",
+            "id": "39bce4d256d50db6",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "99-Meta/0. Attachments/Greek-Alphabet.png"
+                "file": "02-Atomic/1758646698-perceptron.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "lucide-image",
-              "title": "Greek-Alphabet"
+              "icon": "lucide-file",
+              "title": "1758646698-perceptron"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -273,25 +299,29 @@
   "left-ribbon": {
     "hiddenItems": {
       "bases:Create new base": false,
-      "janitor:Janitor: scan vault": false,
       "zk-prefixer:Create new unique note": true,
       "switcher:Open quick switcher": true,
       "canvas:Create new canvas": true,
       "templates:Insert template": true,
       "command-palette:Open command palette": true,
-      "obsidian-spaced-repetition:Review flashcards": true,
-      "templater-obsidian:Templater": true,
-      "omnisearch:Omnisearch": false,
       "graph:Open graph view": false,
-      "workspaces:Manage workspace layouts": false
+      "workspaces:Manage workspace layouts": false,
+      "obsidian-spaced-repetition:Review flashcards": false,
+      "templater-obsidian:Templater": false,
+      "omnisearch:Omnisearch": false,
+      "janitor:Janitor: scan vault": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "56a26a5aa2fb3cec",
+  "active": "39bce4d256d50db6",
   "lastOpenFiles": [
+    "02-Atomic/1758646854-multilayerperceptron.md",
+    "02-Atomic/1758819746-linearseparation.md",
+    "02-Atomic/1758646698-perceptron.md",
+    "02-Atomic/1758647070-neuron.md",
+    "99-Meta/0. Attachments/Greek-Alphabet.png",
     "02-Atomic/1758644145-neuralnetworks.md",
     "02-Atomic/1758821790-suportvectormachine.md",
-    "99-Meta/0. Attachments/Greek-Alphabet.png",
-    "02-Atomic/1758819746-linearseparation.md",
     "99-Meta/0. Attachments/1758819746-linearseparationj.png",
     "02-Atomic/1758649312-sumofsquarederrorfunction.md",
     "02-Atomic/1758732030-regression.md",
@@ -314,8 +344,6 @@
     "02-Atomic/1758651868-hyperparameter.md",
     "02-Atomic/1757766291-bayesianclassifier.md",
     "02-Atomic/1757763078-knearestneighbor.md",
-    "02-Atomic/1757411573-randomforest.md",
-    "02-Atomic/1757407129-ensemblemethods.md",
     "99-Meta/0. Attachments/1758644145-neuralnetworksj.png",
     "99-Meta/0. Attachments/1758632757-browserarchitecturej.png",
     "99-Meta/0. Attachments/1757764392-voronoidiagramj.png",

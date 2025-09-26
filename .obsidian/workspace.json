@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "c9a840361faa5ff1",
+        "id": "3c6ced4f40758ea6",
         "type": "tabs",
         "children": [
           {
-            "id": "8863cfdb6da312cd",
+            "id": "0171f145f8f70a4d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-Atomic/1758732030-regression.md",
+                "file": "02-Atomic/1758919079-decisiontrees.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,131 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "1758732030-regression"
-            }
-          },
-          {
-            "id": "56a26a5aa2fb3cec",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02-Atomic/1758900858-implementingregressioninpythonwithstatsmodels.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "1758900858-implementingregressioninpythonwithstatsmodels"
-            }
-          },
-          {
-            "id": "39bce4d256d50db6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02-Atomic/1758734414-gradientdescent.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "1758734414-gradientdescent"
-            }
-          },
-          {
-            "id": "9683bb76396f551a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02-Atomic/1758902314-pvalue.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "1758902314-pvalue"
-            }
-          },
-          {
-            "id": "03ed476050e958ca",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02-Atomic/1755599732-machinelearning.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "1755599732-machinelearning"
-            }
-          },
-          {
-            "id": "89f0c43d0c274686",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02-Atomic/1758916457-lineequation.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "1758916457-lineequation"
+              "title": "1758919079-decisiontrees"
             }
           }
         ],
-        "currentTab": 5,
         "stacked": true
       }
     ],
@@ -175,7 +54,7 @@
                 "query": "tag:#ms",
                 "matchingCase": false,
                 "explainSearch": false,
-                "collapseAll": true,
+                "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               },
@@ -242,12 +121,11 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 251.5,
-    "collapsed": true
+    "width": 251.5
   },
   "right": {
     "id": "8881aa8c79e29157",
@@ -263,55 +141,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "02-Atomic/1758916457-lineequation.md"
+                "file": "02-Atomic/1758919079-decisiontrees.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for 1758916457-lineequation"
-            }
-          },
-          {
-            "id": "64a0e7c11497b635",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "Backlinks"
-            }
-          },
-          {
-            "id": "45e1fcf413d9759e",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "Outgoing links"
-            }
-          },
-          {
-            "id": "64626440f4cf469d",
-            "type": "leaf",
-            "state": {
-              "type": "all-properties",
-              "state": {
-                "sortOrder": "frequency",
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-archive",
-              "title": "All properties"
+              "title": "File properties for 1758919079-decisiontrees"
             }
           }
         ]
@@ -326,7 +159,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02-Atomic/1758916457-lineequation.md",
+                "file": "02-Atomic/1758919079-decisiontrees.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -362,7 +195,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 1758916457-lineequation"
+              "title": "Graph of 1758919079-decisiontrees"
             }
           }
         ]
@@ -373,30 +206,32 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
       "bases:Create new base": false,
+      "janitor:Janitor: scan vault": false,
       "zk-prefixer:Create new unique note": true,
       "switcher:Open quick switcher": true,
       "canvas:Create new canvas": true,
       "templates:Insert template": true,
       "command-palette:Open command palette": true,
-      "graph:Open graph view": false,
-      "workspaces:Manage workspace layouts": false,
-      "templater-obsidian:Templater": false,
+      "templater-obsidian:Templater": true,
       "omnisearch:Omnisearch": false,
-      "obsidian-git:Open Git source control": false,
-      "janitor:Janitor: scan vault": false
+      "graph:Open graph view": false,
+      "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "89f0c43d0c274686",
+  "active": "b89f836cb1d8a8cd",
   "lastOpenFiles": [
-    "02-Atomic/20240603 - 115628 - Definition -  Circumference.md",
-    "02-Atomic/1758916457-lineequation.md",
-    "02-Atomic/1755599732-machinelearning.md",
+    "02-Atomic/1758919079-decisiontrees.md",
+    "02-Atomic/1758649312-sumofsquarederrorfunction.md",
     "02-Atomic/1758732030-regression.md",
+    "02-Atomic/1758734414-gradientdescent.md",
+    "02-Atomic/1758916457-lineequation.md",
+    "02-Atomic/20240603 - 115628 - Definition -  Circumference.md",
+    "02-Atomic/1755599732-machinelearning.md",
     "02-Atomic/1758644145-neuralnetworks.md",
     "02-Atomic/1758902314-pvalue.md",
     "02-Atomic/1758900858-implementingregressioninpythonwithstatsmodels.md",
-    "02-Atomic/1758734414-gradientdescent.md",
     "02-Atomic/1758896891-computingthegradientformseinregression.md",
     "99-Meta/0. Attachments/1758900858-implementingregressioninpythonwithstatsmodelsj-1.png",
     "99-Meta/0. Attachments/1758900858-implementingregressioninpythonwithstatsmodelsj.png",
@@ -410,7 +245,6 @@
     "02-Atomic/1758647070-neuron.md",
     "02-Atomic/1758821790-suportvectormachine.md",
     "99-Meta/0. Attachments/1758819746-linearseparationj.png",
-    "02-Atomic/1758649312-sumofsquarederrorfunction.md",
     "02-Atomic/1758632448-gobuster.md",
     "02-Atomic/1758802619-omarchy.md",
     "02-Atomic/1758656696-gradientboosting.md",
@@ -419,7 +253,6 @@
     "02-Atomic/1758717121-functionalrequirements.md",
     "02-Atomic/1758716908-requirements.md",
     "02-Atomic/1758716157-stakeholderregistry.md",
-    "02-Atomic/1758715262-stakeholders.md",
     "99-Meta/0. Attachments/1758644145-neuralnetworksj.png",
     "99-Meta/0. Attachments/1758632757-browserarchitecturej.png",
     "99-Meta/0. Attachments/1757764392-voronoidiagramj.png",

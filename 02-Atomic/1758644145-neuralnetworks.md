@@ -33,7 +33,7 @@ cssclasses:
 >   $$
 >   >$a^{(1)}_{2}$: Activation vector 2 for layer 1
 
-## math:
+## model definition:
 Now how do we define this all mathematically, we know how to define a neuron: 
 $$
 \hat y = \phi(\sum_{i=0}^m w_ix_i)

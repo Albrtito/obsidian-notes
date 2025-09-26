@@ -22,7 +22,7 @@ cssclasses:
 
 > [!example] Dictionary 
 >+ Uses the **gradient** $\nabla E(\theta)$ where $E(\theta)$ will be the cost function. 
->	+ **remember:** During the ms course the cost funciton will be the [[1758649312-sumofsquarederrorfunction|SSE]]
+>	+ **remember:** During the ms course the cost funciton will be the [[1758737329-meansquarederrorfunction|MSE]]
 >
 >The gradient is defined by the partial derivatives of the cost function over the thetas.
 >$$

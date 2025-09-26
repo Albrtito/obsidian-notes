@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-Atomic/1758644145-neuralnetworks.md",
+                "file": "02-Atomic/1758732030-regression.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "1758644145-neuralnetworks"
+              "title": "1758732030-regression"
             }
           },
           {
@@ -102,9 +102,33 @@
               "icon": "lucide-file",
               "title": "1758902314-pvalue"
             }
+          },
+          {
+            "id": "03ed476050e958ca",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02-Atomic/1755599732-machinelearning.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "1755599732-machinelearning"
+            }
           }
         ],
-        "currentTab": 1,
+        "currentTab": 4,
         "stacked": true
       }
     ],
@@ -214,9 +238,11 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {},
+              "state": {
+                "file": "02-Atomic/1755599732-machinelearning.md"
+              },
               "icon": "lucide-info",
-              "title": "File properties"
+              "title": "File properties for 1755599732-machinelearning"
             }
           },
           {
@@ -276,6 +302,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "02-Atomic/1755599732-machinelearning.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -311,15 +338,14 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Graph of 1755599732-machinelearning"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 327.5,
-    "collapsed": true
+    "width": 327.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -337,8 +363,10 @@
       "janitor:Janitor: scan vault": false
     }
   },
-  "active": "56a26a5aa2fb3cec",
+  "active": "03ed476050e958ca",
   "lastOpenFiles": [
+    "02-Atomic/1758732030-regression.md",
+    "02-Atomic/1758644145-neuralnetworks.md",
     "02-Atomic/1758902314-pvalue.md",
     "02-Atomic/1758900858-implementingregressioninpythonwithstatsmodels.md",
     "02-Atomic/1758734414-gradientdescent.md",
@@ -349,9 +377,7 @@
     "99-Meta/0. Attachments/Greek-Alphabet.png",
     "02-Atomic/1758649000-weightadjustmentinneuralnetworks.md",
     "02-Atomic/1758892749-overfittinginneuralnetworks.md",
-    "02-Atomic/1758644145-neuralnetworks.md",
     "02-Atomic/1758819746-linearseparation.md",
-    "02-Atomic/1758732030-regression.md",
     "02-Atomic/1758646854-multilayerperceptron.md",
     "02-Atomic/1758646698-perceptron.md",
     "02-Atomic/1758647070-neuron.md",

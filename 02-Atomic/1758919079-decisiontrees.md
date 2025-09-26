@@ -14,6 +14,7 @@ cssclasses:
 > Super nice cause it is basically a white box model
 
 
+
 > [!example] Dictionary:
 > - **CART** → Classification And Regression Tree
 > - **root node** → The initial node, parent to any other note

@@ -42,34 +42,20 @@
     "type": "split",
     "children": [
       {
-        "id": "662098e0d908b3e6",
+        "id": "58df4aacae10cbd8",
         "type": "tabs",
         "children": [
           {
-            "id": "e20381e16f6b383e",
+            "id": "b89f836cb1d8a8cd",
             "type": "leaf",
             "state": {
-              "type": "search",
+              "type": "file-explorer",
               "state": {
-                "query": "tag:#ms",
-                "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
-              "icon": "lucide-search",
-              "title": "Search"
-            }
-          },
-          {
-            "id": "6c93d2f05ba80b2d",
-            "type": "leaf",
-            "state": {
-              "type": "bookmarks",
-              "state": {},
-              "icon": "lucide-bookmark",
-              "title": "Bookmarks"
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           }
         ]
@@ -84,25 +70,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "02-Atomic/1758919079-decisiontrees.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
-            }
-          },
-          {
-            "id": "b89f836cb1d8a8cd",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical",
-                "autoReveal": false
-              },
-              "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "Outline of 1758919079-decisiontrees"
             }
           },
           {
@@ -119,13 +93,30 @@
               "icon": "lucide-tags",
               "title": "Tags"
             }
+          },
+          {
+            "id": "e20381e16f6b383e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#ms",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 251.5
+    "width": 251.5,
+    "collapsed": true
   },
   "right": {
     "id": "8881aa8c79e29157",
@@ -202,7 +193,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 327.5
+    "width": 327.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -220,7 +212,7 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "b89f836cb1d8a8cd",
+  "active": "0171f145f8f70a4d",
   "lastOpenFiles": [
     "02-Atomic/1758919079-decisiontrees.md",
     "02-Atomic/1758649312-sumofsquarederrorfunction.md",

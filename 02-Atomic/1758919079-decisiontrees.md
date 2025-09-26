@@ -99,6 +99,7 @@ However **binary splits must preserve the order of the values**
 **continuous variables**
 Usually either set them into different classes or set a rule (inequality) to make it into a binary split. 
 
+#duda → But are multi-way splits done with one variable that hass several possible values or several and having all posibilities?
 ### impurity measurements:
 To determine the best split we must use some measurement to compare things with, we could use: 
 - [[1758924692-giniindex|gini index]]

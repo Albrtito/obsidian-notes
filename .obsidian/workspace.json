@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-Atomic/1758737329-meansquarederrorfunction.md",
+                "file": "02-Atomic/1758900858-implementingregressioninpythonwithstatsmodels.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "1758737329-meansquarederrorfunction"
+              "title": "1758900858-implementingregressioninpythonwithstatsmodels"
             }
           },
           {
@@ -104,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 2,
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -337,12 +337,14 @@
       "janitor:Janitor: scan vault": false
     }
   },
-  "active": "39bce4d256d50db6",
+  "active": "56a26a5aa2fb3cec",
   "lastOpenFiles": [
+    "99-Meta/0. Attachments/1758900858-implementingregressioninpythonwithstatsmodelsj.png",
+    "02-Atomic/1758737329-meansquarederrorfunction.md",
+    "02-Atomic/1758900858-implementingregressioninpythonwithstatsmodels.md",
+    "02-Atomic/1758734414-gradientdescent.md",
     "02-Atomic/1758896891-computingthegradientformseinregression.md",
     "99-Meta/0. Attachments/Greek-Alphabet.png",
-    "02-Atomic/1758734414-gradientdescent.md",
-    "02-Atomic/1758737329-meansquarederrorfunction.md",
     "02-Atomic/1758649000-weightadjustmentinneuralnetworks.md",
     "02-Atomic/1758892749-overfittinginneuralnetworks.md",
     "02-Atomic/1758644145-neuralnetworks.md",
@@ -366,7 +368,6 @@
     "02-Atomic/1755513982-softwareprojectmanagement.md",
     "02-Atomic/1756215731-awesomeblogs.md",
     "02-Atomic/1757411969-boosting.md",
-    "02-Atomic/1755599732-machinelearning.md",
     "99-Meta/0. Attachments/1758644145-neuralnetworksj.png",
     "99-Meta/0. Attachments/1758632757-browserarchitecturej.png",
     "99-Meta/0. Attachments/1757764392-voronoidiagramj.png",

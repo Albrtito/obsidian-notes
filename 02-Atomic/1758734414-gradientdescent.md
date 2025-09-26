@@ -36,8 +36,17 @@ cssclasses:
 >\right]
 >$$
 
-## computing the gradient for MSE:
+Once we know a gradient for some coefficients we will know whether the slope is positive or negative at that point and how steep it is. Based no it we can know that: 
+- If we have a positive slope (**positive gradient**) we have to **decrease the coefficients**
+- If we have a negative slope (**negative gradient**) we need to **increase the coefficients**
 
+This update of the coefficients is described in the following way:
+$$
+\theta^{t+1} = \theta^t - \eta \times \nabla_\theta E(\theta)
+$$
+
+where:
+- $\eta$ → Applied learning rate
 ***
 ### Up
 - [[1758732030-regression|regression]]

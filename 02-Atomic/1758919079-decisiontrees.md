@@ -62,8 +62,17 @@ With n binary attributes we have $2^{2^n}$ truth tables.
 > 6 attributes → $10^{20}$ different trees
 
 ## hyperparameters:
+- **minimum leave size | samples per split** → Minimum number of observations that need to be in each leaf after a split. So this regulates if we can split a leave or not based on the number of observations that will end up in each of the leaves.
+  - Really small leaf size can easily **overfit** to noise. So it looses generalisation.
+- **maximum depth** → How many splits can we make downwards. 
+- **maximum leaf nodes** → Max number of terminal nodes there can be
+- **purity function** → Function that is used to determine the purity of a split. An example is the **gini**
 
-- **minimum leave size | minimum samples split** → Minimum number of observations that need to be in each leaf after a split. So this regulates if we can split a leave 
+
+ 
+
+ 
+
 ***
 ### Up
 ### Down

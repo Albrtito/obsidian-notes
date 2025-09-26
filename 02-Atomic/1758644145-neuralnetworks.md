@@ -89,5 +89,6 @@ The hyperparameters of a neural network are **not the weights, as those are just
 - [[1758647070-neuron|neuron]]
 ### Down
 - [[1758649000-weightadjustmentinneuralnetworks|weight adjustment in neural networks]]
+- [[1758892749-overfittinginneuralnetworks|overfitting in neural networks]]
 - [[1758651868-hyperparameter|hyperparameter]] 
 ***

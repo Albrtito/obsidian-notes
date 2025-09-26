@@ -36,9 +36,11 @@ cssclasses:
 >\right]
 >$$
 
+## computing the gradient for MSE:
 
 ***
 ### Up
 - [[1758732030-regression|regression]]
 ### Down
+- [[1758737329-meansquarederrorfunction|MSE]]
 ***

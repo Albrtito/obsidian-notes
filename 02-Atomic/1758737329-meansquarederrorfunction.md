@@ -12,6 +12,9 @@ cssclasses:
 > [!NOTE] Intro: 
 > 
 
+$$
+E() = \frac{1}{m}\sum^m_{i=1}(\hat y^{(i)}-y^{(i)})^2
+$$
 ***
 ### Up
 ### Down

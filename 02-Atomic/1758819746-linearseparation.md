@@ -17,6 +17,7 @@ cssclasses:
 
 The objective in linera separation will be to obtain the **biggest margin possible (IT IS ALL ABOUT THE MARGIN)**. This margins can be represented as support vectors and are given by the threshold definition. 
 
+
 > looking at the following example in 2D
 >![[1758819746-linearseparationj.png|center|700]]
 

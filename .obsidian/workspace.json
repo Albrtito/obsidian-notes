@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-Atomic/1758819746-linearseparation.md",
+                "file": "02-Atomic/1758644145-neuralnetworks.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "1758819746-linearseparation"
+              "title": "1758644145-neuralnetworks"
             }
           },
           {
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-Atomic/1758649000-weightadjustmentinneuralnetworks.md",
+                "file": "02-Atomic/1758737329-meansquarederrorfunction.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "1758649000-weightadjustmentinneuralnetworks"
+              "title": "1758737329-meansquarederrorfunction"
             }
           },
           {
@@ -80,12 +80,12 @@
             }
           },
           {
-            "id": "98522373f23c1e5e",
+            "id": "99c87a1535c6434f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-Atomic/1758892749-overfittinginneuralnetworks.md",
+                "file": "02-Atomic/1758896891-computingthegradientformseinregression.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -100,7 +100,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "1758892749-overfittinginneuralnetworks"
+              "title": "1758896891-computingthegradientformseinregression"
             }
           }
         ],
@@ -337,22 +337,23 @@
       "janitor:Janitor: scan vault": false
     }
   },
-  "active": "98522373f23c1e5e",
+  "active": "99c87a1535c6434f",
   "lastOpenFiles": [
-    "02-Atomic/1758892749-overfittinginneuralnetworks.md",
+    "02-Atomic/1758734414-gradientdescent.md",
+    "02-Atomic/1758896891-computingthegradientformseinregression.md",
+    "02-Atomic/1758737329-meansquarederrorfunction.md",
     "02-Atomic/1758649000-weightadjustmentinneuralnetworks.md",
+    "02-Atomic/1758892749-overfittinginneuralnetworks.md",
     "02-Atomic/1758644145-neuralnetworks.md",
+    "02-Atomic/1758819746-linearseparation.md",
     "02-Atomic/1758732030-regression.md",
     "02-Atomic/1758646854-multilayerperceptron.md",
-    "02-Atomic/1758734414-gradientdescent.md",
     "02-Atomic/1758646698-perceptron.md",
-    "02-Atomic/1758819746-linearseparation.md",
     "02-Atomic/1758647070-neuron.md",
     "99-Meta/0. Attachments/Greek-Alphabet.png",
     "02-Atomic/1758821790-suportvectormachine.md",
     "99-Meta/0. Attachments/1758819746-linearseparationj.png",
     "02-Atomic/1758649312-sumofsquarederrorfunction.md",
-    "02-Atomic/1758737329-meansquarederrorfunction.md",
     "02-Atomic/1758632448-gobuster.md",
     "02-Atomic/1758802619-omarchy.md",
     "02-Atomic/1758656696-gradientboosting.md",
@@ -367,7 +368,6 @@
     "02-Atomic/1757411969-boosting.md",
     "02-Atomic/1755599732-machinelearning.md",
     "02-Atomic/1758651868-hyperparameter.md",
-    "02-Atomic/1757766291-bayesianclassifier.md",
     "99-Meta/0. Attachments/1758644145-neuralnetworksj.png",
     "99-Meta/0. Attachments/1758632757-browserarchitecturej.png",
     "99-Meta/0. Attachments/1757764392-voronoidiagramj.png",

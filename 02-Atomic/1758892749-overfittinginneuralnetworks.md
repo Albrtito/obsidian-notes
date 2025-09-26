@@ -24,5 +24,6 @@ Based on the question of the ms course and the solution by claude.
 ### Up
 - [[1758644145-neuralnetworks|neural networks]]
 ### Down
++ [[1756374614-overfittingandunderfitting|overfitting and underfitting]]
 
 ***

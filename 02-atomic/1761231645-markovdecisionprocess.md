@@ -49,5 +49,5 @@ $$
 ***
 ### Up
 ### Down
-- [[1761237890-policyselection|policy selection]]
+- [[1761237890-mdppolicy|policy selection]]
 ***

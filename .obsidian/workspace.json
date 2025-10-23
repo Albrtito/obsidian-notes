@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-atomic/1761237890-policyselection.md",
+                "file": "02-atomic/1761237890-mdppolicy.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,16 +52,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "1761237890-policyselection"
+              "title": "1761237890-mdppolicy"
             }
           },
           {
-            "id": "6cab834060abb757",
+            "id": "49e02fc309cfb775",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-atomic/1761239003-returnvsrewardinreinforcementlearning.md",
+                "file": "02-atomic/1761249418-valuefunctioninmdp.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,31 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "1761239003-returnvsrewardinreinforcementlearning"
-            }
-          },
-          {
-            "id": "5b541ef4b1193ecf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02-atomic/1761239355-episodicvscontinuingtasks.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "1761239355-episodicvscontinuingtasks"
+              "title": "1761249418-valuefunctioninmdp"
             }
           }
         ],
@@ -125,13 +101,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02-atomic/1761239003-returnvsrewardinreinforcementlearning.md",
+                "file": "02-atomic/1761249418-valuefunctioninmdp.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 1761239003-returnvsrewardinreinforcementlearning"
+              "title": "Outline of 1761249418-valuefunctioninmdp"
             }
           },
           {
@@ -232,10 +208,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "02-atomic/1761239003-returnvsrewardinreinforcementlearning.md"
+                "file": "02-atomic/1761249418-valuefunctioninmdp.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for 1761239003-returnvsrewardinreinforcementlearning"
+              "title": "File properties for 1761249418-valuefunctioninmdp"
             }
           },
           {
@@ -244,7 +220,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02-atomic/1761239003-returnvsrewardinreinforcementlearning.md",
+                "file": "02-atomic/1761249418-valuefunctioninmdp.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -254,7 +230,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 1761239003-returnvsrewardinreinforcementlearning"
+              "title": "Backlinks for 1761249418-valuefunctioninmdp"
             }
           },
           {
@@ -263,12 +239,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02-atomic/1761239003-returnvsrewardinreinforcementlearning.md",
+                "file": "02-atomic/1761249418-valuefunctioninmdp.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 1761239003-returnvsrewardinreinforcementlearning"
+              "title": "Outgoing links from 1761249418-valuefunctioninmdp"
             }
           },
           {
@@ -297,7 +273,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02-atomic/1761239003-returnvsrewardinreinforcementlearning.md",
+                "file": "02-atomic/1761249418-valuefunctioninmdp.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -333,15 +309,14 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 1761239003-returnvsrewardinreinforcementlearning"
+              "title": "Graph of 1761249418-valuefunctioninmdp"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 327.5,
-    "collapsed": true
+    "width": 327.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -357,11 +332,13 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "6cab834060abb757",
+  "active": "c9b8c954f3301011",
   "lastOpenFiles": [
-    "02-atomic/1760048595-log.md",
+    "02-atomic/1761237890-mdppolicy.md",
+    "02-atomic/1761249418-valuefunctioninmdp.md",
     "02-atomic/1761239003-returnvsrewardinreinforcementlearning.md",
     "02-atomic/1761239355-episodicvscontinuingtasks.md",
+    "02-atomic/1760048595-log.md",
     "99-meta/01-templ/noteTemplate.md",
     "02-atomic/1728381283 - Complejidad lineal de una serie cifrante - Untitled Suffix.md",
     "02-atomic/1728380472 - Postulados de Golomb.md",
@@ -383,8 +360,6 @@
     "02-atomic/1728038869 - Transport network layer.md",
     "02-atomic/1728037357 - DNS.md",
     "02-atomic/1728027800 - Network congestion.md",
-    "02-atomic/1727969678 - MathProg.md",
-    "02-atomic/1727969475 - Practica - Primera practica Heuristica.md",
     "01-areas/2. HTB/HTB_Linux Fundamentals.canvas",
     "01-areas/3.Scout",
     "01-areas/2. HTB",

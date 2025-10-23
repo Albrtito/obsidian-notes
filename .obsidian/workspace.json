@@ -102,33 +102,9 @@
               "icon": "lucide-file",
               "title": "1761239355-episodicvscontinuingtasks"
             }
-          },
-          {
-            "id": "d19f78a15a2baf61",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "99-meta/01-templ/noteTemplate.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "noteTemplate"
-            }
           }
         ],
-        "currentTab": 4,
+        "currentTab": 3,
         "stacked": true
       }
     ],
@@ -149,13 +125,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02-atomic/1760048595-log.md",
+                "file": "02-atomic/1761239355-episodicvscontinuingtasks.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 1760048595-log"
+              "title": "Outline of 1761239355-episodicvscontinuingtasks"
             }
           },
           {
@@ -254,10 +230,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "02-atomic/1760048595-log.md"
+                "file": "02-atomic/1761239355-episodicvscontinuingtasks.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for 1760048595-log"
+              "title": "File properties for 1761239355-episodicvscontinuingtasks"
             }
           },
           {
@@ -266,7 +242,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02-atomic/1760048595-log.md",
+                "file": "02-atomic/1761239355-episodicvscontinuingtasks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -276,7 +252,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 1760048595-log"
+              "title": "Backlinks for 1761239355-episodicvscontinuingtasks"
             }
           },
           {
@@ -285,12 +261,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02-atomic/1760048595-log.md",
+                "file": "02-atomic/1761239355-episodicvscontinuingtasks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 1760048595-log"
+              "title": "Outgoing links from 1761239355-episodicvscontinuingtasks"
             }
           },
           {
@@ -319,7 +295,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02-atomic/1760048595-log.md",
+                "file": "02-atomic/1761239355-episodicvscontinuingtasks.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -355,7 +331,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 1760048595-log"
+              "title": "Graph of 1761239355-episodicvscontinuingtasks"
             }
           }
         ]
@@ -379,28 +355,44 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "f07e4f94d84abbbc",
+  "active": "5b541ef4b1193ecf",
   "lastOpenFiles": [
     "99-meta/01-templ/noteTemplate.md",
-    "02-atomic/1761247457-anotherfile.md",
-    "02-atomic/1761247401-nothasdfasdflk.md",
-    "02-atomic/1761247367-anothertestnotes0q.md",
-    "02-atomic/1761247334-newtestnote.md",
-    "02-atomic/1761239003-returnvsrewardinreinforcementlearning.md",
-    "99-meta/02-scripts/Dudas/dudas-heuri.md",
-    "02-atomic/1761239355-episodicvscontinuingtasks.md",
-    "02-atomic/1761246967.md",
-    "02-atomic/1761246925.md",
-    "02-atomic/1761246909.md",
-    "02-atomic/1761246873.md",
     "02-atomic/1760048595-log.md",
+    "02-atomic/1728381283 - Complejidad lineal de una serie cifrante - Untitled Suffix.md",
+    "02-atomic/1728380472 - Postulados de Golomb.md",
+    "02-atomic/1728380111 - Generacion de series pseudoaleatorias.md",
+    "02-atomic/1728377926 - Timeout estimations TCP.md",
+    "02-atomic/1728317931 - Valor actual neto de una inversión.md",
+    "02-atomic/1728316833-elvalordeldineroeneltiempo.md",
+    "02-atomic/1728313952 - Fuentes de financiación externas a corto plazo.md",
+    "02-atomic/1728309909 - MAC.md",
+    "02-atomic/1728309728 - Autenticacion de mensajes.md",
+    "02-atomic/1728309243 - Algorithm - SHA.md",
+    "02-atomic/1728308824 - Algorithm - MD5.md",
+    "02-atomic/1728307154 - Funciones hash.md",
+    "02-atomic/1728048290 - Proyecto de criptografía UC3M.md",
+    "02-atomic/1728047794 - Ejemplos SIMPLEX.md",
+    "02-atomic/1728044996 - Closing a TCP connection.md",
+    "02-atomic/1728044151 - Network flow control.md",
+    "02-atomic/1728042156 - The three way handshake.md",
+    "02-atomic/1728038869 - Transport network layer.md",
+    "02-atomic/1728037357 - DNS.md",
+    "02-atomic/1728027800 - Network congestion.md",
+    "02-atomic/1727969678 - MathProg.md",
+    "02-atomic/1727969475 - Practica - Primera practica Heuristica.md",
+    "02-atomic/1727968107 - Expresiones condicionales en programación lineal.md",
+    "02-atomic/1727888867 - Movilidad en Canada.md",
+    "01-areas/2. HTB/HTB_Linux Fundamentals.canvas",
+    "01-areas/3.Scout",
+    "01-areas/2. HTB",
+    "01-areas/1.UC3M",
+    "01-areas",
+    "1760048595-logj.",
     "99-meta/03-snippets/Center_Images.css",
     "99-meta/03-snippets/theme.css",
-    "02-atomic/1761237890-policyselection.md",
-    "99-meta/02-scripts/Dudas/Dudas-Empresa.md",
     "99-meta/00-attach/Truth table of the negation connective.png",
     "99-meta/00-attach/greekalphabet.png",
-    "99-meta/00-attach/Unit 1 1 Stacks TAD cd4c18e3e5cd42fbae907146da33d417.md",
     "99-meta/00-attach/Screenshot 2024-11-03 at 5.40.15 PM.png",
     "99-meta/00-attach/Screenshot 2024-11-03 at 5.17.05 PM.png",
     "99-meta/00-attach/Screenshot 2024-11-03 at 10.09.35 AM.png",
@@ -412,22 +404,6 @@
     "99-meta/02-scripts/buscar_dudas.py",
     "99-meta/02-scripts/Dudas",
     "99-meta/03-snippets",
-    "99-meta/02-scripts",
-    "99-meta/01-templ",
-    "99-meta/00-attach",
-    "99-meta",
-    "99-Meta/03-snippets",
-    "02-atomic/1728316833-elvalordeldineroeneltiempo.md",
-    "02-atomic/1761231645-markovdecisionprocess.md",
-    "02-atomic/1761231923-curseofdimensionality.md",
-    "02-atomic/1760053461-quickrefme.md",
-    "02-atomic/1761179931-changingtolazyvim.md",
-    "02-atomic/1756215731-awesomeblogs.md",
-    "02-atomic/1761179757-lazyvim.md",
-    "99-Meta/01-templ/noteTemplate.md",
-    "02-atomic/1755599732-machinelearning.md",
-    "02-atomic/1761178169-nvim.md",
-    "01-areas/2. HTB/HTB_Linux Fundamentals.canvas",
     "01 - Areas/2. HTB/HTB_Linux Fundamentals.canvas",
     "01.Areas/1.UC3M/Movilidad.canvas",
     "01.Areas/3.Matterhorn/Tatto.canvas",

@@ -1,8 +1,8 @@
 {
-  "commitMessage": "checkpoint: {{date}}",
-  "autoCommitMessage": "\"autosave:{{date}}\"",
+  "commitMessage": "checkpoint\n---\ndate:{{date}}\nhost: {{hostname}}\nchanges: {{numFiles}}",
+  "autoCommitMessage": "autosave\n---\ndate:{{date}}\nhost: {{hostname}}\nchanges: {{numFiles}}",
   "commitMessageScript": "",
-  "commitDateFormat": "YYYY-MM-DD HH:mm:ss",
+  "commitDateFormat": "YYYYMMDD-HHmm",
   "autoSaveInterval": 10,
   "autoPushInterval": 0,
   "autoPullInterval": 30,
@@ -32,7 +32,7 @@
   "gitDir": "",
   "showFileMenu": true,
   "authorInHistoryView": "hide",
-  "dateInHistoryView": false,
+  "dateInHistoryView": true,
   "diffStyle": "split",
   "lineAuthor": {
     "show": false,
@@ -55,7 +55,7 @@
     },
     "textColorCss": "var(--text-muted)",
     "ignoreWhitespace": false,
-    "gutterSpacingFallbackLength": 5,
+    "gutterSpacingFallbackLength": 13,
     "lastShownAuthorDisplay": "initials",
     "lastShownDateTimeFormatOptions": "date"
   }

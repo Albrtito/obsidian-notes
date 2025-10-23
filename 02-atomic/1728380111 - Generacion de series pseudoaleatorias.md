@@ -22,7 +22,7 @@ Al crear una serie de estas características definimos una serie de propiedades 
 + En primer lugar los [[1728380472 - Postulados de Golomb|Postulados de Golomb]]
 + ==El periodo de la serie será **lo más grande posible**==
 + ==La serie estará distribuida uniformemente==
-+ ==La serie sera **impredecible**: esto se mide usando la [[1728381283 - Complejidad lineal de una serie cifrante|Complejidad lineal de una serie cifrante]]==
++ ==La serie sera **impredecible**: esto se mide usando la [[1728381283 - Complejidad lineal de una serie cifrante - Untitled Suffix|Complejidad lineal de una serie cifrante]]==
 
 ## PRNGs:
 ![[1728381448 - PRNGs|PRNGs]]

@@ -12,7 +12,7 @@ tags:
 Now based on how return and rewards are calculated **we can use a value function to decide on which state is better by looking at the future rewards**. (This keeps on with the idea that ther there is no actual need to know how we got to the state we are at, only the future states)
 
 >[!attention] Remarks:
-> - Things depend on what is afterwards. Good actions and good states are so based on on what comes afterwards.
+> - Things depend on what is afterwards. Good actions and good states are so based on on what comes afterwards. (**Markov property**)
 > - This two things are dependent. So how good an action is depends on the state the agent is at and vice versa
 
 $$

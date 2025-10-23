@@ -234,5 +234,13 @@
       ],
       "key": "H"
     }
+  ],
+  "insert-current-date": [
+    {
+      "modifiers": [
+        "Ctrl"
+      ],
+      "key": "D"
+    }
   ]
 }

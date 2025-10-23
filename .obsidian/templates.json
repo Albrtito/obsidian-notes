@@ -1,3 +1,4 @@
 {
-  "folder": "99-meta/01-templ"
+  "folder": "99-meta/01-templ",
+  "dateFormat": "**YYYYMMDD**"
 }

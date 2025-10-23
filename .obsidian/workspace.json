@@ -104,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 3,
+        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -125,13 +125,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02-atomic/1761239355-episodicvscontinuingtasks.md",
+                "file": "02-atomic/1761239003-returnvsrewardinreinforcementlearning.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 1761239355-episodicvscontinuingtasks"
+              "title": "Outline of 1761239003-returnvsrewardinreinforcementlearning"
             }
           },
           {
@@ -210,11 +210,13 @@
               "title": "Tags"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 256.5
+    "width": 256.5,
+    "collapsed": true
   },
   "right": {
     "id": "8881aa8c79e29157",
@@ -230,10 +232,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "02-atomic/1761239355-episodicvscontinuingtasks.md"
+                "file": "02-atomic/1761239003-returnvsrewardinreinforcementlearning.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for 1761239355-episodicvscontinuingtasks"
+              "title": "File properties for 1761239003-returnvsrewardinreinforcementlearning"
             }
           },
           {
@@ -242,7 +244,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02-atomic/1761239355-episodicvscontinuingtasks.md",
+                "file": "02-atomic/1761239003-returnvsrewardinreinforcementlearning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -252,7 +254,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 1761239355-episodicvscontinuingtasks"
+              "title": "Backlinks for 1761239003-returnvsrewardinreinforcementlearning"
             }
           },
           {
@@ -261,12 +263,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02-atomic/1761239355-episodicvscontinuingtasks.md",
+                "file": "02-atomic/1761239003-returnvsrewardinreinforcementlearning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 1761239355-episodicvscontinuingtasks"
+              "title": "Outgoing links from 1761239003-returnvsrewardinreinforcementlearning"
             }
           },
           {
@@ -295,7 +297,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02-atomic/1761239355-episodicvscontinuingtasks.md",
+                "file": "02-atomic/1761239003-returnvsrewardinreinforcementlearning.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -331,7 +333,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 1761239355-episodicvscontinuingtasks"
+              "title": "Graph of 1761239003-returnvsrewardinreinforcementlearning"
             }
           }
         ]
@@ -355,10 +357,12 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "5b541ef4b1193ecf",
+  "active": "6cab834060abb757",
   "lastOpenFiles": [
-    "99-meta/01-templ/noteTemplate.md",
     "02-atomic/1760048595-log.md",
+    "02-atomic/1761239003-returnvsrewardinreinforcementlearning.md",
+    "02-atomic/1761239355-episodicvscontinuingtasks.md",
+    "99-meta/01-templ/noteTemplate.md",
     "02-atomic/1728381283 - Complejidad lineal de una serie cifrante - Untitled Suffix.md",
     "02-atomic/1728380472 - Postulados de Golomb.md",
     "02-atomic/1728380111 - Generacion de series pseudoaleatorias.md",
@@ -381,8 +385,6 @@
     "02-atomic/1728027800 - Network congestion.md",
     "02-atomic/1727969678 - MathProg.md",
     "02-atomic/1727969475 - Practica - Primera practica Heuristica.md",
-    "02-atomic/1727968107 - Expresiones condicionales en programación lineal.md",
-    "02-atomic/1727888867 - Movilidad en Canada.md",
     "01-areas/2. HTB/HTB_Linux Fundamentals.canvas",
     "01-areas/3.Scout",
     "01-areas/2. HTB",

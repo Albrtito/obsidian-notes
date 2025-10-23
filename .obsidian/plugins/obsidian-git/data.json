@@ -1,6 +1,6 @@
 {
-  "commitMessage": "\"checkpoint\\n---\\ndate:{{date}}\\nhost:{{hostname}}\\nchanges:{{numFiles}}\"",
-  "autoCommitMessage": "\"autosave\\n---\\ndate:{{date}}\\nhost:{{hostname}}\\nchanges:{{numFiles}}\"",
+  "commitMessage": "checkpoint{date:{{date}},host:{{hostname}},changes:{{numFiles}}}",
+  "autoCommitMessage": "autosave{date:{{date}},host:{{hostname}},changes:{{numFiles}}}",
   "commitMessageScript": "",
   "commitDateFormat": "YYYYMMDD-HHmm",
   "autoSaveInterval": 10,

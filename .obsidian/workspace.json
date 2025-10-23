@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-atomic/1761249418-valuefunctioninmdp.md",
+                "file": "02-atomic/1761249418-statevaluefunction.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "1761249418-valuefunctioninmdp"
+              "title": "1761249418-statevaluefunction"
             }
           }
         ],
@@ -101,13 +101,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02-atomic/1761249418-valuefunctioninmdp.md",
+                "file": "02-atomic/1761249418-statevaluefunction.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 1761249418-valuefunctioninmdp"
+              "title": "Outline of 1761249418-statevaluefunction"
             }
           },
           {
@@ -208,10 +208,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "02-atomic/1761249418-valuefunctioninmdp.md"
+                "file": "02-atomic/1761249418-statevaluefunction.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for 1761249418-valuefunctioninmdp"
+              "title": "File properties for 1761249418-statevaluefunction"
             }
           },
           {
@@ -220,7 +220,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02-atomic/1761249418-valuefunctioninmdp.md",
+                "file": "02-atomic/1761249418-statevaluefunction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -230,7 +230,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 1761249418-valuefunctioninmdp"
+              "title": "Backlinks for 1761249418-statevaluefunction"
             }
           },
           {
@@ -239,12 +239,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02-atomic/1761249418-valuefunctioninmdp.md",
+                "file": "02-atomic/1761249418-statevaluefunction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 1761249418-valuefunctioninmdp"
+              "title": "Outgoing links from 1761249418-statevaluefunction"
             }
           },
           {
@@ -273,7 +273,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02-atomic/1761249418-valuefunctioninmdp.md",
+                "file": "02-atomic/1761249418-statevaluefunction.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -309,7 +309,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 1761249418-valuefunctioninmdp"
+              "title": "Graph of 1761249418-statevaluefunction"
             }
           }
         ]
@@ -332,10 +332,10 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "c9b8c954f3301011",
+  "active": "49e02fc309cfb775",
   "lastOpenFiles": [
     "02-atomic/1761237890-mdppolicy.md",
-    "02-atomic/1761249418-valuefunctioninmdp.md",
+    "02-atomic/1761249418-statevaluefunction.md",
     "02-atomic/1761239003-returnvsrewardinreinforcementlearning.md",
     "02-atomic/1761239355-episodicvscontinuingtasks.md",
     "02-atomic/1760048595-log.md",

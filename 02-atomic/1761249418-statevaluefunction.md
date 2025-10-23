@@ -1,10 +1,10 @@
 ---
 aliases:
-- value function in MDP
+  - state value function
 tags:
-- ms
+  - ms
 ---
-# value function in MDP
+# state value function
 > [!NOTE] Intro: 
 > The value function in MDP provides us with the decision on which state should the agent visit next. For this it uses the [[1761239003-returnvsrewardinreinforcementlearning|reward and return]] values. 
 > It will be used along the policy to determine the next state to transition to.
@@ -15,18 +15,23 @@ Now based on how return and rewards are calculated **we can use a value function
 > - Things depend on what is afterwards. Good actions and good states are so based on on what comes afterwards.
 > - This two things are dependent. So how good an action is depends on the state the agent is at and vice versa
 
+$$
+v_\pi(s) \quad=\sum_a \pi(a \mid s) \sum_{s^{\prime}, r} p\left(s^{\prime}, r \mid s, a\right)\left[r+\gamma v_\pi\left(s^{\prime}\right)\right]
+$$
+**where:**
+ - $\pi$ referes to the policy
 ## the optimal value:
 What if we dont care about the policy? Usually we'll have a policy that also decides on which decisions to take. This policy may be super bad or super good. So what if **we had the perfect policy**? This is called the optimal value function. 
 The equation that gives this is called the **bellman optimality equation** and it is represented with $v_{*}$:
 
 $$
 \begin{aligned}
-v_*(s) & =\max _{a \in \mathcal{A}(s)} q_{\pi_*}(s, a)=\underline{\frac{\max_a}} \sum_{{s^{\prime}, r}} p\left(s^{\prime}, r \mid s, a\right)\left[r+\gamma v_*\left(s^{\prime}\right)\right] \\
+v_*(s) & =\max _{a \in \mathcal{A}(s)} q_{\pi_*}(s, a)=\max_{a }\sum_{{s^{\prime}, r}} p\left(s^{\prime}, r \mid s, a\right)\left[r+\gamma v_*\left(s^{\prime}\right)\right] \\
 & \doteq \max _\pi v_\pi(s)
 \end{aligned}
 $$
 **where:**
- - See that we are taking the max instead of 
+ - See that we are taking the max instead of the value of the policy
 
 
 ***

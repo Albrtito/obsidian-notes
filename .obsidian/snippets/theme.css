@@ -1,0 +1,44 @@
+/* Nightfox Blue Bold & Red Links Snippet */
+/* Changes all bold text to Nightfox blue and links to Nightfox red */
+
+/* Nightfox color variables */
+:root {
+  --nightfox-blue: #719cd6;
+  --nightfox-red: #c94f6d;
+}
+
+/* Bold text styling - Editor mode */
+.cm-strong {
+  color: var(--nightfox-blue) !important;
+}
+
+/* Bold text styling - Reading mode */
+strong, b {
+  color: var(--nightfox-blue) !important;
+}
+
+/* Link styling - Editor mode */
+.cm-link, .cm-url {
+  color: var(--nightfox-red) !important;
+}
+
+/* Link styling - Reading mode */
+a {
+  color: var(--nightfox-red) !important;
+}
+
+/* Internal links */
+.internal-link {
+  color: var(--nightfox-red) !important;
+}
+
+/* External links */
+.external-link {
+  color: var(--nightfox-red) !important;
+}
+
+/* Unresolved links */
+.is-unresolved {
+  color: var(--nightfox-red) !important;
+  opacity: 0.7;
+}

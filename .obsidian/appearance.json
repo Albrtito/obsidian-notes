@@ -1,0 +1,22 @@
+{
+  "accentColor": "#3f91ff",
+  "cssTheme": "Nightfox",
+  "translucency": false,
+  "theme": "system",
+  "baseFontSize": 15,
+  "interfaceFontFamily": "Monaspace Argon,Inter,FiraCode Nerd Font,JetBrainsMono Nerd Font",
+  "textFontFamily": "JetBrainsMono Nerd Font Mono,Iosevka Nerd Font,Monaspace Argon,Inter,FiraCode Nerd Font",
+  "monospaceFontFamily": "Iosevka Nerd Font,JetBrainsMono Nerd Font",
+  "baseFontSizeAction": true,
+  "enabledCssSnippets": [
+    "Daily Note Themes",
+    "Notebook Backgrounds",
+    "Center_Images",
+    "imageInversion",
+    "Center_Tables",
+    "theme"
+  ],
+  "showViewHeader": true,
+  "nativeMenus": true,
+  "showRibbon": false
+}

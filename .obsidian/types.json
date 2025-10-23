@@ -1,0 +1,16 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "Date": "date",
+    "Spaced Repetiton": "multitext",
+    "checking": "multitext",
+    "References:": "multitext",
+    "Ponente": "multitext",
+    "DateStarted": "date",
+    "DateToFinish": "date",
+    "lifeOS": "multitext",
+    "autoscroll-speed": "number"
+  }
+}

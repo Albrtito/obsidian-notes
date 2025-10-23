@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"aeef0e021fe70f4b","type":"text","text":"Ch 2: Workflow\n+ [[Navigation]]\n+ [[Working with files and directories]]\n+ [[Editing files]]\n+ [[Find files and directories]]\n+ [[File Descriptors (FD)  and Redirections]]\n+ [[Filter Contents]]\n+ [[Regular Expressions (RegEx)]]\n+ [[Permission Management]]\n","x":-820,"y":-579,"width":280,"height":619},
+		{"id":"d836d69188d8e24d","type":"file","file":"02 - Atomic/Linux command palette.md","x":-460,"y":-780,"width":400,"height":820},
+		{"id":"d047b9ecfa362b27","type":"text","text":"Ch 1: The Shell\n[[Prompt description]]\n[[Getting Help]]\n[[System Information]]","x":-820,"y":-900,"width":280,"height":280},
+		{"id":"7ff0bb50625347ea","type":"text","text":"Ch 3: System Management\n+ [[User Management]]\n+ ","x":-820,"y":100,"width":280,"height":340}
+	],
+	"edges":[]
+}

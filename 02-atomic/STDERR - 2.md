@@ -1,0 +1,1 @@
++ The error a program provides if anything goes bad

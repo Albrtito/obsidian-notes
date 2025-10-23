@@ -1,0 +1,1 @@
+ [Blueprint Protocol](https://www.notion.so/Blueprint-Protocol-9f06fcb9fb224d1bb6edf66ba5bbde84?pvs=21), brianjohnson tracks everything. This also means that he tracks sleep. He repeats the same idea I’ve already seen in Huberman’s podcast and other places:

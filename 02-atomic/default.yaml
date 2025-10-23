@@ -1,0 +1,28 @@
+# Default configuration for creating pdfs out of md files
+
+from: markdown+smart+backtick_code_blocks+fenced_code_blocks+hard_line_breaks+blank_before_blockquote+blank_before_header+lists_without_preceding_blankline+compact_definition_lists+inline_code_attributes
+to: pdf
+pdf-engine: xelatex
+standalone: true
+toc: true
+number-sections: true
+highlight-style: kate
+
+variables:
+  mainfont: Iosevka Nerd Font
+  sansfont: Iosevka Nerd Font
+  monofont: Iosevka Nerd Font Mono
+  fontsize: 10pt
+  linestretch: 1.2
+  geometry: margin=0.9in
+  colorlinks: true
+  linkcolor: blue
+  header-includes: |
+    \usepackage{xcolor}
+    \usepackage{fancyvrb}
+    \usepackage{framed}
+    \definecolor{codebg}{RGB}{248,248,248}
+    \definecolor{codefg}{RGB}{51,51,51}
+    \colorlet{shadecolor}{codebg}
+    \let\oldtexttt\texttt
+    \renewcommand{\texttt}[1]{\colorbox{codebg}{\color{codefg}\oldtexttt{#1}}}

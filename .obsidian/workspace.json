@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-atomic/1761178169-nvim.md",
+                "file": "02-atomic/1761179931-changingtolazyvim.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "1761178169-nvim"
+              "title": "1761179931-changingtolazyvim"
             }
           }
         ],
@@ -77,13 +77,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02-atomic/1761178169-nvim.md",
+                "file": "02-atomic/1761179931-changingtolazyvim.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 1761178169-nvim"
+              "title": "Outline of 1761179931-changingtolazyvim"
             }
           },
           {
@@ -183,10 +183,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "02-atomic/1761178169-nvim.md"
+                "file": "02-atomic/1761179931-changingtolazyvim.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for 1761178169-nvim"
+              "title": "File properties for 1761179931-changingtolazyvim"
             }
           },
           {
@@ -195,7 +195,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02-atomic/1761178169-nvim.md",
+                "file": "02-atomic/1761179931-changingtolazyvim.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -205,7 +205,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 1761178169-nvim"
+              "title": "Backlinks for 1761179931-changingtolazyvim"
             }
           },
           {
@@ -214,12 +214,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02-atomic/1761178169-nvim.md",
+                "file": "02-atomic/1761179931-changingtolazyvim.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 1761178169-nvim"
+              "title": "Outgoing links from 1761179931-changingtolazyvim"
             }
           },
           {
@@ -248,7 +248,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02-atomic/1761178169-nvim.md",
+                "file": "02-atomic/1761179931-changingtolazyvim.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -284,15 +284,14 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 1761178169-nvim"
+              "title": "Graph of 1761179931-changingtolazyvim"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -310,10 +309,10 @@
   },
   "active": "896754ef5582e524",
   "lastOpenFiles": [
-    "02-atomic/1760048595-log.md",
     "02-atomic/1761178169-nvim.md",
-    "02-atomic/1761179757-lazyvim.md",
     "02-atomic/1761314903-workingwithseveralnvimconfigs.md",
+    "02-atomic/1760048595-log.md",
+    "02-atomic/1761179757-lazyvim.md",
     "02-atomic/1761231645-markovdecisionprocess.md",
     "02-atomic/1761237890-mdppolicy.md",
     "02-atomic/1761249418-statevaluefunction.md",

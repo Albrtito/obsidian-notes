@@ -14,6 +14,9 @@ tags:
 - It would be **essential to read a lot of the documentation and how the distribution is organised bfore changing. And changing during i time i can do so**
 - It can be just loaded anywhere anytime with the curl to the repo. 
 
+## first thoughts
+There is a ton of features super nice and pretty intuitive. There is some work to make it compatible with how I work but not that much. It is completely doable. Also the tokyonight theme is super  n
+
 ***
 ### Up
 - [[1761179757-lazyvim|lazyvim]]

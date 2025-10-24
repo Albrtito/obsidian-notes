@@ -126,6 +126,30 @@
               "icon": "lucide-file",
               "title": "1761269887-rollingsquare"
             }
+          },
+          {
+            "id": "738b5e75ed3f7777",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02-atomic/1761270340-diyexternalscreens.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "1761270340-diyexternalscreens"
+            }
           }
         ],
         "currentTab": 3,
@@ -381,8 +405,9 @@
   },
   "active": "827bc2ae310c18ff",
   "lastOpenFiles": [
-    "02-atomic/1761269887-rollingsquare.md",
+    "02-atomic/1761270340-diyexternalscreens.md",
     "02-atomic/1761269806-rollingsquareedgeconector.md",
+    "02-atomic/1761269887-rollingsquare.md",
     "99-meta/01-templ/noteTemplate.md",
     "02-atomic/1760048595-log.md",
     "02-atomic/1761231645-markovdecisionprocess.md",
@@ -406,7 +431,6 @@
     "02-atomic/1728047794 - Ejemplos SIMPLEX.md",
     "02-atomic/1728044996 - Closing a TCP connection.md",
     "02-atomic/1728044151 - Network flow control.md",
-    "02-atomic/1728042156 - The three way handshake.md",
     "01-areas/2. HTB/HTB_Linux Fundamentals.canvas",
     "01-areas/3.Scout",
     "01-areas/2. HTB",

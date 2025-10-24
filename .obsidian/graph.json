@@ -6,116 +6,17 @@
   "hideUnresolved": true,
   "showOrphans": true,
   "collapse-color-groups": false,
-  "colorGroups": [
-    {
-      "query": "tag:#incomplete  ",
-      "color": {
-        "a": 1,
-        "rgb": 13310490
-      }
-    },
-    {
-      "query": "tag:#DiffCalc ",
-      "color": {
-        "a": 1,
-        "rgb": 8548066
-      }
-    },
-    {
-      "query": "tag:#dailyNote  ",
-      "color": {
-        "a": 1,
-        "rgb": 2393885
-      }
-    },
-    {
-      "query": "tag:#Discrete  ",
-      "color": {
-        "a": 1,
-        "rgb": 6084269
-      }
-    },
-    {
-      "query": "tag:#CalcI",
-      "color": {
-        "a": 1,
-        "rgb": 16091127
-      }
-    },
-    {
-      "query": "tag:#Cripto  ",
-      "color": {
-        "a": 1,
-        "rgb": 12568824
-      }
-    },
-    {
-      "query": "tag:#Empresa  ",
-      "color": {
-        "a": 1,
-        "rgb": 15990610
-      }
-    },
-    {
-      "query": "tag:#Networks  ",
-      "color": {
-        "a": 1,
-        "rgb": 11392604
-      }
-    },
-    {
-      "query": "tag:#Logic  ",
-      "color": {
-        "a": 1,
-        "rgb": 1393663
-      }
-    },
-    {
-      "query": "tag:#EDA  ",
-      "color": {
-        "a": 1,
-        "rgb": 16762883
-      }
-    },
-    {
-      "query": "tag:#Heuri  ",
-      "color": {
-        "a": 1,
-        "rgb": 6073814
-      }
-    },
-    {
-      "query": "tag:#FilesAndDB  ",
-      "color": {
-        "a": 1,
-        "rgb": 14048429
-      }
-    },
-    {
-      "query": "tag:#Distri  ",
-      "color": {
-        "a": 1,
-        "rgb": 6084188
-      }
-    },
-    {
-      "query": "tag:#IA  ",
-      "color": {
-        "a": 1,
-        "rgb": 15499089
-      }
-    }
-  ],
+  "colorGroups": [],
   "collapse-display": false,
   "showArrow": false,
   "textFadeMultiplier": 3,
   "nodeSizeMultiplier": 1.40375896516393,
   "lineSizeMultiplier": 0.945874757908328,
-  "collapse-forces": true,
-  "centerStrength": 0.349811676082863,
-  "repelStrength": 13.7452919020716,
-  "linkStrength": 0.756002824858757,
-  "linkDistance": 105,
-  "scale": 0.1215240983611306,
+  "collapse-forces": false,
+  "centerStrength": 0.446451822916667,
+  "repelStrength": 10.1131184895833,
+  "linkStrength": 1,
+  "linkDistance": 30,
+  "scale": 0.1780252795828279,
   "close": true
 }

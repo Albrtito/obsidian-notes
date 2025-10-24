@@ -10,13 +10,13 @@
             "type": "tabs",
             "children": [
               {
-                "id": "c89018078a465408",
+                "id": "c7517ee0e9e43509",
                 "type": "leaf",
                 "state": {
-                  "type": "empty",
+                  "type": "graph",
                   "state": {},
-                  "icon": "lucide-file",
-                  "title": "New tab"
+                  "icon": "lucide-git-fork",
+                  "title": "Graph view"
                 }
               }
             ],
@@ -32,7 +32,7 @@
           {
             "id": "662098e0d908b3e6",
             "type": "tabs",
-            "dimension": 35.924369747899156,
+            "dimension": 35.96214511041009,
             "children": [
               {
                 "id": "1223c0f85c541969",
@@ -70,7 +70,7 @@
           {
             "id": "f340046a713a91df",
             "type": "tabs",
-            "dimension": 64.07563025210085,
+            "dimension": 64.03785488958991,
             "children": [
               {
                 "id": "f07e4f94d84abbbc",
@@ -78,7 +78,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "02-Atomic/1760048595-log.md",
+                    "file": "02-atomic/1760048595-log.md",
                     "mode": "source",
                     "source": false,
                     "backlinks": true,
@@ -144,11 +144,54 @@
                 "type": "leaf",
                 "state": {
                   "type": "file-properties",
-                  "state": {
-                    "file": "02-Atomic/1760711638-crackmapexec.md"
-                  },
+                  "state": {},
                   "icon": "lucide-info",
                   "title": "File properties"
+                }
+              },
+              {
+                "id": "3927bbc26ab29534",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  },
+                  "icon": "links-coming-in",
+                  "title": "Backlinks"
+                }
+              },
+              {
+                "id": "f55d97c13b715d65",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  },
+                  "icon": "links-going-out",
+                  "title": "Outgoing links"
+                }
+              },
+              {
+                "id": "a4c755c502f12b76",
+                "type": "leaf",
+                "state": {
+                  "type": "all-properties",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-archive",
+                  "title": "All properties"
                 }
               }
             ]
@@ -195,8 +238,7 @@
                       "linkDistance": 250,
                       "scale": 0.3425072442693024,
                       "close": true
-                    },
-                    "file": "02-Atomic/1760711638-crackmapexec.md"
+                    }
                   },
                   "icon": "lucide-git-fork",
                   "title": "Graph view"
@@ -206,8 +248,7 @@
           }
         ],
         "direction": "horizontal",
-        "width": 327.5,
-        "collapsed": true
+        "width": 200
       },
       "left-ribbon": {
         "hiddenItems": {
@@ -223,8 +264,8 @@
           "workspaces:Manage workspace layouts": false
         }
       },
-      "active": "c89018078a465408",
-      "mtime": "2025-10-13T10:35:25+00:00"
+      "active": "c7517ee0e9e43509",
+      "mtime": "2025-10-24T16:08:53+00:00"
     },
     "is": {
       "main": {

@@ -32,7 +32,7 @@ tags:
 - <%tags%>
 ---
 # <% userTitle %>
-> [!NOTE] Intro: 
+> [!info] Intro: 
 > <% tp.file.cursor(10) %>
 
 

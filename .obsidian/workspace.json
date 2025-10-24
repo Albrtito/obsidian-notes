@@ -78,8 +78,57 @@
               "icon": "lucide-file",
               "title": "1761249418-statevaluefunction"
             }
+          },
+          {
+            "id": "827bc2ae310c18ff",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02-atomic/1761269806-rollingsquareedgeconector.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "1761269806-rollingsquareedgeconector"
+            }
+          },
+          {
+            "id": "7eba62574555b980",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02-atomic/1761269887-rollingsquare.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "1761269887-rollingsquare"
+            }
           }
         ],
+        "currentTab": 3,
         "stacked": true
       }
     ],
@@ -100,13 +149,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02-atomic/1761231645-markovdecisionprocess.md",
+                "file": "02-atomic/1761269806-rollingsquareedgeconector.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 1761231645-markovdecisionprocess"
+              "title": "Outline of 1761269806-rollingsquareedgeconector"
             }
           },
           {
@@ -206,10 +255,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "02-atomic/1761231645-markovdecisionprocess.md"
+                "file": "02-atomic/1761269806-rollingsquareedgeconector.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for 1761231645-markovdecisionprocess"
+              "title": "File properties for 1761269806-rollingsquareedgeconector"
             }
           },
           {
@@ -218,7 +267,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02-atomic/1761231645-markovdecisionprocess.md",
+                "file": "02-atomic/1761269806-rollingsquareedgeconector.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -228,7 +277,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 1761231645-markovdecisionprocess"
+              "title": "Backlinks for 1761269806-rollingsquareedgeconector"
             }
           },
           {
@@ -237,12 +286,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02-atomic/1761231645-markovdecisionprocess.md",
+                "file": "02-atomic/1761269806-rollingsquareedgeconector.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 1761231645-markovdecisionprocess"
+              "title": "Outgoing links from 1761269806-rollingsquareedgeconector"
             }
           },
           {
@@ -271,7 +320,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02-atomic/1761231645-markovdecisionprocess.md",
+                "file": "02-atomic/1761269806-rollingsquareedgeconector.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -307,7 +356,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 1761231645-markovdecisionprocess"
+              "title": "Graph of 1761269806-rollingsquareedgeconector"
             }
           }
         ]
@@ -330,14 +379,17 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "66ac51fccd658fb6",
+  "active": "827bc2ae310c18ff",
   "lastOpenFiles": [
+    "02-atomic/1761269887-rollingsquare.md",
+    "02-atomic/1761269806-rollingsquareedgeconector.md",
+    "99-meta/01-templ/noteTemplate.md",
+    "02-atomic/1760048595-log.md",
+    "02-atomic/1761231645-markovdecisionprocess.md",
     "02-atomic/1761249418-statevaluefunction.md",
     "02-atomic/1761237890-mdppolicy.md",
     "02-atomic/1761239003-returnvsrewardinreinforcementlearning.md",
     "02-atomic/1761239355-episodicvscontinuingtasks.md",
-    "02-atomic/1760048595-log.md",
-    "99-meta/01-templ/noteTemplate.md",
     "02-atomic/1728381283 - Complejidad lineal de una serie cifrante - Untitled Suffix.md",
     "02-atomic/1728380472 - Postulados de Golomb.md",
     "02-atomic/1728380111 - Generacion de series pseudoaleatorias.md",
@@ -355,9 +407,6 @@
     "02-atomic/1728044996 - Closing a TCP connection.md",
     "02-atomic/1728044151 - Network flow control.md",
     "02-atomic/1728042156 - The three way handshake.md",
-    "02-atomic/1728038869 - Transport network layer.md",
-    "02-atomic/1728037357 - DNS.md",
-    "02-atomic/1728027800 - Network congestion.md",
     "01-areas/2. HTB/HTB_Linux Fundamentals.canvas",
     "01-areas/3.Scout",
     "01-areas/2. HTB",

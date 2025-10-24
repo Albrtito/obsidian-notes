@@ -8,150 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "66ac51fccd658fb6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02-atomic/1761231645-markovdecisionprocess.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "1761231645-markovdecisionprocess"
-            }
-          },
-          {
-            "id": "e78be9e3f03185d0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02-atomic/1761237890-mdppolicy.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "1761237890-mdppolicy"
-            }
-          },
-          {
-            "id": "49e02fc309cfb775",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02-atomic/1761249418-statevaluefunction.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "1761249418-statevaluefunction"
-            }
-          },
-          {
-            "id": "827bc2ae310c18ff",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02-atomic/1761269806-rollingsquareedgeconector.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "1761269806-rollingsquareedgeconector"
-            }
-          },
-          {
-            "id": "7eba62574555b980",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02-atomic/1761269887-rollingsquare.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "1761269887-rollingsquare"
-            }
-          },
-          {
-            "id": "738b5e75ed3f7777",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02-atomic/1761270340-diyexternalscreens.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "1761270340-diyexternalscreens"
-            }
-          },
-          {
             "id": "04a07c07a6c3517c",
             "type": "leaf",
             "state": {
@@ -174,9 +30,33 @@
               "icon": "lucide-file",
               "title": "1761314903-workingwithseveralnvimconfigs"
             }
+          },
+          {
+            "id": "896754ef5582e524",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02-atomic/1761178169-nvim.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "1761178169-nvim"
+            }
           }
         ],
-        "currentTab": 6,
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -197,13 +77,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02-atomic/1761314903-workingwithseveralnvimconfigs.md",
+                "file": "02-atomic/1761178169-nvim.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 1761314903-workingwithseveralnvimconfigs"
+              "title": "Outline of 1761178169-nvim"
             }
           },
           {
@@ -282,12 +162,12 @@
               "title": "Tags"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 256.5
+    "width": 256.5,
+    "collapsed": true
   },
   "right": {
     "id": "8881aa8c79e29157",
@@ -303,10 +183,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "02-atomic/1761314903-workingwithseveralnvimconfigs.md"
+                "file": "02-atomic/1761178169-nvim.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for 1761314903-workingwithseveralnvimconfigs"
+              "title": "File properties for 1761178169-nvim"
             }
           },
           {
@@ -315,7 +195,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02-atomic/1761314903-workingwithseveralnvimconfigs.md",
+                "file": "02-atomic/1761178169-nvim.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -325,7 +205,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 1761314903-workingwithseveralnvimconfigs"
+              "title": "Backlinks for 1761178169-nvim"
             }
           },
           {
@@ -334,12 +214,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02-atomic/1761314903-workingwithseveralnvimconfigs.md",
+                "file": "02-atomic/1761178169-nvim.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 1761314903-workingwithseveralnvimconfigs"
+              "title": "Outgoing links from 1761178169-nvim"
             }
           },
           {
@@ -368,7 +248,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02-atomic/1761314903-workingwithseveralnvimconfigs.md",
+                "file": "02-atomic/1761178169-nvim.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -404,14 +284,15 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 1761314903-workingwithseveralnvimconfigs"
+              "title": "Graph of 1761178169-nvim"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -427,17 +308,19 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "04a07c07a6c3517c",
+  "active": "896754ef5582e524",
   "lastOpenFiles": [
-    "02-atomic/1761314903-workingwithseveralnvimconfigs.md",
-    "02-atomic/1761269806-rollingsquareedgeconector.md",
-    "02-atomic/1761270340-diyexternalscreens.md",
-    "02-atomic/1761269887-rollingsquare.md",
-    "99-meta/01-templ/noteTemplate.md",
     "02-atomic/1760048595-log.md",
+    "02-atomic/1761178169-nvim.md",
+    "02-atomic/1761179757-lazyvim.md",
+    "02-atomic/1761314903-workingwithseveralnvimconfigs.md",
     "02-atomic/1761231645-markovdecisionprocess.md",
-    "02-atomic/1761249418-statevaluefunction.md",
     "02-atomic/1761237890-mdppolicy.md",
+    "02-atomic/1761249418-statevaluefunction.md",
+    "02-atomic/1761269806-rollingsquareedgeconector.md",
+    "02-atomic/1761269887-rollingsquare.md",
+    "02-atomic/1761270340-diyexternalscreens.md",
+    "99-meta/01-templ/noteTemplate.md",
     "02-atomic/1761239003-returnvsrewardinreinforcementlearning.md",
     "02-atomic/1761239355-episodicvscontinuingtasks.md",
     "02-atomic/1728381283 - Complejidad lineal de una serie cifrante - Untitled Suffix.md",
@@ -453,8 +336,6 @@
     "02-atomic/1728308824 - Algorithm - MD5.md",
     "02-atomic/1728307154 - Funciones hash.md",
     "02-atomic/1728048290 - Proyecto de criptografía UC3M.md",
-    "02-atomic/1728047794 - Ejemplos SIMPLEX.md",
-    "02-atomic/1728044996 - Closing a TCP connection.md",
     "01-areas/2. HTB/HTB_Linux Fundamentals.canvas",
     "01-areas/3.Scout",
     "01-areas/2. HTB",

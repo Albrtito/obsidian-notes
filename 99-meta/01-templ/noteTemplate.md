@@ -35,9 +35,6 @@ tags:
 > [!info] Intro: 
 > <% tp.file.cursor(10) %>
 
-
-
-
 ***
 ### Up
 ### Down

@@ -78,9 +78,33 @@
               "icon": "lucide-file",
               "title": "1756215731-awesomeblogs"
             }
+          },
+          {
+            "id": "987bbecff8eb6f05",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02-atomic/1760192042-graycode.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "1760192042-graycode"
+            }
           }
         ],
-        "currentTab": 2,
+        "currentTab": 3,
         "stacked": true
       }
     ],
@@ -101,13 +125,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02-atomic/1756215731-awesomeblogs.md",
+                "file": "02-atomic/1760192042-graycode.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 1756215731-awesomeblogs"
+              "title": "Outline of 1760192042-graycode"
             }
           },
           {
@@ -207,10 +231,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "02-atomic/1756215731-awesomeblogs.md"
+                "file": "02-atomic/1760192042-graycode.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for 1756215731-awesomeblogs"
+              "title": "File properties for 1760192042-graycode"
             }
           }
         ]
@@ -225,7 +249,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02-atomic/1756215731-awesomeblogs.md",
+                "file": "02-atomic/1760192042-graycode.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -261,7 +285,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 1756215731-awesomeblogs"
+              "title": "Graph of 1760192042-graycode"
             }
           }
         ]
@@ -284,12 +308,12 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "50e0f654b9fee7f4",
+  "active": "987bbecff8eb6f05",
   "lastOpenFiles": [
+    "02-atomic/1756215731-awesomeblogs.md",
     "02-atomic/1761412306-knapsackproblem.md",
     "02-atomic/1727270270 - Method - Algorithm - SIMPLEX.md",
     "99-meta/01-templ/noteTemplate.md",
-    "02-atomic/1756215731-awesomeblogs.md",
     "02-atomic/1761408116-kennethreitz.md",
     "02-atomic/1761407548-golang.md",
     "02-atomic/1761407529-organizingagomodule.md",

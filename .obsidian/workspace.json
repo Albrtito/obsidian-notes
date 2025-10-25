@@ -16,8 +16,33 @@
               "icon": "lucide-git-fork",
               "title": "Graph view"
             }
+          },
+          {
+            "id": "fdf7d4e064aaf48a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02-atomic/1761407529-organizingagomodule.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "1761407529-organizingagomodule"
+            }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -38,12 +63,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "02-atomic/1761407529-organizingagomodule.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of 1761407529-organizingagomodule"
             }
           },
           {
@@ -142,9 +168,11 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {},
+              "state": {
+                "file": "02-atomic/1761407529-organizingagomodule.md"
+              },
               "icon": "lucide-info",
-              "title": "File properties"
+              "title": "File properties for 1761407529-organizingagomodule"
             }
           },
           {
@@ -153,6 +181,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "02-atomic/1761407529-organizingagomodule.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +191,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for 1761407529-organizingagomodule"
             }
           },
           {
@@ -171,11 +200,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "02-atomic/1761407529-organizingagomodule.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from 1761407529-organizingagomodule"
             }
           },
           {
@@ -204,6 +234,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "02-atomic/1761407529-organizingagomodule.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -239,7 +270,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Graph of 1761407529-organizingagomodule"
             }
           }
         ]
@@ -262,8 +293,9 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "c7517ee0e9e43509",
+  "active": "fdf7d4e064aaf48a",
   "lastOpenFiles": [
+    "02-atomic/1761407529-organizingagomodule.md",
     "02-atomic/1761314903-workingwithseveralnvimconfigs.md",
     "02-atomic/1761179931-changingtolazyvim.md",
     "02-atomic/1761178169-nvim.md",
@@ -289,7 +321,6 @@
     "02-atomic/1728309728 - Autenticacion de mensajes.md",
     "02-atomic/1728309243 - Algorithm - SHA.md",
     "02-atomic/1728308824 - Algorithm - MD5.md",
-    "02-atomic/1728307154 - Funciones hash.md",
     "01-areas/2. HTB/HTB_Linux Fundamentals.canvas",
     "01-areas/3.Scout",
     "01-areas/2. HTB",

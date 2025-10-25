@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-atomic/1761408116-kennethreitzcorephilosophy.md",
+                "file": "02-atomic/1761408116-kennethreitz.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "1761408116-kennethreitzcorephilosophy"
+              "title": "1761408116-kennethreitz"
             }
           }
         ],
@@ -77,13 +77,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02-atomic/1761408116-kennethreitzcorephilosophy.md",
+                "file": "02-atomic/1761408116-kennethreitz.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 1761408116-kennethreitzcorephilosophy"
+              "title": "Outline of 1761408116-kennethreitz"
             }
           },
           {
@@ -183,10 +183,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "02-atomic/1761408116-kennethreitzcorephilosophy.md"
+                "file": "02-atomic/1761408116-kennethreitz.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for 1761408116-kennethreitzcorephilosophy"
+              "title": "File properties for 1761408116-kennethreitz"
             }
           }
         ]
@@ -201,7 +201,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02-atomic/1761408116-kennethreitzcorephilosophy.md",
+                "file": "02-atomic/1761408116-kennethreitz.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -237,7 +237,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 1761408116-kennethreitzcorephilosophy"
+              "title": "Graph of 1761408116-kennethreitz"
             }
           }
         ]
@@ -263,7 +263,7 @@
   "active": "2681a381c72a212c",
   "lastOpenFiles": [
     "02-atomic/1761407548-golang.md",
-    "02-atomic/1761408116-kennethreitzcorephilosophy.md",
+    "02-atomic/1761408116-kennethreitz.md",
     "02-atomic/1761407529-organizingagomodule.md",
     "02-atomic/1761314903-workingwithseveralnvimconfigs.md",
     "02-atomic/1761179931-changingtolazyvim.md",

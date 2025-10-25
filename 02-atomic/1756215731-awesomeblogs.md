@@ -16,7 +16,9 @@ cssclasses:
 - [Martin Montperrus](https://www.monperrus.net/martin/): Profesor of software technology at KTH Royal 
 - [Josh davis](https://joshldavis.com/posts/): Was an AWS dev. Some interesting posts. Got to know him on the [[1761180869-nvimbuffers|nvim buffers]] vs tabs post (look at the down link of that page). He writes good
 - [Jim Nielsen](https://www.jim-nielsen.com): Designer and coder with a blog and micronotes posts. Looks interesting, also nice looking at at a glance of his subscriptions to magazines and other newsletters
+- [Kenneth Reitz:](https://kennethreitz.org) A lot of things, interesting person, interesting life. Interesting philosophy
 ***
 ### Up
 ### Down
+- [[1761408116-kennethreitz|kenneth reitz]]
 ***

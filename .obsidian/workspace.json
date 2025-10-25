@@ -54,9 +54,33 @@
               "icon": "lucide-file",
               "title": "1761408116-kennethreitz"
             }
+          },
+          {
+            "id": "50e0f654b9fee7f4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02-atomic/1756215731-awesomeblogs.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "1756215731-awesomeblogs"
+            }
           }
         ],
-        "currentTab": 1,
+        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -77,13 +101,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02-atomic/1761408116-kennethreitz.md",
+                "file": "02-atomic/1756215731-awesomeblogs.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 1761408116-kennethreitz"
+              "title": "Outline of 1756215731-awesomeblogs"
             }
           },
           {
@@ -183,10 +207,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "02-atomic/1761408116-kennethreitz.md"
+                "file": "02-atomic/1756215731-awesomeblogs.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for 1761408116-kennethreitz"
+              "title": "File properties for 1756215731-awesomeblogs"
             }
           }
         ]
@@ -201,7 +225,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02-atomic/1761408116-kennethreitz.md",
+                "file": "02-atomic/1756215731-awesomeblogs.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -237,7 +261,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 1761408116-kennethreitz"
+              "title": "Graph of 1756215731-awesomeblogs"
             }
           }
         ]
@@ -260,10 +284,10 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "2681a381c72a212c",
+  "active": "50e0f654b9fee7f4",
   "lastOpenFiles": [
-    "02-atomic/1761407548-golang.md",
     "02-atomic/1761408116-kennethreitz.md",
+    "02-atomic/1761407548-golang.md",
     "02-atomic/1761407529-organizingagomodule.md",
     "02-atomic/1761314903-workingwithseveralnvimconfigs.md",
     "02-atomic/1761179931-changingtolazyvim.md",

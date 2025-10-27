@@ -78,9 +78,33 @@
               "icon": "lucide-file",
               "title": "1755695372-scrummodel"
             }
+          },
+          {
+            "id": "6dff64b6860a290b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02-atomic/1759829263-encodingattributesinevolutionaryalgorithms.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "1759829263-encodingattributesinevolutionaryalgorithms"
+            }
           }
         ],
-        "currentTab": 2,
+        "currentTab": 3,
         "stacked": true
       }
     ],
@@ -101,13 +125,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02-atomic/1755695372-scrummodel.md",
+                "file": "02-atomic/1759829263-encodingattributesinevolutionaryalgorithms.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 1755695372-scrummodel"
+              "title": "Outline of 1759829263-encodingattributesinevolutionaryalgorithms"
             }
           },
           {
@@ -207,10 +231,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "02-atomic/1755695372-scrummodel.md"
+                "file": "02-atomic/1759829263-encodingattributesinevolutionaryalgorithms.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for 1755695372-scrummodel"
+              "title": "File properties for 1759829263-encodingattributesinevolutionaryalgorithms"
             }
           }
         ]
@@ -225,7 +249,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02-atomic/1755695372-scrummodel.md",
+                "file": "02-atomic/1759829263-encodingattributesinevolutionaryalgorithms.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -261,7 +285,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 1755695372-scrummodel"
+              "title": "Graph of 1759829263-encodingattributesinevolutionaryalgorithms"
             }
           }
         ]
@@ -284,8 +308,9 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "50e0f654b9fee7f4",
+  "active": "6dff64b6860a290b",
   "lastOpenFiles": [
+    "02-atomic/1755695372-scrummodel.md",
     "02-atomic/1756215731-awesomeblogs.md",
     "02-atomic/1760192042-graycode.md",
     "02-atomic/1761412306-knapsackproblem.md",
@@ -311,7 +336,6 @@
     "02-atomic/1728380472 - Postulados de Golomb.md",
     "02-atomic/1728380111 - Generacion de series pseudoaleatorias.md",
     "02-atomic/1728377926 - Timeout estimations TCP.md",
-    "02-atomic/1728317931 - Valor actual neto de una inversión.md",
     "01-areas/2. HTB/HTB_Linux Fundamentals.canvas",
     "01-areas/3.Scout",
     "01-areas/2. HTB",

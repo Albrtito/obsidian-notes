@@ -102,9 +102,33 @@
               "icon": "lucide-file",
               "title": "1761736817-pytest"
             }
+          },
+          {
+            "id": "03b4cfe1d6ce92aa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02-atomic/1761747517-lsof.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "1761747517-lsof"
+            }
           }
         ],
-        "currentTab": 3,
+        "currentTab": 4,
         "stacked": true
       }
     ],
@@ -125,13 +149,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02-atomic/1761736817-pytest.md",
+                "file": "02-atomic/1761747517-lsof.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 1761736817-pytest"
+              "title": "Outline of 1761747517-lsof"
             }
           },
           {
@@ -231,10 +255,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "02-atomic/1761736817-pytest.md"
+                "file": "02-atomic/1761747517-lsof.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for 1761736817-pytest"
+              "title": "File properties for 1761747517-lsof"
             }
           }
         ]
@@ -249,7 +273,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02-atomic/1761736817-pytest.md",
+                "file": "02-atomic/1761747517-lsof.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -285,7 +309,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 1761736817-pytest"
+              "title": "Graph of 1761747517-lsof"
             }
           }
         ]
@@ -308,10 +332,11 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "6dff64b6860a290b",
+  "active": "03b4cfe1d6ce92aa",
   "lastOpenFiles": [
-    "02-atomic/1760115567-simplegeneticalgorithm.md",
+    "02-atomic/1761747517-lsof.md",
     "02-atomic/1761736817-pytest.md",
+    "02-atomic/1760115567-simplegeneticalgorithm.md",
     "02-atomic/1760191333-uniformcrossover.md",
     "02-atomic/1760115822-geneticalgorithm.md",
     "02-atomic/1760195591-permutationrepresentationingeneticalgorithms.md",
@@ -335,7 +360,6 @@
     "02-atomic/1760048595-log.md",
     "02-atomic/1761179757-lazyvim.md",
     "02-atomic/1761231645-markovdecisionprocess.md",
-    "02-atomic/1761237890-mdppolicy.md",
     "01-areas/2. HTB/HTB_Linux Fundamentals.canvas",
     "01-areas/3.Scout",
     "01-areas/2. HTB",

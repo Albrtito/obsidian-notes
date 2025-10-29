@@ -15,7 +15,7 @@ tags:
 	
 	Given two parents and one cutoff point we'll: 
 	1. Copy one of the  parts of the first parent into the child (at random)
-	2. Starting in the cutoff point, copy the numbers that are not int the already copied part into the positions where the second parent has them. If there is no position for that number based on the second parent ordering then we put one of the missing numbers randomly. 
+	2. Starting in the cutoff point, copy the numbers that are not in the already copied part into the positions where the second parent has them. If there is no position for that number based on the second parent ordering then we put one of the missing numbers randomly. 
 	By doing this in reverse we obtain the second child
 	
 	> i.e: We take the 3,4,5 th positions. Then create one child with those positions from the first parent, another one form the second one. 

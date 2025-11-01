@@ -36,13 +36,17 @@ With unsupervised learning there is not as much similarity. However it does shar
 Unsupervised learning still does not have any feedback loop (rewards), there is no enviroment and again, reinforced learning does not use a data set. 
 
 ## calculating rewards:
+
 We can obtain the expected reward for some specific action as: 
 $$
 q_{*}(a) = \mathbb{E} [R_{t}|A_{t}=a]
 $$
 **where:**
- - $q_{*}(a)$ -> Represents the reward for action a
- - 
+ - $q_{*}(a)$ -> Represents the expected reward for an action a
+ - The expected value is the sum of the probabilties of obtaining one reward times the reward. (P1*R1 + P2*R2+...). 
+ - $R_T$ -> Is the fixed reward value.
+
+However the agent does not know this expected reward. 
 ***
 ### Up
 ### Down

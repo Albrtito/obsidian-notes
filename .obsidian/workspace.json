@@ -104,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 3,
+        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -125,13 +125,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02-atomic/OS_Theory_Ch_0_Presentation.md",
+                "file": "02-atomic/1762086887-explorationvsexploitation.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of OS_Theory_Ch_0_Presentation"
+              "title": "Outline of 1762086887-explorationvsexploitation"
             }
           },
           {
@@ -231,10 +231,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "02-atomic/OS_Theory_Ch_0_Presentation.md"
+                "file": "02-atomic/1762086887-explorationvsexploitation.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for OS_Theory_Ch_0_Presentation"
+              "title": "File properties for 1762086887-explorationvsexploitation"
             }
           },
           {
@@ -294,7 +294,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02-atomic/OS_Theory_Ch_0_Presentation.md",
+                "file": "02-atomic/1762086887-explorationvsexploitation.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -330,7 +330,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of OS_Theory_Ch_0_Presentation"
+              "title": "Graph of 1762086887-explorationvsexploitation"
             }
           }
         ]
@@ -354,10 +354,10 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "d7d9be9e07d7f9ac",
+  "active": "85dae32396543bd0",
   "lastOpenFiles": [
-    "02-atomic/1762086887-explorationvsexploitation.md",
     "02-atomic/OS_Theory_Ch_0_Presentation.md",
+    "02-atomic/1762086887-explorationvsexploitation.md",
     "02-atomic/C Basics.md",
     "02-atomic/Pointers.md",
     "02-atomic/1762085025-actionvaluemethodsinrl.md",

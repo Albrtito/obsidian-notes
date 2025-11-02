@@ -28,7 +28,9 @@ This creates three basic relations.
 >[!important] Properties:
 > - **Realistic learning:** This type of learning is more realistic than others as the actions and consecuences are similar to the real world. The agent learns by **trial and error**.
 > - **Unknown enviroment:** The agent can learn by itself from an unknown enviroment based on its own experience.
-> - **Reward :** Rewars might be **deterministic**
+> - **Deterministic|Non-deterministic rewards:** There are two types of rewards
+> 	- **Deterministic**, meaning that they are always the same for some given action
+> 	- **Non-Deterministic:** This means that they are not always the same. Usually following a distribution. 
 
 ## reinforced vs other learning
 

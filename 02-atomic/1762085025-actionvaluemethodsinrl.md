@@ -8,6 +8,9 @@ tags:
 > [!info] Intro: 
 > The action-value methods of a reinforced learning model are those that define the value that each action has. In other words, how good each action is. The agent does this by analyzing the rewards obtained after each action. 
 
+First of all, we need to know if the rewards are stationary or not: [[1762090583-stationaryvsnonstationaryrewarddistribution|stationary vs nonstationary reward distribution]]
+
+**Stationary rewards:**
 The agent will try the action a and see what the reward is. Then update the estiamte with that reward (all estimates start at 0).Of course all actions must be tried, if not some good rewards at the begining  would obscure some better rewards waiting further along. The agent tries multiple times and averages the estimate. 
 $$
 Q_{t}(a) = \frac{\text{sum of rewards when a taken prior to t}}{\text{number of times a taken prior to t}} = \frac{\sum^{t-1}_{i=1}R_{i} \cdot 1_{A_{i}=a}}{\sum_{i=1}^{t-1}1_{A_{i}=a}}
@@ -15,14 +18,23 @@ $$
 **where:**
  - When using $1_{A_{i}=a}$ we mean: 1 if $A_{i}=a$. So only take into account the rewards for the action we are estimating. 
  - For the lower part, we are just summing the number of actions of this type that we took in order to compute the average. 
+
+This can be simplified:
+**Efficient averaging**
+In order to not save all rewards to get the average we'll just use the last average and update that with the new found values. 
+   $$Q_{t+1}=\frac{1}{t}\sum_{i=1}^tR_{i}\rightarrow Q_{t+1} = Q_{t} + \frac{1}{t}[R_{t}-Q_{t}]$$
+**where:**
+   - See that we add to the old average $Q_{t}$ the difference between the new reward and the old average. #duda Why is is that the reward is $R_t$ not $R_{t+1}$?
+
+**Non-stationary rewards:**
+Updating each reward is not done with the average value but with a fixed alpha value. The new efficient averagin is then:
+
+$$
+Q_{t+1}=\frac{1}{t}\sum_{i=1}^tR_{i}\rightarrow Q_{t+1} = Q_{t} + \frac{1}{t}[R_{t}-Q_{t}]$$
  
 >[!important] Properties:
 > - **Convergence->** If we average over enough trials ourestimate will. be equal to the actual action-value (rewards):
 >   $$\lim_{ N_{t}(a) \to \infty } Q_{t}(a) = q_{*}(a)$$
-> - **Efficient averaging->** In order to not save all rewards to get the average we'll just use the last average and update that with the new found values. 
->   $$Q_{t+1}=\frac{1}{t}\sum_{i=1}^tR_{i}\rightarrow Q_{t+1} = Q_{t} + \frac{1}{t}[R_{t}-Q_{t}]$$
->   **where:**
->   - See that we add to the old average $Q_{t}$ the difference between the new reward and the old average. #duda Why is is that the reward is $R_t$ not $R_{t+1}$?
 > - **Equally important values->** All values (times we have seen rewards) are equally important.
 ## the greedy choice
 If the agent chooses the action that gives the highest expected reward **in the next step** we say that it chooses the greedy action. 
@@ -37,9 +49,18 @@ We cannot do them at the same time but in order to **not exploit all the time** 
 With this method the agent is **usually greedy** but will choose a **random action** with a probability of $\varepsilon$. Usually small. 
 - One of the simplest ways to balance exporation and exploitation. 
 - When exploring it should take at random from either all options but the best one or from all the options. Careful about taking from all the options cause it can still choose the best option, which is not the idea. 
-In order to perform this method we'll also use a counter to keep track of how many times each action was chosen. 
+In order to perform this method we'll also use a counter to keep track of how many times each action was chosen.
+#### choosing $\varepsilon$
+When choosing a value for epsilon it usually happens that: 
+- With epsilon = 0. The algorithm is completely greedy. There is no improvement with time. The algorithm finds the best option and does not explore with others. 
+- With epsilon = 0.1. The algorithm finds a better solution, however still takes some of the worse approaches with time. It learns really fast in the beginning but does not get better after that. 
+- With epsilon = 0.01. It takes more time to learn the best one but one learned it keeps improving with time as it chooses the greedy (best one) more often once learned. 
+The best idea of course would be to have a **decaying epsilon**, so that there is more exploration at the beginning but then once a better solution is found it starts just being greedy with that solution. 
+
 ***
 ### Up
 ### Down
 - [[1762086887-explorationvsexploitation|exploration vs exploitation]]
+- [[1762090583-stationaryvsnonstationaryrewarddistribution|stationary vs nonstationary reward distribution]]
+
 ***

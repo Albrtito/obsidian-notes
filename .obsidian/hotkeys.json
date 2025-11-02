@@ -106,14 +106,7 @@
       "key": "N"
     }
   ],
-  "app:go-back": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "Backspace"
-    }
-  ],
+  "app:go-back": [],
   "app:go-forward": [
     {
       "modifiers": [

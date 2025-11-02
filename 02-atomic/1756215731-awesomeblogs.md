@@ -17,6 +17,7 @@ cssclasses:
 - [Josh davis](https://joshldavis.com/posts/): Was an AWS dev. Some interesting posts. Got to know him on the [[1761180869-nvimbuffers|nvim buffers]] vs tabs post (look at the down link of that page). He writes good
 - [Jim Nielsen](https://www.jim-nielsen.com): Designer and coder with a blog and micronotes posts. Looks interesting, also nice looking at at a glance of his subscriptions to magazines and other newsletters
 - [Kenneth Reitz:](https://kennethreitz.org) A lot of things, interesting person, interesting life. Interesting philosophy
+- [Lei Mao:](https://leimao.github.io) Meta engineer working in machine learning. Quite some academic achievements. A lot of different things on his blog. Not artiscially pleasing though. 
 ***
 ### Up
 ### Down

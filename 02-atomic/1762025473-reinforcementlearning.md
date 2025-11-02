@@ -23,11 +23,12 @@ This creates three basic relations.
 > - **enviroment ->** The setting the agent learns in
 > - **state ->** A collection of properties that the enviroment has at some given moment
 > - **reward ->** Positive or negative (**penalty**) based on the actions of the agent. Marking if they where good or not. Rewards are **inmediate**
-> - **t->** When we use t in math and definitions we refer to the time. The times we have done someting
+> - **t->** When we use t in math and definitions we refer to the time. The times we have done someting. There will be a finite number of t (repetitions) that will be performed.
 
 >[!important] Properties:
 > - **Realistic learning:** This type of learning is more realistic than others as the actions and consecuences are similar to the real world. The agent learns by **trial and error**.
 > - **Unknown enviroment:** The agent can learn by itself from an unknown enviroment based on its own experience.
+> - **Reward :** Rewars might be **deterministic**
 
 ## reinforced vs other learning
 

@@ -33,9 +33,11 @@ $$
 We always have the choice to do so of course. If we do and we always take the better choice we'll be doing **explotation** while if we don't always choose it then the agent will **explore** more. 
 We cannot do them at the same time but in order to **not exploit all the time** we can use the $\varepsilon-\text{greedy}$ method.
 
-### $\varepsilon-\text{greedy}$_
+### $\varepsilon-\text{greedy}$
 With this method the agent is **usually greedy** but will choose a **random action** with a probability of $\varepsilon$. Usually small. 
-- One of the simplest ways to balance exporation and exploitation
+- One of the simplest ways to balance exporation and exploitation. 
+- When exploring it should take at random from either all options but the best one or from all the options. Careful about taking from all the options cause it can still choose the best option, which is not the idea. 
+In order to perform this method we'll also use a counter to keep track of how many times each action was chosen. 
 ***
 ### Up
 ### Down

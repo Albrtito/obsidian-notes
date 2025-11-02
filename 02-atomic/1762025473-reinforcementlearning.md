@@ -39,8 +39,9 @@ Like in supervised learning there are rewards and feedback. However there is no 
 With unsupervised learning there is not as much similarity. However it does share the idea of there not being some perfect behaviour or correct actions.
 Unsupervised learning still does not have any feedback loop (rewards), there is no enviroment and again, reinforced learning does not use a data set. 
 
-## rewards and estimates:
+## choosing an action:
 
+### rewards and estimates:
 We can obtain the **real expected** reward for some specific action as: 
 $$
 q_{*}(a) = \mathbb{E} [R_{t}|A_{t}=a]
@@ -53,10 +54,12 @@ $$
 However the agent does not know this expected reward, this is what we are trying to teach it. It still need to maximize the total reward. To do so it goes into a trial and error cycle. Try actions, estimate their rewards/values and prefer those that appear best, giving each action and state some **estimate** on how good it is: $Q_{*}(a)$. 
 The agents uses: 
 - [[1762085025-actionvaluemethodsinrl|action-value methods in RL]]
-- 
 
+### [[1762091784-policy|policy]]: 
+Once we have some trial and error values on what the best actions are based on the experience of the model we still can choose between which action to take.
 ***
 ### Up
 ### Down
 - [[1762085025-actionvaluemethodsinrl|action-value methods in RL]]
+- [[1761237890-mdppolicy|policy]]
 ***

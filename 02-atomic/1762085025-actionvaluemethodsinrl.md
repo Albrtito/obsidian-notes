@@ -8,6 +8,10 @@ tags:
 > [!info] Intro: 
 > The action-value methods of a reinforced learning model are those that define the value that each action has. In other words, how good each action is. The agent does this by analyzing the rewards obtained after each action. 
 
+>[!important] Properties:
+> - **Convergence->** If we average over enough trials ourestimate will. be equal to the actual action-value (rewards):
+>   $$\lim_{ N_{t}(a) \to \infty } Q_{t}(a) = q_{*}(a)$$
+> - **Equally important values->** All values (times we have seen rewards) are equally important.
 First of all, we need to know if the rewards are stationary or not: [[1762090583-stationaryvsnonstationaryrewarddistribution|stationary vs nonstationary reward distribution]]
 
 **Stationary rewards:**
@@ -30,32 +34,9 @@ In order to not save all rewards to get the average we'll just use the last aver
 Updating each reward is not done with the average value but with a fixed alpha value. The new efficient averagin is then:
 
 $$
-Q_{t+1}=\frac{1}{t}\sum_{i=1}^tR_{i}\rightarrow Q_{t+1} = Q_{t} + \frac{1}{t}[R_{t}-Q_{t}]$$
- 
->[!important] Properties:
-> - **Convergence->** If we average over enough trials ourestimate will. be equal to the actual action-value (rewards):
->   $$\lim_{ N_{t}(a) \to \infty } Q_{t}(a) = q_{*}(a)$$
-> - **Equally important values->** All values (times we have seen rewards) are equally important.
-## the greedy choice
-If the agent chooses the action that gives the highest expected reward **in the next step** we say that it chooses the greedy action. 
+Q_{t+1}= Q_{t} + \alpha[R_{t}-Q_{t}]: 0 < \alpha \leq 1
 $$
-A*_{t} = arg \max _{a} Q_{t}(a)
-$$
-
-We always have the choice to do so of course. If we do and we always take the better choice we'll be doing **explotation** while if we don't always choose it then the agent will **explore** more. 
-We cannot do them at the same time but in order to **not exploit all the time** we can use the $\varepsilon-\text{greedy}$ method.
-
-### $\varepsilon-\text{greedy}$
-With this method the agent is **usually greedy** but will choose a **random action** with a probability of $\varepsilon$. Usually small. 
-- One of the simplest ways to balance exporation and exploitation. 
-- When exploring it should take at random from either all options but the best one or from all the options. Careful about taking from all the options cause it can still choose the best option, which is not the idea. 
-In order to perform this method we'll also use a counter to keep track of how many times each action was chosen.
-#### choosing $\varepsilon$
-When choosing a value for epsilon it usually happens that: 
-- With epsilon = 0. The algorithm is completely greedy. There is no improvement with time. The algorithm finds the best option and does not explore with others. 
-- With epsilon = 0.1. The algorithm finds a better solution, however still takes some of the worse approaches with time. It learns really fast in the beginning but does not get better after that. 
-- With epsilon = 0.01. It takes more time to learn the best one but one learned it keeps improving with time as it chooses the greedy (best one) more often once learned. 
-The best idea of course would be to have a **decaying epsilon**, so that there is more exploration at the beginning but then once a better solution is found it starts just being greedy with that solution. 
+ Here we see that each new value has an impact of $\alpha$ contrary to how each value had the same impact with the previous method. This means that the most recent value is more important. 
 
 ***
 ### Up

@@ -80,7 +80,6 @@
             }
           }
         ],
-        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -101,13 +100,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02-atomic/1756215731-awesomeblogs.md",
+                "file": "02-atomic/1762025473-reinforcementlearning.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 1756215731-awesomeblogs"
+              "title": "Outline of 1762025473-reinforcementlearning"
             }
           },
           {
@@ -207,10 +206,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "02-atomic/1756215731-awesomeblogs.md"
+                "file": "02-atomic/1762025473-reinforcementlearning.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for 1756215731-awesomeblogs"
+              "title": "File properties for 1762025473-reinforcementlearning"
             }
           },
           {
@@ -270,7 +269,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02-atomic/1756215731-awesomeblogs.md",
+                "file": "02-atomic/1762025473-reinforcementlearning.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -306,7 +305,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 1756215731-awesomeblogs"
+              "title": "Graph of 1762025473-reinforcementlearning"
             }
           }
         ]
@@ -330,8 +329,9 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "3c78d155cdbf4ebd",
+  "active": "c7517ee0e9e43509",
   "lastOpenFiles": [
+    "02-atomic/1756215731-awesomeblogs.md",
     "02-atomic/1755599732-machinelearning.md",
     "02-atomic/1762025473-reinforcementlearning.md",
     "02-atomic/1760048595-log.md",
@@ -347,7 +347,6 @@
     "02-atomic/1758568530-matplotlib.md",
     "02-atomic/parent selection.md",
     "02-atomic/1759829263-encodingattributesinevolutionaryalgorithms.md",
-    "02-atomic/1756215731-awesomeblogs.md",
     "02-atomic/1760192042-graycode.md",
     "02-atomic/1761412306-knapsackproblem.md",
     "02-atomic/1727270270 - Method - Algorithm - SIMPLEX.md",

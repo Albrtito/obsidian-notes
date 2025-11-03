@@ -16,6 +16,10 @@ tags:
 > **where:**
 > - The $\gamma$ is the discounting coefficient. 
 > - The first rewards have more impact than the latter ones [[1761239003-returnvsrewardinreinforcementlearning|return vs reward in reinforcement learning]]
+***
+### Up
+### Down
+***
 
 ## ipact of discounting:
 The discounting coefficient can be any value between 0 (shortsighted) and 1 (farsighted). We usually use farsighted values as the rewards in the future still hold some value and we still need to show that. 

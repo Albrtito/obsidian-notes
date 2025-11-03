@@ -109,7 +109,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-atomic/1762097550-awesomequotes.md",
+                "file": "02-atomic/1761239355-episodicvscontinuingtasks.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -124,7 +124,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "1762097550-awesomequotes"
+              "title": "1761239355-episodicvscontinuingtasks"
             }
           }
         ],
@@ -149,13 +149,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02-atomic/1762097550-awesomequotes.md",
+                "file": "02-atomic/1761239355-episodicvscontinuingtasks.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 1762097550-awesomequotes"
+              "title": "Outline of 1761239355-episodicvscontinuingtasks"
             }
           },
           {
@@ -254,10 +254,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "02-atomic/1762097550-awesomequotes.md"
+                "file": "02-atomic/1761239355-episodicvscontinuingtasks.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for 1762097550-awesomequotes"
+              "title": "File properties for 1761239355-episodicvscontinuingtasks"
             }
           },
           {
@@ -317,7 +317,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02-atomic/1762097550-awesomequotes.md",
+                "file": "02-atomic/1761239355-episodicvscontinuingtasks.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -353,7 +353,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 1762097550-awesomequotes"
+              "title": "Graph of 1761239355-episodicvscontinuingtasks"
             }
           }
         ]
@@ -378,8 +378,9 @@
   },
   "active": "8e902b1e404f3e57",
   "lastOpenFiles": [
-    "02-atomic/1758157616-awesomedotfiles.md",
+    "99-meta/00-attach/greekalphabet.png",
     "02-atomic/1762097550-awesomequotes.md",
+    "02-atomic/1758157616-awesomedotfiles.md",
     "02-atomic/1755353757 - awesomemath.md",
     "02-atomic/1760048595-log.md",
     "02-atomic/1755599732-machinelearning.md",
@@ -403,7 +404,6 @@
     "02-atomic/1760115567-simplegeneticalgorithm.md",
     "02-atomic/1760191333-uniformcrossover.md",
     "02-atomic/1760115822-geneticalgorithm.md",
-    "02-atomic/1760195591-permutationrepresentationingeneticalgorithms.md",
     "01-areas/2. HTB/HTB_Linux Fundamentals.canvas",
     "01-areas/3.Scout",
     "01-areas/2. HTB",
@@ -413,7 +413,6 @@
     "99-meta/03-snippets/Center_Images.css",
     "99-meta/03-snippets/theme.css",
     "99-meta/00-attach/Truth table of the negation connective.png",
-    "99-meta/00-attach/greekalphabet.png",
     "99-meta/00-attach/Screenshot 2024-11-03 at 5.40.15 PM.png",
     "99-meta/00-attach/Screenshot 2024-11-03 at 5.17.05 PM.png",
     "99-meta/00-attach/Screenshot 2024-11-03 at 10.09.35 AM.png",

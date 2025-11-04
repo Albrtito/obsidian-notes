@@ -150,14 +150,6 @@
       "key": "P"
     }
   ],
-  "editor:insert-callout": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "C"
-    }
-  ],
   "editor:insert-wikilink": [
     {
       "modifiers": [
@@ -234,6 +226,14 @@
         "Ctrl"
       ],
       "key": "D"
+    }
+  ],
+  "editor:insert-callout": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "A"
     }
   ]
 }

@@ -152,7 +152,7 @@
             }
           }
         ],
-        "currentTab": 5,
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -278,10 +278,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "02-atomic/1762271593-sarsavsqlearning.md"
+                "file": "02-atomic/1762205273-temporaldifferencelearning.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for 1762271593-sarsavsqlearning"
+              "title": "File properties for 1762205273-temporaldifferencelearning"
             }
           },
           {
@@ -341,7 +341,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02-atomic/1762271593-sarsavsqlearning.md",
+                "file": "02-atomic/1762205273-temporaldifferencelearning.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -377,7 +377,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 1762271593-sarsavsqlearning"
+              "title": "Graph of 1762205273-temporaldifferencelearning"
             }
           }
         ]
@@ -401,7 +401,7 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "e546943a93a52567",
+  "active": "15b99d1b9654c828",
   "lastOpenFiles": [
     "02-atomic/1762271593-sarsavsqlearning.md",
     "02-atomic/1762271227-qlearning.md",

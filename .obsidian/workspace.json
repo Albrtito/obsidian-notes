@@ -126,9 +126,33 @@
               "icon": "lucide-file",
               "title": "1762271227-qlearning"
             }
+          },
+          {
+            "id": "e546943a93a52567",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02-atomic/1762271593-sarsavsqlearning.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "1762271593-sarsavsqlearning"
+            }
           }
         ],
-        "currentTab": 4,
+        "currentTab": 5,
         "stacked": true
       }
     ],
@@ -254,10 +278,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "02-atomic/1762271227-qlearning.md"
+                "file": "02-atomic/1762271593-sarsavsqlearning.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for 1762271227-qlearning"
+              "title": "File properties for 1762271593-sarsavsqlearning"
             }
           },
           {
@@ -317,7 +341,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02-atomic/1762271227-qlearning.md",
+                "file": "02-atomic/1762271593-sarsavsqlearning.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -353,7 +377,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 1762271227-qlearning"
+              "title": "Graph of 1762271593-sarsavsqlearning"
             }
           }
         ]
@@ -377,10 +401,11 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "28b13e073cb93fdb",
+  "active": "e546943a93a52567",
   "lastOpenFiles": [
-    "02-atomic/1762270792-sarsa.md",
+    "02-atomic/1762271593-sarsavsqlearning.md",
     "02-atomic/1762271227-qlearning.md",
+    "02-atomic/1762270792-sarsa.md",
     "02-atomic/1762270199-implementationofatemporaldifferencelearningagent.md",
     "02-atomic/1762205273-temporaldifferencelearning.md",
     "02-atomic/1755599732-machinelearning.md",
@@ -407,7 +432,6 @@
     "02-atomic/1761249418-statevaluefunction.md",
     "02-atomic/1756215731-awesomeblogs.md",
     "02-atomic/1761231645-markovdecisionprocess.md",
-    "02-atomic/1755695372-scrummodel.md",
     "01-areas/2. HTB/HTB_Linux Fundamentals.canvas",
     "01-areas/3.Scout",
     "01-areas/2. HTB",

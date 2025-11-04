@@ -20,7 +20,10 @@ $$
  - This update is perform using the previous value + some new update. 
  - This new update is applied based on some $\alpha$ that is the **learning rate**
  - The update is the difference between the the target value and the current value. So how much it increases.
- - The target value $R_{t+1}+\gamma V(S_{t+1})$ is obtained by summing the obtained reward when going to the state $S_{t+1}$ and the value of that state (this way the agent jnow )
+ - The target value $R_{t+1}+\gamma V(S_{t+1})$ is obtained by summing the obtained reward when going to the state $S_{t+1}$ and the value of that state (this way the agent goes to states that also have better states with following actions). 
+ - $\gamma$ -> The **discounting coefficient**
+
+
 ***
 ### Up
 - [[1762025473-reinforcementlearning|reinforcement learning]]

@@ -13,8 +13,10 @@ Both implementations take the next action accourding to the policy. However the 
 - For on policy this means assuming actions according to policy which may not be greedy. 
 - For off policy means just updating the always with the greedy action. THe policy actually used and the policy for updates is different. #duda Not really understanding this
 
-This makes it so **sarsa(on policy)** goes for safer paths wile **q-learning(off-policy)** chooses optimal but riskier paths. 
+This makes it so **sarsa(on policy)** goes for safer paths wile **q-learning(off-policy)** chooses optimal but riskier paths. This means worse scores for q-learning than sarsa during training. 
 
+However there is a big change when going onto applying the obtained state values after training. Because q-learning  
+The compromise can be bridged by using an smaller epsilon with SARSA $\varepsilon-$greedy policy. 
 ***
 ### Up
 - [[1762270792-sarsa|SARSA]]

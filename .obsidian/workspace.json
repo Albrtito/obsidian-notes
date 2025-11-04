@@ -152,7 +152,7 @@
             }
           }
         ],
-        "currentTab": 3,
+        "currentTab": 5,
         "stacked": true
       }
     ],
@@ -278,10 +278,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "02-atomic/1762270792-sarsa.md"
+                "file": "02-atomic/1762271593-sarsavsqlearning.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for 1762270792-sarsa"
+              "title": "File properties for 1762271593-sarsavsqlearning"
             }
           },
           {
@@ -341,7 +341,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02-atomic/1762270792-sarsa.md",
+                "file": "02-atomic/1762271593-sarsavsqlearning.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -377,7 +377,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 1762270792-sarsa"
+              "title": "Graph of 1762271593-sarsavsqlearning"
             }
           }
         ]
@@ -401,10 +401,10 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "2d8db4b294c4a8e9",
+  "active": "e546943a93a52567",
   "lastOpenFiles": [
-    "02-atomic/1762270199-implementationofatemporaldifferencelearningagent.md",
     "02-atomic/1762270792-sarsa.md",
+    "02-atomic/1762270199-implementationofatemporaldifferencelearningagent.md",
     "02-atomic/1762271227-qlearning.md",
     "02-atomic/1762271593-sarsavsqlearning.md",
     "02-atomic/1762205273-temporaldifferencelearning.md",

@@ -288,7 +288,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -306,6 +307,8 @@
   },
   "active": "15b99d1b9654c828",
   "lastOpenFiles": [
+    "AGENTS.md",
+    "LICENSE",
     "02-atomic/1762205273-temporaldifferencelearning.md",
     "02-atomic/1755599732-machinelearning.md",
     "02-atomic/1761239355-episodicvscontinuingtasks.md",
@@ -332,7 +335,6 @@
     "02-atomic/1761747517-lsof.md",
     "02-atomic/1761736817-pytest.md",
     "02-atomic/1760115567-simplegeneticalgorithm.md",
-    "02-atomic/1760191333-uniformcrossover.md",
     "01-areas/2. HTB/HTB_Linux Fundamentals.canvas",
     "01-areas/3.Scout",
     "01-areas/2. HTB",
@@ -352,7 +354,6 @@
     "99-meta/00-attach/Screenshot 2024-09-24 at 1.55.20 PM.png",
     "99-meta/02-scripts/buscar_dudas.py",
     "99-meta/02-scripts/Dudas",
-    "99-meta/03-snippets",
     "01 - Areas/2. HTB/HTB_Linux Fundamentals.canvas",
     "01.Areas/1.UC3M/Movilidad.canvas",
     "01.Areas/3.Matterhorn/Tatto.canvas",

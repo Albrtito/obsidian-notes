@@ -11,7 +11,11 @@ tags:
 > All state values are initialized to zero and then updated. But how to updated them?
 
 >[!important] Properties:
-> - **no model of the enviroment**
+> - **no model of the enviroment:** They work by experience
+> - **fully incremental**
+> - **update befor knowing it all:** The update is only made based on the next stage. Then the full chain does not matter
+> - **less memory and computation**
+> - **convergent:** Under certain assumptions
 ## Intuition: 
 Intuition is how the agents in TDL update the state's value. It'll first initialize all states with a value of 0. Then do a run and update the sate with the reward obtained after performing some action from that state. After that the update is done using: 
 $$

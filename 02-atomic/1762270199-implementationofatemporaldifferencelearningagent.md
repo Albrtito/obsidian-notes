@@ -8,7 +8,7 @@ tags:
 > [!info] Intro: 
 > Given the most basic temporal different learning agent TD(0). We could implement this in the following way (pseudocode)
 
-```txt
+```pseudocode
 Input: the policy (pi) to be evlauated
 Initialize V(s) arbitrarily (with all equal to 0, usually)
 Repeat(for each episode):

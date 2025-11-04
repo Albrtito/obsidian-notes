@@ -78,9 +78,57 @@
               "icon": "lucide-file",
               "title": "1762270199-implementationofatemporaldifferencelearningagent"
             }
+          },
+          {
+            "id": "2d8db4b294c4a8e9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02-atomic/1762270792-sarsa.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "1762270792-sarsa"
+            }
+          },
+          {
+            "id": "28b13e073cb93fdb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02-atomic/1762271227-qlearning.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "1762271227-qlearning"
+            }
           }
         ],
-        "currentTab": 1,
+        "currentTab": 4,
         "stacked": true
       }
     ],
@@ -206,10 +254,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "02-atomic/1762205273-temporaldifferencelearning.md"
+                "file": "02-atomic/1762271227-qlearning.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for 1762205273-temporaldifferencelearning"
+              "title": "File properties for 1762271227-qlearning"
             }
           },
           {
@@ -269,7 +317,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02-atomic/1762205273-temporaldifferencelearning.md",
+                "file": "02-atomic/1762271227-qlearning.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -305,7 +353,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 1762205273-temporaldifferencelearning"
+              "title": "Graph of 1762271227-qlearning"
             }
           }
         ]
@@ -329,8 +377,10 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "15b99d1b9654c828",
+  "active": "28b13e073cb93fdb",
   "lastOpenFiles": [
+    "02-atomic/1762270792-sarsa.md",
+    "02-atomic/1762271227-qlearning.md",
     "02-atomic/1762270199-implementationofatemporaldifferencelearningagent.md",
     "02-atomic/1762205273-temporaldifferencelearning.md",
     "02-atomic/1755599732-machinelearning.md",
@@ -358,8 +408,6 @@
     "02-atomic/1756215731-awesomeblogs.md",
     "02-atomic/1761231645-markovdecisionprocess.md",
     "02-atomic/1755695372-scrummodel.md",
-    "02-atomic/1761747517-lsof.md",
-    "02-atomic/1761736817-pytest.md",
     "01-areas/2. HTB/HTB_Linux Fundamentals.canvas",
     "01-areas/3.Scout",
     "01-areas/2. HTB",

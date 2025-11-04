@@ -17,5 +17,7 @@ This makes it so **sarsa(on policy)** goes for safer paths wile **q-learning(off
 
 ***
 ### Up
+- [[1762270792-sarsa|SARSA]]
+- [[1762271227-qlearning|Q-Learning]]
 ### Down
 ***

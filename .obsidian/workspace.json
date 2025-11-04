@@ -152,7 +152,7 @@
             }
           }
         ],
-        "currentTab": 1,
+        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -278,10 +278,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "02-atomic/1762205273-temporaldifferencelearning.md"
+                "file": "02-atomic/1762270199-implementationofatemporaldifferencelearningagent.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for 1762205273-temporaldifferencelearning"
+              "title": "File properties for 1762270199-implementationofatemporaldifferencelearningagent"
             }
           },
           {
@@ -341,7 +341,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02-atomic/1762205273-temporaldifferencelearning.md",
+                "file": "02-atomic/1762270199-implementationofatemporaldifferencelearningagent.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -377,7 +377,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 1762205273-temporaldifferencelearning"
+              "title": "Graph of 1762270199-implementationofatemporaldifferencelearningagent"
             }
           }
         ]
@@ -401,13 +401,13 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "15b99d1b9654c828",
+  "active": "5bb3d02796953295",
   "lastOpenFiles": [
-    "02-atomic/1762271593-sarsavsqlearning.md",
-    "02-atomic/1762271227-qlearning.md",
     "02-atomic/1762270792-sarsa.md",
-    "02-atomic/1762270199-implementationofatemporaldifferencelearningagent.md",
+    "02-atomic/1762271227-qlearning.md",
+    "02-atomic/1762271593-sarsavsqlearning.md",
     "02-atomic/1762205273-temporaldifferencelearning.md",
+    "02-atomic/1762270199-implementationofatemporaldifferencelearningagent.md",
     "02-atomic/1755599732-machinelearning.md",
     "98-ai",
     "AGENTS.md",

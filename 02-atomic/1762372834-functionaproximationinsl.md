@@ -1,8 +1,7 @@
 ---
 aliases:
-- function aproximation in SL
 tags:
-- ms
+  - ms
 ---
 # function aproximation in SL
 > [!info] Intro: 

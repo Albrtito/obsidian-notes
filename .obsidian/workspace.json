@@ -102,33 +102,9 @@
               "icon": "lucide-file",
               "title": "1762375806-deepqlearning"
             }
-          },
-          {
-            "id": "3561359082836f21",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "98-ai/1762373151-functionapproximationinreinforcementlearning.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "1762373151-functionapproximationinreinforcementlearning"
-            }
           }
         ],
-        "currentTab": 1,
+        "currentTab": 3,
         "stacked": true
       }
     ],
@@ -149,13 +125,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02-atomic/1762271227-qlearning.md",
+                "file": "02-atomic/1762375806-deepqlearning.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 1762271227-qlearning"
+              "title": "Outline of 1762375806-deepqlearning"
             }
           },
           {
@@ -256,10 +232,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "02-atomic/1762271227-qlearning.md"
+                "file": "02-atomic/1762375806-deepqlearning.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for 1762271227-qlearning"
+              "title": "File properties for 1762375806-deepqlearning"
             }
           },
           {
@@ -319,7 +295,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02-atomic/1762271227-qlearning.md",
+                "file": "02-atomic/1762375806-deepqlearning.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -355,7 +331,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 1762271227-qlearning"
+              "title": "Graph of 1762375806-deepqlearning"
             }
           }
         ]
@@ -378,13 +354,14 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "15b99d1b9654c828",
+  "active": "99c10255691c096c",
   "lastOpenFiles": [
+    "AGENTS.md",
     "98-ai/1762373151-functionapproximationinreinforcementlearning.md",
+    "02-atomic/1762271227-qlearning.md",
     "02-atomic/1762376174-thedeadlytriad.md",
     "02-atomic/1762375806-deepqlearning.md",
     "02-atomic/1762372834-functionaproximationinreinforcementlearning.md",
-    "02-atomic/1762271227-qlearning.md",
     "02-atomic/1762205273-temporaldifferencelearning.md",
     "02-atomic/1762372623-qmatrix.md",
     "02-atomic/1761231645-markovdecisionprocess.md",
@@ -397,7 +374,6 @@
     "02-atomic/1755515684-softwareproject.md",
     "02-atomic/1762271593-sarsavsqlearning.md",
     "98-ai",
-    "AGENTS.md",
     "LICENSE",
     "02-atomic/1761239355-episodicvscontinuingtasks.md",
     "99-meta/00-attach/greekalphabet.png",

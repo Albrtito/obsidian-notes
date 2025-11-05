@@ -62,4 +62,6 @@ Once we have some trial and error values on what the best actions are based on t
 ### Down
 - [[1762085025-actionvaluemethodsinrl|action-value methods in RL]]
 - [[1761237890-mdppolicy|policy]]
+- [[1761231645-markovdecisionprocess|markov decision process]]
+- [[1762205273-temporaldifferencelearning|temporal difference learning]]
 ***

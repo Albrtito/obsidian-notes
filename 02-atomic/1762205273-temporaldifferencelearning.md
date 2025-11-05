@@ -40,5 +40,7 @@ This method is the **simplest temporal-difference method TD(0)**
 ### Up
 - [[1762025473-reinforcementlearning|reinforcement learning]]
 ### Down
-- [[1761231645-markovdecisionprocess|markov decision process]]
+- [[1762270199-implementationofatemporaldifferencelearningagent|implementation of a temporal difference learning agent]]
+- [[1762270792-sarsa|SARSA]]
+- [[1762271227-qlearning|Q-Learning]]
 ***

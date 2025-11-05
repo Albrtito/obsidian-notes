@@ -48,6 +48,7 @@ $$
   
 ***
 ### Up
+- [[1762025473-reinforcementlearning|reinforcement learning]]
 ### Down
 - [[1761237890-mdppolicy|policy selection]]
 ***

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-atomic/1755599732-machinelearning.md",
+                "file": "02-atomic/1761231645-markovdecisionprocess.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "1755599732-machinelearning"
+              "title": "1761231645-markovdecisionprocess"
             }
           },
           {
@@ -56,12 +56,12 @@
             }
           },
           {
-            "id": "5bb3d02796953295",
+            "id": "358a5a8ddd0901fb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-atomic/1762270199-implementationofatemporaldifferencelearningagent.md",
+                "file": "02-atomic/1762372623-qmatrix.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,16 +76,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "1762270199-implementationofatemporaldifferencelearningagent"
+              "title": "1762372623-qmatrix"
             }
           },
           {
-            "id": "2d8db4b294c4a8e9",
+            "id": "512dc8c656365d3c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-atomic/1762270792-sarsa.md",
+                "file": "02-atomic/1762372834-functionaproximationinsl.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -100,59 +100,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "1762270792-sarsa"
-            }
-          },
-          {
-            "id": "28b13e073cb93fdb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02-atomic/1762271227-qlearning.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "1762271227-qlearning"
-            }
-          },
-          {
-            "id": "e546943a93a52567",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02-atomic/1755695372-scrummodel.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "1755695372-scrummodel"
+              "title": "1762372834-functionaproximationinsl"
             }
           }
         ],
-        "currentTab": 5,
+        "currentTab": 3,
         "stacked": true
       }
     ],
@@ -278,10 +230,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "02-atomic/1755695372-scrummodel.md"
+                "file": "02-atomic/1762372834-functionaproximationinsl.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for 1755695372-scrummodel"
+              "title": "File properties for 1762372834-functionaproximationinsl"
             }
           },
           {
@@ -341,7 +293,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02-atomic/1755695372-scrummodel.md",
+                "file": "02-atomic/1762372834-functionaproximationinsl.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -377,7 +329,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 1755695372-scrummodel"
+              "title": "Graph of 1762372834-functionaproximationinsl"
             }
           }
         ]
@@ -401,16 +353,21 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "e546943a93a52567",
+  "active": "512dc8c656365d3c",
   "lastOpenFiles": [
+    "02-atomic/1762372834-functionaproximationinsl.md",
+    "02-atomic/1762372623-qmatrix.md",
+    "02-atomic/1762205273-temporaldifferencelearning.md",
+    "02-atomic/1761231645-markovdecisionprocess.md",
+    "02-atomic/1762025473-reinforcementlearning.md",
+    "02-atomic/1755599732-machinelearning.md",
+    "02-atomic/1755695372-scrummodel.md",
+    "02-atomic/1762271227-qlearning.md",
+    "02-atomic/1762270792-sarsa.md",
+    "02-atomic/1762270199-implementationofatemporaldifferencelearningagent.md",
     "02-atomic/1755513982-softwareprojectmanagement.md",
     "02-atomic/1755515684-softwareproject.md",
     "02-atomic/1762271593-sarsavsqlearning.md",
-    "02-atomic/1762270792-sarsa.md",
-    "02-atomic/1762270199-implementationofatemporaldifferencelearningagent.md",
-    "02-atomic/1762271227-qlearning.md",
-    "02-atomic/1762205273-temporaldifferencelearning.md",
-    "02-atomic/1755599732-machinelearning.md",
     "98-ai",
     "AGENTS.md",
     "LICENSE",
@@ -420,7 +377,6 @@
     "02-atomic/1758157616-awesomedotfiles.md",
     "02-atomic/1755353757 - awesomemath.md",
     "02-atomic/1760048595-log.md",
-    "02-atomic/1762025473-reinforcementlearning.md",
     "02-atomic/1762091784-policy.md",
     "02-atomic/1762091835-greedypolicy.md",
     "02-atomic/1762085025-actionvaluemethodsinrl.md",
@@ -428,10 +384,6 @@
     "02-atomic/1762090583-stationaryvsnonstationaryrewarddistribution.md",
     "02-atomic/1762086887-explorationvsexploitation.md",
     "02-atomic/1762090993-untitledsuffix.md",
-    "02-atomic/OS_Theory_Ch_0_Presentation.md",
-    "02-atomic/C Basics.md",
-    "02-atomic/Pointers.md",
-    "02-atomic/1761249418-statevaluefunction.md",
     "01-areas/2. HTB/HTB_Linux Fundamentals.canvas",
     "01-areas/3.Scout",
     "01-areas/2. HTB",

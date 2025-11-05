@@ -26,5 +26,3 @@ tags:
 - [[1758644145-neuralnetworks|neural networks]]
 - [[1759827624-evolutionaryalgorithms|evolutionary algorithms]]
 - [[1762025473-reinforcementlearning|reinforcement learning]]
-	- [[1761231645-markovdecisionprocess|markov decision process]]
-	- [[1762205273-temporaldifferencelearning|temporal difference learning]]

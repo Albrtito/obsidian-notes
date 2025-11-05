@@ -19,6 +19,7 @@ Q(s,a,\theta) \approx q_{\pi}(s,a)
 $$
 **where:**
  - s,a,$\theta$ -> State,action, parameters
+ - **The parameters is what needs now to be updated every episode**
 The policy then acts **nearly greedy**, almost taking the max value proposed by the DNN.
 $$
 \pi(s) \approx arg\max_{a} Q(s,a,\theta)
@@ -37,8 +38,7 @@ U_{t} = R_{t+1} + \gamma\max_{a}Q(S_{t+1},a',\theta)
 $$
 **where:**
  - The new updated value is named U instead of Q as the Q function does not change based on the next value it takes. 
-
-
+ - This new version of Q-Learrning is called [[1762375806-deepqlearning|deep q-learning]]
 ***
 ### Up
 ### Down

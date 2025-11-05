@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-atomic/1762205273-temporaldifferencelearning.md",
+                "file": "02-atomic/1762271227-qlearning.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "1762205273-temporaldifferencelearning"
+              "title": "1762271227-qlearning"
             }
           },
           {
@@ -80,12 +80,12 @@
             }
           },
           {
-            "id": "512dc8c656365d3c",
+            "id": "99c10255691c096c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "98-ai/1762373151-functionapproximationinreinforcementlearning.md",
+                "file": "02-atomic/1762375806-deepqlearning.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -100,11 +100,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "1762373151-functionapproximationinreinforcementlearning"
+              "title": "1762375806-deepqlearning"
+            }
+          },
+          {
+            "id": "3561359082836f21",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02-atomic/1762376174-thedeadlytriad.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "1762376174-thedeadlytriad"
             }
           }
         ],
-        "currentTab": 2,
+        "currentTab": 3,
         "stacked": true
       }
     ],
@@ -125,13 +149,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02-atomic/1762372834-functionaproximationinreinforcementlearning.md",
+                "file": "02-atomic/1762375806-deepqlearning.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 1762372834-functionaproximationinreinforcementlearning"
+              "title": "Outline of 1762375806-deepqlearning"
             }
           },
           {
@@ -232,10 +256,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "02-atomic/1762372834-functionaproximationinreinforcementlearning.md"
+                "file": "02-atomic/1762375806-deepqlearning.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for 1762372834-functionaproximationinreinforcementlearning"
+              "title": "File properties for 1762375806-deepqlearning"
             }
           },
           {
@@ -295,7 +319,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02-atomic/1762372834-functionaproximationinreinforcementlearning.md",
+                "file": "02-atomic/1762375806-deepqlearning.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -331,7 +355,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 1762372834-functionaproximationinreinforcementlearning"
+              "title": "Graph of 1762375806-deepqlearning"
             }
           }
         ]
@@ -355,17 +379,19 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "358a5a8ddd0901fb",
+  "active": "99c10255691c096c",
   "lastOpenFiles": [
-    "02-atomic/1762372623-qmatrix.md",
-    "98-ai/1762373151-functionapproximationinreinforcementlearning.md",
+    "02-atomic/1762376174-thedeadlytriad.md",
+    "02-atomic/1762375806-deepqlearning.md",
     "02-atomic/1762372834-functionaproximationinreinforcementlearning.md",
+    "02-atomic/1762271227-qlearning.md",
     "02-atomic/1762205273-temporaldifferencelearning.md",
+    "98-ai/1762373151-functionapproximationinreinforcementlearning.md",
+    "02-atomic/1762372623-qmatrix.md",
     "02-atomic/1761231645-markovdecisionprocess.md",
     "02-atomic/1762025473-reinforcementlearning.md",
     "02-atomic/1755599732-machinelearning.md",
     "02-atomic/1755695372-scrummodel.md",
-    "02-atomic/1762271227-qlearning.md",
     "02-atomic/1762270792-sarsa.md",
     "02-atomic/1762270199-implementationofatemporaldifferencelearningagent.md",
     "02-atomic/1755513982-softwareprojectmanagement.md",
@@ -384,8 +410,6 @@
     "02-atomic/1762091835-greedypolicy.md",
     "02-atomic/1762085025-actionvaluemethodsinrl.md",
     "02-atomic/1761237890-mdppolicy.md",
-    "02-atomic/1762090583-stationaryvsnonstationaryrewarddistribution.md",
-    "02-atomic/1762086887-explorationvsexploitation.md",
     "01-areas/2. HTB/HTB_Linux Fundamentals.canvas",
     "01-areas/3.Scout",
     "01-areas/2. HTB",

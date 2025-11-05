@@ -1,9 +1,8 @@
 ---
 aliases:
-- Function Approximation in Reinforcement Learning
+  - Function Approximation in Reinforcement Learning
 tags:
-- reinforcementlearning
-- artificial
+  - artificial
 ---
 # Function Approximation in Reinforcement Learning
 > [!info] Intro: 

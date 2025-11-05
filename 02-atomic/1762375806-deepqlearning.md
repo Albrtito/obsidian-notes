@@ -12,7 +12,7 @@ tags:
 > - **deep q network (DQN)->** The DNN used to approximate the q values.
 ```pseudocode
 Parameters: step size alpha in [0,1], small epsilon > 0. 
-Init Q(s,a, theta) for all states and all actions A(s) arbitrarily except that the Q(terminal,*) = 0. 
+Init q(s,a,theta) for all states and all actions A(s) arbitrarily except that the Q(terminal,*) = 0. 
 Loop for each episode:
 	Init S
 	Loop for each step of episode:

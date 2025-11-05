@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-atomic/1762372834-functionaproximationinsl.md",
+                "file": "02-atomic/1762372834-functionaproximationinreinforcementlearning.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "1762372834-functionaproximationinsl"
+              "title": "1762372834-functionaproximationinreinforcementlearning"
             }
           },
           {
@@ -125,13 +125,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02-atomic/1762372834-functionaproximationinsl.md",
+                "file": "02-atomic/1762372834-functionaproximationinreinforcementlearning.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 1762372834-functionaproximationinsl"
+              "title": "Outline of 1762372834-functionaproximationinreinforcementlearning"
             }
           },
           {
@@ -232,10 +232,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "02-atomic/1762372834-functionaproximationinsl.md"
+                "file": "02-atomic/1762372834-functionaproximationinreinforcementlearning.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for 1762372834-functionaproximationinsl"
+              "title": "File properties for 1762372834-functionaproximationinreinforcementlearning"
             }
           },
           {
@@ -295,7 +295,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02-atomic/1762372834-functionaproximationinsl.md",
+                "file": "02-atomic/1762372834-functionaproximationinreinforcementlearning.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -331,14 +331,15 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 1762372834-functionaproximationinsl"
+              "title": "Graph of 1762372834-functionaproximationinreinforcementlearning"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -358,7 +359,7 @@
   "lastOpenFiles": [
     "02-atomic/1762372623-qmatrix.md",
     "98-ai/1762373151-functionapproximationinreinforcementlearning.md",
-    "02-atomic/1762372834-functionaproximationinsl.md",
+    "02-atomic/1762372834-functionaproximationinreinforcementlearning.md",
     "02-atomic/1762205273-temporaldifferencelearning.md",
     "02-atomic/1761231645-markovdecisionprocess.md",
     "02-atomic/1762025473-reinforcementlearning.md",

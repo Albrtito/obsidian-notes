@@ -34,14 +34,16 @@ $$
 >[!important] Properties:
 > 1. **Given transitivity {A,B} -> {C}; {A,C}->B and {C,B}->A:** The support for both cases will be the same (see that we are just joining and dividing by the total count), however the confidence will be different (the itemset below changes)
 
-## Selecting rules:
+## Creating and selecting rules:
 When creating this rules we would like to find **reliable rules** and make relations not only on correlation. In order to create reliable rules there are two important considerations, **support and confidence**. Based on this, when we look for rules we want that: 
 - The support >= minsup threshold
 - confidences >= minconf threshold
 
 Lets say we want to make a rule with items of some itemset X. We can perform binary partitions (cut the itemset into two pieces to create a rule X->Y). 
 Based on property 1 we can now say that any rule with those items will have the same amount of support. Then it is only a matter of choosing the relations with the best confidence (>= minconf). 
-This means that when selecting rules we can, before even partitioning, just compute the support for the initial itemsets and choose those with a high enough value (>= minsup)
+This means that when selecting rules we can, before even partitioning, just compute the support for the initial itemsets and choose those with a high enough value (>= minsup). 
+
+But first of all, how many possible sets are there with 
 
 ***
 ### Up

@@ -55,7 +55,7 @@ Multiplication of cardinalities is given by the product principle:
 
 
 ## The power set: 
-![[20240515 - 013337 - Definition - Power set|Power set]]
+![[1762459118-powerset|Power set]]
 
 
 ## Inclusion exclusion principle

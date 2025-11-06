@@ -18,7 +18,9 @@ cssclasses:
 - [Jim Nielsen](https://www.jim-nielsen.com): Designer and coder with a blog and micronotes posts. Looks interesting, also nice looking at at a glance of his subscriptions to magazines and other newsletters
 - [Kenneth Reitz:](https://kennethreitz.org) A lot of things, interesting person, interesting life. Interesting philosophy
 - [Lei Mao:](https://leimao.github.io) Meta engineer working in machine learning. Quite some academic achievements. A lot of different things on his blog. Not artiscially pleasing though. 
+- [Daniel Miesler](https://danielmiessler.com): Cybersecurity engineer
 ***
+
 ### Up
 ### Down
 - [[1761408116-kennethreitz|kenneth reitz]]

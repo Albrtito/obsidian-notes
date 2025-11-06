@@ -33,6 +33,7 @@ $$
 
 >[!important] Properties:
 > 1. **Given transitivity {A,B} -> {C}; {A,C}->B and {C,B}->A:** The support for both cases will be the same (see that we are just joining and dividing by the total count), however the confidence will be different (the itemset below changes)
+> 2. #incomplete Maybe add into the properties the math for the number of possible subsets and the number of possible rules.
 
 ## Creating and selecting rules:
 When creating this rules we would like to find **reliable rules** and make relations not only on correlation. In order to create reliable rules there are two important considerations, **support and confidence**. Based on this, when we look for rules we want that: 
@@ -46,10 +47,14 @@ This means that when selecting rules we can, before even partitioning, just comp
 But first of all, how many possible sets are there to create rules from? The answer is straight forward as all subsets can be obtained by the [[1762459118-powerset|Power set]]. 
 And now, how many rules can there be created:
 $$
-R = \sum^{d-1}_{k=1}[\binom{}]
+R = \sum^{d-1}_{k=1}\left[ \binom{d}{k}\times \sum^{d-k}_{j=1}\binom{d-k}{j} \right]
 $$
-**where:**
- - 
+- This grows... #duda exponentially?
+
+What this tells us is that there is a shit ton of possibilities, so going and bruteforcing it may just not be the best of ideas. What other options are there though?
+1. **Reduce number of candidates:** Reduce some items with some prunning. 
+2. **reduce the number of transactions:** Reduce the size 
+3. **Reduce the number of comparisons**
 
 ***
 ### Up

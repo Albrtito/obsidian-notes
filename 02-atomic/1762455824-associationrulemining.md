@@ -43,7 +43,13 @@ Lets say we want to make a rule with items of some itemset X. We can perform bin
 Based on property 1 we can now say that any rule with those items will have the same amount of support. Then it is only a matter of choosing the relations with the best confidence (>= minconf). 
 This means that when selecting rules we can, before even partitioning, just compute the support for the initial itemsets and choose those with a high enough value (>= minsup). 
 
-But first of all, how many possible sets are there with 
+But first of all, how many possible sets are there to create rules from? The answer is straight forward as all subsets can be obtained by the [[1762459118-powerset|Power set]]. 
+And now, how many rules can there be created:
+$$
+R = \sum^{d-1}_{k=1}[\binom{}]
+$$
+**where:**
+ - 
 
 ***
 ### Up

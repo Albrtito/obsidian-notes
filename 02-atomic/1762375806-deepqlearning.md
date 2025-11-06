@@ -10,17 +10,10 @@ tags:
 
 >[!example]- Dictionary:
 > - **deep q network (DQN)->** The DNN used to approximate the q values.
+
 ```pseudocode
-Parameters: step size alpha in [0,1], small epsilon > 0. 
-Init q(s,a,theta) for all states and all actions A(s) arbitrarily except that the Q(terminal,*) = 0. 
-Loop for each episode:
-	Init S
-	Loop for each step of episode:
-		Chose A from S using policy derived from ANN q(s,a,theta)
-		Take action A, observe R,S' 
-		theta <- theta + alpha[R_(t+1)+gamma max_(a)q(S_(t+1),a',theta)-q(S_t,A_t,theta)] gradient(q(S_t,A_t,theta))
-		S <- S';
-	until S is terminal
+(1) Take some action a and observe (s,a,s',r)
+(2) set U_t
 ```
 
 See that the update is now changing the parameters as that is what really changes the Q values. 

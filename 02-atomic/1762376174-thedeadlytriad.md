@@ -14,8 +14,7 @@ There are two possible solutions:
 2. Work around to address the instability that may lead to the divergence
 Lets go more deeply into this:
 
-## Solution 1:
-What do we get rid of?
+**What do we get rid of?**
 - Function approximation if the q-table is small, if not no way
 - Bootstraping is what we want for computational efficiency, saving all the sequence is just mad 
 

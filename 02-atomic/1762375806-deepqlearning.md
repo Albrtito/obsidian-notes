@@ -51,11 +51,17 @@ In order to solve this problems:
 ```pseudocode
 (1) Take some action a and observe (s,a,s',r), add it to B
 (2) sample mini-batch {s_j, a_j, s'_j,r_j} from B uniformly -- added from the experienced replay
-(3) set U_j = r_j + gamma max_a q(s'_j,a',theta) for all j
+(3) set U_j = r_j + gamma max_a q(s'_j,a',theta_T) for all j
 	or U_j = r_j if s'_j is terminal
 (4) theta <- theta + alpha sum_j([U_j - q(s_j,a_j,teta)] grad(q(s_j,a_j,theta)))
+(5) Only every some N steps: theta_T<- theta
+	Another option swould be to update doing:
+	theta_T <- tau theta_T + (1-tau)theta
+	(for tau < e.g., tau = 0.999)
 (5) Repeat
 ```
+
+
 ***
 ### Up
 ### Down

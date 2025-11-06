@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-atomic/1762376174-thedeadlytriad.md",
+                "file": "02-atomic/1762205273-temporaldifferencelearning.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -29,7 +29,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "1762376174-thedeadlytriad"
+              "title": "1762205273-temporaldifferencelearning"
             }
           }
         ]
@@ -191,10 +191,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "02-atomic/1762375806-deepqlearning.md"
+                "file": "02-atomic/1762205273-temporaldifferencelearning.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for 1762375806-deepqlearning"
+              "title": "File properties for 1762205273-temporaldifferencelearning"
             }
           },
           {
@@ -254,7 +254,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02-atomic/1762375806-deepqlearning.md",
+                "file": "02-atomic/1762205273-temporaldifferencelearning.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -290,7 +290,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 1762375806-deepqlearning"
+              "title": "Graph of 1762205273-temporaldifferencelearning"
             }
           }
         ]
@@ -314,19 +314,19 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "99c10255691c096c",
+  "active": "b7c7666e9ab8192c",
   "lastOpenFiles": [
+    "02-atomic/1762372834-functionaproximationinreinforcementlearning.md",
+    "02-atomic/1762025473-reinforcementlearning.md",
     "02-atomic/1762376174-thedeadlytriad.md",
     "02-atomic/1762375806-deepqlearning.md",
     "02-atomic/1761231645-markovdecisionprocess.md",
     "02-atomic/1762271227-qlearning.md",
-    "02-atomic/1762372834-functionaproximationinreinforcementlearning.md",
     "02-atomic/1756215731-awesomeblogs.md",
     "AGENTS.md",
     "98-ai/1762373151-functionapproximationinreinforcementlearning.md",
     "02-atomic/1762205273-temporaldifferencelearning.md",
     "02-atomic/1762372623-qmatrix.md",
-    "02-atomic/1762025473-reinforcementlearning.md",
     "02-atomic/1755599732-machinelearning.md",
     "02-atomic/1755695372-scrummodel.md",
     "02-atomic/1762270792-sarsa.md",

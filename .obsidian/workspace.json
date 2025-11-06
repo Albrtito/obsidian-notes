@@ -4,40 +4,8 @@
     "type": "split",
     "children": [
       {
-        "id": "caa9b777e9a391dd",
-        "type": "tabs",
-        "dimension": 39.0832328106152,
-        "children": [
-          {
-            "id": "b7c7666e9ab8192c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02-atomic/1762205273-temporaldifferencelearning.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "1762205273-temporaldifferencelearning"
-            }
-          }
-        ]
-      },
-      {
         "id": "0ba8a1118d05a2f1",
         "type": "tabs",
-        "dimension": 60.9167671893848,
         "children": [
           {
             "id": "99c10255691c096c",
@@ -45,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-atomic/1762375806-deepqlearning.md",
+                "file": "02-atomic/1755599732-machinelearning.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -60,10 +28,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "1762375806-deepqlearning"
+              "title": "1755599732-machinelearning"
+            }
+          },
+          {
+            "id": "e7a7163306f833f0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02-atomic/1762455824-associationrulemining.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "1762455824-associationrulemining"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -191,10 +184,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "02-atomic/1762205273-temporaldifferencelearning.md"
+                "file": "02-atomic/1762455824-associationrulemining.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for 1762205273-temporaldifferencelearning"
+              "title": "File properties for 1762455824-associationrulemining"
             }
           },
           {
@@ -254,7 +247,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02-atomic/1762205273-temporaldifferencelearning.md",
+                "file": "02-atomic/1762455824-associationrulemining.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -285,12 +278,12 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.3425072442693024,
+                  "scale": 0.23778673756847485,
                   "close": true
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 1762205273-temporaldifferencelearning"
+              "title": "Graph of 1762455824-associationrulemining"
             }
           }
         ]
@@ -314,20 +307,21 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "b7c7666e9ab8192c",
+  "active": "e7a7163306f833f0",
   "lastOpenFiles": [
+    "02-atomic/1762455824-associationrulemining.md",
+    "02-atomic/1755599732-machinelearning.md",
+    "02-atomic/1762375806-deepqlearning.md",
+    "02-atomic/1762205273-temporaldifferencelearning.md",
     "02-atomic/1762372834-functionaproximationinreinforcementlearning.md",
     "02-atomic/1762025473-reinforcementlearning.md",
     "02-atomic/1762376174-thedeadlytriad.md",
-    "02-atomic/1762375806-deepqlearning.md",
     "02-atomic/1761231645-markovdecisionprocess.md",
     "02-atomic/1762271227-qlearning.md",
     "02-atomic/1756215731-awesomeblogs.md",
     "AGENTS.md",
     "98-ai/1762373151-functionapproximationinreinforcementlearning.md",
-    "02-atomic/1762205273-temporaldifferencelearning.md",
     "02-atomic/1762372623-qmatrix.md",
-    "02-atomic/1755599732-machinelearning.md",
     "02-atomic/1755695372-scrummodel.md",
     "02-atomic/1762270792-sarsa.md",
     "02-atomic/1762270199-implementationofatemporaldifferencelearningagent.md",
@@ -344,7 +338,6 @@
     "02-atomic/1760048595-log.md",
     "02-atomic/1762091784-policy.md",
     "02-atomic/1762091835-greedypolicy.md",
-    "02-atomic/1762085025-actionvaluemethodsinrl.md",
     "01-areas/2. HTB/HTB_Linux Fundamentals.canvas",
     "01-areas/3.Scout",
     "01-areas/2. HTB",

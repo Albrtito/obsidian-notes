@@ -8,7 +8,10 @@ tags:
 > [!info] Intro: 
 > This note explains ways reduce the number of possible candidates (possible itemsets from which then create rules in ARM).  
 
-In order to do so we first need to realize that any subset of an itemset has at least the same support or more as its parent. $$ \forall X,V: (X\subseteq  Y) \Rightarrow s(X) \geq s(Y)$$
+>[!important] Properties:
+> 1. **anti-monotone property:** In order to do so we first need to realize that any subset of an itemset has at least the same support or more as its parent. $$ \forall X,V: (X\subseteq  Y) \Rightarrow s(X) \geq s(Y)$$
+
+
 Same thing works in the other direction. If a subset has some support, then any superset that contains it needs to have that support or less. 
 This can be used to prune the number of candidates by analising sets from those that only have one item onwards. This is called the **apriori principle**. 
 

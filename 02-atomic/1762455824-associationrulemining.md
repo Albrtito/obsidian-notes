@@ -37,7 +37,7 @@ $$
 > 3. **Number of possible rules:** For the number of possible rules given d items we sub the combinations of the first part X and then the possible combinations left for the second part Y. (X->Y)
 >    $$R = \sum^{d-1}_{k=1}\left[ \binom{d}{k}\times \sum^{d-k}_{j=1}\binom{d-k}{j} \right]$$
 
-## Creating and selecting rules:
+## Selecting and creating rules:
 When creating this rules we would like to find **reliable rules** and make relations not only on correlation. In order to create reliable rules there are two important considerations, **support and confidence**. Based on this, when we look for rules we want that: 
 - The support >= minsup threshold
 - confidences >= minconf threshold
@@ -45,7 +45,9 @@ When creating this rules we would like to find **reliable rules** and make relat
 Lets say we want to make a rule with items of some itemset X. We can perform binary partitions (cut the itemset into two pieces to create a rule X->Y). 
 Based on property 1 we can now say that any rule with those items will have the same amount of support. Then it is only a matter of choosing the relations with the best confidence (>= minconf). 
 
-This means that when selecting rules we can, before even partitioning, just compute the support for the initial itemsets and choose those with a high enough value (>= minsup). We say we are looking for [[1762530825-frequentitemsetsinarm|frequent itemsets in ARM]]
+This means that when selecting rules we can, before even partitioning, just compute the support for the initial itemsets and choose those with a high enough value (>= minsup). We say we are looking for [[1762530825-frequentitemsetsinarm|frequent itemsets in ARM]]. 
+
+Once we have found this frqeuent itemsets we'll go into [[1762533691-rulegenerationinarm|rule generation in ARM]]. 
 
 
 

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-atomic/1762530825-frequentitemsetsinarm.md",
+                "file": "02-atomic/1762529626-reductionofcandidatesinruleassociationmining.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "1762530825-frequentitemsetsinarm"
+              "title": "1762529626-reductionofcandidatesinruleassociationmining"
             }
           },
           {
@@ -78,9 +78,33 @@
               "icon": "lucide-file",
               "title": "1762455824-associationrulemining"
             }
+          },
+          {
+            "id": "6b4abedb2f93aed4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02-atomic/1762533691-rulegenerationinarm.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "1762533691-rulegenerationinarm"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -208,10 +232,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "02-atomic/1762455824-associationrulemining.md"
+                "file": "02-atomic/1762533691-rulegenerationinarm.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for 1762455824-associationrulemining"
+              "title": "File properties for 1762533691-rulegenerationinarm"
             }
           },
           {
@@ -220,7 +244,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02-atomic/1762455824-associationrulemining.md",
+                "file": "02-atomic/1762533691-rulegenerationinarm.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -230,7 +254,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 1762455824-associationrulemining"
+              "title": "Backlinks for 1762533691-rulegenerationinarm"
             }
           },
           {
@@ -239,12 +263,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02-atomic/1762455824-associationrulemining.md",
+                "file": "02-atomic/1762533691-rulegenerationinarm.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 1762455824-associationrulemining"
+              "title": "Outgoing links from 1762533691-rulegenerationinarm"
             }
           },
           {
@@ -274,7 +298,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02-atomic/1762455824-associationrulemining.md",
+                "file": "02-atomic/1762533691-rulegenerationinarm.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -310,7 +334,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 1762455824-associationrulemining"
+              "title": "Graph of 1762533691-rulegenerationinarm"
             }
           }
         ]
@@ -334,13 +358,14 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "39231fb6a333b803",
+  "active": "6b4abedb2f93aed4",
   "lastOpenFiles": [
-    "02-atomic/1762532451-reductionofthenumberofcomparisonsinarm.md",
-    "02-atomic/1762528990-apriorialgorithm.md",
-    "02-atomic/1762530825-frequentitemsetsinarm.md",
     "02-atomic/1762455824-associationrulemining.md",
+    "02-atomic/1762532451-reductionofthenumberofcomparisonsinarm.md",
     "02-atomic/1762529626-reductionofcandidatesinruleassociationmining.md",
+    "02-atomic/1762530825-frequentitemsetsinarm.md",
+    "02-atomic/1762533691-rulegenerationinarm.md",
+    "02-atomic/1762528990-apriorialgorithm.md",
     "02-atomic/1755599732-machinelearning.md",
     "02-atomic/20240205 - 000000 - Elementary Combinatorics.md",
     "02-atomic/1762459118-powerset.md",
@@ -362,7 +387,6 @@
     "02-atomic/1762270792-sarsa.md",
     "02-atomic/1762270199-implementationofatemporaldifferencelearningagent.md",
     "02-atomic/1755513982-softwareprojectmanagement.md",
-    "02-atomic/1755515684-softwareproject.md",
     "98-ai",
     "LICENSE",
     "01-areas/2. HTB/HTB_Linux Fundamentals.canvas",

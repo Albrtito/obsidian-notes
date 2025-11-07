@@ -56,30 +56,6 @@
             }
           },
           {
-            "id": "d75ee4067113a764",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02-atomic/1762528990-apriorialgorithm.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "1762528990-apriorialgorithm"
-            }
-          },
-          {
             "id": "cb45dac241f51a32",
             "type": "leaf",
             "state": {
@@ -104,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -232,10 +208,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "02-atomic/1762529626-reductionofcandidatesinruleassociationmining.md"
+                "file": "02-atomic/1762455824-associationrulemining.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for 1762529626-reductionofcandidatesinruleassociationmining"
+              "title": "File properties for 1762455824-associationrulemining"
             }
           },
           {
@@ -244,7 +220,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02-atomic/1762529626-reductionofcandidatesinruleassociationmining.md",
+                "file": "02-atomic/1762455824-associationrulemining.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -254,7 +230,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 1762529626-reductionofcandidatesinruleassociationmining"
+              "title": "Backlinks for 1762455824-associationrulemining"
             }
           },
           {
@@ -263,12 +239,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02-atomic/1762529626-reductionofcandidatesinruleassociationmining.md",
+                "file": "02-atomic/1762455824-associationrulemining.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 1762529626-reductionofcandidatesinruleassociationmining"
+              "title": "Outgoing links from 1762455824-associationrulemining"
             }
           },
           {
@@ -298,7 +274,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02-atomic/1762529626-reductionofcandidatesinruleassociationmining.md",
+                "file": "02-atomic/1762455824-associationrulemining.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -334,7 +310,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 1762529626-reductionofcandidatesinruleassociationmining"
+              "title": "Graph of 1762455824-associationrulemining"
             }
           }
         ]
@@ -358,17 +334,17 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "cb45dac241f51a32",
+  "active": "e7a7163306f833f0",
   "lastOpenFiles": [
-    "02-atomic/1762528990-apriorialgorithm.md",
+    "02-atomic/1755599732-machinelearning.md",
     "02-atomic/1762455824-associationrulemining.md",
+    "02-atomic/1762528990-apriorialgorithm.md",
     "02-atomic/1762529626-reductionofcandidatesinruleassociationmining.md",
     "02-atomic/20240205 - 000000 - Elementary Combinatorics.md",
     "02-atomic/1762459118-powerset.md",
     "02-atomic/1762459299-untitledsuffix.md",
     "02-atomic/20240515 - 013337 - Definition - Power set.md",
     "99-meta/00-attach/greekalphabet.png",
-    "02-atomic/1755599732-machinelearning.md",
     "02-atomic/1762375806-deepqlearning.md",
     "02-atomic/1762205273-temporaldifferencelearning.md",
     "02-atomic/1762372834-functionaproximationinreinforcementlearning.md",

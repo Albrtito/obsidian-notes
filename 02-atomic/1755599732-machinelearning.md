@@ -26,3 +26,4 @@ tags:
 - [[1758644145-neuralnetworks|neural networks]]
 - [[1759827624-evolutionaryalgorithms|evolutionary algorithms]]
 - [[1762025473-reinforcementlearning|reinforcement learning]]
+	- [[1762455824-associationrulemining|association rule mining]]

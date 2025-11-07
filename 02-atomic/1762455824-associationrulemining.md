@@ -47,6 +47,7 @@ Based on property 1 we can now say that any rule with those items will have the 
 This means that when selecting rules we can, before even partitioning, just compute the support for the initial itemsets and choose those with a high enough value (>= minsup). 
 
 Without applying any operations on the possible itemsets bruteforcing this wont be efficient at all. The number of itemsets grows exponentially. To solve this prunning techniques are used, such as:
+- [[1762529626-reductionofcandidatesinruleassociationmining|reduction of candidates in rule association mining]]
 
 
 

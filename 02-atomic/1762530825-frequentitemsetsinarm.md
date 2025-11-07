@@ -13,7 +13,7 @@ tags:
 
 Without applying any operations on the possible itemsets bruteforcing this wont be efficient at all. The number of itemsets grows exponentially. To solve this prunning techniques are used, such as:
 - [[1762529626-reductionofcandidatesinruleassociationmining|reduction of candidates in rule association mining]]
-- 
+- [[1762532451-reductionofthenumberofcomparisonsinarm|reduction of the number of comparisons in ARM]]
 ***
 ### Up
 ### Down

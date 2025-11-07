@@ -220,14 +220,6 @@
       "key": "H"
     }
   ],
-  "editor:insert-callout": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "A"
-    }
-  ],
   "insert-current-date": [
     {
       "modifiers": [
@@ -236,5 +228,13 @@
       "key": "D"
     }
   ],
-  "editor:delete-paragraph": []
+  "editor:delete-paragraph": [],
+  "editor:insert-callout": [
+    {
+      "modifiers": [
+        "Ctrl"
+      ],
+      "key": "C"
+    }
+  ]
 }

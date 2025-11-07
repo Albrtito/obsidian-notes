@@ -33,7 +33,9 @@ $$
 
 >[!important] Properties:
 > 1. **Given transitivity {A,B} -> {C}; {A,C}->B and {C,B}->A:** The support for both cases will be the same (see that we are just joining and dividing by the total count), however the confidence will be different (the itemset below changes)
-> 2. #incomplete Maybe add into the properties the math for the number of possible subsets and the number of possible rules.
+> 2. **Number of possible subsets:** But first of all, how many possible sets are there to create rules from? The answer is straight forward as all subsets can be obtained by the [[1762459118-powerset|Power set]]. 
+> 3. **Number of possible rules:** For the number of possible rules given d items we sub the combinations of the first part X and then the possible combinations left for the second part Y. (X->Y)
+>    $$R = \sum^{d-1}_{k=1}\left[ \binom{d}{k}\times \sum^{d-k}_{j=1}\binom{d-k}{j} \right]$$
 
 ## Creating and selecting rules:
 When creating this rules we would like to find **reliable rules** and make relations not only on correlation. In order to create reliable rules there are two important considerations, **support and confidence**. Based on this, when we look for rules we want that: 
@@ -44,21 +46,9 @@ Lets say we want to make a rule with items of some itemset X. We can perform bin
 Based on property 1 we can now say that any rule with those items will have the same amount of support. Then it is only a matter of choosing the relations with the best confidence (>= minconf). 
 This means that when selecting rules we can, before even partitioning, just compute the support for the initial itemsets and choose those with a high enough value (>= minsup). 
 
-But first of all, how many possible sets are there to create rules from? The answer is straight forward as all subsets can be obtained by the [[1762459118-powerset|Power set]]. 
-And now, how many rules can there be created:
-$$
-R = \sum^{d-1}_{k=1}\left[ \binom{d}{k}\times \sum^{d-k}_{j=1}\binom{d-k}{j} \right]
-$$
-- This grows... #duda exponentially?
+Without applying any operations on the possible itemsets bruteforcing this wont be efficient at all. The number of itemsets grows exponentially. To solve this prunning techniques are used, such as:
 
-What this tells us is that there is a shit ton of possibilities, so going and bruteforcing it may just not be the best of ideas. What other options are there though?
-1. **Reduce number of candidates:** Reduce some items with some prunning.
-   In order to do so we first need to realize that any subset of an itemset has at least the same support or more as its parent. $$ \forall X,V: (X\subseteq  Y) \Rightarrow s(X) \geq s(Y)$$ Same thing works in the other direction. If a subset has some support, then any superset that contains it needs to have that support or less. 
-   This can be used to prune the number of candidates by analising sets from those that only have one item onwards. 
-   > If item A has a support of 0.4 then no set containing A can have a greater support than 0.4. 
-   > If some itemset already has a support < minsup then we can disregard any set that uses that item. 
-2. **reduce the number of transactions:** Reduce the size 
-3. **Reduce the number of comparisons**
+
 
 ***
 ### Up

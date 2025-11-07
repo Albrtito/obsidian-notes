@@ -80,16 +80,31 @@
             }
           },
           {
-            "id": "bea03b52aa1a184f",
+            "id": "8bfb2daa00823732",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "02-atomic/1762532451-reductionofthenumberofcomparisonsinarm.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "1762532451-reductionofthenumberofcomparisonsinarm"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -217,10 +232,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "02-atomic/1762529626-reductionofcandidatesinruleassociationmining.md"
+                "file": "02-atomic/1762532451-reductionofthenumberofcomparisonsinarm.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for 1762529626-reductionofcandidatesinruleassociationmining"
+              "title": "File properties for 1762532451-reductionofthenumberofcomparisonsinarm"
             }
           },
           {
@@ -229,7 +244,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02-atomic/1762529626-reductionofcandidatesinruleassociationmining.md",
+                "file": "02-atomic/1762532451-reductionofthenumberofcomparisonsinarm.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -239,7 +254,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 1762529626-reductionofcandidatesinruleassociationmining"
+              "title": "Backlinks for 1762532451-reductionofthenumberofcomparisonsinarm"
             }
           },
           {
@@ -248,12 +263,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02-atomic/1762529626-reductionofcandidatesinruleassociationmining.md",
+                "file": "02-atomic/1762532451-reductionofthenumberofcomparisonsinarm.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 1762529626-reductionofcandidatesinruleassociationmining"
+              "title": "Outgoing links from 1762532451-reductionofthenumberofcomparisonsinarm"
             }
           },
           {
@@ -283,7 +298,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02-atomic/1762529626-reductionofcandidatesinruleassociationmining.md",
+                "file": "02-atomic/1762532451-reductionofthenumberofcomparisonsinarm.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -319,7 +334,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 1762529626-reductionofcandidatesinruleassociationmining"
+              "title": "Graph of 1762532451-reductionofthenumberofcomparisonsinarm"
             }
           }
         ]
@@ -343,8 +358,9 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "99c10255691c096c",
+  "active": "8bfb2daa00823732",
   "lastOpenFiles": [
+    "02-atomic/1762532451-reductionofthenumberofcomparisonsinarm.md",
     "02-atomic/1762530825-frequentitemsetsinarm.md",
     "02-atomic/1762455824-associationrulemining.md",
     "02-atomic/1762529626-reductionofcandidatesinruleassociationmining.md",
@@ -371,7 +387,6 @@
     "02-atomic/1762270199-implementationofatemporaldifferencelearningagent.md",
     "02-atomic/1755513982-softwareprojectmanagement.md",
     "02-atomic/1755515684-softwareproject.md",
-    "02-atomic/1762271593-sarsavsqlearning.md",
     "98-ai",
     "LICENSE",
     "01-areas/2. HTB/HTB_Linux Fundamentals.canvas",

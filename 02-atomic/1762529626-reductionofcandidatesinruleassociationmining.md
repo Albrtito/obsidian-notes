@@ -10,13 +10,15 @@ tags:
 
 In order to do so we first need to realize that any subset of an itemset has at least the same support or more as its parent. $$ \forall X,V: (X\subseteq  Y) \Rightarrow s(X) \geq s(Y)$$
 Same thing works in the other direction. If a subset has some support, then any superset that contains it needs to have that support or less. 
-This can be used to prune the number of candidates by analising sets from those that only have one item onwards. This is called the **apriori principle**
+This can be used to prune the number of candidates by analising sets from those that only have one item onwards. This is called the **apriori principle**. 
 
    > If item A has a support of 0.4 then no set containing A can have a greater support than 0.4. 
    > If some itemset already has a support < minsup then we can disregard any set that uses that item. 
+
+Once we have reduced the number of candidates the next step is to reduce the number of comparisons between the 
 ***
 ### Up
-- [[1762455824-associationrulemining|ARM]]
+- [[1762530825-frequentitemsetsinarm|frequent itemsets in ARM]]
 ### Down
 - [[1762528990-apriorialgorithm|apriori algorithm]]
 ***

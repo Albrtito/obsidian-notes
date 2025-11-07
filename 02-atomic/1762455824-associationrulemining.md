@@ -44,10 +44,9 @@ When creating this rules we would like to find **reliable rules** and make relat
 
 Lets say we want to make a rule with items of some itemset X. We can perform binary partitions (cut the itemset into two pieces to create a rule X->Y). 
 Based on property 1 we can now say that any rule with those items will have the same amount of support. Then it is only a matter of choosing the relations with the best confidence (>= minconf). 
-This means that when selecting rules we can, before even partitioning, just compute the support for the initial itemsets and choose those with a high enough value (>= minsup). 
 
-Without applying any operations on the possible itemsets bruteforcing this wont be efficient at all. The number of itemsets grows exponentially. To solve this prunning techniques are used, such as:
-- [[1762529626-reductionofcandidatesinruleassociationmining|reduction of candidates in rule association mining]]
+This means that when selecting rules we can, before even partitioning, just compute the support for the initial itemsets and choose those with a high enough value (>= minsup). We say we are looking for [[1762530825-frequentitemsetsinarm|frequent itemsets in ARM]]
+
 
 
 

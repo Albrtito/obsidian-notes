@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-atomic/1755599732-machinelearning.md",
+                "file": "02-atomic/1762529626-reductionofcandidatesinruleassociationmining.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "1755599732-machinelearning"
+              "title": "1762529626-reductionofcandidatesinruleassociationmining"
             }
           },
           {
@@ -56,12 +56,12 @@
             }
           },
           {
-            "id": "cb45dac241f51a32",
+            "id": "da721dc20ee51bcb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-atomic/1762529626-reductionofcandidatesinruleassociationmining.md",
+                "file": "02-atomic/1762530825-frequentitemsetsinarm.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,11 +76,20 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "1762529626-reductionofcandidatesinruleassociationmining"
+              "title": "1762530825-frequentitemsetsinarm"
+            }
+          },
+          {
+            "id": "bea03b52aa1a184f",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -208,10 +217,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "02-atomic/1762455824-associationrulemining.md"
+                "file": "02-atomic/1762529626-reductionofcandidatesinruleassociationmining.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for 1762455824-associationrulemining"
+              "title": "File properties for 1762529626-reductionofcandidatesinruleassociationmining"
             }
           },
           {
@@ -220,7 +229,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02-atomic/1762455824-associationrulemining.md",
+                "file": "02-atomic/1762529626-reductionofcandidatesinruleassociationmining.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -230,7 +239,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 1762455824-associationrulemining"
+              "title": "Backlinks for 1762529626-reductionofcandidatesinruleassociationmining"
             }
           },
           {
@@ -239,12 +248,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02-atomic/1762455824-associationrulemining.md",
+                "file": "02-atomic/1762529626-reductionofcandidatesinruleassociationmining.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 1762455824-associationrulemining"
+              "title": "Outgoing links from 1762529626-reductionofcandidatesinruleassociationmining"
             }
           },
           {
@@ -274,7 +283,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02-atomic/1762455824-associationrulemining.md",
+                "file": "02-atomic/1762529626-reductionofcandidatesinruleassociationmining.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -310,7 +319,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 1762455824-associationrulemining"
+              "title": "Graph of 1762529626-reductionofcandidatesinruleassociationmining"
             }
           }
         ]
@@ -334,12 +343,13 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "e7a7163306f833f0",
+  "active": "99c10255691c096c",
   "lastOpenFiles": [
-    "02-atomic/1755599732-machinelearning.md",
+    "02-atomic/1762530825-frequentitemsetsinarm.md",
     "02-atomic/1762455824-associationrulemining.md",
-    "02-atomic/1762528990-apriorialgorithm.md",
     "02-atomic/1762529626-reductionofcandidatesinruleassociationmining.md",
+    "02-atomic/1755599732-machinelearning.md",
+    "02-atomic/1762528990-apriorialgorithm.md",
     "02-atomic/20240205 - 000000 - Elementary Combinatorics.md",
     "02-atomic/1762459118-powerset.md",
     "02-atomic/1762459299-untitledsuffix.md",
@@ -364,7 +374,6 @@
     "02-atomic/1762271593-sarsavsqlearning.md",
     "98-ai",
     "LICENSE",
-    "02-atomic/1761239355-episodicvscontinuingtasks.md",
     "01-areas/2. HTB/HTB_Linux Fundamentals.canvas",
     "01-areas/3.Scout",
     "01-areas/2. HTB",

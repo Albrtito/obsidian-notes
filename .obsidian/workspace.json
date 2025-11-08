@@ -67,7 +67,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#machine-learning",
+                "query": "tag:#algorithm",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -132,14 +132,13 @@
                 "sortOrder": "frequency",
                 "useHierarchy": true,
                 "showSearch": true,
-                "searchQuery": "machine"
+                "searchQuery": "algo"
               },
               "icon": "lucide-tags",
               "title": "Tags"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -250,14 +249,16 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "b89f836cb1d8a8cd",
+  "active": "6b4abedb2f93aed4",
   "lastOpenFiles": [
+    "02-atomic/1760048595-log.md",
+    "AGENTS.md",
+    "98-ai/02-atomic/1762642172 - Algorithm - K-means clustering.md",
+    "98-ai/02-atomic/1762641781-kmeansclustering.md",
     "98-ai/02-atomic",
     "02-atomic/1725229055 - SOme title.md",
-    "AGENTS.md",
     "98-ai/01-scripts",
     "99-meta/01-templ/noteTemplate.md",
-    "02-atomic/1760048595-log.md",
     "98-ai/1762373189-gradientdescentvisualizationdemo.md",
     "98-ai/gradient_descent_demo/AGENTSj-1.py",
     "98-ai/gradient_descent_demo/README.md",
@@ -273,7 +274,6 @@
     "98-ai/1758734414-gradientdescentj-4.py",
     "98-ai/1758734414-gradientdescentj-3.py",
     "98-ai/1758734414-gradientdescentj-2.py",
-    "98-ai/1758734414-gradientdescentj-1.py",
     "02-atomic/1758732030-regression.md",
     "02-atomic/1758821790-suportvectormachine.md",
     "02-atomic/1762635224-dimensionalityreduction.md",
@@ -287,7 +287,6 @@
     "02-atomic/1756374614-overfittingandunderfitting.md",
     "02-atomic/1756374897-solutionsforoverfitting.md",
     "02-atomic/1756375056-crossvalidation.md",
-    "02-atomic/1760194075-realvaluerepresentationingeneticalgorithms.md",
     "99-meta/00-attach/greekalphabet.png",
     "01-areas/2. HTB/HTB_Linux Fundamentals.canvas",
     "99-meta/00-attach/Truth table of the negation connective.png",

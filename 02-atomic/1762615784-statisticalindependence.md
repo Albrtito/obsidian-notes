@@ -19,8 +19,21 @@ Seen from a [[1745501224 - Theorem - Conditional probability|Conditional probabi
 > • Rolling dice multiple times
 > • Drawing cards with replacement
 
-If two variables are not independent then the correlation between them can be mea
-
+If two variables are not independent then the correlation between them can be measured. 
+They'll have a **possitive correlation** if: 
+$$
+P(X|Y) > P(X)
+$$
+And a **negative correlation if:**
+$$
+P(X|Y) < P(X)
+$$
+When the measurement is expressed as P(X|Y)/P(x) it's called **lift:**
+$$
+\text{Lift}=\frac{P(X|Y)}{P(X)}
+$$
+**where:**
+ - The lift can be > 1 for positive correlation. 1 for no correlation (independence) and <1 for negative correlation. 
 ***
 ### Up
 ### Down

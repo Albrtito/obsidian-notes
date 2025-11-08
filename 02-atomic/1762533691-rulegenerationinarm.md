@@ -17,6 +17,7 @@ Same as with the generation of frequent subsets we can generate a lattice with a
 However the algorithms creating this rule association tend to produce to many rules making many of then uninteresting or redundant.
 To analyze the created rules we can use several measures: 
 - [[1762614316-contingencytableinarm|contingency table in ARM]]
+- [[1762617187-statisticalindependenceinarm|statistical independence in ARM]]
 
 ***
 ### Up

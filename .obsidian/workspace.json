@@ -250,8 +250,9 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "6b4abedb2f93aed4",
+  "active": "b89f836cb1d8a8cd",
   "lastOpenFiles": [
+    "98-ai/02-atomic",
     "02-atomic/1725229055 - SOme title.md",
     "AGENTS.md",
     "98-ai/01-scripts",
@@ -287,7 +288,6 @@
     "02-atomic/1756374897-solutionsforoverfitting.md",
     "02-atomic/1756375056-crossvalidation.md",
     "02-atomic/1760194075-realvaluerepresentationingeneticalgorithms.md",
-    "02-atomic/1762622599-usingeastoselectfeatures.md",
     "99-meta/00-attach/greekalphabet.png",
     "01-areas/2. HTB/HTB_Linux Fundamentals.canvas",
     "99-meta/00-attach/Truth table of the negation connective.png",

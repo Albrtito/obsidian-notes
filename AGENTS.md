@@ -1,5 +1,18 @@
 # AGENTS.md - Coding Guidelines for Obsidian Vault
 
+## CRITICAL FILE MODIFICATION RULES
+
+**ABSOLUTELY FORBIDDEN**: Never modify, edit, or delete any files in:
+- `02-atomic/` folder
+- `01-areas/` folder
+- Any folder except `98-ai/`
+
+**AI-GENERATED CONTENT ONLY**: All AI-created notes must be placed in `98-ai/` folder only. No exceptions.
+
+**VIOLATION CONSEQUENCES**: Breaking these rules corrupts the vault's integrity and atomic note structure.
+
+---
+
 ## 1. Build/Lint/Test Commands
 
 1.1 **Run Python script**: `cd 99-meta/02-scripts && python buscar_dudas.py`
@@ -25,7 +38,7 @@
 
 ## 4. AI-Generated Notes Rules
 
-4.1 **Critical**: Never modify files in 02-atomic, 01-areas, or any folder except 98-ai
+4.1 **ABSOLUTELY FORBIDDEN**: Never modify, edit, or delete files in 02-atomic, 01-areas, or any folder except 98-ai. This rule cannot be broken under any circumstances.
 4.2 **Location**: All AI notes must go in `98-ai` folder - no exceptions
 4.3 **Tag**: Include 'artificial' tag to mark as AI-generated
 4.4 **Format**: Must follow noteTemplate.md exactly - intro callout, Up/Down sections required
@@ -36,4 +49,5 @@
 4.9 **Improvement**: AI models should update AGENTS.md to refine guidelines based on output quality, without altering existing rules
 4.10 **Best practice**: Create multiple small atomic notes, then one joining note
 4.11 **Tag restriction**: Never create new tags except 'artificial'. Only use tags that already exist in the vault. Before adding any tag, verify it exists in other notes. The only exception is the 'artificial' tag which must be added to all AI-generated notes
+4.12 **Existing notes**: If you find empty or incomplete notes in 02-atomic, create new comprehensive notes in 98-ai and link to them. Never modify existing atomic notes.
 

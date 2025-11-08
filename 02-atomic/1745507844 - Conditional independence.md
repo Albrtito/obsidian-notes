@@ -9,6 +9,7 @@ cssclasses:
 # Conditional independence
 > [!NOTE] Intro: 
 > Two variables are conditionally indpendent given some variable when knowing one of them does not affect the other one
+> $$P(A|B) = P(A) \land P(B|A) = P(B)$$
 
 > f.e: If X and Y are conditionally independent given Z:
 > $$

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AGENTS.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,31 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "AGENTS"
+              "title": "README"
+            }
+          },
+          {
+            "id": "fc54a6c34baf6c96",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02-atomic/1762634550-supervisedlearning.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "1762634550-supervisedlearning"
             }
           }
         ],
@@ -138,7 +162,8 @@
               "title": "Tags"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -158,10 +183,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "AGENTS.md"
+                "file": "README.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for AGENTS"
+              "title": "File properties for README"
             }
           },
           {
@@ -190,7 +215,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "AGENTS.md",
+                "file": "README.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -226,7 +251,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of AGENTS"
+              "title": "Graph of README"
             }
           }
         ]
@@ -251,8 +276,11 @@
   },
   "active": "6b4abedb2f93aed4",
   "lastOpenFiles": [
-    "02-atomic/1760048595-log.md",
+    "02-atomic/1762634550-supervisedlearning.md",
+    "02-atomic/1755599732-machinelearning.md",
+    "README.md",
     "AGENTS.md",
+    "02-atomic/1760048595-log.md",
     "98-ai/02-atomic/1762642172 - Algorithm - K-means clustering.md",
     "98-ai/02-atomic/1762641781-kmeansclustering.md",
     "98-ai/02-atomic",
@@ -263,7 +291,6 @@
     "98-ai/gradient_descent_demo/AGENTSj-1.py",
     "98-ai/gradient_descent_demo/README.md",
     "98-ai/gradient_descent_demo/AGENTSj.py",
-    "02-atomic/1755599732-machinelearning.md",
     "98-ai/gradient_descent_demo/1755599732-machinelearningj.py",
     "98-ai/gradient_descent_demo",
     "98-ai/1762373159-gradientdescentsummary.md",
@@ -279,14 +306,12 @@
     "02-atomic/1762635224-dimensionalityreduction.md",
     "02-atomic/1762634978-unsupervisedlearning.md",
     "02-atomic/1762635283-untitledsuffix.md",
-    "02-atomic/1762634550-supervisedlearning.md",
     "02-atomic/1762025473-reinforcementlearning.md",
     "02-atomic/1757411969-boosting.md",
     "02-atomic/1758656696-gradientboosting.md",
     "02-atomic/1757407129-ensemblemethods.md",
     "02-atomic/1756374614-overfittingandunderfitting.md",
     "02-atomic/1756374897-solutionsforoverfitting.md",
-    "02-atomic/1756375056-crossvalidation.md",
     "99-meta/00-attach/greekalphabet.png",
     "01-areas/2. HTB/HTB_Linux Fundamentals.canvas",
     "99-meta/00-attach/Truth table of the negation connective.png",

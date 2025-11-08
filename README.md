@@ -1,7 +1,8 @@
 # README
-Personal collection of notes in an obsidian-like structure, currently using them within the obsidia [nvim plugin](https://github.com/epwalsh/obsidian.nvim) 
+>[!info] Intro:
+> Personal collection of notes. All my digital notes from 2023 until now. Currently most of the no
 
 
-## Future changes: 
-- Thinking about migrating into [zk](https://github.com/zk-org/zk)  instead of obsidian
+
+
 

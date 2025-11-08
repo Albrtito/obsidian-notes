@@ -13,7 +13,6 @@ tags:
 
 
 ***
-
 ### Up
 ### Down
 > [!attention] MOC
@@ -21,11 +20,10 @@ tags:
 
 The contents are divided into: 
 - [[1762634550-supervisedlearning|supervised learning]]
-- 
 	- [[1762455824-associationrulemining|association rule mining]]
+- [[1762634978-unsupervisedlearning|unsupervised learning]]
 - [[1762025473-reinforcementlearning|reinforcement learning]]
 - **optimization:**
 	- [[1759827624-evolutionaryalgorithms|evolutionary algorithms]]
 - **general:**
 	- [[1762635224-dimensionalityreduction|dimensionality reduction]]
-	- 

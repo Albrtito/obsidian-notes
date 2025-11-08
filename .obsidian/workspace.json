@@ -37,6 +37,30 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "02-atomic/1760194075-realvaluerepresentationingeneticalgorithms.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "1760194075-realvaluerepresentationingeneticalgorithms"
+            }
+          },
+          {
+            "id": "2ddfb00e5e1a2f48",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "02-atomic/1762622599-usingeastoselectfeatures.md",
                 "mode": "source",
                 "source": false,
@@ -54,9 +78,19 @@
               "icon": "lucide-file",
               "title": "1762622599-usingeastoselectfeatures"
             }
+          },
+          {
+            "id": "560e2887fd90382b",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -183,11 +217,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "02-atomic/1762622599-usingeastoselectfeatures.md"
-              },
+              "state": {},
               "icon": "lucide-info",
-              "title": "File properties for 1762622599-usingeastoselectfeatures"
+              "title": "File properties"
             }
           },
           {
@@ -216,7 +248,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02-atomic/1762622599-usingeastoselectfeatures.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -252,7 +283,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 1762622599-usingeastoselectfeatures"
+              "title": "Graph view"
             }
           }
         ]
@@ -275,9 +306,11 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "1fbfb9009da65ceb",
+  "active": "560e2887fd90382b",
   "lastOpenFiles": [
     "02-atomic/1762622599-usingeastoselectfeatures.md",
+    "02-atomic/1760194075-realvaluerepresentationingeneticalgorithms.md",
+    "02-atomic/1759827624-evolutionaryalgorithms.md",
     "02-atomic/1761231923-curseofdimensionality.md",
     "02-atomic/1755599732-machinelearning.md",
     "02-atomic/1762533691-rulegenerationinarm.md",
@@ -302,8 +335,6 @@
     "99-meta/00-attach/greekalphabet.png",
     "02-atomic/1762375806-deepqlearning.md",
     "02-atomic/1762205273-temporaldifferencelearning.md",
-    "02-atomic/1762372834-functionaproximationinreinforcementlearning.md",
-    "02-atomic/1762025473-reinforcementlearning.md",
     "98-ai",
     "LICENSE",
     "01-areas/2. HTB/HTB_Linux Fundamentals.canvas",

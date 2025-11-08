@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-atomic/1755599732-machinelearning.md",
+                "file": "AGENTS.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,31 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "1755599732-machinelearning"
+              "title": "AGENTS"
+            }
+          },
+          {
+            "id": "f06b10b91d98d7fa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "99-meta/01-templ/noteTemplate.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "noteTemplate"
             }
           }
         ],
@@ -159,10 +183,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "02-atomic/1755599732-machinelearning.md"
+                "file": "02-atomic/1760048595-log.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for 1755599732-machinelearning"
+              "title": "File properties for 1760048595-log"
             }
           },
           {
@@ -191,7 +215,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02-atomic/1755599732-machinelearning.md",
+                "file": "02-atomic/1760048595-log.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -227,14 +251,14 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 1755599732-machinelearning"
+              "title": "Graph of 1760048595-log"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 431.5
+    "width": 221.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -250,8 +274,16 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "6b4abedb2f93aed4",
+  "active": "b89f836cb1d8a8cd",
   "lastOpenFiles": [
+    "AGENTS.md",
+    "99-meta/01-templ/noteTemplate.md",
+    "98-ai/1762373189-gradientdescentvisualizationdemo.md",
+    "98-ai/gradient_descent_demo/AGENTSj-1.py",
+    "98-ai/gradient_descent_demo/README.md",
+    "98-ai/gradient_descent_demo/AGENTSj.py",
+    "02-atomic/1755599732-machinelearning.md",
+    "98-ai/gradient_descent_demo/1755599732-machinelearningj.py",
     "98-ai/gradient_descent_demo",
     "98-ai/1762373159-gradientdescentsummary.md",
     "98-ai/1762373156-gradientdescentexplanation.md",
@@ -264,7 +296,6 @@
     "98-ai/1758734414-gradientdescentj-1.py",
     "98-ai/1758734414-gradientdescentj.py",
     "02-atomic/1758732030-regression.md",
-    "02-atomic/1755599732-machinelearning.md",
     "02-atomic/1758821790-suportvectormachine.md",
     "02-atomic/1762635224-dimensionalityreduction.md",
     "02-atomic/1762634978-unsupervisedlearning.md",
@@ -281,15 +312,8 @@
     "02-atomic/1762622599-usingeastoselectfeatures.md",
     "02-atomic/1761231923-curseofdimensionality.md",
     "02-atomic/1759827624-evolutionaryalgorithms.md",
-    "02-atomic/1762533691-rulegenerationinarm.md",
-    "02-atomic/1762617187-statisticalindependenceinarm.md",
-    "02-atomic/1762615784-statisticalindependence.md",
     "99-meta/00-attach/greekalphabet.png",
-    "98-ai",
-    "LICENSE",
     "01-areas/2. HTB/HTB_Linux Fundamentals.canvas",
-    "01-areas/3.Scout",
-    "01-areas/2. HTB",
     "99-meta/00-attach/Truth table of the negation connective.png",
     "99-meta/00-attach/Screenshot 2024-11-03 at 5.40.15 PM.png",
     "99-meta/00-attach/Screenshot 2024-11-03 at 5.17.05 PM.png",

@@ -1,37 +1,20 @@
-# AGENTS.md - Coding Guidelines for Obsidian Vault
+# AGENTS.md
 
-## CRITICAL FILE MODIFICATION RULES
+## 0. FILE MODIFICATION RULES
 
-**ABSOLUTELY FORBIDDEN**: Never modify, edit, or delete any files in:
-- `02-atomic/` folder
-- `01-areas/` folder
-- Any folder except `98-ai/`
-
-**AI-GENERATED CONTENT ONLY**: All AI-created notes must be placed in `98-ai/` folder only. No exceptions.
-
-**VIOLATION CONSEQUENCES**: Breaking these rules corrupts the vault's integrity and atomic note structure.
+**PERMISSIONS**: 
+- Only permission to acces the `98-ai/` folder. **For any other folder, only reading permission is allowed**
+- Breaking these rules corrupts the vault's integrity and atomic note structure.
 
 ---
 
-## 1. Build/Lint/Test Commands
+## 1. Note-Taking Conventions
 
-1.1 **Run Python script**: `cd 99-meta/02-scripts && python buscar_dudas.py`
-1.2 **Single test**: No formal test suite; manually verify script output
-1.3 **Lint Python**: `python -m flake8 99-meta/02-scripts/buscar_dudas.py` (if flake8 installed)
-
-## 2. Code Style Guidelines
-
-2.1 **Python**: Follow PEP 8; use pathlib for paths, yaml.safe_load for frontmatter
-2.2 **Imports**: Standard library first, then third-party; one import per line
-2.3 **Naming**: snake_case for functions/variables, PascalCase for classes
-2.4 **Error handling**: Use try/except with specific exceptions; avoid bare except
-2.5 **Types**: No type hints currently used; consider adding for complex functions
-
-## 3. Note-Taking Conventions - Critical: Always use noteTemplate.md for new notes
-
-3.1 **File naming**: `unixTimestamp-title.md` (e.g., 1761239003-returnvsrewardinreinforcementlearning.md)
-3.2 **Aliases**: Required - Use original title as alias (e.g., "Return vs reward in reinforcement learning")
-3.3 **Tags**: All lowercase in frontmatter YAML; #duda for questions needing answers
+0. **Note template:** Use note template at `99-meta/01-templ/noteTemplate` for any new note. 
+1. **Note names:** Every note name (file name) should follow the convention specified in the `formatTitle` function of the specified template in rule 0.
+1 **File naming**: `unixTimestamp-title.md` (e.g., 1761239003-returnvsrewardinreinforcementlearning.md)
+2 **Aliases**: Required - Use original title as alias (e.g., "Return vs reward in reinforcement learning")
+3 **Tags**: All lowercase in frontmatter YAML; #duda for questions needing answers
 3.4 **Template**: Mandatory: Check 99-meta/01-templ/noteTemplate.md before every note creation
 3.5 **Structure**: Keep notes atomic and concise; link related concepts
 3.6 **No Emojis**: Never use emojis in any notes or files

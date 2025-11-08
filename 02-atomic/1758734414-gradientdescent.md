@@ -36,7 +36,7 @@ cssclasses:
 >\right]
 >$$
 
-Once we know a gradient for some coefficients we will know whether the slope is positive or negative at that point and how steep it is. Based no it we can know that: 
+Once we know a gradient for some coefficients we will know whether the slope is positive or negative at that point and how steep it is. Based on it we can know that: 
 - If we have a positive slope (**positive gradient**) we have to **decrease the coefficients**
 - If we have a negative slope (**negative gradient**) we need to **increase the coefficients**
 

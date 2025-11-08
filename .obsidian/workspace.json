@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-atomic/1758732030-regression.md",
+                "file": "02-atomic/1758734414-gradientdescent.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "1758732030-regression"
+              "title": "1758734414-gradientdescent"
             }
           }
         ],
@@ -185,10 +185,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "02-atomic/1758732030-regression.md"
+                "file": "02-atomic/1758734414-gradientdescent.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for 1758732030-regression"
+              "title": "File properties for 1758734414-gradientdescent"
             }
           },
           {
@@ -217,7 +217,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02-atomic/1758732030-regression.md",
+                "file": "02-atomic/1758734414-gradientdescent.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -253,7 +253,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 1758732030-regression"
+              "title": "Graph of 1758734414-gradientdescent"
             }
           }
         ]
@@ -279,8 +279,8 @@
   },
   "active": "cc1fa539a42f9946",
   "lastOpenFiles": [
-    "02-atomic/1755599732-machinelearning.md",
     "02-atomic/1758732030-regression.md",
+    "02-atomic/1755599732-machinelearning.md",
     "02-atomic/1758821790-suportvectormachine.md",
     "02-atomic/1762635224-dimensionalityreduction.md",
     "02-atomic/1762634978-unsupervisedlearning.md",

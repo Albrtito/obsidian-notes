@@ -8,7 +8,10 @@ tags:
 > [!info] Intro: 
 > 
 
+
 ***
 ### Up
 ### Down
+- [USACO Guide](https://usaco.guide/general/intro-cp)
+- [Awesome competitive programing](https://github.com/lnishan/awesome-competitive-programming)
 ***

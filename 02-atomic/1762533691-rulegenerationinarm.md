@@ -15,6 +15,8 @@ tags:
 Same as with the generation of frequent subsets we can generate a lattice with all the rules based on the anti-monotone property for each itemset. Because this rules, again, derive from each other. We can again just prune all child once we see that a parent has a confidence < minconf. 
 
 However the algorithms creating this rule association tend to produce to many rules making many of then uninteresting or redundant.
+To analyze the created rules we can use several measures: 
+- [[1762614316-contingencytableinarm|contingency table in ARM]]
 
 ***
 ### Up

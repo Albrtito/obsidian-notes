@@ -17,6 +17,7 @@ This could be used to order a warehouse based on which items are stored together
 >[!example] Dictionary:
 > - **Itemset->** An itemset is a colletion of one or more items
 > - **k-itemset->** An itemset with k items
+> - **transaction->** One data row with a list of items
 > - **Relation->** The relation between two itemsets is defined as $X \to Y$ where X and Y are both itemsets.
 > - **support count $\sigma$->** Frequency of occurence of an itemset 
 > - **support|s->** Fraction of transactions that contain an itemset $$s = \frac{\sigma(X,Y)}{|T|}$$

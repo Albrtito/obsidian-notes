@@ -8,78 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "da721dc20ee51bcb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02-atomic/1762529626-reductionofcandidatesinruleassociationmining.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "1762529626-reductionofcandidatesinruleassociationmining"
-            }
-          },
-          {
-            "id": "8bfb2daa00823732",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02-atomic/1762532451-reductionofthenumberofcomparisonsinarm.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "1762532451-reductionofthenumberofcomparisonsinarm"
-            }
-          },
-          {
-            "id": "39231fb6a333b803",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02-atomic/1762455824-associationrulemining.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "1762455824-associationrulemining"
-            }
-          },
-          {
             "id": "6b4abedb2f93aed4",
             "type": "leaf",
             "state": {
@@ -104,12 +32,12 @@
             }
           },
           {
-            "id": "66ba5d0d88a8d126",
+            "id": "867648a30dbde39d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-atomic/1762611854-introtocompetitiveprogramming.md",
+                "file": "02-atomic/1762614316-contingencytableinarm.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -124,11 +52,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "1762611854-introtocompetitiveprogramming"
+              "title": "1762614316-contingencytableinarm"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -256,10 +184,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "02-atomic/1762611854-introtocompetitiveprogramming.md"
+                "file": "02-atomic/1762614316-contingencytableinarm.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for 1762611854-introtocompetitiveprogramming"
+              "title": "File properties for 1762614316-contingencytableinarm"
             }
           },
           {
@@ -268,7 +196,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02-atomic/1762611854-introtocompetitiveprogramming.md",
+                "file": "02-atomic/1762614316-contingencytableinarm.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -278,7 +206,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 1762611854-introtocompetitiveprogramming"
+              "title": "Backlinks for 1762614316-contingencytableinarm"
             }
           },
           {
@@ -287,12 +215,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02-atomic/1762611854-introtocompetitiveprogramming.md",
+                "file": "02-atomic/1762614316-contingencytableinarm.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 1762611854-introtocompetitiveprogramming"
+              "title": "Outgoing links from 1762614316-contingencytableinarm"
             }
           },
           {
@@ -322,7 +250,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02-atomic/1762611854-introtocompetitiveprogramming.md",
+                "file": "02-atomic/1762614316-contingencytableinarm.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -358,7 +286,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 1762611854-introtocompetitiveprogramming"
+              "title": "Graph of 1762614316-contingencytableinarm"
             }
           }
         ]
@@ -382,13 +310,14 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "66ba5d0d88a8d126",
+  "active": "867648a30dbde39d",
   "lastOpenFiles": [
-    "02-atomic/1762611854-introtocompetitiveprogramming.md",
     "02-atomic/1762533691-rulegenerationinarm.md",
     "02-atomic/1762455824-associationrulemining.md",
     "02-atomic/1762532451-reductionofthenumberofcomparisonsinarm.md",
     "02-atomic/1762529626-reductionofcandidatesinruleassociationmining.md",
+    "02-atomic/1762614316-contingencytableinarm.md",
+    "02-atomic/1762611854-introtocompetitiveprogramming.md",
     "02-atomic/1762530825-frequentitemsetsinarm.md",
     "02-atomic/1762528990-apriorialgorithm.md",
     "02-atomic/1755599732-machinelearning.md",
@@ -410,7 +339,6 @@
     "02-atomic/1762372623-qmatrix.md",
     "02-atomic/1755695372-scrummodel.md",
     "02-atomic/1762270792-sarsa.md",
-    "02-atomic/1762270199-implementationofatemporaldifferencelearningagent.md",
     "98-ai",
     "LICENSE",
     "01-areas/2. HTB/HTB_Linux Fundamentals.canvas",

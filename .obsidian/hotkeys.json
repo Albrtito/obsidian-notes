@@ -236,5 +236,13 @@
       ],
       "key": "C"
     }
+  ],
+  "editor:insert-table": [
+    {
+      "modifiers": [
+        "Ctrl"
+      ],
+      "key": "T"
+    }
   ]
 }

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-atomic/1761231923-curseofdimensionality.md",
+                "file": "02-atomic/1755599732-machinelearning.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,16 +28,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "1761231923-curseofdimensionality"
+              "title": "1755599732-machinelearning"
             }
           },
           {
-            "id": "1fbfb9009da65ceb",
+            "id": "44f1d7e999bdfb3f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-atomic/1760194075-realvaluerepresentationingeneticalgorithms.md",
+                "file": "02-atomic/1762634978-unsupervisedlearning.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,16 +52,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "1760194075-realvaluerepresentationingeneticalgorithms"
+              "title": "1762634978-unsupervisedlearning"
             }
           },
           {
-            "id": "2ddfb00e5e1a2f48",
+            "id": "cc1fa539a42f9946",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-atomic/1762622599-usingeastoselectfeatures.md",
+                "file": "02-atomic/1762635224-dimensionalityreduction.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,16 +76,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "1762622599-usingeastoselectfeatures"
+              "title": "1762635224-dimensionalityreduction"
             }
           },
           {
-            "id": "560e2887fd90382b",
+            "id": "a10335c703c3149a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-atomic/1758732030-regression.md",
+                "file": "02-atomic/1762635283-untitledsuffix.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -100,11 +100,12 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "1758732030-regression"
+              "title": "1762635283-untitledsuffix"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 3,
+        "stacked": true
       }
     ],
     "direction": "vertical"
@@ -232,10 +233,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "02-atomic/1758732030-regression.md"
+                "file": "02-atomic/1762635283-untitledsuffix.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for 1758732030-regression"
+              "title": "File properties for 1762635283-untitledsuffix"
             }
           },
           {
@@ -264,7 +265,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02-atomic/1758732030-regression.md",
+                "file": "02-atomic/1762635283-untitledsuffix.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -300,14 +301,15 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 1758732030-regression"
+              "title": "Graph of 1762635283-untitledsuffix"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -323,13 +325,25 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "560e2887fd90382b",
+  "active": "a10335c703c3149a",
   "lastOpenFiles": [
-    "02-atomic/1762622599-usingeastoselectfeatures.md",
-    "02-atomic/1760194075-realvaluerepresentationingeneticalgorithms.md",
-    "02-atomic/1759827624-evolutionaryalgorithms.md",
-    "02-atomic/1761231923-curseofdimensionality.md",
+    "02-atomic/1762635283-untitledsuffix.md",
     "02-atomic/1755599732-machinelearning.md",
+    "02-atomic/1762635224-dimensionalityreduction.md",
+    "02-atomic/1762634550-supervisedlearning.md",
+    "02-atomic/1762634978-unsupervisedlearning.md",
+    "02-atomic/1762025473-reinforcementlearning.md",
+    "02-atomic/1757411969-boosting.md",
+    "02-atomic/1758656696-gradientboosting.md",
+    "02-atomic/1757407129-ensemblemethods.md",
+    "02-atomic/1756374614-overfittingandunderfitting.md",
+    "02-atomic/1756374897-solutionsforoverfitting.md",
+    "02-atomic/1756375056-crossvalidation.md",
+    "02-atomic/1760194075-realvaluerepresentationingeneticalgorithms.md",
+    "02-atomic/1762622599-usingeastoselectfeatures.md",
+    "02-atomic/1758732030-regression.md",
+    "02-atomic/1761231923-curseofdimensionality.md",
+    "02-atomic/1759827624-evolutionaryalgorithms.md",
     "02-atomic/1762533691-rulegenerationinarm.md",
     "02-atomic/1762617187-statisticalindependenceinarm.md",
     "02-atomic/1762615784-statisticalindependence.md",
@@ -339,19 +353,7 @@
     "02-atomic/1745501224 - Theorem - Conditional probability.md",
     "98-ai/1762615979-statisticalindependenceandcorrelation.md",
     "02-atomic/Covariance.md",
-    "02-atomic/1762455824-associationrulemining.md",
-    "02-atomic/1762532451-reductionofthenumberofcomparisonsinarm.md",
-    "02-atomic/1762529626-reductionofcandidatesinruleassociationmining.md",
-    "02-atomic/1762611854-introtocompetitiveprogramming.md",
-    "02-atomic/1762530825-frequentitemsetsinarm.md",
-    "02-atomic/1762528990-apriorialgorithm.md",
-    "02-atomic/20240205 - 000000 - Elementary Combinatorics.md",
-    "02-atomic/1762459118-powerset.md",
-    "02-atomic/1762459299-untitledsuffix.md",
-    "02-atomic/20240515 - 013337 - Definition - Power set.md",
     "99-meta/00-attach/greekalphabet.png",
-    "02-atomic/1762375806-deepqlearning.md",
-    "02-atomic/1762205273-temporaldifferencelearning.md",
     "98-ai",
     "LICENSE",
     "01-areas/2. HTB/HTB_Linux Fundamentals.canvas",

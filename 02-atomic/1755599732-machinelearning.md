@@ -19,12 +19,13 @@ tags:
 > [!attention] MOC
 > This is a #moc so the down part may be structured or contain more references than usual. 
 
-- [[1757763078-knearestneighbor|knn classifier]]
-- [[1757766291-bayesianclassifier|bayesian classifier]]
-- [[1757407129-ensemblemethods|ensemble methods]]
-- [[1758732030-regression|regression]]
-- [[1758644145-neuralnetworks|neural networks]]
-- [[1759827624-evolutionaryalgorithms|evolutionary algorithms]]
+The contents are divided into: 
+- [[1762634550-supervisedlearning|supervised learning]]
 - 
-- [[1762025473-reinforcementlearning|reinforcement learning]]
 	- [[1762455824-associationrulemining|association rule mining]]
+- [[1762025473-reinforcementlearning|reinforcement learning]]
+- **optimization:**
+	- [[1759827624-evolutionaryalgorithms|evolutionary algorithms]]
+- **general:**
+	- [[1762635224-dimensionalityreduction|dimensionality reduction]]
+	- 

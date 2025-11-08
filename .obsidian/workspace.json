@@ -54,9 +54,33 @@
               "icon": "lucide-file",
               "title": "1762614316-contingencytableinarm"
             }
+          },
+          {
+            "id": "6fac7f130b72b4df",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02-atomic/1762615784-statisticalindependence.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "1762615784-statisticalindependence"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -184,43 +208,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "02-atomic/1762614316-contingencytableinarm.md"
+                "file": "02-atomic/1762615784-statisticalindependence.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for 1762614316-contingencytableinarm"
-            }
-          },
-          {
-            "id": "3927bbc26ab29534",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "02-atomic/1762614316-contingencytableinarm.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "Backlinks for 1762614316-contingencytableinarm"
-            }
-          },
-          {
-            "id": "f55d97c13b715d65",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "02-atomic/1762614316-contingencytableinarm.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "Outgoing links from 1762614316-contingencytableinarm"
+              "title": "File properties for 1762615784-statisticalindependence"
             }
           },
           {
@@ -237,8 +228,7 @@
               "title": "All properties"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "0d9cb84d7fd88dc1",
@@ -250,7 +240,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02-atomic/1762614316-contingencytableinarm.md",
+                "file": "02-atomic/1762615784-statisticalindependence.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -286,15 +276,14 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 1762614316-contingencytableinarm"
+              "title": "Graph of 1762615784-statisticalindependence"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -310,13 +299,16 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "867648a30dbde39d",
+  "active": "6063ac09e22ba87c",
   "lastOpenFiles": [
+    "02-atomic/1762615784-statisticalindependence.md",
+    "02-atomic/1762614316-contingencytableinarm.md",
+    "02-atomic/1745504803 - Probabilistic variable independence.md",
+    "02-atomic/1745507844 - Conditional independence.md",
     "02-atomic/1762533691-rulegenerationinarm.md",
     "02-atomic/1762455824-associationrulemining.md",
     "02-atomic/1762532451-reductionofthenumberofcomparisonsinarm.md",
     "02-atomic/1762529626-reductionofcandidatesinruleassociationmining.md",
-    "02-atomic/1762614316-contingencytableinarm.md",
     "02-atomic/1762611854-introtocompetitiveprogramming.md",
     "02-atomic/1762530825-frequentitemsetsinarm.md",
     "02-atomic/1762528990-apriorialgorithm.md",
@@ -336,9 +328,6 @@
     "02-atomic/1756215731-awesomeblogs.md",
     "AGENTS.md",
     "98-ai/1762373151-functionapproximationinreinforcementlearning.md",
-    "02-atomic/1762372623-qmatrix.md",
-    "02-atomic/1755695372-scrummodel.md",
-    "02-atomic/1762270792-sarsa.md",
     "98-ai",
     "LICENSE",
     "01-areas/2. HTB/HTB_Linux Fundamentals.canvas",

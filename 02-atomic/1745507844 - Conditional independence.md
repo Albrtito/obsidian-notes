@@ -14,7 +14,7 @@ cssclasses:
 > $$
  P(X,Y|Z) = P(X|Z)P(Y|Z)
  $$
-> + **Remember:** P(A)P(B) = P(A) + P(B)
+ + **Remember:** P(A)P(B) = P(A) + P(B)
 >   
 >  Also:
 >  $$

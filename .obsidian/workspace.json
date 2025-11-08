@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "AGENTS.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "AGENTS"
             }
           }
         ],
@@ -52,13 +52,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md",
+                "file": "AGENTS.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of README"
+              "title": "Outline of AGENTS"
             }
           },
           {
@@ -157,10 +157,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "README.md"
+                "file": "AGENTS.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for README"
+              "title": "File properties for AGENTS"
             }
           },
           {
@@ -189,7 +189,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "README.md",
+                "file": "AGENTS.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -225,7 +225,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of README"
+              "title": "Graph of AGENTS"
             }
           }
         ]
@@ -250,8 +250,8 @@
   },
   "active": "6b4abedb2f93aed4",
   "lastOpenFiles": [
-    "02-atomic/1761178034-opencode.md",
     "README.md",
+    "02-atomic/1761178034-opencode.md",
     "02-atomic/1760048595-log.md",
     "02-atomic/1762634550-supervisedlearning.md",
     "02-atomic/1755599732-machinelearning.md",

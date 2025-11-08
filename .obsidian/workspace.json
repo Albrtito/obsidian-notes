@@ -30,30 +30,6 @@
               "icon": "lucide-file",
               "title": "AGENTS"
             }
-          },
-          {
-            "id": "f06b10b91d98d7fa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "99-meta/01-templ/noteTemplate.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "noteTemplate"
-            }
           }
         ],
         "stacked": true
@@ -183,10 +159,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "02-atomic/1760048595-log.md"
+                "file": "AGENTS.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for 1760048595-log"
+              "title": "File properties for AGENTS"
             }
           },
           {
@@ -215,7 +191,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02-atomic/1760048595-log.md",
+                "file": "AGENTS.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -251,7 +227,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 1760048595-log"
+              "title": "Graph of AGENTS"
             }
           }
         ]
@@ -274,10 +250,11 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "b89f836cb1d8a8cd",
+  "active": "6b4abedb2f93aed4",
   "lastOpenFiles": [
-    "AGENTS.md",
     "99-meta/01-templ/noteTemplate.md",
+    "AGENTS.md",
+    "02-atomic/1760048595-log.md",
     "98-ai/1762373189-gradientdescentvisualizationdemo.md",
     "98-ai/gradient_descent_demo/AGENTSj-1.py",
     "98-ai/gradient_descent_demo/README.md",
@@ -311,7 +288,6 @@
     "02-atomic/1760194075-realvaluerepresentationingeneticalgorithms.md",
     "02-atomic/1762622599-usingeastoselectfeatures.md",
     "02-atomic/1761231923-curseofdimensionality.md",
-    "02-atomic/1759827624-evolutionaryalgorithms.md",
     "99-meta/00-attach/greekalphabet.png",
     "01-areas/2. HTB/HTB_Linux Fundamentals.canvas",
     "99-meta/00-attach/Truth table of the negation connective.png",

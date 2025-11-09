@@ -78,9 +78,33 @@
               "icon": "lucide-file",
               "title": "1762722122-hierarchicalclustering"
             }
+          },
+          {
+            "id": "2d1cc91cef94f18f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02-atomic/1762724507-agglomerativehierarchicalclusteringwithcompletelinkage.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "1762724507-agglomerativehierarchicalclusteringwithcompletelinkage"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -100,13 +124,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02-atomic/1762722122-hierarchicalclustering.md",
+                "file": "02-atomic/1762724507-agglomerativehierarchicalclusteringwithcompletelinkage.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 1762722122-hierarchicalclustering"
+              "title": "Outline of 1762724507-agglomerativehierarchicalclusteringwithcompletelinkage"
             }
           },
           {
@@ -206,10 +230,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "02-atomic/1762722122-hierarchicalclustering.md"
+                "file": "02-atomic/1762724507-agglomerativehierarchicalclusteringwithcompletelinkage.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for 1762722122-hierarchicalclustering"
+              "title": "File properties for 1762724507-agglomerativehierarchicalclusteringwithcompletelinkage"
             }
           },
           {
@@ -238,7 +262,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02-atomic/1762722122-hierarchicalclustering.md",
+                "file": "02-atomic/1762724507-agglomerativehierarchicalclusteringwithcompletelinkage.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -274,7 +298,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 1762722122-hierarchicalclustering"
+              "title": "Graph of 1762724507-agglomerativehierarchicalclusteringwithcompletelinkage"
             }
           }
         ]
@@ -297,8 +321,10 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "3a02116ec54ba064",
+  "active": "2d1cc91cef94f18f",
   "lastOpenFiles": [
+    "99-meta/00-attach/1762724507-agglomerativehierarchicalclusteringwithcompletelinkagej.png",
+    "02-atomic/1762724507-agglomerativehierarchicalclusteringwithcompletelinkage.md",
     "02-atomic/1762722122-hierarchicalclustering.md",
     "02-atomic/1762721286-clustering.md",
     "02-atomic/1762722177-densitybasedclustering.md",
@@ -323,8 +349,6 @@
     "02-atomic/1762709209-goodnessoffit.md",
     "02-atomic/1762710178-akaikeinformationcriterion.md",
     "02-atomic/1758896891-computingthegradientformseinregression.md",
-    "02-atomic/1756374226-evaluationinregression.md",
-    "02-atomic/1758734414-gradientdescent.md",
     "98-ai/02-atomic",
     "98-ai/01-scripts",
     "98-ai/gradient_descent_demo/AGENTSj-1.py",

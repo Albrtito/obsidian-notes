@@ -55,7 +55,8 @@
               "title": "1758900858-implementingregressioninpythonwithstatsmodels"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -75,13 +76,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02-atomic/1758732030-regression.md",
+                "file": "02-atomic/1758900858-implementingregressioninpythonwithstatsmodels.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 1758732030-regression"
+              "title": "Outline of 1758900858-implementingregressioninpythonwithstatsmodels"
             }
           },
           {
@@ -181,10 +182,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "02-atomic/1758732030-regression.md"
+                "file": "02-atomic/1758900858-implementingregressioninpythonwithstatsmodels.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for 1758732030-regression"
+              "title": "File properties for 1758900858-implementingregressioninpythonwithstatsmodels"
             }
           },
           {
@@ -213,7 +214,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02-atomic/1758732030-regression.md",
+                "file": "02-atomic/1758900858-implementingregressioninpythonwithstatsmodels.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -249,7 +250,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 1758732030-regression"
+              "title": "Graph of 1758900858-implementingregressioninpythonwithstatsmodels"
             }
           }
         ]
@@ -272,14 +273,14 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "035b3ab3502b9fa6",
+  "active": "969e5d3f6a56c792",
   "lastOpenFiles": [
+    "02-atomic/1762709866-fstatistic.md",
     "02-atomic/1758900858-implementingregressioninpythonwithstatsmodels.md",
+    "02-atomic/1758732030-regression.md",
     "02-atomic/1762710368-bayesianinformationcriterion.md",
     "02-atomic/1762709209-goodnessoffit.md",
-    "02-atomic/1762709866-fstatistic.md",
     "02-atomic/1762710178-akaikeinformationcriterion.md",
-    "02-atomic/1758732030-regression.md",
     "02-atomic/1758902314-pvalue.md",
     "02-atomic/1758896891-computingthegradientformseinregression.md",
     "02-atomic/1756374226-evaluationinregression.md",

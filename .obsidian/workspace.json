@@ -30,8 +30,81 @@
               "icon": "lucide-file",
               "title": "1758732030-linearregression"
             }
+          },
+          {
+            "id": "71f5c2cacc9895fc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02-atomic/1762711563-analyzingtheresidualsofaregressionmodel.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "1762711563-analyzingtheresidualsofaregressionmodel"
+            }
+          },
+          {
+            "id": "715a6cf43285bdc7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02-atomic/1762717333-durbinwatsonstatistic.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "1762717333-durbinwatsonstatistic"
+            }
+          },
+          {
+            "id": "2160d60414bdf5e6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02-atomic/1762717786-jarqueberatest.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "1762717786-jarqueberatest"
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -51,13 +124,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02-atomic/1758732030-linearregression.md",
+                "file": "02-atomic/1762717786-jarqueberatest.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 1758732030-linearregression"
+              "title": "Outline of 1762717786-jarqueberatest"
             }
           },
           {
@@ -157,10 +230,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "02-atomic/1758732030-linearregression.md"
+                "file": "02-atomic/1762717786-jarqueberatest.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for 1758732030-linearregression"
+              "title": "File properties for 1762717786-jarqueberatest"
             }
           },
           {
@@ -189,7 +262,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02-atomic/1758732030-linearregression.md",
+                "file": "02-atomic/1762717786-jarqueberatest.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -215,17 +288,17 @@
                   "textFadeMultiplier": 0.5,
                   "nodeSizeMultiplier": 1.36657515041766,
                   "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
+                  "collapse-forces": false,
                   "centerStrength": 0.350838249897774,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
+                  "repelStrength": 14.658203125,
+                  "linkStrength": 0.729817708333333,
                   "linkDistance": 250,
-                  "scale": 0.23778673756847485,
+                  "scale": 0.22603527537425708,
                   "close": true
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 1758732030-linearregression"
+              "title": "Graph of 1762717786-jarqueberatest"
             }
           }
         ]
@@ -248,10 +321,12 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "035b3ab3502b9fa6",
+  "active": "2160d60414bdf5e6",
   "lastOpenFiles": [
-    "02-atomic/1762711563-analyzingtheresidualsofaregressionmodel.md",
+    "02-atomic/1762717786-jarqueberatest.md",
     "02-atomic/1758732030-linearregression.md",
+    "02-atomic/1762717333-durbinwatsonstatistic.md",
+    "02-atomic/1762711563-analyzingtheresidualsofaregressionmodel.md",
     "02-atomic/1758902314-pvalue.md",
     "02-atomic/1758900858-implementingregressioninpythonwithstatsmodels.md",
     "02-atomic/1762709866-fstatistic.md",
@@ -280,8 +355,6 @@
     "98-ai/gradient_descent_demo/1755599732-machinelearningj.py",
     "98-ai/gradient_descent_demo",
     "98-ai/1762373159-gradientdescentsummary.md",
-    "98-ai/1762373156-gradientdescentexplanation.md",
-    "98-ai/1762373151-functionapproximationinreinforcementlearning.md",
     "98-ai/1762373156-gradientdescentexplanationj.py",
     "98-ai/1758734414-gradientdescentj-4.py",
     "98-ai/1758734414-gradientdescentj-3.py",

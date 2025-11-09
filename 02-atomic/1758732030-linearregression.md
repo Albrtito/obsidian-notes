@@ -70,16 +70,17 @@ $$
 > 	2.1  **Zero mean property** $$E(e) =0$$
 > 	2.2  **Variance is constant and finite (Homoskedasticity)** $$var(e) = \sigma^2 < \infty$$
 > 	2.3 **Linearly independent of one another** $$cov(e_{i},e_{j}) = 0$$
-> 	2.4 **No realation ship between residuals and each of the explanatory variables** $$cov(e,x_{i}) = 0$$
+> 	2.4 **No relationship between residuals and each of the explanatory variables** $$cov(e,x_{i}) = 0$$
 > 	2.5 **The residuals are normally distributted** $$e \sim N(0,\sigma^2)$$
 
 How can we check that this properties comply?
 1. Measure for linear dependence
 2. For the residual properties:
 	2. Homoskedasticity can be checked using the **Breusch-Pagan test**
-	3. Using the **Durbin-Watson test** (for autocorrelation)
+	3. Using the [[1762717333-durbinwatsonstatistic|durbin-watson statistic]] (for autocorrelation)
 	4. ...
 	5. Use the **Jarque-Bera test** (for normality of the distribution)
+See more about these tests in [[1762711563-analyzingtheresidualsofaregressionmodel|analyzing the residuals of a regression model]]
 ***
 ### Up
 ### Down

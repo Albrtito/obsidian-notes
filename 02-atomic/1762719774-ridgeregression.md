@@ -14,7 +14,10 @@ tags:
 > - Thetas are the coefficients
 > - Alpha -> Controls how much importance to give to the ridge regression. For alpha = 0 the model will just be a normal linear regression
 
-This type of regression can be used to **reduce overfitting of the regression model**
+>[!attention] Remarks:
+> - This type of regression can be used to **reduce overfitting of the regression model**. 
+> - It wont ever make a coefficient zero, it will just make them smaller and smaller
+
 ***
 ### Up
 - [[1758732030-linearregression|linear regression]]

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-atomic/1758902314-pvalue.md",
+                "file": "02-atomic/1758732030-regression.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "1758902314-pvalue"
+              "title": "1758732030-regression"
             }
           },
           {
@@ -54,30 +54,6 @@
               "icon": "lucide-file",
               "title": "1758900858-implementingregressioninpythonwithstatsmodels"
             }
-          },
-          {
-            "id": "2025efe960ed4685",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02-atomic/1762709209-goodnessoffit.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "1762709209-goodnessoffit"
-            }
           }
         ]
       }
@@ -99,13 +75,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02-atomic/1758902314-pvalue.md",
+                "file": "02-atomic/1758732030-regression.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 1758902314-pvalue"
+              "title": "Outline of 1758732030-regression"
             }
           },
           {
@@ -205,10 +181,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "02-atomic/1758902314-pvalue.md"
+                "file": "02-atomic/1758732030-regression.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for 1758902314-pvalue"
+              "title": "File properties for 1758732030-regression"
             }
           },
           {
@@ -237,7 +213,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02-atomic/1758902314-pvalue.md",
+                "file": "02-atomic/1758732030-regression.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -273,15 +249,14 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 1758902314-pvalue"
+              "title": "Graph of 1758732030-regression"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 221.5,
-    "collapsed": true
+    "width": 221.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -299,9 +274,13 @@
   },
   "active": "035b3ab3502b9fa6",
   "lastOpenFiles": [
-    "02-atomic/1758732030-regression.md",
     "02-atomic/1758900858-implementingregressioninpythonwithstatsmodels.md",
+    "02-atomic/1762710368-bayesianinformationcriterion.md",
     "02-atomic/1762709209-goodnessoffit.md",
+    "02-atomic/1762709866-fstatistic.md",
+    "02-atomic/1762710178-akaikeinformationcriterion.md",
+    "02-atomic/1758732030-regression.md",
+    "02-atomic/1758902314-pvalue.md",
     "02-atomic/1758896891-computingthegradientformseinregression.md",
     "02-atomic/1756374226-evaluationinregression.md",
     "02-atomic/1758734414-gradientdescent.md",
@@ -331,10 +310,6 @@
     "98-ai/1758734414-gradientdescentj-3.py",
     "98-ai/1758734414-gradientdescentj-2.py",
     "02-atomic/1758821790-suportvectormachine.md",
-    "02-atomic/1762635224-dimensionalityreduction.md",
-    "02-atomic/1762634978-unsupervisedlearning.md",
-    "02-atomic/1762635283-untitledsuffix.md",
-    "02-atomic/1762025473-reinforcementlearning.md",
     "99-meta/00-attach/greekalphabet.png",
     "01-areas/2. HTB/HTB_Linux Fundamentals.canvas",
     "99-meta/00-attach/Truth table of the negation connective.png",

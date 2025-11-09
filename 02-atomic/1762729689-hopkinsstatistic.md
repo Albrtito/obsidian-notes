@@ -30,5 +30,6 @@ $$
 
 ***
 ### Up
+- [[1762729222-clustervalidity|cluster validity]]
 ### Down
 ***

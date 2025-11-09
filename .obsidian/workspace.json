@@ -54,33 +54,9 @@
               "icon": "lucide-file",
               "title": "1762729222-clustervalidity"
             }
-          },
-          {
-            "id": "4140ff03c31a555e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02-atomic/1762729689-hopkinsstatistic.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "1762729689-hopkinsstatistic"
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -100,13 +76,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02-atomic/1762729689-hopkinsstatistic.md",
+                "file": "02-atomic/1762729222-clustervalidity.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 1762729689-hopkinsstatistic"
+              "title": "Outline of 1762729222-clustervalidity"
             }
           },
           {
@@ -206,10 +182,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "02-atomic/1762729689-hopkinsstatistic.md"
+                "file": "02-atomic/1762729222-clustervalidity.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for 1762729689-hopkinsstatistic"
+              "title": "File properties for 1762729222-clustervalidity"
             }
           },
           {
@@ -238,7 +214,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02-atomic/1762729689-hopkinsstatistic.md",
+                "file": "02-atomic/1762729222-clustervalidity.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -274,7 +250,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 1762729689-hopkinsstatistic"
+              "title": "Graph of 1762729222-clustervalidity"
             }
           }
         ]
@@ -297,10 +273,11 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "4140ff03c31a555e",
+  "active": "5ef0242137837307",
   "lastOpenFiles": [
-    "02-atomic/1762729689-hopkinsstatistic.md",
+    "02-atomic/1762731193-withinsumofsquares.md",
     "02-atomic/1762729222-clustervalidity.md",
+    "02-atomic/1762729689-hopkinsstatistic.md",
     "02-atomic/1762721286-clustering.md",
     "02-atomic/1762727802-dbscan.md",
     "02-atomic/1762722177-densitybasedclustering.md",
@@ -327,7 +304,6 @@
     "02-atomic/1762719515-regularizationofregressionmodels.md",
     "02-atomic/1762720091-lassoregression.md",
     "02-atomic/1758900858-implementingregressioninpythonwithstatsmodels.md",
-    "02-atomic/1762718941-stepwiseregression.md",
     "98-ai/02-atomic",
     "98-ai/01-scripts",
     "98-ai/gradient_descent_demo/AGENTSj-1.py",

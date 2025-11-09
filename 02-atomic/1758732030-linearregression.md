@@ -74,12 +74,6 @@ $$
 > 	2.5 **The residuals are normally distributted** $$e \sim N(0,\sigma^2)$$
 
 How can we check that this properties comply?
-1. Measure for linear dependence
-2. For the residual properties:
-	2. Homoskedasticity can be checked using the **Breusch-Pagan test**
-	3. Using the [[1762717333-durbinwatsonstatistic|durbin-watson statistic]] (for autocorrelation)
-	4. ...
-	5. Use the **Jarque-Bera test** (for normality of the distribution)
 See more about these tests in [[1762711563-analyzingtheresidualsofaregressionmodel|analyzing the residuals of a regression model]]
 ***
 ### Up

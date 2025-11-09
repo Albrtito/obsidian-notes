@@ -18,7 +18,6 @@ $$
  - The part up top is measuring the distances from one residual to another
 ***
 ### Up
-- [[1758732030-linearregression|linear regression]]
 - [[1762711563-analyzingtheresidualsofaregressionmodel|analyzing the residuals of a regression model]]
 ### Down
 ***

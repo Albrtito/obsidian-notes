@@ -22,7 +22,9 @@ What we would like to see is data distributed in bimodal|multimodal distribution
 ## How many clusters should there be?
 We can always guess, with low dimensional space it is even a nice idea and easy, but what happens when otherwise?
 If we look into the 2D example, the most important observation is that the bigger the number of clusters, the smaller the distances from the centroid to the points in the cluster. This means we want to minimize the [[1762731193-withinsumofsquares|WSS]]. 
-But if we just 
+But if we just add more and more clusters this will be minimized. This is why there are other methods that will use this measure along with some other analysis,such as:
+- [[1762731713-elbowmethod|elbow method]]
+- [[1762732216-silhouettemethod|silhouette method]]
 ***
 ### Up
 ### Down

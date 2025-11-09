@@ -13,6 +13,6 @@ tags:
 - [[1755599732-machinelearning|ms]]
 ### Down
 - [[1762455824-associationrulemining|association rule mining]]
-- **Clustering**
+- [[1762721286-clustering|clustering]]
 
 ***

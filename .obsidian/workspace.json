@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-atomic/1762634978-unsupervisedlearning.md",
+                "file": "02-atomic/1762722177-densitybasedclustering.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,16 +28,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "1762634978-unsupervisedlearning"
+              "title": "1762722177-densitybasedclustering"
             }
           },
           {
-            "id": "cebc68924bb1fadd",
+            "id": "6366f00ae0035092",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-atomic/1762722122-hierarchicalclustering.md",
+                "file": "02-atomic/1762727802-dbscan.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,35 +52,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "1762722122-hierarchicalclustering"
-            }
-          },
-          {
-            "id": "4ecc5141262b58fb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02-atomic/1762725626-kmeans.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "1762725626-kmeans"
+              "title": "1762727802-dbscan"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -100,13 +76,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02-atomic/1762725626-kmeans.md",
+                "file": "02-atomic/1762727802-dbscan.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 1762725626-kmeans"
+              "title": "Outline of 1762727802-dbscan"
             }
           },
           {
@@ -206,10 +182,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "02-atomic/1762725626-kmeans.md"
+                "file": "02-atomic/1762727802-dbscan.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for 1762725626-kmeans"
+              "title": "File properties for 1762727802-dbscan"
             }
           },
           {
@@ -238,7 +214,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02-atomic/1762725626-kmeans.md",
+                "file": "02-atomic/1762727802-dbscan.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -264,24 +240,24 @@
                   "textFadeMultiplier": 0.5,
                   "nodeSizeMultiplier": 1.36657515041766,
                   "lineSizeMultiplier": 1,
-                  "collapse-forces": false,
-                  "centerStrength": 0.350838249897774,
+                  "collapse-forces": true,
+                  "centerStrength": 0.267903645833333,
                   "repelStrength": 14.658203125,
-                  "linkStrength": 0.729817708333333,
+                  "linkStrength": 0.8536376953125,
                   "linkDistance": 250,
-                  "scale": 0.22603527537425708,
+                  "scale": 0.1251343287325333,
                   "close": true
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 1762725626-kmeans"
+              "title": "Graph of 1762727802-dbscan"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 221.5
+    "width": 319.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -297,20 +273,25 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "4ecc5141262b58fb",
+  "active": "6366f00ae0035092",
   "lastOpenFiles": [
-    "02-atomic/1762725909-untitledsuffix.md",
-    "02-atomic/1762725626-kmeans.md",
-    "02-atomic/1762722122-hierarchicalclustering.md",
+    "02-atomic/1762727802-dbscan.md",
+    "02-atomic/1762722177-densitybasedclustering.md",
     "02-atomic/1762721286-clustering.md",
-    "02-atomic/1762722095-partitionalclustering.md",
+    "02-atomic/1755599732-machinelearning.md",
+    "02-atomic/1757408342-ensemblebasemodels.md",
+    "02-atomic/1757407129-ensemblemethods.md",
+    "02-atomic/1762634550-supervisedlearning.md",
     "02-atomic/1762634978-unsupervisedlearning.md",
+    "02-atomic/1759827393-typesofmachinelearningproblems.md",
+    "02-atomic/1762722122-hierarchicalclustering.md",
+    "02-atomic/1762725626-kmeans.md",
+    "02-atomic/1762725909-untitledsuffix.md",
+    "02-atomic/1762722095-partitionalclustering.md",
     "02-atomic/1762724507-agglomerativehierarchicalclusteringwithcompletelinkage.md",
     "99-meta/00-attach/1762724507-agglomerativehierarchicalclusteringwithcompletelinkagej-1.png",
     "99-meta/00-attach/1762724507-agglomerativehierarchicalclusteringwithcompletelinkagej.png",
-    "02-atomic/1762722177-densitybasedclustering.md",
     "02-atomic/1758644145-neuralnetworks.md",
-    "02-atomic/1755599732-machinelearning.md",
     "02-atomic/1731419106 - Match-Plus-Action methods in forwarding.md",
     "02-atomic/1762720376-elasticnetinregression.md",
     "02-atomic/1758732030-linearregression.md",
@@ -322,11 +303,6 @@
     "02-atomic/1762718941-stepwiseregression.md",
     "02-atomic/1762717786-jarqueberatest.md",
     "02-atomic/1762717333-durbinwatsonstatistic.md",
-    "02-atomic/1758902314-pvalue.md",
-    "02-atomic/1762709866-fstatistic.md",
-    "02-atomic/1762710368-bayesianinformationcriterion.md",
-    "02-atomic/1762709209-goodnessoffit.md",
-    "02-atomic/1762710178-akaikeinformationcriterion.md",
     "98-ai/02-atomic",
     "98-ai/01-scripts",
     "98-ai/gradient_descent_demo/AGENTSj-1.py",

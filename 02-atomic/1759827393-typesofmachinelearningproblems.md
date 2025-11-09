@@ -15,7 +15,7 @@ The basic problem model can be defined with an input, model and output.
 - **output** -> What do we get from the model 
 
 1. **Looking for the model:** Knowing the input and the output. 
-   This type of problem appears when we are trying to fit a model to some input and we know what the output should be. Finding classifiers in **supervised learning** for example. (knn, bayes, trees...). 
+   This type of problem appears when we are trying to fit a model to some input and we know what the output should be. Finding classifiers in [[1762634550-supervisedlearning|supervised learning]] for example. (knn, bayes, trees...). 
 2. **Looking for the output:** Knowing the input and the model -> **Simulation problems**
    This is just the problem of simulation as the main thing to do is compute and see what the output is. 
    > A traffic simulation for example

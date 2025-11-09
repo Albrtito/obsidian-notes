@@ -49,7 +49,7 @@ The model coefficients here is one of the most important part.
 
 ***
 ### Up
-- [[1758732030-regression|regression]]
+- [[1758732030-linearregression|regression]]
 ### Down
 + [[1758902314-pvalue|p value]]
 ***

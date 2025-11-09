@@ -18,7 +18,7 @@ tags:
 - [[1756374614-overfittingandunderfitting|overfitting and underfitting]]
 - [[1758919079-decisiontrees|decision trees]]
 - [[1757407129-ensemblemethods|ensemble methods]]
-- [[1758732030-regression|regression]]
+- [[1758732030-linearregression|regression]]
 - [[1758644145-neuralnetworks|neural networks]]
 - [[1758821790-suportvectormachine|SVM]]
 ***

@@ -37,6 +37,6 @@ $$
 
 ***
 ### Up
-- [[1758732030-regression|regression]]
+- [[1758732030-linearregression|regression]]
 ### Down
 ***

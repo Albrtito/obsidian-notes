@@ -1,6 +1,7 @@
 ---
 aliases:
   - linear regression
+  - OLS
 tags:
   - review
   - ms
@@ -12,13 +13,14 @@ cssclasses:
 > Linear regression is a method for fitting a linear function through some data points (observations). For this we’ll use some cost function and try to minimize it.
 
 >[!attention] Remarks:
-> - During the ms course we’ll almost always use the [[1758649312-sumofsquarederrorfunction|SSE]] function as cost function
+> - During the ms course we’ll almost always use the [[1758649312-sumofsquarederrorfunction|SSE]] function as cost function. Because we are doing so we'll be using the **OLS(Ordinary Least Squares)** method. 
 
 > [!example] Dictionary:
 > - **prediction | hypothesis** → The prediction of a model, also called hypothesis is given based on some input x and follows a function usually denoted by $h_{\Theta}(x)$ or $f_{\Theta}(x)$. Then:
 >   $$ \hat y = h_{\Theta}(x) | f_{\Theta}(x)$$
 > - **Coefficients** → In the hypothesis function we’ll use some coefficients, denoted by $\hat \Theta_i$ for each $x_i$. 
 >   The cap is there as we are also **estimating coefficients**. Altough most times the hat is not shown
+> 
 
 ## modeling linear regression
 A regression model would generalize to:
@@ -63,8 +65,21 @@ $$
 
 ## Properties of linear regression:
 >[!important] Properties:
-> 1. 
+> 1.  **Independence of variables:** The explanatory variables are linearly independent. If not we'll rul into colinearity problems.  
+> 2.  **Residuals:** The residuals of OLS must comply with the following properties:
+> 	2.1  **Zero mean property** $$E(e) =0$$
+> 	2.2  **Variance is constant and finite (Homoskedasticity)** $$var(e) = \sigma^2 < \infty$$
+> 	2.3 **Linearly independent of one another** $$cov(e_{i},e_{j}) = 0$$
+> 	2.4 **No realation ship between residuals and each of the explanatory variables** $$cov(e,x_{i}) = 0$$
+> 	2.5 **The residuals are normally distributted** $$e \sim N(0,\sigma^2)$$
 
+How can we check that this properties comply?
+1. Measure for linear dependence
+2. For the residual properties:
+	2. Homoskedasticity can be checked using the **Breusch-Pagan test**
+	3. Using the **Durbin-Watson test** (for autocorrelation)
+	4. ...
+	5. Use the **Jarque-Bera test** (for normality of the distribution)
 ***
 ### Up
 ### Down

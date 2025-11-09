@@ -19,7 +19,7 @@ $$
 
 ***
 ### Up
-- [[1758732030-regression|regression]]
+- [[1758732030-linearregression|regression]]
 - [[1758900858-implementingregressioninpythonwithstatsmodels|implementing regression in python with statsmodels]]
 ### Down
 ***

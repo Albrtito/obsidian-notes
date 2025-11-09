@@ -79,7 +79,7 @@ This means:
 We can take a mix of both ideas using **mini-batch gradient descend**. Just taking some small part of the data. 
 ***
 ### Up
-- [[1758732030-regression|regression]]
+- [[1758732030-linearregression|regression]]
 ### Down
 - [[1758737329-meansquarederrorfunction|MSE]]
 ***

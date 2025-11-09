@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-atomic/1762722177-densitybasedclustering.md",
+                "file": "02-atomic/1762721286-clustering.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,16 +28,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "1762722177-densitybasedclustering"
+              "title": "1762721286-clustering"
             }
           },
           {
-            "id": "6366f00ae0035092",
+            "id": "5ef0242137837307",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-atomic/1762727802-dbscan.md",
+                "file": "02-atomic/1762729222-clustervalidity.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "1762727802-dbscan"
+              "title": "1762729222-clustervalidity"
             }
           }
         ],
@@ -76,13 +76,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02-atomic/1762727802-dbscan.md",
+                "file": "02-atomic/1762729222-clustervalidity.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 1762727802-dbscan"
+              "title": "Outline of 1762729222-clustervalidity"
             }
           },
           {
@@ -182,10 +182,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "02-atomic/1762727802-dbscan.md"
+                "file": "02-atomic/1762729222-clustervalidity.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for 1762727802-dbscan"
+              "title": "File properties for 1762729222-clustervalidity"
             }
           },
           {
@@ -214,7 +214,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02-atomic/1762727802-dbscan.md",
+                "file": "02-atomic/1762729222-clustervalidity.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -250,14 +250,14 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 1762727802-dbscan"
+              "title": "Graph of 1762729222-clustervalidity"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 319.5
+    "width": 211.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -273,12 +273,13 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "6366f00ae0035092",
+  "active": "5ef0242137837307",
   "lastOpenFiles": [
-    "99-meta/00-attach/1762727802-dbscanj.png",
-    "02-atomic/1762722177-densitybasedclustering.md",
-    "02-atomic/1762727802-dbscan.md",
     "02-atomic/1762721286-clustering.md",
+    "02-atomic/1762727802-dbscan.md",
+    "02-atomic/1762729222-clustervalidity.md",
+    "02-atomic/1762722177-densitybasedclustering.md",
+    "99-meta/00-attach/1762727802-dbscanj.png",
     "02-atomic/1755599732-machinelearning.md",
     "02-atomic/1757408342-ensemblebasemodels.md",
     "02-atomic/1757407129-ensemblemethods.md",
@@ -321,7 +322,6 @@
     "99-meta/00-attach/Screenshot 2024-11-03 at 10.09.35 AM.png",
     "99-meta/00-attach/Screenshot 2024-11-02 at 6.41.17 PM.png",
     "99-meta/00-attach/Screenshot 2024-10-08 at 2.29.28 PM.png",
-    "99-meta/00-attach/Screenshot 2024-10-04 at 10.22.44 AM.png",
     "01 - Areas/2. HTB/HTB_Linux Fundamentals.canvas",
     "01.Areas/1.UC3M/Movilidad.canvas",
     "01.Areas/3.Matterhorn/Tatto.canvas",

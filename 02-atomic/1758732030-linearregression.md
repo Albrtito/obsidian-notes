@@ -10,10 +10,11 @@ cssclasses:
 ---
 # linear regression
 > [!NOTE] Intro: 
-> Linear regression is a method for fitting a linear function through some data points (observations). For this we’ll use some cost function and try to minimize it.
+> Linear regression is a method for fitting a function through some data points (observations). For this we’ll use some cost function and try to minimize it.
 
 >[!attention] Remarks:
 > - During the ms course we’ll almost always use the [[1758649312-sumofsquarederrorfunction|SSE]] function as cost function. Because we are doing so we'll be using the **OLS(Ordinary Least Squares)** method. 
+> - Linear regression does not mean that **the result has to be an straight line**. It means that the coefficients are scalars. This means that a model such as $\hat{y} = \theta_{0} + \theta_{1}x_{1}^2$ exists. This is straing a linear relation wrt to the variable x1 squared. Not wrt the variable x1. But the regression as such is still linear. 
 
 > [!example] Dictionary:
 > - **prediction | hypothesis** → The prediction of a model, also called hypothesis is given based on some input x and follows a function usually denoted by $h_{\Theta}(x)$ or $f_{\Theta}(x)$. Then:

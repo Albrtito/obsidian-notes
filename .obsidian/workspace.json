@@ -32,7 +32,7 @@
             }
           },
           {
-            "id": "71f5c2cacc9895fc",
+            "id": "98cb0e812fb3b255",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -56,12 +56,12 @@
             }
           },
           {
-            "id": "715a6cf43285bdc7",
+            "id": "8a5cdd5a11958488",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-atomic/1762717333-durbinwatsonstatistic.md",
+                "file": "02-atomic/1762719515-regularizationoflinearregression.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,35 +76,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "1762717333-durbinwatsonstatistic"
-            }
-          },
-          {
-            "id": "2160d60414bdf5e6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02-atomic/1762717786-jarqueberatest.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "1762717786-jarqueberatest"
+              "title": "1762719515-regularizationoflinearregression"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -124,13 +100,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02-atomic/1762711563-analyzingtheresidualsofaregressionmodel.md",
+                "file": "02-atomic/1762719515-regularizationoflinearregression.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 1762711563-analyzingtheresidualsofaregressionmodel"
+              "title": "Outline of 1762719515-regularizationoflinearregression"
             }
           },
           {
@@ -230,10 +206,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "02-atomic/1762711563-analyzingtheresidualsofaregressionmodel.md"
+                "file": "02-atomic/1762719515-regularizationoflinearregression.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for 1762711563-analyzingtheresidualsofaregressionmodel"
+              "title": "File properties for 1762719515-regularizationoflinearregression"
             }
           },
           {
@@ -262,7 +238,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02-atomic/1762711563-analyzingtheresidualsofaregressionmodel.md",
+                "file": "02-atomic/1762719515-regularizationoflinearregression.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -298,7 +274,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 1762711563-analyzingtheresidualsofaregressionmodel"
+              "title": "Graph of 1762719515-regularizationoflinearregression"
             }
           }
         ]
@@ -321,14 +297,16 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "71f5c2cacc9895fc",
+  "active": "8a5cdd5a11958488",
   "lastOpenFiles": [
+    "02-atomic/1762719515-regularizationoflinearregression.md",
     "02-atomic/1758732030-linearregression.md",
+    "02-atomic/1762711563-analyzingtheresidualsofaregressionmodel.md",
+    "02-atomic/1758900858-implementingregressioninpythonwithstatsmodels.md",
+    "02-atomic/1762718941-stepwiseregression.md",
     "02-atomic/1762717786-jarqueberatest.md",
     "02-atomic/1762717333-durbinwatsonstatistic.md",
-    "02-atomic/1762711563-analyzingtheresidualsofaregressionmodel.md",
     "02-atomic/1758902314-pvalue.md",
-    "02-atomic/1758900858-implementingregressioninpythonwithstatsmodels.md",
     "02-atomic/1762709866-fstatistic.md",
     "02-atomic/1762710368-bayesianinformationcriterion.md",
     "02-atomic/1762709209-goodnessoffit.md",
@@ -350,11 +328,9 @@
     "99-meta/01-templ/noteTemplate.md",
     "98-ai/1762373189-gradientdescentvisualizationdemo.md",
     "98-ai/gradient_descent_demo/AGENTSj-1.py",
-    "98-ai/gradient_descent_demo/README.md",
     "98-ai/gradient_descent_demo/AGENTSj.py",
     "98-ai/gradient_descent_demo/1755599732-machinelearningj.py",
     "98-ai/gradient_descent_demo",
-    "98-ai/1762373159-gradientdescentsummary.md",
     "98-ai/1762373156-gradientdescentexplanationj.py",
     "98-ai/1758734414-gradientdescentj-4.py",
     "98-ai/1758734414-gradientdescentj-3.py",

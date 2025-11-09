@@ -47,6 +47,8 @@ The model coefficients here is one of the most important part.
 - Then there is the [[1762709866-fstatistic|f-statistic]]
 - Akaike Information Criterion ([[1762710178-akaikeinformationcriterion|AIC]]) and Bayesian Information Criterion ([[1762710368-bayesianinformationcriterion|BIC]]) are both used for model selection based on the fit and number of used variables. 
 
+### Residuals and residual analysis:
+Outputs for tests such as [[1762717333-durbinwatsonstatistic|durbin-watson statistic]] or [[1762717786-jarqueberatest|jarque-bera test]] are shown here. 
 ***
 ### Up
 - [[1758732030-linearregression|regression]]

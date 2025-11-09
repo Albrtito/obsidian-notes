@@ -16,7 +16,8 @@ For this properties we have the following tests:
 2. Using the [[1762717333-durbinwatsonstatistic|durbin-watson statistic]] (for autocorrelation)
    If there is a correlation between two variables then we'll remove one of them form the model. 
 3. ...
-4. Use the **Jarque-Bera test** (for normality of the distribution)
+4. Use the **Jarque-Bera test** (for normality of the distribution).
+   The residuals can be shifted to obtain a more normal distribution. #duda The residuals or the data?
 
 ***
 ### Up

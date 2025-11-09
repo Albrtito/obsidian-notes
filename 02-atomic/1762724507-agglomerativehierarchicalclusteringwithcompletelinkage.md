@@ -14,9 +14,8 @@ At each repetition we can:
 - Join two clusters
 In order to do so look at the distances from a point to all the points in each of the clusters. Choose the max distance to each cluster. Then compare them and put the point into the min distance cluster.
 
-The decisions are then represented in a **dendogram**. 
-> A possible dendogram would look like:
-> ![[1762724507-agglomerativehierarchicalclusteringwithcompletelinkagej.png]]
+
+
 
 
 ***

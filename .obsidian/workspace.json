@@ -37,30 +37,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-atomic/1762721286-clustering.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "1762721286-clustering"
-            }
-          },
-          {
-            "id": "3a02116ec54ba064",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "02-atomic/1762722122-hierarchicalclustering.md",
                 "mode": "source",
                 "source": false,
@@ -80,12 +56,12 @@
             }
           },
           {
-            "id": "2d1cc91cef94f18f",
+            "id": "4ecc5141262b58fb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-atomic/1762724507-agglomerativehierarchicalclusteringwithcompletelinkage.md",
+                "file": "02-atomic/1762725626-kmeans.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -100,11 +76,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "1762724507-agglomerativehierarchicalclusteringwithcompletelinkage"
+              "title": "1762725626-kmeans"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -124,13 +100,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02-atomic/1762724507-agglomerativehierarchicalclusteringwithcompletelinkage.md",
+                "file": "02-atomic/1762725626-kmeans.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 1762724507-agglomerativehierarchicalclusteringwithcompletelinkage"
+              "title": "Outline of 1762725626-kmeans"
             }
           },
           {
@@ -230,10 +206,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "02-atomic/1762724507-agglomerativehierarchicalclusteringwithcompletelinkage.md"
+                "file": "02-atomic/1762725626-kmeans.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for 1762724507-agglomerativehierarchicalclusteringwithcompletelinkage"
+              "title": "File properties for 1762725626-kmeans"
             }
           },
           {
@@ -262,7 +238,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02-atomic/1762724507-agglomerativehierarchicalclusteringwithcompletelinkage.md",
+                "file": "02-atomic/1762725626-kmeans.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -298,7 +274,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 1762724507-agglomerativehierarchicalclusteringwithcompletelinkage"
+              "title": "Graph of 1762725626-kmeans"
             }
           }
         ]
@@ -321,15 +297,18 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "2d1cc91cef94f18f",
+  "active": "4ecc5141262b58fb",
   "lastOpenFiles": [
-    "99-meta/00-attach/1762724507-agglomerativehierarchicalclusteringwithcompletelinkagej.png",
-    "02-atomic/1762724507-agglomerativehierarchicalclusteringwithcompletelinkage.md",
+    "02-atomic/1762725909-untitledsuffix.md",
+    "02-atomic/1762725626-kmeans.md",
     "02-atomic/1762722122-hierarchicalclustering.md",
     "02-atomic/1762721286-clustering.md",
-    "02-atomic/1762722177-densitybasedclustering.md",
     "02-atomic/1762722095-partitionalclustering.md",
     "02-atomic/1762634978-unsupervisedlearning.md",
+    "02-atomic/1762724507-agglomerativehierarchicalclusteringwithcompletelinkage.md",
+    "99-meta/00-attach/1762724507-agglomerativehierarchicalclusteringwithcompletelinkagej-1.png",
+    "99-meta/00-attach/1762724507-agglomerativehierarchicalclusteringwithcompletelinkagej.png",
+    "02-atomic/1762722177-densitybasedclustering.md",
     "02-atomic/1758644145-neuralnetworks.md",
     "02-atomic/1755599732-machinelearning.md",
     "02-atomic/1731419106 - Match-Plus-Action methods in forwarding.md",
@@ -348,7 +327,6 @@
     "02-atomic/1762710368-bayesianinformationcriterion.md",
     "02-atomic/1762709209-goodnessoffit.md",
     "02-atomic/1762710178-akaikeinformationcriterion.md",
-    "02-atomic/1758896891-computingthegradientformseinregression.md",
     "98-ai/02-atomic",
     "98-ai/01-scripts",
     "98-ai/gradient_descent_demo/AGENTSj-1.py",
@@ -368,8 +346,6 @@
     "99-meta/00-attach/Screenshot 2024-11-02 at 6.41.17 PM.png",
     "99-meta/00-attach/Screenshot 2024-10-08 at 2.29.28 PM.png",
     "99-meta/00-attach/Screenshot 2024-10-04 at 10.22.44 AM.png",
-    "99-meta/00-attach/Screenshot 2024-10-04 at 1.30.32 PM.png",
-    "99-meta/00-attach/Screenshot 2024-09-24 at 1.55.20 PM.png",
     "01 - Areas/2. HTB/HTB_Linux Fundamentals.canvas",
     "01.Areas/1.UC3M/Movilidad.canvas",
     "01.Areas/3.Matterhorn/Tatto.canvas",

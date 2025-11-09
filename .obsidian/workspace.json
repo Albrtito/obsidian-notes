@@ -275,8 +275,9 @@
   },
   "active": "6366f00ae0035092",
   "lastOpenFiles": [
-    "02-atomic/1762727802-dbscan.md",
+    "99-meta/00-attach/1762727802-dbscanj.png",
     "02-atomic/1762722177-densitybasedclustering.md",
+    "02-atomic/1762727802-dbscan.md",
     "02-atomic/1762721286-clustering.md",
     "02-atomic/1755599732-machinelearning.md",
     "02-atomic/1757408342-ensemblebasemodels.md",
@@ -302,7 +303,6 @@
     "02-atomic/1758900858-implementingregressioninpythonwithstatsmodels.md",
     "02-atomic/1762718941-stepwiseregression.md",
     "02-atomic/1762717786-jarqueberatest.md",
-    "02-atomic/1762717333-durbinwatsonstatistic.md",
     "98-ai/02-atomic",
     "98-ai/01-scripts",
     "98-ai/gradient_descent_demo/AGENTSj-1.py",

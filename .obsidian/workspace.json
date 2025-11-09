@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-atomic/1762719515-regularizationoflinearregression.md",
+                "file": "02-atomic/1762719515-regularizationofregressionmodels.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,11 +76,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "1762719515-regularizationoflinearregression"
+              "title": "1762719515-regularizationofregressionmodels"
+            }
+          },
+          {
+            "id": "cdd4c0012ab2be19",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02-atomic/1762720376-elasticnetinregression.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "1762720376-elasticnetinregression"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -100,13 +124,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02-atomic/1762719515-regularizationoflinearregression.md",
+                "file": "02-atomic/1762720376-elasticnetinregression.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 1762719515-regularizationoflinearregression"
+              "title": "Outline of 1762720376-elasticnetinregression"
             }
           },
           {
@@ -206,10 +230,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "02-atomic/1762719515-regularizationoflinearregression.md"
+                "file": "02-atomic/1762720376-elasticnetinregression.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for 1762719515-regularizationoflinearregression"
+              "title": "File properties for 1762720376-elasticnetinregression"
             }
           },
           {
@@ -238,7 +262,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02-atomic/1762719515-regularizationoflinearregression.md",
+                "file": "02-atomic/1762720376-elasticnetinregression.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -274,7 +298,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 1762719515-regularizationoflinearregression"
+              "title": "Graph of 1762720376-elasticnetinregression"
             }
           }
         ]
@@ -297,9 +321,12 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "8a5cdd5a11958488",
+  "active": "cdd4c0012ab2be19",
   "lastOpenFiles": [
-    "02-atomic/1762719515-regularizationoflinearregression.md",
+    "02-atomic/1762719515-regularizationofregressionmodels.md",
+    "02-atomic/1762720091-lassoregression.md",
+    "02-atomic/1762720376-elasticnetinregression.md",
+    "02-atomic/1762719774-ridgeregression.md",
     "02-atomic/1758732030-linearregression.md",
     "02-atomic/1762711563-analyzingtheresidualsofaregressionmodel.md",
     "02-atomic/1758900858-implementingregressioninpythonwithstatsmodels.md",
@@ -323,10 +350,7 @@
     "98-ai/02-atomic/1762642172 - Algorithm - K-means clustering.md",
     "98-ai/02-atomic/1762641781-kmeansclustering.md",
     "98-ai/02-atomic",
-    "02-atomic/1725229055 - SOme title.md",
     "98-ai/01-scripts",
-    "99-meta/01-templ/noteTemplate.md",
-    "98-ai/1762373189-gradientdescentvisualizationdemo.md",
     "98-ai/gradient_descent_demo/AGENTSj-1.py",
     "98-ai/gradient_descent_demo/AGENTSj.py",
     "98-ai/gradient_descent_demo/1755599732-machinelearningj.py",

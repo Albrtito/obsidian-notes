@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-atomic/1758900858-implementingregressioninpythonwithstatsmodels.md",
+                "file": "02-atomic/1762711563-analyzingtheresidualsofaregressionmodel.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,11 +52,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "1758900858-implementingregressioninpythonwithstatsmodels"
+              "title": "1762711563-analyzingtheresidualsofaregressionmodel"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -76,13 +75,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02-atomic/1758900858-implementingregressioninpythonwithstatsmodels.md",
+                "file": "02-atomic/1758732030-regression.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 1758900858-implementingregressioninpythonwithstatsmodels"
+              "title": "Outline of 1758732030-regression"
             }
           },
           {
@@ -182,10 +181,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "02-atomic/1758900858-implementingregressioninpythonwithstatsmodels.md"
+                "file": "02-atomic/1758732030-regression.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for 1758900858-implementingregressioninpythonwithstatsmodels"
+              "title": "File properties for 1758732030-regression"
             }
           },
           {
@@ -214,7 +213,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02-atomic/1758900858-implementingregressioninpythonwithstatsmodels.md",
+                "file": "02-atomic/1758732030-regression.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -250,7 +249,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 1758900858-implementingregressioninpythonwithstatsmodels"
+              "title": "Graph of 1758732030-regression"
             }
           }
         ]
@@ -273,15 +272,16 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "969e5d3f6a56c792",
+  "active": "035b3ab3502b9fa6",
   "lastOpenFiles": [
-    "02-atomic/1762709866-fstatistic.md",
-    "02-atomic/1758900858-implementingregressioninpythonwithstatsmodels.md",
+    "02-atomic/1762711563-analyzingtheresidualsofaregressionmodel.md",
+    "02-atomic/1758902314-pvalue.md",
     "02-atomic/1758732030-regression.md",
+    "02-atomic/1758900858-implementingregressioninpythonwithstatsmodels.md",
+    "02-atomic/1762709866-fstatistic.md",
     "02-atomic/1762710368-bayesianinformationcriterion.md",
     "02-atomic/1762709209-goodnessoffit.md",
     "02-atomic/1762710178-akaikeinformationcriterion.md",
-    "02-atomic/1758902314-pvalue.md",
     "02-atomic/1758896891-computingthegradientformseinregression.md",
     "02-atomic/1756374226-evaluationinregression.md",
     "02-atomic/1758734414-gradientdescent.md",
@@ -310,7 +310,6 @@
     "98-ai/1758734414-gradientdescentj-4.py",
     "98-ai/1758734414-gradientdescentj-3.py",
     "98-ai/1758734414-gradientdescentj-2.py",
-    "02-atomic/1758821790-suportvectormachine.md",
     "99-meta/00-attach/greekalphabet.png",
     "01-areas/2. HTB/HTB_Linux Fundamentals.canvas",
     "99-meta/00-attach/Truth table of the negation connective.png",

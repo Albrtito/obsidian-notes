@@ -4,31 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "0ba8a1118d05a2f1",
+        "id": "78333498292408c2",
         "type": "tabs",
         "children": [
           {
-            "id": "6b4abedb2f93aed4",
+            "id": "035b3ab3502b9fa6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AGENTS.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "AGENTS"
+              "title": "New tab"
             }
           }
         ],
@@ -52,13 +38,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AGENTS.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of AGENTS"
+              "title": "Outline"
             }
           },
           {
@@ -156,11 +141,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "AGENTS.md"
-              },
+              "state": {},
               "icon": "lucide-info",
-              "title": "File properties for AGENTS"
+              "title": "File properties"
             }
           },
           {
@@ -189,7 +172,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "AGENTS.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -225,7 +207,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of AGENTS"
+              "title": "Graph view"
             }
           }
         ]
@@ -248,14 +230,14 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "6b4abedb2f93aed4",
+  "active": "035b3ab3502b9fa6",
   "lastOpenFiles": [
+    "AGENTS.md",
     "README.md",
     "02-atomic/1761178034-opencode.md",
     "02-atomic/1760048595-log.md",
     "02-atomic/1762634550-supervisedlearning.md",
     "02-atomic/1755599732-machinelearning.md",
-    "AGENTS.md",
     "98-ai/02-atomic/1762642172 - Algorithm - K-means clustering.md",
     "98-ai/02-atomic/1762641781-kmeansclustering.md",
     "98-ai/02-atomic",

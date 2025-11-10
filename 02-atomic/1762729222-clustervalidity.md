@@ -25,6 +25,7 @@ If we look into the 2D example, the most important observation is that the bigge
 But if we just add more and more clusters this will be minimized. This is why there are other methods that will use this measure along with some other analysis,such as:
 - [[1762731713-elbowmethod|elbow method]]
 - [[1762732216-silhouettemethod|silhouette method]]
+- [[1762732972-gapstatistic|gap statistic]]
 ***
 ### Up
 ### Down

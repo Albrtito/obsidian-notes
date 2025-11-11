@@ -6,7 +6,7 @@ tags:
 ---
 # bouldering in iceland
 > [!info] Intro: 
-> 
+> https://www.klifur.is
 
 ***
 ### Up

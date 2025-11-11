@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-atomic/1762729222-clustervalidity.md",
+                "file": "02-atomic/1762867360-boulderinginiceland.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "1762729222-clustervalidity"
+              "title": "1762867360-boulderinginiceland"
             }
           },
           {
@@ -99,13 +99,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02-atomic/1762729222-clustervalidity.md",
+                "file": "02-atomic/1762867360-boulderinginiceland.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 1762729222-clustervalidity"
+              "title": "Outline of 1762867360-boulderinginiceland"
             }
           },
           {
@@ -205,10 +205,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "02-atomic/1762729222-clustervalidity.md"
+                "file": "02-atomic/1762867360-boulderinginiceland.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for 1762729222-clustervalidity"
+              "title": "File properties for 1762867360-boulderinginiceland"
             }
           },
           {
@@ -237,7 +237,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02-atomic/1762729222-clustervalidity.md",
+                "file": "02-atomic/1762867360-boulderinginiceland.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -273,7 +273,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 1762729222-clustervalidity"
+              "title": "Graph of 1762867360-boulderinginiceland"
             }
           }
         ]
@@ -298,8 +298,9 @@
   },
   "active": "cdd4c0012ab2be19",
   "lastOpenFiles": [
-    "02-atomic/1762732972-gapstatistic.md",
     "02-atomic/1762729222-clustervalidity.md",
+    "02-atomic/1762867360-boulderinginiceland.md",
+    "02-atomic/1762732972-gapstatistic.md",
     "02-atomic/1762732216-silhouettemethod.md",
     "02-atomic/1762731713-elbowmethod.md",
     "99-meta/00-attach/1762731713-elbowmethodj.png",
@@ -327,7 +328,6 @@
     "02-atomic/1762720376-elasticnetinregression.md",
     "02-atomic/1758732030-linearregression.md",
     "02-atomic/1762711563-analyzingtheresidualsofaregressionmodel.md",
-    "02-atomic/1762719774-ridgeregression.md",
     "98-ai/02-atomic",
     "98-ai/01-scripts",
     "98-ai/gradient_descent_demo/AGENTSj-1.py",

@@ -21,6 +21,7 @@ cssclasses:
 - [Daniel Miesler](https://danielmiessler.com): Cybersecurity engineer
 - [Justin Gardner](https://rhynorater.github.io/aboutme/): Bug hunter, SSRF (Servers Side Request Forgery). Some entry on initiation to **bug bounty**. #cyber 
 - [Joseph Thacker](https://josephthacker.com/about.html): #cyber Bug bounties, blog. AI hacking. 
+- **On longevity and living forever:**[Peter Atia](https://peterattiamd.com)
 ***
 
 ### Up

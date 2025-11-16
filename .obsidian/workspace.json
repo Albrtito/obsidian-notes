@@ -8,51 +8,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "93bf501f5f0ead8b",
+            "id": "0d5cc4cdc5b66e9b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02-atomic/1762732216-silhouettemethod.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "1762732216-silhouettemethod"
-            }
-          },
-          {
-            "id": "975234e702cb45a4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02-atomic/1762732972-gapstatistic.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "1762732972-gapstatistic"
+              "title": "New tab"
             }
           }
         ]
@@ -75,13 +37,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02-atomic/1762732216-silhouettemethod.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 1762732216-silhouettemethod"
+              "title": "Outline"
             }
           },
           {
@@ -180,11 +141,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "02-atomic/1762732216-silhouettemethod.md"
-              },
+              "state": {},
               "icon": "lucide-info",
-              "title": "File properties for 1762732216-silhouettemethod"
+              "title": "File properties"
             }
           },
           {
@@ -213,7 +172,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02-atomic/1762732216-silhouettemethod.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -249,7 +207,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 1762732216-silhouettemethod"
+              "title": "Graph view"
             }
           }
         ]
@@ -272,12 +230,12 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "93bf501f5f0ead8b",
+  "active": "0d5cc4cdc5b66e9b",
   "lastOpenFiles": [
-    "02-atomic/1762867360-boulderinginiceland.md",
-    "02-atomic/1762729222-clustervalidity.md",
     "02-atomic/1762732972-gapstatistic.md",
     "02-atomic/1762732216-silhouettemethod.md",
+    "02-atomic/1762867360-boulderinginiceland.md",
+    "02-atomic/1762729222-clustervalidity.md",
     "02-atomic/1762731713-elbowmethod.md",
     "99-meta/00-attach/1762731713-elbowmethodj.png",
     "02-atomic/1762721286-clustering.md",

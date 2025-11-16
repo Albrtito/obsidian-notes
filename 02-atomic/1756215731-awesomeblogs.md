@@ -19,6 +19,7 @@ cssclasses:
 - [Kenneth Reitz:](https://kennethreitz.org) A lot of things, interesting person, interesting life. Interesting philosophy
 - [Lei Mao:](https://leimao.github.io) Meta engineer working in machine learning. Quite some academic achievements. A lot of different things on his blog. Not artiscially pleasing though. 
 - [Daniel Miesler](https://danielmiessler.com): Cybersecurity engineer
+- [Justin Gardner](https://rhynorater.github.io/aboutme/): Bug hunter, SSRF (Servers Side Request Forgery). 
 ***
 
 ### Up

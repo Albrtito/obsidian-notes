@@ -25,7 +25,6 @@ cssclasses:
 - [Ali Abdaal](https://aliabdaal.com): On learning, notetaking. Maybet to much towards the entrepenurial and course-like fashion. 
 - [Darknet Diaries(Jack Rhysider)](https://darknetdiaries.com/es/): Podcast con historias y entrevistas.
 ***
-
 ### Up
 ### Down
 - [[1761408116-kennethreitz|kenneth reitz]]

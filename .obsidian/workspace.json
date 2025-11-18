@@ -4,47 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "78333498292408c2",
+        "id": "62b2c1da599fae05",
         "type": "tabs",
         "children": [
           {
-            "id": "0d5cc4cdc5b66e9b",
+            "id": "d4df429120978b87",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02-atomic/1756215731-awesomeblogs.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "1756215731-awesomeblogs"
-            }
-          },
-          {
-            "id": "98ca624a176c0dcc",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.10.3"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.10.3"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -289,7 +262,7 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "98ca624a176c0dcc",
+  "active": "d4df429120978b87",
   "lastOpenFiles": [
     "02-atomic/1756215731-awesomeblogs.md",
     "02-atomic/1763322751-untitledsuffix.md",

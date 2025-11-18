@@ -30,8 +30,21 @@
               "icon": "lucide-file",
               "title": "1756215731-awesomeblogs"
             }
+          },
+          {
+            "id": "98ca624a176c0dcc",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.10.3"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.10.3"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -156,11 +169,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "02-atomic/1756215731-awesomeblogs.md"
-              },
+              "state": {},
               "icon": "lucide-info",
-              "title": "File properties for 1756215731-awesomeblogs"
+              "title": "File properties"
             }
           },
           {
@@ -176,6 +187,37 @@
               "icon": "lucide-archive",
               "title": "All properties"
             }
+          },
+          {
+            "id": "61a4b767924453a5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "624e66ca2d812e6f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
           }
         ]
       },
@@ -189,7 +231,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02-atomic/1756215731-awesomeblogs.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -225,7 +266,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 1756215731-awesomeblogs"
+              "title": "Graph view"
             }
           }
         ]
@@ -248,7 +289,7 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "0d5cc4cdc5b66e9b",
+  "active": "98ca624a176c0dcc",
   "lastOpenFiles": [
     "02-atomic/1756215731-awesomeblogs.md",
     "02-atomic/1763322751-untitledsuffix.md",

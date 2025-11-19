@@ -82,14 +82,6 @@
       "key": "R"
     }
   ],
-  "editor:toggle-highlight": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "H"
-    }
-  ],
   "templater-obsidian:create-new-note-from-template": [
     {
       "modifiers": [

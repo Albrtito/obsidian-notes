@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-atomic/1761179757-lazyvim.md",
+                "file": "02-atomic/1761269806-rollingsquareedgeconector.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "1761179757-lazyvim"
+              "title": "1761269806-rollingsquareedgeconector"
             }
           }
         ]
@@ -157,10 +157,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "02-atomic/1761179757-lazyvim.md"
+                "file": "02-atomic/1761269806-rollingsquareedgeconector.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for 1761179757-lazyvim"
+              "title": "File properties for 1761269806-rollingsquareedgeconector"
             }
           },
           {
@@ -220,7 +220,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02-atomic/1761179757-lazyvim.md",
+                "file": "02-atomic/1761269806-rollingsquareedgeconector.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -256,7 +256,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 1761179757-lazyvim"
+              "title": "Graph of 1761269806-rollingsquareedgeconector"
             }
           }
         ]
@@ -281,6 +281,7 @@
   },
   "active": "d4df429120978b87",
   "lastOpenFiles": [
+    "02-atomic/1761179757-lazyvim.md",
     "02-atomic/1756215731-awesomeblogs.md",
     "02-atomic/1763322751-untitledsuffix.md",
     "02-atomic/1762732972-gapstatistic.md",
@@ -310,7 +311,6 @@
     "99-meta/00-attach/1762724507-agglomerativehierarchicalclusteringwithcompletelinkagej.png",
     "02-atomic/1758644145-neuralnetworks.md",
     "02-atomic/1731419106 - Match-Plus-Action methods in forwarding.md",
-    "02-atomic/1762720376-elasticnetinregression.md",
     "98-ai/02-atomic",
     "98-ai/01-scripts",
     "98-ai/gradient_descent_demo/AGENTSj-1.py",

@@ -11,10 +11,24 @@
             "id": "d4df429120978b87",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "02-atomic/1761179757-lazyvim.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "1761179757-lazyvim"
             }
           }
         ]
@@ -142,9 +156,11 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {},
+              "state": {
+                "file": "02-atomic/1761179757-lazyvim.md"
+              },
               "icon": "lucide-info",
-              "title": "File properties"
+              "title": "File properties for 1761179757-lazyvim"
             }
           },
           {
@@ -204,6 +220,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "02-atomic/1761179757-lazyvim.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -239,7 +256,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Graph of 1761179757-lazyvim"
             }
           }
         ]

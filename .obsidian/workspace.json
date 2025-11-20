@@ -8,36 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "968160c19eb02f7e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02-atomic/1763603054-radixsort.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "1763603054-radixsort"
-            }
-          },
-          {
             "id": "89acb1d2c665c58c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-atomic/1763604604-bucketsort.md",
+                "file": "02-atomic/1763594182-obsidianthemecreation.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "1763604604-bucketsort"
+              "title": "1763594182-obsidianthemecreation"
             }
           }
         ]
@@ -75,13 +51,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02-atomic/1763603054-radixsort.md",
+                "file": "02-atomic/1763594182-obsidianthemecreation.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 1763603054-radixsort"
+              "title": "Outline of 1763594182-obsidianthemecreation"
             }
           },
           {
@@ -181,10 +157,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "02-atomic/1763603054-radixsort.md"
+                "file": "02-atomic/1763594182-obsidianthemecreation.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for 1763603054-radixsort"
+              "title": "File properties for 1763594182-obsidianthemecreation"
             }
           },
           {
@@ -244,7 +220,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02-atomic/1763603054-radixsort.md",
+                "file": "02-atomic/1763594182-obsidianthemecreation.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -280,7 +256,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 1763603054-radixsort"
+              "title": "Graph of 1763594182-obsidianthemecreation"
             }
           }
         ]
@@ -303,7 +279,7 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "968160c19eb02f7e",
+  "active": "89acb1d2c665c58c",
   "lastOpenFiles": [
     "02-atomic/1763604604-bucketsort.md",
     "02-atomic/1763603054-radixsort.md",

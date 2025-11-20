@@ -9,7 +9,7 @@ tags:
 > When looking at themes and how to create and apply my own theme one of the main apps that will be altered by this change is obsidian. This note will hold resources and links to some other interesting notes. 
 
 ## Changing the css file:
-
+So all changes for obsidian theme go into the theme.css file inside the .obsidian folder. Inside this file all of the properties defining the appearances of elements can be redefined. This lets me alter all themes so that they share some basic properties that i want everywhere. 
 
 ***
 ### Up

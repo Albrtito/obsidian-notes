@@ -1,44 +1,70 @@
-/* Nightfox Blue Bold & Red Links Snippet */
-/* Changes all bold text to Nightfox blue and links to Nightfox red */
+/* Tokyo Night Blue Bold & Red Links Snippet */
+/* Changes all bold text to Tokyo Night blue and links to Tokyo Night red */
 
-/* Nightfox color variables */
+/* Tokyo Night color variables */
 :root {
-  --nightfox-blue: #719cd6;
-  --nightfox-red: #c94f6d;
+  --blue: #7aa2f7;
+  --red: #f7768e;
+  --text-color: #a9b1d6;
 }
 
 /* Bold text styling - Editor mode */
 .cm-strong {
-  color: var(--nightfox-blue) !important;
+  color: var(--blue) !important;
 }
 
 /* Bold text styling - Reading mode */
 strong, b {
-  color: var(--nightfox-blue) !important;
+  color: var(--blue) !important;
 }
 
 /* Link styling - Editor mode */
 .cm-link, .cm-url {
-  color: var(--nightfox-red) !important;
+  color: var(--red) !important;
 }
 
 /* Link styling - Reading mode */
 a {
-  color: var(--nightfox-red) !important;
+  color: var(--red) !important;
 }
 
 /* Internal links */
 .internal-link {
-  color: var(--nightfox-red) !important;
+  color: var(--red) !important;
 }
 
 /* External links */
 .external-link {
-  color: var(--nightfox-red) !important;
+  color: var(--red) !important;
 }
 
 /* Unresolved links */
 .is-unresolved {
-  color: var(--nightfox-red) !important;
+  color: var(--red) !important;
   opacity: 0.7;
+}
+
+/* Heading styles */
+
+/* H1 - Larger, text color, and centered like title */
+h1, .cm-header-1 {
+  color: var(--text-color) !important;
+  font-size: 300em !important;
+  text-align: center !important;
+  font-weight: 300 !important;
+  letter-spacing: 0.1em !important;
+  margin-top: 2em !important;
+  margin-bottom: 1em !important;
+}
+
+/* H2 - Text color with subtle dotted underline */
+h2, .cm-header-2 {
+  color: var(--text-color) !important;
+  border-bottom: 1px dotted var(--text-color) !important;
+  padding-bottom: 0.3em !important;
+}
+
+/* H3 - Text color */
+h3, .cm-header-3 {
+  color: var(--text-color) !important;
 }

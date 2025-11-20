@@ -8,6 +8,8 @@ tags:
 > [!info] Intro: 
 > When looking at themes and how to create and apply my own theme one of the main apps that will be altered by this change is obsidian. This note will hold resources and links to some other interesting notes. 
 
+## Some other title:
+
 
 ***
 ### Up

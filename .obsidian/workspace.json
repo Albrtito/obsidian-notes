@@ -55,8 +55,7 @@
               "title": "1763606637-tokyonightthemederivation"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -76,13 +75,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02-atomic/1763606637-tokyonightthemederivation.md",
+                "file": "02-atomic/1763594182-obsidianthemecreation.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 1763606637-tokyonightthemederivation"
+              "title": "Outline of 1763594182-obsidianthemecreation"
             }
           },
           {
@@ -182,10 +181,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "02-atomic/1763606637-tokyonightthemederivation.md"
+                "file": "02-atomic/1763594182-obsidianthemecreation.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for 1763606637-tokyonightthemederivation"
+              "title": "File properties for 1763594182-obsidianthemecreation"
             }
           },
           {
@@ -245,7 +244,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02-atomic/1763606637-tokyonightthemederivation.md",
+                "file": "02-atomic/1763594182-obsidianthemecreation.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -281,7 +280,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 1763606637-tokyonightthemederivation"
+              "title": "Graph of 1763594182-obsidianthemecreation"
             }
           }
         ]
@@ -304,7 +303,7 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "cc7ca612b5c9db94",
+  "active": "89acb1d2c665c58c",
   "lastOpenFiles": [
     "02-atomic/1763606637-tokyonightthemederivation.md",
     "02-atomic/1763594182-obsidianthemecreation.md",

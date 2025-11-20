@@ -150,7 +150,14 @@
       "key": "L"
     }
   ],
-  "editor:toggle-checklist-status": [],
+  "editor:toggle-checklist-status": [
+    {
+      "modifiers": [
+        "Ctrl"
+      ],
+      "key": "X"
+    }
+  ],
   "workspace:next-tab": [
     {
       "modifiers": [

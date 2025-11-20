@@ -5,7 +5,6 @@
 :root {
   --blue: #7aa2f7;
   --red: #f7768e;
-  --text-color: var(--text-normal);
 }
 
 /* Bold text styling - Editor mode */
@@ -45,7 +44,6 @@ a {
 }
 
 /* Heading styles */
-
 /* H1 - Larger, text color, and centered like title */
 /* Reading mode */
 .markdown-preview-view h1,
@@ -71,7 +69,7 @@ h1 {
 
 /* Color for h1 text in editor */
 .cm-header-1 {
-  color: var(--text-color) !important;
+  color: var(--text-normal) !important;
   margin-bottom: 0.25em !important;
 }
 
@@ -79,28 +77,27 @@ h1 {
 /* Reading mode */
 .markdown-preview-view h2,
 h2 {
-  color: var(--text-color) !important;
-  border-bottom: 2px dotted var(--text-color) !important;
+  color: var(--text-normal) !important;
+  border-bottom: 2px dotted var(--text-normal) !important;
   padding-bottom: 0.25em !important;
   margin-bottom: 0.25em !important;
 }
 
 /* Editor/Live Preview mode - target the line container for h2 */
 .cm-line.HyperMD-header-2 {
-  border-bottom: 2px dotted var(--text-color) !important;
+  border-bottom: 2px dotted var(--text-normal) !important;
   padding-bottom: 0.25em !important;
   margin-bottom: 0.25em !important;
 }
 
 /* Color for h2 text in editor */
 .cm-header-2 {
-  color: var(--text-color) !important;
-  margin-bottom: 0.25em !important;
+  color: var(--text-normal) !important;
 }
 
 /* H3 - Text color */
 .markdown-preview-view h3,
 .cm-header-3,
 h3 {
-  color: var(--text-color) !important;
+  color: var(--text-normal) !important;
 }

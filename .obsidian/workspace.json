@@ -75,13 +75,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02-atomic/1763594182-obsidianthemecreation.md",
+                "file": "02-atomic/1760048595-log.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 1763594182-obsidianthemecreation"
+              "title": "Outline of 1760048595-log"
             }
           },
           {
@@ -160,8 +160,7 @@
               "title": "Tags"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -181,10 +180,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "02-atomic/1763594182-obsidianthemecreation.md"
+                "file": "02-atomic/1760048595-log.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for 1763594182-obsidianthemecreation"
+              "title": "File properties for 1760048595-log"
             }
           },
           {
@@ -244,7 +243,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02-atomic/1763594182-obsidianthemecreation.md",
+                "file": "02-atomic/1760048595-log.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -280,7 +279,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 1763594182-obsidianthemecreation"
+              "title": "Graph of 1760048595-log"
             }
           }
         ]
@@ -303,10 +302,11 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "89acb1d2c665c58c",
+  "active": "f07e4f94d84abbbc",
   "lastOpenFiles": [
-    "02-atomic/1763606637-tokyonightthemederivation.md",
     "02-atomic/1763594182-obsidianthemecreation.md",
+    "02-atomic/1760048595-log.md",
+    "02-atomic/1763606637-tokyonightthemederivation.md",
     "02-atomic/1763604604-bucketsort.md",
     "02-atomic/1763603054-radixsort.md",
     "02-atomic/1763603138-sorting.md",
@@ -316,7 +316,6 @@
     "02-atomic/Obsidian vault tour.md",
     "02-atomic/1761269806-rollingsquareedgeconector.md",
     "02-atomic/1763600735-untitledsuffix.md",
-    "02-atomic/1760048595-log.md",
     "02-atomic/1761179757-lazyvim.md",
     "02-atomic/1756215731-awesomeblogs.md",
     "02-atomic/1763322751-untitledsuffix.md",

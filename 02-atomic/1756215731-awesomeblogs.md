@@ -1,8 +1,9 @@
 ---
 aliases:
-- awesome blogs
+  - awesome blogs
 tags:
-- review
+  - review
+  - awesome
 References:
 cssclasses:
 ---

@@ -2,7 +2,7 @@
 aliases:
   - function approximation in reinforcement learning
 tags:
-  - ms
+  - ml
 ---
 # function aproximation in Reinforcement Learning
 > [!info] Intro: 

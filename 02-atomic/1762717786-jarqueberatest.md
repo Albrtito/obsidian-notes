@@ -2,7 +2,7 @@
 aliases:
 - jarque-bera test
 tags:
-- ms
+- ml
 ---
 # jarque-bera test
 > [!info] Intro: 

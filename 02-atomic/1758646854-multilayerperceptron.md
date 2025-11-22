@@ -3,7 +3,7 @@ aliases:
 - multilayer perceptron
 tags:
 - review
-- ms
+- ml
 References:
 cssclasses:
 ---

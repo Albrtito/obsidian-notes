@@ -2,7 +2,7 @@
 aliases:
 - unsupervised learning
 tags:
-- ms
+- ml
 ---
 # unsupervised learning
 > [!info] Intro: 

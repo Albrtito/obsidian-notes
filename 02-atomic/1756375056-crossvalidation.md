@@ -3,7 +3,7 @@ aliases:
   - cross-validation
 tags:
   - review
-  - ms
+  - ml
 References:
 cssclasses:
 ---

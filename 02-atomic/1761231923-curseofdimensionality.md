@@ -2,7 +2,7 @@
 aliases:
 - curse of dimensionality
 tags:
-- ms
+- ml
 ---
 # curse of dimensionality
 > [!NOTE] Intro: 

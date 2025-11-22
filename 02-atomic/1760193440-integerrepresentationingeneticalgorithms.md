@@ -2,7 +2,7 @@
 aliases:
 - integer representation in genetic algorithms
 tags:
-- ms
+- ml
 ---
 # integer representation in genetic algorithms
 > [!NOTE] Intro: 

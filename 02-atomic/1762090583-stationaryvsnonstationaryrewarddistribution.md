@@ -2,7 +2,7 @@
 aliases:
 - stationary vs nonstationary reward distribution
 tags:
-- ms
+- ml
 ---
 # stationary vs nonstationary reward distribution
 > [!info] Intro: 

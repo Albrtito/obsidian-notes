@@ -2,7 +2,7 @@
 aliases:
 - agglomerative hierarchical clustering with complete linkage
 tags:
-- ms
+- ml
 ---
 # agglomerative hierarchical clustering with complete linkage
 > [!info] Intro: 

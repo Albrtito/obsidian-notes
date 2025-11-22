@@ -2,7 +2,7 @@
 aliases:
 - durbin-watson statistic
 tags:
-- ms
+- ml
 ---
 # durbin-watson statistic
 > [!info] Intro: 

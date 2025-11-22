@@ -2,7 +2,7 @@
 aliases:
 - cluster validity
 tags:
-- ms
+- ml
 ---
 # cluster validity
 > [!info] Intro: 

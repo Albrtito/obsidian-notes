@@ -3,7 +3,7 @@ aliases:
 - knn on regression
 tags:
 - review
-- ms
+- ml
 References:
 cssclasses:
 ---

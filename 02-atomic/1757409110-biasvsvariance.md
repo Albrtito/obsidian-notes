@@ -3,7 +3,7 @@ aliases:
 - bias vs variance
 tags:
 - review
-- ms
+- ml
 References:
 cssclasses:
 ---

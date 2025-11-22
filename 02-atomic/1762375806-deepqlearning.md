@@ -2,7 +2,7 @@
 aliases:
 - deep q-learning
 tags:
-- ms
+- ml
 ---
 # deep q-learning
 > [!info] Intro: 

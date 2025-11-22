@@ -2,7 +2,7 @@
 aliases:
 - the deadly triad
 tags:
-- ms
+- ml
 ---
 # the deadly triad
 > [!info] Intro: 

@@ -2,7 +2,7 @@
 aliases:
 - gap statistic
 tags:
-- ms
+- ml
 ---
 # gap statistic
 > [!info] Intro: 

@@ -3,7 +3,7 @@ aliases:
   - suport vector machine
   - SVM
 tags:
-  - ms
+  - ml
 References:
 cssclasses:
 ---

@@ -2,7 +2,7 @@
 aliases:
 - greedy policy
 tags:
-- ms
+- ml
 ---
 # greedy policy
 > [!info] Intro: 

@@ -2,7 +2,7 @@
 aliases:
 - lasso regression
 tags:
-- ms
+- ml
 ---
 # lasso regression
 > [!info] Intro: 

@@ -2,7 +2,7 @@
 aliases:
   - statistical independence
 tags:
-  - ms
+  - ml
   - stat
 ---
 # statistical independence

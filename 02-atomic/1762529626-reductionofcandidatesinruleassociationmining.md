@@ -2,7 +2,7 @@
 aliases:
 - reduction of candidates in rule association mining
 tags:
-- ms
+- ml
 ---
 # reduction of candidates in rule association mining
 > [!info] Intro: 

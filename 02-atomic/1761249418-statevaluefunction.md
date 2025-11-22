@@ -2,7 +2,7 @@
 aliases:
   - state value function
 tags:
-  - ms
+  - ml
 ---
 # state value function
 > [!NOTE] Intro: 

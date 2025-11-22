@@ -3,7 +3,7 @@ aliases:
   - goodness-of-fit
   - R squared
 tags:
-  - ms
+  - ml
 ---
 # goodness-of-fit
 > [!info] Intro: 

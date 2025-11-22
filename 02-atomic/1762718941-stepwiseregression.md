@@ -2,7 +2,7 @@
 aliases:
 - stepwise regression
 tags:
-- ms
+- ml
 ---
 # stepwise regression
 > [!info] Intro: 

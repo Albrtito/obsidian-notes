@@ -3,7 +3,7 @@ aliases:
 - ensemble methods
 tags:
 - review
-- ms
+- ml
 References:
 cssclasses:
 ---

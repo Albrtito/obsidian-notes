@@ -3,7 +3,7 @@ aliases:
 - overfitting in neural networks
 tags:
 - review
-- ms
+- ml
 References:
 cssclasses:
 ---

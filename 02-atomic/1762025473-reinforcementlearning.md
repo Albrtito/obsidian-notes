@@ -3,7 +3,7 @@ aliases:
   - reinforcement learning
   - RL
 tags:
-  - ms
+  - ml
 ---
 # reinforcement learning
 > [!info] Intro: 

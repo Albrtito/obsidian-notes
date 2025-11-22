@@ -2,7 +2,7 @@
 aliases:
 - dimensionality reduction
 tags:
-- ms
+- ml
 ---
 # dimensionality reduction
 > [!info] Intro: 

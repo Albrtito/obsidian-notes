@@ -2,7 +2,7 @@
 aliases:
 - SARSA vs Q-Learning
 tags:
-- ms
+- ml
 ---
 # SARSA vs Q-Learning
 > [!info] Intro: 

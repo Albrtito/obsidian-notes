@@ -3,7 +3,7 @@ aliases:
   - markov decision process
   - MDP
 tags:
-  - ms
+  - ml
 ---
 # markov decision process
 > [!info] Intro: 

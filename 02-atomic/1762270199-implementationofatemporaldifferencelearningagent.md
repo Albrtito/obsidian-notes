@@ -2,7 +2,7 @@
 aliases:
 - implementation of a temporal difference learning agent
 tags:
-- ms
+- ml
 ---
 # implementation of a temporal difference learning agent
 > [!info] Intro: 

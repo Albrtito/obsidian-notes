@@ -2,7 +2,7 @@
 aliases:
 - silhouette method
 tags:
-- ms
+- ml
 ---
 # silhouette method
 > [!info] Intro: 

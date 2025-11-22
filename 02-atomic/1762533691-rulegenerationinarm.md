@@ -2,7 +2,7 @@
 aliases:
 - rule generation in ARM
 tags:
-- ms
+- ml
 ---
 # rule generation in ARM
 > [!info] Intro: 

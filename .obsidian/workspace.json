@@ -8,36 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "89acb1d2c665c58c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02-atomic/1763594182-obsidianthemecreation.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "1763594182-obsidianthemecreation"
-            }
-          },
-          {
             "id": "cc7ca612b5c9db94",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-atomic/1763606637-tokyonightthemederivation.md",
+                "file": "02-atomic/1763845481-creatingtemporarytags.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "1763606637-tokyonightthemederivation"
+              "title": "1763845481-creatingtemporarytags"
             }
           }
         ]
@@ -75,13 +51,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02-atomic/1760048595-log.md",
+                "file": "02-atomic/1763845481-creatingtemporarytags.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 1760048595-log"
+              "title": "Outline of 1763845481-creatingtemporarytags"
             }
           },
           {
@@ -90,7 +66,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#algorithm",
+                "query": "tag:#system",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -101,7 +77,8 @@
               "title": "Search"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "f340046a713a91df",
@@ -160,7 +137,8 @@
               "title": "Tags"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -180,10 +158,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "02-atomic/1760048595-log.md"
+                "file": "02-atomic/1763845481-creatingtemporarytags.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for 1760048595-log"
+              "title": "File properties for 1763845481-creatingtemporarytags"
             }
           },
           {
@@ -243,7 +221,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02-atomic/1760048595-log.md",
+                "file": "02-atomic/1763845481-creatingtemporarytags.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -279,7 +257,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 1760048595-log"
+              "title": "Graph of 1763845481-creatingtemporarytags"
             }
           }
         ]
@@ -302,11 +280,15 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "f07e4f94d84abbbc",
+  "active": "cc7ca612b5c9db94",
   "lastOpenFiles": [
-    "02-atomic/1763594182-obsidianthemecreation.md",
     "02-atomic/1760048595-log.md",
+    "02-atomic/1763594182-obsidianthemecreation.md",
     "02-atomic/1763606637-tokyonightthemederivation.md",
+    "02-atomic/1756215731-awesomeblogs.md",
+    "02-atomic/1756371053-confusionmatrix.md",
+    "02-atomic/1760053461-quickrefme.md",
+    "02-atomic/1763845481-creatingtemporarytags.md",
     "02-atomic/1763604604-bucketsort.md",
     "02-atomic/1763603054-radixsort.md",
     "02-atomic/1763603138-sorting.md",
@@ -317,7 +299,6 @@
     "02-atomic/1761269806-rollingsquareedgeconector.md",
     "02-atomic/1763600735-untitledsuffix.md",
     "02-atomic/1761179757-lazyvim.md",
-    "02-atomic/1756215731-awesomeblogs.md",
     "02-atomic/1763322751-untitledsuffix.md",
     "02-atomic/1762732972-gapstatistic.md",
     "02-atomic/1762732216-silhouettemethod.md",
@@ -328,10 +309,7 @@
     "02-atomic/1762721286-clustering.md",
     "02-atomic/1762731193-withinsumofsquares.md",
     "02-atomic/1762729689-hopkinsstatistic.md",
-    "02-atomic/1762727802-dbscan.md",
-    "02-atomic/1762722177-densitybasedclustering.md",
     "99-meta/00-attach/1762727802-dbscanj.png",
-    "02-atomic/1755599732-machinelearning.md",
     "99-meta/00-attach/1762724507-agglomerativehierarchicalclusteringwithcompletelinkagej-1.png",
     "99-meta/00-attach/1762724507-agglomerativehierarchicalclusteringwithcompletelinkagej.png",
     "98-ai/02-atomic",

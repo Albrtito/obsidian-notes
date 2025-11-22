@@ -2,7 +2,7 @@
 aliases:
   - regularization of regression models
 tags:
-  - ms
+  - ml
 ---
 # regularization of regression models
 > [!info] Intro: 

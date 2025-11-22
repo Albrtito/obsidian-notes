@@ -2,7 +2,7 @@
 aliases:
 - return vs reward in reinforcement learning
 tags:
-- ms
+- ml
 ---
 # return vs reward in reinforcement learning
 > [!info] Intro: 

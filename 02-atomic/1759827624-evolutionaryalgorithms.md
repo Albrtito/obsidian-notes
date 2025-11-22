@@ -3,7 +3,7 @@ aliases:
   - evolutionary algorithms
   - EAs
 tags:
-  - ms
+  - ml
 ---
 # evolutionary algorithms
 > [!NOTE] Intro: 

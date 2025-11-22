@@ -2,7 +2,7 @@
 aliases:
 - hierarchical clustering
 tags:
-- ms
+- ml
 ---
 # hierarchical clustering
 > [!info] Intro: 

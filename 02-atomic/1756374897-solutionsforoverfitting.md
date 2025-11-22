@@ -3,7 +3,7 @@ aliases:
   - solutions for overfitting
 tags:
   - review
-  - ms
+  - ml
 References:
 cssclasses:
 ---

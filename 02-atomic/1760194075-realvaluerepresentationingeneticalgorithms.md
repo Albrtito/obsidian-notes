@@ -2,7 +2,7 @@
 aliases:
 - real value representation in genetic algorithms
 tags:
-- ms
+- ml
 ---
 # real value representation in genetic algorithms
 > [!NOTE] Intro: 

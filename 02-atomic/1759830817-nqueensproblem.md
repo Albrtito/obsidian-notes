@@ -3,7 +3,7 @@ aliases:
   - n queens problem
 tags:
   - heuri
-  - ms
+  - ml
 ---
 # n queens problem
 > [!NOTE] Intro: 

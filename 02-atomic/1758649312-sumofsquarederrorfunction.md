@@ -3,7 +3,7 @@ aliases:
   - sum of squared error function
   - SSE
 tags:
-  - ms
+  - ml
 References:
 cssclasses:
 ---

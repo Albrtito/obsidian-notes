@@ -2,7 +2,7 @@
 aliases:
 - episodic vs continuing tasks
 tags:
-- ms
+- ml
 ---
 # episodic vs continuing tasks
 > [!info] Intro: 

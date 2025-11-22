@@ -2,7 +2,7 @@
 aliases:
 - permutation representation in genetic algorithms
 tags:
-- ms
+- ml
 ---
 # permutation representation in genetic algorithms
 > [!NOTE] Intro: 

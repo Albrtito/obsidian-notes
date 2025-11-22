@@ -2,7 +2,7 @@
 aliases:
 - analyzing the residuals of a regression model
 tags:
-- ms
+- ml
 ---
 # analyzing the residuals of a regression model
 > [!info] Intro: 

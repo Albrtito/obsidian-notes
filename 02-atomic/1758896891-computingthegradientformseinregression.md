@@ -3,7 +3,7 @@ aliases:
 - computing the gradient for MSE in regression
 tags:
 - review
-- ms
+- ml
 References:
 cssclasses:
 ---

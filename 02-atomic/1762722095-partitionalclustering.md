@@ -2,7 +2,7 @@
 aliases:
 - partitional clustering
 tags:
-- ms
+- ml
 ---
 # partitional clustering
 > [!info] Intro: 

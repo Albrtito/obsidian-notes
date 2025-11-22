@@ -3,7 +3,7 @@ aliases:
 - linear separation
 tags:
 - review
-- ms
+- ml
 References:
 cssclasses:
 ---

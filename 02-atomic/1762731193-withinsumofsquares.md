@@ -3,7 +3,7 @@ aliases:
   - within-sum-of-squares
   - WSS
 tags:
-  - ms
+  - ml
 ---
 # within-sum-of-squares
 > [!info] Intro: 

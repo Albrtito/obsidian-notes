@@ -3,7 +3,7 @@ aliases:
   - dataframe selection
 tags:
   - review
-  - ms
+  - ml
 References:
 cssclasses:
 j:

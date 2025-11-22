@@ -3,7 +3,7 @@ aliases:
   - bayes classifier
 tags:
   - review
-  - ms
+  - ml
 References:
 cssclasses:
 ---

@@ -2,7 +2,7 @@
 aliases:
 - arithmetic recombination
 tags:
-- ms
+- ml
 ---
 # arithmetic recombination
 > [!NOTE] Intro: 

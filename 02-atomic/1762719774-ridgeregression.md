@@ -2,7 +2,7 @@
 aliases:
 - ridge regression
 tags:
-- ms
+- ml
 ---
 # ridge regression
 > [!info] Intro: 

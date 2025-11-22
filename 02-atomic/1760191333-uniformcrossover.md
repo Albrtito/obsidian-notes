@@ -2,7 +2,7 @@
 aliases:
 - uniform crossover
 tags:
-- ms
+- ml
 ---
 # uniform crossover
 > [!NOTE] Intro: 

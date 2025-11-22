@@ -3,7 +3,7 @@ aliases:
   - weight adjustment in neural networks
 tags:
   - review
-  - ms
+  - ml
 References:
 cssclasses:
 ---

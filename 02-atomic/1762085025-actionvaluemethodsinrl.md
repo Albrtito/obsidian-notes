@@ -2,7 +2,7 @@
 aliases:
 - action-value methods in RL
 tags:
-- ms
+- ml
 ---
 # action-value methods in RL
 > [!info] Intro: 

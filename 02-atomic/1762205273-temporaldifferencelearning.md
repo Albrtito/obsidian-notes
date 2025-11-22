@@ -3,7 +3,7 @@ aliases:
   - temporal difference learning
   - TDL
 tags:
-  - ms
+  - ml
 ---
 # temporal difference learning
 > [!info] Intro: 

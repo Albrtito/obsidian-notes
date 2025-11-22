@@ -2,7 +2,7 @@
 aliases:
 - reduction of the number of comparisons in ARM
 tags:
-- ms
+- ml
 ---
 # reduction of the number of comparisons in ARM
 > [!info] Intro: 

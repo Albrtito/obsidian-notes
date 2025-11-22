@@ -2,7 +2,7 @@
 aliases:
 - elastic net in regression
 tags:
-- ms
+- ml
 ---
 # elastic net in regression
 > [!info] Intro: 

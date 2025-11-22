@@ -2,7 +2,7 @@
 aliases:
 - contingency table in ARM
 tags:
-- ms
+- ml
 ---
 # contingency table in ARM
 > [!info] Intro: 

@@ -2,7 +2,7 @@
 aliases:
 - elbow method
 tags:
-- ms
+- ml
 ---
 # elbow method
 > [!info] Intro: 

@@ -3,7 +3,7 @@ aliases:
   - Akaike Information Criterion
   - AIC
 tags:
-  - ms
+  - ml
 ---
 # Akaike Information Criterion
 > [!info] Intro: 

@@ -2,7 +2,7 @@
 aliases:
 - hopkins statistic
 tags:
-- ms
+- ml
 ---
 # hopkins statistic
 > [!info] Intro: 

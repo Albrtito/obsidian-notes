@@ -3,7 +3,7 @@ aliases:
 - neural networks
 tags:
 - review
-- ms
+- ml
 References:
 cssclasses:
 ---

@@ -3,7 +3,7 @@ aliases:
   - Bayesian Information Criterion
   - BIC
 tags:
-  - ms
+  - ml
 ---
 # Bayesian Information Criterion
 > [!info] Intro: 

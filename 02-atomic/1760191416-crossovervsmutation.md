@@ -3,7 +3,7 @@ aliases:
   - crossover vs mutation
   - recombination vs mutation
 tags:
-  - ms
+  - ml
 ---
 # crossover vs mutation
 > [!NOTE] Intro: 

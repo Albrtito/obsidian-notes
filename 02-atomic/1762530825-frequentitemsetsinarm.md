@@ -2,7 +2,7 @@
 aliases:
 - frequent itemsets in ARM
 tags:
-- ms
+- ml
 ---
 # frequent itemsets in ARM
 > [!info] Intro: 

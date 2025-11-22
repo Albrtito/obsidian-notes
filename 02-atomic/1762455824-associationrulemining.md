@@ -3,7 +3,7 @@ aliases:
   - association rule mining
   - ARM
 tags:
-  - ms
+  - ml
 ---
 # association rule mining
 > [!info] Intro: 

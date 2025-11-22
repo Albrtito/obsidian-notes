@@ -2,7 +2,7 @@
 aliases:
 - density-based clustering
 tags:
-- ms
+- ml
 ---
 # density-based clustering
 > [!info] Intro: 

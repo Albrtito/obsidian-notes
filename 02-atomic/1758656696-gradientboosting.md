@@ -3,7 +3,7 @@ aliases:
 - gradient boosting
 tags:
 - review
-- ms
+- ml
 References:
 cssclasses:
 ---

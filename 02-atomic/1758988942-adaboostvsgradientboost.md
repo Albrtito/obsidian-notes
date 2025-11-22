@@ -2,7 +2,7 @@
 aliases:
   - adaBoost vs gradientBoost
 tags:
-  - ms
+  - ml
 References:
 cssclasses:
 ---

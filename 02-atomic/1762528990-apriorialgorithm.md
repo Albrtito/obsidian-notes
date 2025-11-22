@@ -2,7 +2,7 @@
 aliases:
 - apriori algorithm
 tags:
-- ms
+- ml
 ---
 # apriori algorithm
 > [!info] Intro: 

@@ -2,7 +2,7 @@
 aliases:
 - using EAs to select features
 tags:
-- ms
+- ml
 ---
 # using EAs to select features
 > [!info] Intro: 

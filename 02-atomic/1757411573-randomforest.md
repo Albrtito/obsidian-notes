@@ -3,7 +3,7 @@ aliases:
 - random forest
 tags:
 - review
-- ms
+- ml
 References:
 cssclasses:
 ---

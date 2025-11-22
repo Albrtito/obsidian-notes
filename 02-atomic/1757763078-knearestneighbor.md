@@ -4,7 +4,7 @@ aliases:
   - knn classifier
 tags:
   - review
-  - ms
+  - ml
 References:
 cssclasses:
 ---

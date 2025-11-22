@@ -3,7 +3,7 @@ aliases:
 - voronoi diagram
 tags:
 - review
-- ms
+- ml
 References:
 cssclasses:
 ---

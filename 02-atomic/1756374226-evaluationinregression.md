@@ -3,7 +3,7 @@ aliases:
   - evaluation in regression
 tags:
   - review
-  - ms
+  - ml
 References:
 cssclasses:
 ---

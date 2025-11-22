@@ -3,7 +3,7 @@ aliases:
   - encoding attributes in evolutionary algorithms
   - phenotype vs genotype
 tags:
-  - ms
+  - ml
 ---
 # encoding attributes in evolutionary algorithms
 > [!info] Intro: 

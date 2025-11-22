@@ -3,7 +3,7 @@ aliases:
   - knapsack problem
 tags:
   - heuri
-  - ms
+  - ml
 ---
 # knapsack problem
 > [!info] Intro: 

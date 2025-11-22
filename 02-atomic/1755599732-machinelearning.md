@@ -3,7 +3,7 @@ aliases:
   - machine learning
   - ms
 tags:
-  - ms
+  - ml
 ---
 # machine learning
 > [!NOTE] Intro: 

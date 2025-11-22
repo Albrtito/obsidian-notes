@@ -2,7 +2,7 @@
 aliases:
 - statistical independence in ARM
 tags:
-- ms
+- ml
 ---
 # statistical independence in ARM
 > [!info] Intro: 

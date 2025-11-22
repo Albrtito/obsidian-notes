@@ -3,7 +3,7 @@ aliases:
 - implementing regression in python with statsmodels
 tags:
 - review
-- ms
+- ml
 References:
 cssclasses:
 ---

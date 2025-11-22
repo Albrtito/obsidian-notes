@@ -2,7 +2,7 @@
 aliases:
 - solving n queens with evolution
 tags:
-- ms
+- ml
 ---
 # solving n queens with evolution
 > [!NOTE] Intro: 

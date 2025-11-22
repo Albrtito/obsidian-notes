@@ -3,7 +3,7 @@ aliases:
   - genetic algorithm
   - GA
 tags:
-  - ms
+  - ml
 ---
 # genetic algorithm
 > [!NOTE] Intro: 

@@ -2,7 +2,7 @@
 aliases:
 - types of machine learning problems
 tags:
-- ms
+- ml
 ---
 # types of machine learning problems
 > [!NOTE] Intro: 

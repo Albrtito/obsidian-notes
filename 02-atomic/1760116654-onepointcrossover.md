@@ -2,7 +2,7 @@
 aliases:
 - one point crossover
 tags:
-- ms
+- ml
 ---
 # one point crossover
 > [!NOTE] Intro: 

@@ -3,7 +3,7 @@ aliases:
   - simple genetic algorithm
   - SGA
 tags:
-  - ms
+  - ml
 ---
 # simple genetic algorithm
 > [!NOTE] Intro: 

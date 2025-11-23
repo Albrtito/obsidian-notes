@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-atomic/1763845481-creatingtemporarytags.md",
+                "file": "02-atomic/Managing files with Python.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,10 +28,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "1763845481-creatingtemporarytags"
+              "title": "Managing files with Python"
+            }
+          },
+          {
+            "id": "94ea8335b980744e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02-atomic/1763905898-json.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "1763905898-json"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -51,13 +76,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02-atomic/1763845481-creatingtemporarytags.md",
+                "file": "02-atomic/1763905898-json.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 1763845481-creatingtemporarytags"
+              "title": "Outline of 1763905898-json"
             }
           },
           {
@@ -158,10 +183,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "02-atomic/1763845481-creatingtemporarytags.md"
+                "file": "02-atomic/1763905898-json.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for 1763845481-creatingtemporarytags"
+              "title": "File properties for 1763905898-json"
             }
           },
           {
@@ -221,7 +246,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02-atomic/1763845481-creatingtemporarytags.md",
+                "file": "02-atomic/1763905898-json.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -257,7 +282,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 1763845481-creatingtemporarytags"
+              "title": "Graph of 1763905898-json"
             }
           }
         ]
@@ -280,15 +305,18 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "cc7ca612b5c9db94",
+  "active": "94ea8335b980744e",
   "lastOpenFiles": [
+    "02-atomic/1763905898-json.md",
+    "02-atomic/Managing files with Python.md",
+    "02-atomic/Json.md",
+    "02-atomic/1763845481-creatingtemporarytags.md",
     "02-atomic/1760048595-log.md",
     "02-atomic/1763594182-obsidianthemecreation.md",
     "02-atomic/1763606637-tokyonightthemederivation.md",
     "02-atomic/1756215731-awesomeblogs.md",
     "02-atomic/1756371053-confusionmatrix.md",
     "02-atomic/1760053461-quickrefme.md",
-    "02-atomic/1763845481-creatingtemporarytags.md",
     "02-atomic/1763604604-bucketsort.md",
     "02-atomic/1763603054-radixsort.md",
     "02-atomic/1763603138-sorting.md",
@@ -306,9 +334,6 @@
     "02-atomic/1762729222-clustervalidity.md",
     "02-atomic/1762731713-elbowmethod.md",
     "99-meta/00-attach/1762731713-elbowmethodj.png",
-    "02-atomic/1762721286-clustering.md",
-    "02-atomic/1762731193-withinsumofsquares.md",
-    "02-atomic/1762729689-hopkinsstatistic.md",
     "99-meta/00-attach/1762727802-dbscanj.png",
     "99-meta/00-attach/1762724507-agglomerativehierarchicalclusteringwithcompletelinkagej-1.png",
     "99-meta/00-attach/1762724507-agglomerativehierarchicalclusteringwithcompletelinkagej.png",

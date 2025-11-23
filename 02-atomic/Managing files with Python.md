@@ -52,8 +52,8 @@ Using with statement makes the code cleaner  as with with statement **the file i
 # Types of files: 
 
 Python can manage a ton of filetypes, some of them: 
-## [Json](Json.md)
- 
+
+## Json
 Json files are use to stored data in a serialise way. With python the conversion between python variables and the data in the Json files goes in the following way: 
 
 ### Reading and writing into a json: Load and dump.

@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-atomic/1763905898-json.md",
+                "file": "02-atomic/1746722386-is-how-not-to-die.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "1763905898-json"
+              "title": "1746722386-is-how-not-to-die"
             }
           }
         ],
@@ -76,13 +76,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02-atomic/1763905898-json.md",
+                "file": "02-atomic/1746722386-is-how-not-to-die.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 1763905898-json"
+              "title": "Outline of 1746722386-is-how-not-to-die"
             }
           },
           {
@@ -183,10 +183,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "02-atomic/1763905898-json.md"
+                "file": "02-atomic/1746722386-is-how-not-to-die.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for 1763905898-json"
+              "title": "File properties for 1746722386-is-how-not-to-die"
             }
           },
           {
@@ -246,7 +246,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02-atomic/1763905898-json.md",
+                "file": "02-atomic/1746722386-is-how-not-to-die.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -282,7 +282,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 1763905898-json"
+              "title": "Graph of 1746722386-is-how-not-to-die"
             }
           }
         ]

@@ -1,0 +1,18 @@
+---
+aliases:
+- skiing in iceland
+tags:
+- is
+---
+# skiing in iceland
+> [!info] Intro: 
+> Where to ski in iceland. Resorts and useful links
+
+There are two resorts near Reykjavik (25 mins away), both managed by the same company. All the information in [their web](https://skidasvaedi.is/english/#1449147351216-0af62c2a-7910). 
+- They rent material over there
+- There are **buses to go to the resorts**
+
+***
+### Up
+### Down
+***

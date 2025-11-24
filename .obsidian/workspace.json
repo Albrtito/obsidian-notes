@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-atomic/1764000345-travelingiceland.md",
+                "file": "02-atomic/1764002377-skiinginiceland.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "1764000345-travelingiceland"
+              "title": "1764002377-skiinginiceland"
             }
           }
         ],
@@ -100,13 +100,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02-atomic/1764000345-travelingiceland.md",
+                "file": "02-atomic/1764002377-skiinginiceland.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 1764000345-travelingiceland"
+              "title": "Outline of 1764002377-skiinginiceland"
             }
           },
           {
@@ -207,10 +207,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "02-atomic/1764000345-travelingiceland.md"
+                "file": "02-atomic/1764002377-skiinginiceland.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for 1764000345-travelingiceland"
+              "title": "File properties for 1764002377-skiinginiceland"
             }
           },
           {
@@ -270,7 +270,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02-atomic/1764000345-travelingiceland.md",
+                "file": "02-atomic/1764002377-skiinginiceland.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -306,7 +306,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 1764000345-travelingiceland"
+              "title": "Graph of 1764002377-skiinginiceland"
             }
           }
         ]
@@ -331,8 +331,9 @@
   },
   "active": "83c2c2db965c73b2",
   "lastOpenFiles": [
-    "02-atomic/1764000345-travelingiceland.md",
     "02-atomic/1746722386-iceland101.md",
+    "02-atomic/1764002377-skiinginiceland.md",
+    "02-atomic/1764000345-travelingiceland.md",
     "02-atomic/1764000238-courseselectioninreykjavikuniversity.md",
     "02-atomic/Managing files with Python.md",
     "02-atomic/1763905898-json.md",
@@ -356,7 +357,6 @@
     "02-atomic/1761179757-lazyvim.md",
     "02-atomic/1763322751-untitledsuffix.md",
     "02-atomic/1762732972-gapstatistic.md",
-    "02-atomic/1762732216-silhouettemethod.md",
     "99-meta/00-attach/1762731713-elbowmethodj.png",
     "99-meta/00-attach/1762727802-dbscanj.png",
     "99-meta/00-attach/1762724507-agglomerativehierarchicalclusteringwithcompletelinkagej-1.png",

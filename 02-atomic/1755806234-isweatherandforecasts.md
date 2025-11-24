@@ -14,6 +14,6 @@ cssclasses:
 
 ***
 ### Up
-- [[1746722386-is-how-not-to-die|IS-how not to die]]
+- [[1746722386-iceland101|IS-how not to die]]
 ### Down
 ***

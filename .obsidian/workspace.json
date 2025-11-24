@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-atomic/1746722386-is-how-not-to-die.md",
+                "file": "02-atomic/1746722386-iceland101.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,11 +52,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "1746722386-is-how-not-to-die"
+              "title": "1746722386-iceland101"
+            }
+          },
+          {
+            "id": "83c2c2db965c73b2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02-atomic/1764000345-travelingiceland.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "1764000345-travelingiceland"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -76,13 +100,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02-atomic/1746722386-is-how-not-to-die.md",
+                "file": "02-atomic/1764000345-travelingiceland.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 1746722386-is-how-not-to-die"
+              "title": "Outline of 1764000345-travelingiceland"
             }
           },
           {
@@ -183,10 +207,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "02-atomic/1746722386-is-how-not-to-die.md"
+                "file": "02-atomic/1764000345-travelingiceland.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for 1746722386-is-how-not-to-die"
+              "title": "File properties for 1764000345-travelingiceland"
             }
           },
           {
@@ -246,7 +270,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02-atomic/1746722386-is-how-not-to-die.md",
+                "file": "02-atomic/1764000345-travelingiceland.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -282,7 +306,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 1746722386-is-how-not-to-die"
+              "title": "Graph of 1764000345-travelingiceland"
             }
           }
         ]
@@ -305,10 +329,13 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "94ea8335b980744e",
+  "active": "83c2c2db965c73b2",
   "lastOpenFiles": [
-    "02-atomic/1763905898-json.md",
+    "02-atomic/1764000345-travelingiceland.md",
+    "02-atomic/1746722386-iceland101.md",
+    "02-atomic/1764000238-courseselectioninreykjavikuniversity.md",
     "02-atomic/Managing files with Python.md",
+    "02-atomic/1763905898-json.md",
     "02-atomic/Json.md",
     "02-atomic/1763845481-creatingtemporarytags.md",
     "02-atomic/1760048595-log.md",
@@ -330,9 +357,6 @@
     "02-atomic/1763322751-untitledsuffix.md",
     "02-atomic/1762732972-gapstatistic.md",
     "02-atomic/1762732216-silhouettemethod.md",
-    "02-atomic/1762867360-boulderinginiceland.md",
-    "02-atomic/1762729222-clustervalidity.md",
-    "02-atomic/1762731713-elbowmethod.md",
     "99-meta/00-attach/1762731713-elbowmethodj.png",
     "99-meta/00-attach/1762727802-dbscanj.png",
     "99-meta/00-attach/1762724507-agglomerativehierarchicalclusteringwithcompletelinkagej-1.png",

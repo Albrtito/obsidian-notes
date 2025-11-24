@@ -16,7 +16,7 @@ References: "[[1733500003 - Movilidad europea|Movilidad europea]]"
 + [[1743085545 - Reu con TAI para Islandia|Reu con TAI para Islandia]]
 - [[1744914534 - Contrato de estudios islandia|Contrato de estudios islandia]]
 - [[1746718627-is-housing|is-housing]]
-- [[1746722386-is-how-not-to-die|IS-how not to die]]
+- [[1746722386-iceland101|IS-how not to die]]
 
 
 ## Documentación necesaria: 

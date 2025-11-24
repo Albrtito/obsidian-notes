@@ -15,6 +15,6 @@ The kennitala is **the icelantic social security number**, its a must have becau
 
 ### Up
 - [[1742475772 - Movilidad Islandia|Movilidad islandia]]
-- [[1746722386-is-how-not-to-die|IS-how not to die]]
+- [[1746722386-iceland101|IS-how not to die]]
 
 ### Down:

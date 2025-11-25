@@ -21,7 +21,7 @@ When sending packages though the internet computers need to understand one anoth
 The internet is constructed as a layered architecture. For each of it’s layers there are several different protocols. 
 ### Application protocols: 
 Main application layer protocol is DNS, a distributed database:
-+ [[1728037357 - DNS|DNS]]
++ [[1728037357-dns|DNS]]
 
 ### Transport protocols:
 Two main protocols are used in this layer, TCP and UDP. 

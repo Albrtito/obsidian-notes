@@ -8,60 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "cc7ca612b5c9db94",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02-atomic/Managing files with Python.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Managing files with Python"
-            }
-          },
-          {
-            "id": "94ea8335b980744e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02-atomic/1746722386-iceland101.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "1746722386-iceland101"
-            }
-          },
-          {
             "id": "83c2c2db965c73b2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-atomic/1758632448-gobuster.md",
+                "file": "02-atomic/1728037357-dns.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,11 +28,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "1758632448-gobuster"
+              "title": "1728037357-dns"
+            }
+          },
+          {
+            "id": "6337b931f9789178",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02-atomic/1764077509-domain.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "1764077509-domain"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -100,13 +76,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02-atomic/1758632448-gobuster.md",
+                "file": "02-atomic/1764077509-domain.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 1758632448-gobuster"
+              "title": "Outline of 1764077509-domain"
             }
           },
           {
@@ -207,10 +183,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "02-atomic/1758632448-gobuster.md"
+                "file": "02-atomic/1764077509-domain.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for 1758632448-gobuster"
+              "title": "File properties for 1764077509-domain"
             }
           },
           {
@@ -270,7 +246,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02-atomic/1758632448-gobuster.md",
+                "file": "02-atomic/1764077509-domain.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -306,7 +282,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 1758632448-gobuster"
+              "title": "Graph of 1764077509-domain"
             }
           }
         ]
@@ -329,13 +305,19 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "83c2c2db965c73b2",
+  "active": "6337b931f9789178",
   "lastOpenFiles": [
-    "02-atomic/1764002377-skiinginiceland.md",
+    "02-atomic/1764077455-nslookup.md",
+    "02-atomic/1764077509-domain.md",
+    "02-atomic/1728037357-dns.md",
+    "02-atomic/1726049888 - Protocol - Net protocols.md",
+    "02-atomic/1764076990-host.md",
+    "02-atomic/Managing files with Python.md",
     "02-atomic/1746722386-iceland101.md",
+    "02-atomic/1758632448-gobuster.md",
+    "02-atomic/1764002377-skiinginiceland.md",
     "02-atomic/1764000345-travelingiceland.md",
     "02-atomic/1764000238-courseselectioninreykjavikuniversity.md",
-    "02-atomic/Managing files with Python.md",
     "02-atomic/1763905898-json.md",
     "02-atomic/Json.md",
     "02-atomic/1763845481-creatingtemporarytags.md",
@@ -351,12 +333,6 @@
     "02-atomic/20240519 - 172247 - Algorithm - Topological sort.md",
     "02-atomic/sort.md",
     "02-atomic/Filter Contents.md",
-    "02-atomic/Obsidian vault tour.md",
-    "02-atomic/1761269806-rollingsquareedgeconector.md",
-    "02-atomic/1763600735-untitledsuffix.md",
-    "02-atomic/1761179757-lazyvim.md",
-    "02-atomic/1763322751-untitledsuffix.md",
-    "02-atomic/1762732972-gapstatistic.md",
     "99-meta/00-attach/1762731713-elbowmethodj.png",
     "99-meta/00-attach/1762727802-dbscanj.png",
     "99-meta/00-attach/1762724507-agglomerativehierarchicalclusteringwithcompletelinkagej-1.png",

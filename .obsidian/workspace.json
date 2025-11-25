@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-atomic/1764002377-skiinginiceland.md",
+                "file": "02-atomic/1758632448-gobuster.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "1764002377-skiinginiceland"
+              "title": "1758632448-gobuster"
             }
           }
         ],
@@ -100,13 +100,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02-atomic/1764002377-skiinginiceland.md",
+                "file": "02-atomic/1758632448-gobuster.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 1764002377-skiinginiceland"
+              "title": "Outline of 1758632448-gobuster"
             }
           },
           {
@@ -207,10 +207,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "02-atomic/1764002377-skiinginiceland.md"
+                "file": "02-atomic/1758632448-gobuster.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for 1764002377-skiinginiceland"
+              "title": "File properties for 1758632448-gobuster"
             }
           },
           {
@@ -270,7 +270,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02-atomic/1764002377-skiinginiceland.md",
+                "file": "02-atomic/1758632448-gobuster.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -306,7 +306,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 1764002377-skiinginiceland"
+              "title": "Graph of 1758632448-gobuster"
             }
           }
         ]
@@ -331,8 +331,8 @@
   },
   "active": "83c2c2db965c73b2",
   "lastOpenFiles": [
-    "02-atomic/1746722386-iceland101.md",
     "02-atomic/1764002377-skiinginiceland.md",
+    "02-atomic/1746722386-iceland101.md",
     "02-atomic/1764000345-travelingiceland.md",
     "02-atomic/1764000238-courseselectioninreykjavikuniversity.md",
     "02-atomic/Managing files with Python.md",

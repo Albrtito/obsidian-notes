@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-atomic/1728037357-dns.md",
+                "file": "02-atomic/1764548178-algorithmstoservepeoplenytimesopinion.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "1728037357-dns"
+              "title": "1764548178-algorithmstoservepeoplenytimesopinion"
             }
           }
         ]
@@ -51,13 +51,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02-atomic/1728037357-dns.md",
+                "file": "02-atomic/1764548178-algorithmstoservepeoplenytimesopinion.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 1728037357-dns"
+              "title": "Outline of 1764548178-algorithmstoservepeoplenytimesopinion"
             }
           },
           {
@@ -158,10 +158,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "02-atomic/1728037357-dns.md"
+                "file": "02-atomic/1764548178-algorithmstoservepeoplenytimesopinion.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for 1728037357-dns"
+              "title": "File properties for 1764548178-algorithmstoservepeoplenytimesopinion"
             }
           },
           {
@@ -221,7 +221,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02-atomic/1728037357-dns.md",
+                "file": "02-atomic/1764548178-algorithmstoservepeoplenytimesopinion.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -257,7 +257,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 1728037357-dns"
+              "title": "Graph of 1764548178-algorithmstoservepeoplenytimesopinion"
             }
           }
         ]
@@ -282,8 +282,9 @@
   },
   "active": "83c2c2db965c73b2",
   "lastOpenFiles": [
-    "02-atomic/Git.md",
     "02-atomic/1728037357-dns.md",
+    "02-atomic/1764548178-algorithmstoservepeoplenytimesopinion.md",
+    "02-atomic/Git.md",
     "02-atomic/1764077509-domain.md",
     "02-atomic/1764079827-whois.md",
     "02-atomic/1764077455-nslookup.md",
@@ -307,7 +308,6 @@
     "02-atomic/1763604604-bucketsort.md",
     "02-atomic/1763603054-radixsort.md",
     "02-atomic/1763603138-sorting.md",
-    "02-atomic/20240519 - 172247 - Algorithm - Topological sort.md",
     "99-meta/00-attach/1762731713-elbowmethodj.png",
     "99-meta/00-attach/1762727802-dbscanj.png",
     "99-meta/00-attach/1762724507-agglomerativehierarchicalclusteringwithcompletelinkagej-1.png",

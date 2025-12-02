@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-atomic/1764548178-algorithmstoservepeoplenytimesopinion.md",
+                "file": "02-atomic/Convergence of sequences.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "1764548178-algorithmstoservepeoplenytimesopinion"
+              "title": "Convergence of sequences"
             }
           }
         ]
@@ -51,13 +51,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02-atomic/1764548178-algorithmstoservepeoplenytimesopinion.md",
+                "file": "02-atomic/Convergence of sequences.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 1764548178-algorithmstoservepeoplenytimesopinion"
+              "title": "Outline of Convergence of sequences"
             }
           },
           {
@@ -158,10 +158,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "02-atomic/1764548178-algorithmstoservepeoplenytimesopinion.md"
+                "file": "02-atomic/Convergence of sequences.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for 1764548178-algorithmstoservepeoplenytimesopinion"
+              "title": "File properties for Convergence of sequences"
             }
           },
           {
@@ -221,7 +221,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02-atomic/1764548178-algorithmstoservepeoplenytimesopinion.md",
+                "file": "02-atomic/Convergence of sequences.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -257,7 +257,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 1764548178-algorithmstoservepeoplenytimesopinion"
+              "title": "Graph of Convergence of sequences"
             }
           }
         ]
@@ -282,8 +282,13 @@
   },
   "active": "83c2c2db965c73b2",
   "lastOpenFiles": [
-    "02-atomic/1728037357-dns.md",
+    "02-atomic/20240408 - 185529 - Power Series.md",
     "02-atomic/1764548178-algorithmstoservepeoplenytimesopinion.md",
+    "02-atomic/20240620 - 160937 - Main Taylor Polynomials.md",
+    "02-atomic/20240620 - 162021 - Definition - small-o.md",
+    "02-atomic/20240620 - 154721 - Taylor Polynomial.md",
+    "02-atomic/20240615 - 211237 - Theorem - Cauchy Mean Value theorem.md",
+    "02-atomic/1728037357-dns.md",
     "02-atomic/Git.md",
     "02-atomic/1764077509-domain.md",
     "02-atomic/1764079827-whois.md",
@@ -303,11 +308,6 @@
     "02-atomic/1763594182-obsidianthemecreation.md",
     "02-atomic/1763606637-tokyonightthemederivation.md",
     "02-atomic/1756215731-awesomeblogs.md",
-    "02-atomic/1756371053-confusionmatrix.md",
-    "02-atomic/1760053461-quickrefme.md",
-    "02-atomic/1763604604-bucketsort.md",
-    "02-atomic/1763603054-radixsort.md",
-    "02-atomic/1763603138-sorting.md",
     "99-meta/00-attach/1762731713-elbowmethodj.png",
     "99-meta/00-attach/1762727802-dbscanj.png",
     "99-meta/00-attach/1762724507-agglomerativehierarchicalclusteringwithcompletelinkagej-1.png",

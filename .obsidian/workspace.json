@@ -54,9 +54,21 @@
               "icon": "lucide-file",
               "title": "1764892164-eudaimonia"
             }
+          },
+          {
+            "id": "375f74d5c8db29cf",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.10.6"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.10.6"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -182,11 +194,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "02-atomic/1764892164-eudaimonia.md"
-              },
+              "state": {},
               "icon": "lucide-info",
-              "title": "File properties for 1764892164-eudaimonia"
+              "title": "File properties"
             }
           },
           {
@@ -246,7 +256,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02-atomic/1764892164-eudaimonia.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -282,7 +291,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 1764892164-eudaimonia"
+              "title": "Graph view"
             }
           }
         ]
@@ -305,7 +314,7 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "e20381e16f6b383e",
+  "active": "375f74d5c8db29cf",
   "lastOpenFiles": [
     "02-atomic/1764892164-eudaimonia.md",
     "02-atomic/Convergence of sequences.md",

@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-atomic/1764892164-eudaimonia.md",
+                "file": "02-atomic/1764002377-skiinginiceland.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,19 +52,31 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "1764892164-eudaimonia"
+              "title": "1764002377-skiinginiceland"
             }
           },
           {
-            "id": "375f74d5c8db29cf",
+            "id": "8d391832495d5a45",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.10.6"
+                "file": "02-atomic/1765378080-akureyri.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.10.6"
+              "icon": "lucide-file",
+              "title": "1765378080-akureyri"
             }
           }
         ],
@@ -194,9 +206,11 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {},
+              "state": {
+                "file": "02-atomic/1765378080-akureyri.md"
+              },
               "icon": "lucide-info",
-              "title": "File properties"
+              "title": "File properties for 1765378080-akureyri"
             }
           },
           {
@@ -256,6 +270,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "02-atomic/1765378080-akureyri.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -291,7 +306,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Graph of 1765378080-akureyri"
             }
           }
         ]
@@ -314,8 +329,10 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "375f74d5c8db29cf",
+  "active": "8d391832495d5a45",
   "lastOpenFiles": [
+    "02-atomic/1765378080-akureyri.md",
+    "02-atomic/1764002377-skiinginiceland.md",
     "02-atomic/1764892164-eudaimonia.md",
     "02-atomic/Convergence of sequences.md",
     "02-atomic/20240408 - 185529 - Power Series.md",
@@ -334,14 +351,12 @@
     "02-atomic/Managing files with Python.md",
     "02-atomic/1746722386-iceland101.md",
     "02-atomic/1758632448-gobuster.md",
-    "02-atomic/1764002377-skiinginiceland.md",
     "02-atomic/1764000345-travelingiceland.md",
     "02-atomic/1764000238-courseselectioninreykjavikuniversity.md",
     "02-atomic/1763905898-json.md",
     "02-atomic/Json.md",
     "02-atomic/1763845481-creatingtemporarytags.md",
     "02-atomic/1760048595-log.md",
-    "02-atomic/1763594182-obsidianthemecreation.md",
     "99-meta/00-attach/1762731713-elbowmethodj.png",
     "99-meta/00-attach/1762727802-dbscanj.png",
     "99-meta/00-attach/1762724507-agglomerativehierarchicalclusteringwithcompletelinkagej-1.png",

@@ -12,8 +12,8 @@ There are two resorts near Reykjavik (25 mins away), both managed by the same co
 - They rent material over there
 - There are **buses to go to the resorts**
 In the north there is: 
-- **[Hlidarfjall](https://www.hlidarfjall.is/en)**: Also rents everything there, but need to fill out a form 
-- [Dalvk](https://www.skidalvik.is/is/english)
+- **[Hlidarfjall](https://www.hlidarfjall.is/en)**: Also rents everything there, but need to fill out a form beforehand. Is in akureyri
+- [Dalvk](https://www.skidalvik.is/is/english): 
 
 ***
 ### Up

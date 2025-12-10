@@ -80,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -207,10 +207,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "02-atomic/1765378080-akureyri.md"
+                "file": "02-atomic/1764002377-skiinginiceland.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for 1765378080-akureyri"
+              "title": "File properties for 1764002377-skiinginiceland"
             }
           },
           {
@@ -270,7 +270,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02-atomic/1765378080-akureyri.md",
+                "file": "02-atomic/1764002377-skiinginiceland.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -306,7 +306,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 1765378080-akureyri"
+              "title": "Graph of 1764002377-skiinginiceland"
             }
           }
         ]
@@ -329,7 +329,7 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "8d391832495d5a45",
+  "active": "7a2b1f5b1c217667",
   "lastOpenFiles": [
     "02-atomic/1765378080-akureyri.md",
     "02-atomic/1764002377-skiinginiceland.md",

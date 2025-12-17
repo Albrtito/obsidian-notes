@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-atomic/1765991507.md",
+                "file": "02-atomic/1765991507-subplotsinmatplotlib.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "1765991507"
+              "title": "1765991507-subplotsinmatplotlib"
             }
           }
         ],
@@ -183,10 +183,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "02-atomic/1765991507.md"
+                "file": "02-atomic/1765991507-subplotsinmatplotlib.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for 1765991507"
+              "title": "File properties for 1765991507-subplotsinmatplotlib"
             }
           },
           {
@@ -246,7 +246,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02-atomic/1765991507.md",
+                "file": "02-atomic/1765991507-subplotsinmatplotlib.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -282,7 +282,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 1765991507"
+              "title": "Graph of 1765991507-subplotsinmatplotlib"
             }
           }
         ]
@@ -307,8 +307,8 @@
   },
   "active": "0f725850b1ae1527",
   "lastOpenFiles": [
-    "02-atomic/1765991507.md",
     "02-atomic/1758568530-matplotlib.md",
+    "02-atomic/1765991507-subplotsinmatplotlib.md",
     "02-atomic/Convergence of sequences.md",
     "02-atomic/1765378080-akureyri.md",
     "02-atomic/1764002377-skiinginiceland.md",

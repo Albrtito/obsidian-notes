@@ -243,5 +243,13 @@
       ],
       "key": "T"
     }
+  ],
+  "editor:toggle-spellcheck": [
+    {
+      "modifiers": [
+        "Ctrl"
+      ],
+      "key": "S"
+    }
   ]
 }

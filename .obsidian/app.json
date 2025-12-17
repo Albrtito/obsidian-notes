@@ -15,7 +15,7 @@
   "showLineNumber": true,
   "readableLineLength": true,
   "propertiesInDocument": "hidden",
-  "spellcheck": false,
+  "spellcheck": true,
   "newLinkFormat": "shortest",
   "livePreview": true,
   "showInlineTitle": false,
@@ -23,9 +23,9 @@
   "userIgnoreFilters": [
     "99-Meta/"
   ],
-  "strictLineBreaks": false,
+  "strictLineBreaks": true,
   "foldHeading": true,
   "foldIndent": true,
   "tabSize": 4,
-  "showIndentGuide": false
+  "showIndentGuide": true
 }

@@ -78,8 +78,33 @@
               "icon": "lucide-file",
               "title": "1758568530-matplotlib"
             }
+          },
+          {
+            "id": "77f765269ba5ce3f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02-atomic/1765994295-ooinmpl.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "1765994295-ooinmpl"
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -206,10 +231,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "02-atomic/1758568530-matplotlib.md"
+                "file": "02-atomic/1765994295-ooinmpl.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for 1758568530-matplotlib"
+              "title": "File properties for 1765994295-ooinmpl"
             }
           },
           {
@@ -269,7 +294,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02-atomic/1758568530-matplotlib.md",
+                "file": "02-atomic/1765994295-ooinmpl.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -305,7 +330,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 1758568530-matplotlib"
+              "title": "Graph of 1765994295-ooinmpl"
             }
           }
         ]
@@ -328,8 +353,9 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "83c2c2db965c73b2",
+  "active": "77f765269ba5ce3f",
   "lastOpenFiles": [
+    "02-atomic/1765994295-ooinmpl.md",
     "02-atomic/1765991507-subplotsinmatplotlib.md",
     "02-atomic/1758568530-matplotlib.md",
     "02-atomic/Convergence of sequences.md",
@@ -355,7 +381,6 @@
     "02-atomic/1764000345-travelingiceland.md",
     "02-atomic/1764000238-courseselectioninreykjavikuniversity.md",
     "02-atomic/1763905898-json.md",
-    "02-atomic/Json.md",
     "99-meta/00-attach/1762731713-elbowmethodj.png",
     "99-meta/00-attach/1762727802-dbscanj.png",
     "99-meta/00-attach/1762724507-agglomerativehierarchicalclusteringwithcompletelinkagej-1.png",

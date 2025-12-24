@@ -29,7 +29,7 @@ Tenemos dos formas de hacer búsqueda por fuerza bruta, hacerlo por **amplitud o
 + [[1732112181 - Algorithm - Primero en amplitud|Algorithm - Primero en amplitud]]
 	+ Muy util **con transposiciones**
 	+ Inutil sin transposiciones
-+ [[1732114607 - Algorithm - Primero en profundidad|Algorithm - Primero en profundidad]]
++ [[1732114607-primeroenprofundidad|Algorithm - Primero en profundidad]]
 	+ Muy útiles cuando **no hay transposiciones**
 	+ Inutil con transposiciones
 

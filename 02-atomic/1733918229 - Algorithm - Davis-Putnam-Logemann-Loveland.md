@@ -16,7 +16,7 @@ sr-ease: 248
 > [!NOTE] Intro:
 > Algoritmo usado para resolver problemas SAT 
 
-Este algoritmo es equivalente a realizar una búsqueda de [[1732114607 - Algorithm - Primero en profundidad|Algorithm - Primero en profundidad]] con todas las posibilidades de la fórmula lógica. 
+Este algoritmo es equivalente a realizar una búsqueda de [[1732114607-primeroenprofundidad|Algorithm - Primero en profundidad]] con todas las posibilidades de la fórmula lógica. 
 + Se va creando la tabla lógica
 + Permite **obtener todas las posibles soluciones** en el caso de que no se pare el algoritmo al encontrar una solución. 
   

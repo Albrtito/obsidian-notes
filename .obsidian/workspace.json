@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-atomic/1761407548-golang.md",
+                "file": "02-atomic/1732114607-primeroenprofundidad.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "1761407548-golang"
+              "title": "1732114607-primeroenprofundidad"
             }
           }
         ],
@@ -159,10 +159,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "02-atomic/1761407548-golang.md"
+                "file": "02-atomic/1732114607-primeroenprofundidad.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for 1761407548-golang"
+              "title": "File properties for 1732114607-primeroenprofundidad"
             }
           },
           {
@@ -222,7 +222,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02-atomic/1761407548-golang.md",
+                "file": "02-atomic/1732114607-primeroenprofundidad.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -258,7 +258,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 1761407548-golang"
+              "title": "Graph of 1732114607-primeroenprofundidad"
             }
           }
         ]
@@ -283,6 +283,7 @@
   },
   "active": "83c2c2db965c73b2",
   "lastOpenFiles": [
+    "02-atomic/1761407548-golang.md",
     "02-atomic/1758568530-matplotlib.md",
     "02-atomic/1765991507-subplotsinmatplotlib.md",
     "02-atomic/1726827729 - Defninition - Serie de Fibonacci.md",
@@ -308,7 +309,6 @@
     "02-atomic/1746722386-iceland101.md",
     "02-atomic/1758632448-gobuster.md",
     "02-atomic/1764000345-travelingiceland.md",
-    "02-atomic/1764000238-courseselectioninreykjavikuniversity.md",
     "99-meta/00-attach/1762731713-elbowmethodj.png",
     "99-meta/00-attach/1762727802-dbscanj.png",
     "99-meta/00-attach/1762724507-agglomerativehierarchicalclusteringwithcompletelinkagej-1.png",

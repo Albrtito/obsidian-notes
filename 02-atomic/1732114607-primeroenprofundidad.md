@@ -1,15 +1,16 @@
 ---
 aliases:
-  - Algorithm - Primero en profundidad
+  - Primero en profundidad
+  - dfs
 tags:
   - heuri
-References: 
-cssclasses: 
+References:
+cssclasses:
 sr-due: 2024-12-26
 sr-interval: 19
 sr-ease: 228
 ---
-# Algorithm - Primero en profundidad
+# Primero en profundidad
 
 > [!NOTE] Intro: 
 > Expande el primero de los nodos recién generados hasta que se encuentra la meta o se alcanza una profundidad máxima $d_max$ 

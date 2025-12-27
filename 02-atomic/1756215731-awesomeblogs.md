@@ -25,6 +25,7 @@ cssclasses:
 - **On longevity and living forever:**[Peter Atia](https://peterattiamd.com) and [Bryan Johnson](https://protocol.bryanjohnson.com/Home)
 - [Ali Abdaal](https://aliabdaal.com): On learning, notetaking. Maybet to much towards the entrepenurial and course-like fashion. 
 - [Darknet Diaries(Jack Rhysider)](https://darknetdiaries.com/es/): Podcast con historias y entrevistas.
+
 ***
 ### Up
 ### Down

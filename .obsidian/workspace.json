@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-atomic/1732114607-primeroenprofundidad.md",
+                "file": "02-atomic/1767894279-psicohelpru.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "1732114607-primeroenprofundidad"
+              "title": "1767894279-psicohelpru"
             }
           }
         ],
@@ -132,7 +132,7 @@
                 "sortOrder": "frequency",
                 "useHierarchy": true,
                 "showSearch": true,
-                "searchQuery": "phil"
+                "searchQuery": ""
               },
               "icon": "lucide-tags",
               "title": "Tags"
@@ -159,10 +159,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "02-atomic/1732114607-primeroenprofundidad.md"
+                "file": "02-atomic/1767894279-psicohelpru.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for 1732114607-primeroenprofundidad"
+              "title": "File properties for 1767894279-psicohelpru"
             }
           },
           {
@@ -222,7 +222,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02-atomic/1732114607-primeroenprofundidad.md",
+                "file": "02-atomic/1767894279-psicohelpru.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -258,7 +258,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 1732114607-primeroenprofundidad"
+              "title": "Graph of 1767894279-psicohelpru"
             }
           }
         ]
@@ -283,9 +283,10 @@
   },
   "active": "83c2c2db965c73b2",
   "lastOpenFiles": [
+    "02-atomic/1732114607-primeroenprofundidad.md",
+    "02-atomic/1767894279-psicohelpru.md",
     "02-atomic/1756215731-awesomeblogs.md",
     "02-atomic/1732112181 - Algorithm - Primero en amplitud.md",
-    "02-atomic/1732114607-primeroenprofundidad.md",
     "02-atomic/1761407548-golang.md",
     "02-atomic/1758568530-matplotlib.md",
     "02-atomic/1765991507-subplotsinmatplotlib.md",
@@ -308,7 +309,6 @@
     "02-atomic/1764077455-nslookup.md",
     "02-atomic/1726049888 - Protocol - Net protocols.md",
     "02-atomic/1764076990-host.md",
-    "02-atomic/Managing files with Python.md",
     "99-meta/00-attach/1762731713-elbowmethodj.png",
     "99-meta/00-attach/1762727802-dbscanj.png",
     "99-meta/00-attach/1762724507-agglomerativehierarchicalclusteringwithcompletelinkagej-1.png",

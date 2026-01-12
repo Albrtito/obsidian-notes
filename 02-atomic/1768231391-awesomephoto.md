@@ -11,7 +11,8 @@ tags:
 
 - **[Joel Meyerowitz](https://www.joelmeyerowitz.com):** Blog, photos, street photography
 
-**Hunte**
+## YouTube
+- [**Hunter creates things:**](https://www.youtube.com/@huntercreatesthings) Channel with interesting commentary on photo practices. Opinionistic 
 ***
 ### Up
 ### Down

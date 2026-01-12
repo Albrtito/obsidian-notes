@@ -11,10 +11,24 @@
             "id": "b042e0476573d0d8",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "02-atomic/1768231391-awesomephoto.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "1768231391-awesomephoto"
             }
           }
         ],
@@ -145,9 +159,11 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {},
+              "state": {
+                "file": "02-atomic/1768231391-awesomephoto.md"
+              },
               "icon": "lucide-info",
-              "title": "File properties"
+              "title": "File properties for 1768231391-awesomephoto"
             }
           },
           {
@@ -207,6 +223,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "02-atomic/1768231391-awesomephoto.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -242,15 +259,14 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Graph of 1768231391-awesomephoto"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 211.5,
-    "collapsed": true
+    "width": 211.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -268,6 +284,7 @@
   },
   "active": "b042e0476573d0d8",
   "lastOpenFiles": [
+    "02-atomic/1768231391-awesomephoto.md",
     "02-atomic/1768092159-slowshutterspeedphotography.md",
     "02-atomic/1767894279-psicohelpru.md",
     "02-atomic/1732114607-primeroenprofundidad.md",
@@ -293,7 +310,6 @@
     "02-atomic/1764077509-domain.md",
     "02-atomic/1764079827-whois.md",
     "02-atomic/1764077455-nslookup.md",
-    "02-atomic/1726049888 - Protocol - Net protocols.md",
     "99-meta/00-attach/1762731713-elbowmethodj.png",
     "99-meta/00-attach/1762727802-dbscanj.png",
     "99-meta/00-attach/1762724507-agglomerativehierarchicalclusteringwithcompletelinkagej-1.png",

@@ -8,27 +8,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b042e0476573d0d8",
+            "id": "2f7458b7da56518e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02-atomic/1768231391-awesomephoto.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "1768231391-awesomephoto"
+              "title": "New tab"
             }
           }
         ],
@@ -159,11 +145,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "02-atomic/1768231391-awesomephoto.md"
-              },
+              "state": {},
               "icon": "lucide-info",
-              "title": "File properties for 1768231391-awesomephoto"
+              "title": "File properties"
             }
           },
           {
@@ -223,7 +207,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02-atomic/1768231391-awesomephoto.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -259,7 +242,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 1768231391-awesomephoto"
+              "title": "Graph view"
             }
           }
         ]
@@ -282,7 +265,7 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "b042e0476573d0d8",
+  "active": "2f7458b7da56518e",
   "lastOpenFiles": [
     "02-atomic/1768231391-awesomephoto.md",
     "02-atomic/1768092159-slowshutterspeedphotography.md",

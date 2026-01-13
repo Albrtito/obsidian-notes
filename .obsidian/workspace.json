@@ -11,10 +11,24 @@
             "id": "2f7458b7da56518e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "01-areas/1.UC3M/Files&DB.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Files&DB"
             }
           }
         ],
@@ -53,7 +67,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#philo",
+                "query": "tag:#filesAndDB",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -118,7 +132,7 @@
                 "sortOrder": "frequency",
                 "useHierarchy": true,
                 "showSearch": true,
-                "searchQuery": ""
+                "searchQuery": "files"
               },
               "icon": "lucide-tags",
               "title": "Tags"
@@ -129,8 +143,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 256.5,
-    "collapsed": true
+    "width": 256.5
   },
   "right": {
     "id": "8881aa8c79e29157",
@@ -145,9 +158,11 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {},
+              "state": {
+                "file": "01-areas/1.UC3M/Files&DB.md"
+              },
               "icon": "lucide-info",
-              "title": "File properties"
+              "title": "File properties for Files&DB"
             }
           },
           {
@@ -207,6 +222,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "01-areas/1.UC3M/Files&DB.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -237,19 +253,19 @@
                   "repelStrength": 14.658203125,
                   "linkStrength": 0.8536376953125,
                   "linkDistance": 250,
-                  "scale": 0.1251343287325333,
+                  "scale": 0.20632682144841882,
                   "close": true
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Graph of Files&DB"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 211.5
+    "width": 340.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -267,6 +283,13 @@
   },
   "active": "2f7458b7da56518e",
   "lastOpenFiles": [
+    "02-atomic/Relational Dynamics.md",
+    "02-atomic/Relational Data Models.md",
+    "02-atomic/bridging table.md",
+    "01-areas/1.UC3M/Files&DB.md",
+    "02-atomic/1737987572 - Introduction to Databases.md",
+    "02-atomic/1762721286-clustering.md",
+    "02-atomic/1762722095-partitionalclustering.md",
     "02-atomic/1768231391-awesomephoto.md",
     "02-atomic/1768092159-slowshutterspeedphotography.md",
     "02-atomic/1767894279-psicohelpru.md",
@@ -286,13 +309,6 @@
     "02-atomic/1764548178-algorithmstoservepeoplenytimesopinion.md",
     "02-atomic/20240620 - 160937 - Main Taylor Polynomials.md",
     "02-atomic/20240620 - 162021 - Definition - small-o.md",
-    "02-atomic/20240620 - 154721 - Taylor Polynomial.md",
-    "02-atomic/20240615 - 211237 - Theorem - Cauchy Mean Value theorem.md",
-    "02-atomic/1728037357-dns.md",
-    "02-atomic/Git.md",
-    "02-atomic/1764077509-domain.md",
-    "02-atomic/1764079827-whois.md",
-    "02-atomic/1764077455-nslookup.md",
     "99-meta/00-attach/1762731713-elbowmethodj.png",
     "99-meta/00-attach/1762727802-dbscanj.png",
     "99-meta/00-attach/1762724507-agglomerativehierarchicalclusteringwithcompletelinkagej-1.png",

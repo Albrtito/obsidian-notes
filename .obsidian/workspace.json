@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01-areas/1.UC3M/Files&DB.md",
+                "file": "02-atomic/1739552040 - DB Relational Statics.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Files&DB"
+              "title": "1739552040 - DB Relational Statics"
             }
           }
         ],
@@ -159,10 +159,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "01-areas/1.UC3M/Files&DB.md"
+                "file": "02-atomic/1739552040 - DB Relational Statics.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Files&DB"
+              "title": "File properties for 1739552040 - DB Relational Statics"
             }
           },
           {
@@ -222,7 +222,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "01-areas/1.UC3M/Files&DB.md",
+                "file": "02-atomic/1739552040 - DB Relational Statics.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -258,7 +258,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Files&DB"
+              "title": "Graph of 1739552040 - DB Relational Statics"
             }
           }
         ]
@@ -283,10 +283,11 @@
   },
   "active": "2f7458b7da56518e",
   "lastOpenFiles": [
-    "02-atomic/Relational Dynamics.md",
     "02-atomic/Relational Data Models.md",
-    "02-atomic/bridging table.md",
+    "02-atomic/1739552040 - DB Relational Statics.md",
     "01-areas/1.UC3M/Files&DB.md",
+    "02-atomic/Relational Dynamics.md",
+    "02-atomic/bridging table.md",
     "02-atomic/1737987572 - Introduction to Databases.md",
     "02-atomic/1762721286-clustering.md",
     "02-atomic/1762722095-partitionalclustering.md",
@@ -308,7 +309,6 @@
     "02-atomic/20240408 - 185529 - Power Series.md",
     "02-atomic/1764548178-algorithmstoservepeoplenytimesopinion.md",
     "02-atomic/20240620 - 160937 - Main Taylor Polynomials.md",
-    "02-atomic/20240620 - 162021 - Definition - small-o.md",
     "99-meta/00-attach/1762731713-elbowmethodj.png",
     "99-meta/00-attach/1762727802-dbscanj.png",
     "99-meta/00-attach/1762724507-agglomerativehierarchicalclusteringwithcompletelinkagej-1.png",

@@ -54,8 +54,19 @@
               "icon": "lucide-file",
               "title": "1768401188-gameenginearchitecture"
             }
+          },
+          {
+            "id": "6f89283804987a8e",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
         ],
+        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -183,11 +194,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "02-atomic/1755599732-machinelearning.md"
-              },
+              "state": {},
               "icon": "lucide-info",
-              "title": "File properties for 1755599732-machinelearning"
+              "title": "File properties"
             }
           },
           {
@@ -247,7 +256,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02-atomic/1755599732-machinelearning.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -283,7 +291,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 1755599732-machinelearning"
+              "title": "Graph view"
             }
           }
         ]
@@ -306,7 +314,7 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "2f7458b7da56518e",
+  "active": "6f89283804987a8e",
   "lastOpenFiles": [
     "02-atomic/1768401188-gameenginearchitecture.md",
     "02-atomic/1755599732-machinelearning.md",

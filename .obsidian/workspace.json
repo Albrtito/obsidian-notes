@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-atomic/1739552040 - DB Relational Statics.md",
+                "file": "02-atomic/1730832772 - CIDR Notation.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "1739552040 - DB Relational Statics"
+              "title": "1730832772 - CIDR Notation"
             }
           }
         ],
@@ -159,10 +159,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "02-atomic/1739552040 - DB Relational Statics.md"
+                "file": "02-atomic/1730832772 - CIDR Notation.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for 1739552040 - DB Relational Statics"
+              "title": "File properties for 1730832772 - CIDR Notation"
             }
           },
           {
@@ -222,7 +222,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02-atomic/1739552040 - DB Relational Statics.md",
+                "file": "02-atomic/1730832772 - CIDR Notation.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -258,7 +258,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 1739552040 - DB Relational Statics"
+              "title": "Graph of 1730832772 - CIDR Notation"
             }
           }
         ]
@@ -283,8 +283,8 @@
   },
   "active": "2f7458b7da56518e",
   "lastOpenFiles": [
-    "02-atomic/1768324476-something.md",
     "02-atomic/1739552040 - DB Relational Statics.md",
+    "02-atomic/1768324476-something.md",
     "02-atomic/Relational Data Models.md",
     "01-areas/1.UC3M/Files&DB.md",
     "02-atomic/Relational Dynamics.md",

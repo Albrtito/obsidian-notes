@@ -29,7 +29,7 @@ However, because we study computer science and life could not make things easier
 
 **REMARK :** This idea of “groups of addresses” is known as [[1730827988 - Subnets|Subnets]]
 
-Finally we can give a formal definition to this notatoin:
+Finally we can give a formal definition to this notation:
 
 > [!NOTE] Definition:
 > CIDR generalizes the notion of subnet addressing. The 32 IP address is divided into two parts in the form:
@@ -39,7 +39,7 @@ Finally we can give a formal definition to this notatoin:
 > + THe first part $a.b.c$ constitute the **network portion** and is known as **netork prefix** of the address
 
 **Remarks:**
-+ Usually organisations will have some base prefix and then create subnets from that.
++ Usually organizations will have some base prefix and then create subnets from that.
 + Routers use this notion of prefixes to optimize routing algorithms and write in this form into the routing tables.
 
 #duda: Según CIDR, las redes 192.168.45.3/24 y 192.168.45.0/24 son las mismas?

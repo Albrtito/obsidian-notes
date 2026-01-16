@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-atomic/1755599732-machinelearning.md",
+                "file": "02-atomic/1768552951.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "1755599732-machinelearning"
+              "title": "1768552951"
             }
           },
           {
@@ -68,7 +68,6 @@
             }
           }
         ],
-        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -196,9 +195,11 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {},
+              "state": {
+                "file": "02-atomic/1768552951.md"
+              },
               "icon": "lucide-info",
-              "title": "File properties"
+              "title": "File properties for 1768552951"
             }
           },
           {
@@ -258,6 +259,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "02-atomic/1768552951.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -293,7 +295,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Graph of 1768552951"
             }
           }
         ]
@@ -316,10 +318,11 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "6f89283804987a8e",
+  "active": "2f7458b7da56518e",
   "lastOpenFiles": [
-    "02-atomic/1768401188-gameenginearchitecture.md",
     "02-atomic/1755599732-machinelearning.md",
+    "02-atomic/1768552951.md",
+    "02-atomic/1768401188-gameenginearchitecture.md",
     "01-areas/1.UC3M/Networks.md",
     "02-atomic/1730832772 - CIDR Notation.md",
     "02-atomic/1739552040 - DB Relational Statics.md",
@@ -343,7 +346,6 @@
     "02-atomic/1726827729 - Defninition - Serie de Fibonacci.md",
     "02-atomic/1765994295-ooinmpl.md",
     "02-atomic/Convergence of sequences.md",
-    "02-atomic/1765378080-akureyri.md",
     "99-meta/00-attach/1762731713-elbowmethodj.png",
     "99-meta/00-attach/1762727802-dbscanj.png",
     "99-meta/00-attach/1762724507-agglomerativehierarchicalclusteringwithcompletelinkagej-1.png",

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-atomic/1768552951.md",
+                "file": "02-atomic/1768552951-cybersecuritymanagementandcomplianceinpractice.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "1768552951"
+              "title": "1768552951-cybersecuritymanagementandcomplianceinpractice"
             }
           },
           {
@@ -196,10 +196,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "02-atomic/1768552951.md"
+                "file": "02-atomic/1768552951-cybersecuritymanagementandcomplianceinpractice.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for 1768552951"
+              "title": "File properties for 1768552951-cybersecuritymanagementandcomplianceinpractice"
             }
           },
           {
@@ -259,7 +259,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02-atomic/1768552951.md",
+                "file": "02-atomic/1768552951-cybersecuritymanagementandcomplianceinpractice.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -295,7 +295,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 1768552951"
+              "title": "Graph of 1768552951-cybersecuritymanagementandcomplianceinpractice"
             }
           }
         ]
@@ -320,9 +320,9 @@
   },
   "active": "2f7458b7da56518e",
   "lastOpenFiles": [
-    "02-atomic/1755599732-machinelearning.md",
-    "02-atomic/1768552951.md",
     "02-atomic/1768401188-gameenginearchitecture.md",
+    "02-atomic/1768552951-cybersecuritymanagementandcomplianceinpractice.md",
+    "02-atomic/1755599732-machinelearning.md",
     "01-areas/1.UC3M/Networks.md",
     "02-atomic/1730832772 - CIDR Notation.md",
     "02-atomic/1739552040 - DB Relational Statics.md",

@@ -68,6 +68,7 @@
             }
           }
         ],
+        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -195,11 +196,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "02-atomic/1768552951-cybersecuritymanagementandcomplianceinpractice.md"
-              },
+              "state": {},
               "icon": "lucide-info",
-              "title": "File properties for 1768552951-cybersecuritymanagementandcomplianceinpractice"
+              "title": "File properties"
             }
           },
           {
@@ -259,7 +258,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02-atomic/1768552951-cybersecuritymanagementandcomplianceinpractice.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -295,7 +293,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 1768552951-cybersecuritymanagementandcomplianceinpractice"
+              "title": "Graph view"
             }
           }
         ]
@@ -318,11 +316,11 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "2f7458b7da56518e",
+  "active": "6f89283804987a8e",
   "lastOpenFiles": [
+    "02-atomic/1755599732-machinelearning.md",
     "02-atomic/1768401188-gameenginearchitecture.md",
     "02-atomic/1768552951-cybersecuritymanagementandcomplianceinpractice.md",
-    "02-atomic/1755599732-machinelearning.md",
     "01-areas/1.UC3M/Networks.md",
     "02-atomic/1730832772 - CIDR Notation.md",
     "02-atomic/1739552040 - DB Relational Statics.md",

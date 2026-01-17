@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-atomic/1768401188-gameenginearchitecture.md",
+                "file": "02-atomic/1758649000-weightadjustmentinneuralnetworks.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "1768401188-gameenginearchitecture"
+              "title": "1758649000-weightadjustmentinneuralnetworks"
             }
           },
           {
@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-atomic/1758644145-neuralnetworks.md",
+                "file": "02-atomic/1758892749-overfittinginneuralnetworks.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "1758644145-neuralnetworks"
+              "title": "1758892749-overfittinginneuralnetworks"
             }
           }
         ],
@@ -209,10 +209,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "02-atomic/1758644145-neuralnetworks.md"
+                "file": "02-atomic/1758892749-overfittinginneuralnetworks.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for 1758644145-neuralnetworks"
+              "title": "File properties for 1758892749-overfittinginneuralnetworks"
             }
           },
           {
@@ -272,7 +272,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02-atomic/1758644145-neuralnetworks.md",
+                "file": "02-atomic/1758892749-overfittinginneuralnetworks.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -308,7 +308,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 1758644145-neuralnetworks"
+              "title": "Graph of 1758892749-overfittinginneuralnetworks"
             }
           }
         ]
@@ -333,8 +333,10 @@
   },
   "active": "6f89283804987a8e",
   "lastOpenFiles": [
-    "02-atomic/1755599732-machinelearning.md",
+    "02-atomic/1758644145-neuralnetworks.md",
+    "02-atomic/1758649000-weightadjustmentinneuralnetworks.md",
     "02-atomic/1768401188-gameenginearchitecture.md",
+    "02-atomic/1755599732-machinelearning.md",
     "02-atomic/1768552951-cybersecuritymanagementandcomplianceinpractice.md",
     "01-areas/1.UC3M/Networks.md",
     "02-atomic/1730832772 - CIDR Notation.md",
@@ -357,8 +359,6 @@
     "02-atomic/1758568530-matplotlib.md",
     "02-atomic/1765991507-subplotsinmatplotlib.md",
     "02-atomic/1726827729 - Defninition - Serie de Fibonacci.md",
-    "02-atomic/1765994295-ooinmpl.md",
-    "02-atomic/Convergence of sequences.md",
     "99-meta/00-attach/1762731713-elbowmethodj.png",
     "99-meta/00-attach/1762727802-dbscanj.png",
     "99-meta/00-attach/1762724507-agglomerativehierarchicalclusteringwithcompletelinkagej-1.png",
